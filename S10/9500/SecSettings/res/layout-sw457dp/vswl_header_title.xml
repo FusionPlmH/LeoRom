@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/vswl_title_area" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/vswl_title_area_top_margin" android:layout_marginBottom="@dimen/vswl_title_area_bottom_margin" android:layout_marginStart="@dimen/vswl_title_area_start_margin" android:layout_marginEnd="@dimen/vswl_title_area_end_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="39.0dip" android:textColor="@color/vswl_title_text_color" android:id="@id/vswl_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_toLeftOf="@id/progress" android:fontFamily="sans-serif-light" />
+    <ProgressBar android:id="@id/progress" android:visibility="gone" android:layout_width="@dimen/vswl_wifi_progress_bar_size" android:layout_height="@dimen/vswl_wifi_progress_bar_size" android:indeterminate="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" android:indeterminateTint="@color/vswl_wifi_progress_bar_color" style="?android:progressBarStyleSmall" />
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/content" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="36.0dip">
+        <ImageView android:id="@android:id/icon" android:layout_width="@dimen/suggestion_card_icon_size" android:layout_height="@dimen/suggestion_card_icon_size" android:layout_marginTop="12.0dip" android:tint="?android:colorAccent" android:layout_marginStart="14.0dip" android:layout_marginEnd="24.0dip" />
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorPrimary" android:id="@android:id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="14.0dip" />
+    </LinearLayout>
+    <TextView android:textAppearance="?android:textAppearanceListItemSecondary" android:textColor="?android:textColorPrimary" android:id="@android:id/summary" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:alpha="0.7" android:paddingStart="62.0dip" android:paddingEnd="?android:listPreferredItemPaddingEnd" />
+    <android.support.v7.widget.ButtonBarLayout android:id="@id/buttonBar" android:paddingBottom="1.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="62.0dip" android:paddingEnd="?android:listPreferredItemPaddingEnd" style="?android:buttonBarStyle">
+        <Button android:textColor="?android:textColorPrimary" android:id="@id/first_action" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:alpha="0.8" android:textAlignment="viewStart" android:paddingStart="0.0dip" style="?android:buttonBarButtonStyle" />
+        <Button android:textColor="?android:textColorPrimary" android:id="@id/second_action" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:alpha="0.8" android:textAlignment="viewStart" style="?android:buttonBarButtonStyle" />
+    </android.support.v7.widget.ButtonBarLayout>
+    <include layout="@layout/horizontal_divider" />
+</LinearLayout>

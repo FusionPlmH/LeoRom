@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/sec_bluetooth_advanced_title" android:key="key_bluetooth_advanced_menu"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <SecPreference android:title="@string/phone_name_title" android:key="key_bluetooth_rename" />
+    <SecPreference android:title="@string/bluetooth_show_received_files" android:key="key_bluetooth_received_files" android:summary="@string/sec_bluetooth_advanced_received_summary" />
+    <SecSwitchPreferenceScreen android:title="@string/sec_bluetooth_dual_play_title" android:key="key_bluetooth_dual_play" android:summary="@string/sec_bluetooth_advanced_dual_play_summary" android:fragment="com.samsung.android.settings.bluetooth.BluetoothDualPlaySettings" />
+    <SecSwitchPreferenceScreen android:title="@string/sec_bluetooth_avc_title" android:key="key_bluetooth_avc" android:summary="@string/sec_bluetooth_advanced_avc_summary" android:fragment="com.samsung.android.settings.bluetooth.BluetoothAVCSettings" />
+    <SecSwitchPreferenceScreen android:title="@string/sec_bluetooth_ibr_title" android:key="key_bluetooth_ibr" android:summary="@string/sec_bluetooth_advanced_ibr_summary" android:fragment="com.samsung.android.settings.bluetooth.BluetoothIBRSettings" />
+    <SecSwitchPreference android:title="@string/sec_ask_to_use_bluetooth" android:key="key_bluetooth_ask_to_use" android:summary="@string/asks_your_permission_to_use" />
+    <SecPreference android:title="@string/sec_bluetooth_control_history_title" android:key="key_bluetooth_control_history" android:summary="@string/sec_bluetooth_advanced_control_history_summary" android:fragment="com.samsung.android.settings.bluetooth.BluetoothControlHistory" />
+</PreferenceScreen>

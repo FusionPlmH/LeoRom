@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/notification_badge_app_icon_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.samsung.android.settings.widget.SecUnclickablePreference android:title="@string/notification_badge_app_icon_description" android:selectable="false" android:key="badge_description" style="@style/description_text" />
+    <com.android.settings.applications.LayoutPreference android:layout="@layout/sec_notification_badge_desc_layout" android:selectable="false" android:key="badge_description_layout" />
+    <com.samsung.android.settings.widget.SecUnclickablePreference android:title="@string/notification_badge_app_icon_description_2" android:selectable="false" android:key="badge_swipe_description" style="@style/description_text" />
+    <SecPreferenceCategory android:title="@string/notification_badge_app_icon_badge_style" settings:roundStroke="top_left|top_right" />
+    <com.android.settings.applications.LayoutPreference android:layout="@layout/sec_badge_app_icon_preview" android:selectable="false" android:key="badge_preview" />
+    <com.samsung.android.settings.notification.RadioPreference android:persistent="false" android:title="@string/notification_badge_app_icon_number" android:key="app_icon_number" />
+    <com.samsung.android.settings.notification.RadioPreference android:persistent="false" android:title="@string/notification_badge_app_icon_dot" android:key="app_icon_dot" />
+    <com.samsung.android.settings.widget.SecUnclickablePreference android:selectable="false" android:key="badge_show_number_description" style="@style/description_text" />
+    <SecPreferenceCategory android:title="@string/notification_homescreen_category" settings:roundStroke="top_left|top_right" />
+    <SecSwitchPreference android:title="@string/notification_homescreen_preview_title" android:key="homescreen_noti_preview" android:summary="@string/notification_homescreen_preview_description" />
+</PreferenceScreen>

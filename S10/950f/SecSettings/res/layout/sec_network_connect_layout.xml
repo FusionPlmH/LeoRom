@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@color/manage_app_data_divider_color" android:paddingTop="@dimen/manage_app_data_padding_top_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/firewall_body_text_size" android:textColor="?android:textColorSecondary" android:id="@id/data_restriction_description" android:paddingTop="@dimen/sec_body_text_top_padding" android:paddingBottom="@dimen/sec_body_text_bottom_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/restrict_network_detail" android:paddingStart="@dimen/sec_body_text_side_padding" android:paddingEnd="@dimen/sec_body_text_side_padding" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:background="@color/manage_app_data_divider_color" android:paddingBottom="@dimen/manage_app_data_padding_top_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="@dimen/firewall_height_margin_normal" android:layout_marginStart="@dimen/firewall_checkbox_margin_start">
+            <CheckBox android:id="@id/all_checkbox" android:layout_width="@dimen/firewall_item_width" android:layout_height="@dimen/firewall_item_width" />
+            <TextView android:textSize="@dimen/firewall_description_size" android:textStyle="bold" android:gravity="center" android:layout_gravity="center" android:id="@id/titleText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/filter_apps_all" />
+        </LinearLayout>
+    </LinearLayout>
+    <TabHost android:id="@id/tabhost" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <FrameLayout android:id="@android:id/tabcontent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <LinearLayout android:orientation="vertical" android:id="@id/tab_data" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <ListView android:id="@id/data_listview" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@drawable/sec_network_connect_list_divider" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@id/tab_wlan" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <ListView android:id="@id/wlan_listview" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@drawable/sec_network_connect_list_divider" />
+                </LinearLayout>
+            </FrameLayout>
+            <TabWidget android:layout_gravity="bottom" android:id="@android:id/tabs" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?android:tabWidgetStyle" />
+        </LinearLayout>
+    </TabHost>
+</LinearLayout>

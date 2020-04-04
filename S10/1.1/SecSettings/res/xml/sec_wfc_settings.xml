@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:persistent="false" android:title="@string/wifi_calling_title" android:key="wfc_settings_key" android:summary="@string/wifi_state_disabled" android:switchTextOn="@string/switch_on_text" android:switchTextOff="@string/switch_off_text">
+        <intent android:targetPackage="com.samsung.tmowfc.wfcpref" android:action="android.intent.action.VIEW" android:targetClass="com.samsung.tmowfc.wfcpref.WfcPrefActivity">
+            <extra android:name="home" android:value="true" />
+        </intent>
+    </Preference>
+</PreferenceScreen>

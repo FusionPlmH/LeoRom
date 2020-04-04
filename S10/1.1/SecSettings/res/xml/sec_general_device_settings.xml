@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:icon="@drawable/sec_ic_settings_general_device_management" android:title="@string/general_device_management_title" android:key="general_settings_screen"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <SecPreferenceScreen android:title="@string/power_usage_summary_title" android:key="battery_settings" android:order="100">
+        <intent android:action="com.samsung.android.sm.ACTION_BATTERY" />
+    </SecPreferenceScreen>
+    <SecPreferenceScreen android:title="@string/storage_settings" android:key="storage_settings" android:order="200" android:fragment="com.android.settings.deviceinfo.StorageSettings" />
+    <SecPreferenceScreen android:title="@string/memory_string" android:key="memory_settings" android:order="300" android:fragment="com.android.settings.applications.ProcessStatsSummary" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:order="350" />
+    <SecPreferenceScreen android:title="@string/language_settings" android:key="key_language_and_input" android:order="400" android:fragment="com.android.settings.language.LanguageAndInputSettings" />
+    <SecPreference android:title="@string/date_and_time_settings_title" android:key="device_info_date_time_settings" android:order="500" android:fragment="com.android.settings.DateTimeSettings" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:order="550" />
+    <SecPreferenceScreen android:title="@string/contact_us_title" android:key="device_info_contact_us" android:order="600" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:order="850" />
+    <SecPreferenceScreen android:title="@string/reset" android:key="reset_preference" android:order="900" android:fragment="com.android.settings.system.ResetDashboardFragment" />
+</PreferenceScreen>

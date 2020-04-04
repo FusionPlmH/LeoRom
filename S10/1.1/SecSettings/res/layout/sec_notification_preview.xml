@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/sec_widget_round_and_bgcolor" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/noti_card_background" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:id="@id/sec_lockscreen_desc" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/sec_lockscreen_notification_control" android:layout_marginHorizontal="@dimen/sec_widget_body_text_padding_start_end" android:layout_marginVertical="@dimen/sec_display_night_theme_preview_padding_bottom" style="@style/notification_description_text" />
+</LinearLayout>

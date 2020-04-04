@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/sec_dnd_sound_and_vibration" android:key="zen_mode_sound_vibration_settings_page"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <PreferenceCategory>
+        <com.samsung.android.settings.widget.SecUnclickablePreference android:title="@string/zen_mode_settings_category" settings:allowDividerBelow="false" />
+        <SwitchPreference android:title="@string/zen_mode_alarms" android:key="zen_mode_alarms" />
+        <SwitchPreference android:title="@string/zen_mode_media" android:key="zen_mode_media" />
+        <SwitchPreference android:title="@string/zen_mode_system" android:key="zen_mode_system" />
+    </PreferenceCategory>
+    <com.samsung.android.settings.widget.SecUnclickablePreference android:key="zen_mode_settings_footer" />
+</PreferenceScreen>

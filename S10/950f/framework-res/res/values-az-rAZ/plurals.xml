@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d avtodoldurma təklifi</item>
+        <item quantity="one">Bir avtodoldurma təklifi</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">Eyni anda ekranda %d-dan çox proqram göstərmək olmur. Ən köhnə proqram kiçildildi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">Telefon Wi-Fi qoşulduqda belə %d proqram mobil datadan istifadə edir.</item>
+        <item quantity="one">Telefon Wi-Fi-ya qoşulduqda belə %d proqram mobil datadan istifadə edir.</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">Bu proqramları idarə etmək üçün bura vur.</item>
+        <item quantity="zero">Bu proqramları idarə etmək üçün bura vur.</item>
+        <item quantity="one">Bu proqramı idarə etmək üçün bura vur.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s Wi-Fi Direct ilə sizinlə nəyisə paylaşmaq istəyir. Qəbul etmək üçün %2$d saniyəniz var.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s Wi-Fi Direct ilə sizinlə nəyisə paylaşmaq istəyir. Qəbul etmək üçün %2$d saniyəniz var.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

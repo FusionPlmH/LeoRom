@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/sec_zen_block_effects_title" android:key="zen_mode_block_settings_page"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference />
+    <PreferenceCategory android:title="@string/zen_mode_block_effects_screen_off" android:key="zen_mode_block_screen_off" settings:allowDividerAbove="false" settings:allowDividerBelow="false">
+        <SecSwitchPreference android:title="@string/zen_mode_block_effect_intent" android:key="zen_effect_intent" />
+        <SecSwitchPreference android:title="@string/zen_mode_block_effect_light" android:key="zen_effect_light" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/zen_mode_block_effects_screen_on" android:key="zen_mode_block_screen_on" settings:allowDividerAbove="false" settings:allowDividerBelow="false">
+        <SecSwitchPreference android:title="@string/zen_mode_block_effect_badge" android:key="zen_effect_badge" />
+        <SecSwitchPreference android:title="@string/zen_mode_block_effect_list" android:key="zen_effect_list" />
+        <SecSwitchPreference android:title="@string/zen_mode_block_effect_peek" android:key="zen_effect_peek" />
+        <SecSwitchPreference android:title="@string/zen_mode_block_effect_status" android:key="zen_effect_status" />
+    </PreferenceCategory>
+    <com.samsung.android.settings.widget.SecUnclickablePreference android:key="zen_footer_info" />
+</PreferenceScreen>

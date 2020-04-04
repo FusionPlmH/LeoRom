@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d automaattäitmise soovitust</item>
+        <item quantity="one">Üks automaattäitmise soovitus</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">Ekraanil ei saa kuvada korraga rohkem kui %d rakendust. Vanim rakendus on minimeeritud.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d rakendust kasutavad mobiilset andmesidet, kuigi telefon on ühendatud Wi-Fi-võrku.</item>
+        <item quantity="one">%d rakendus kasutab mobiilset andmesidet, kuigi teie telefon on ühendatud Wi-Fi-võrku.</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">Toksake siia, et hallata neid rakendusi.</item>
+        <item quantity="zero">Toksake siia, et hallata neid rakendusi.</item>
+        <item quantity="one">Toksake siia, et hallata seda rakendust.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s tahab teiega midagi jagada, kasutades Wi-Fi Directi. Teil on nõustumiseks %2$d sekundit aega.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s tahab teiega midagi jagada, kasutades Wi-Fi Directi. Teil on nõustumiseks %2$d sekund aega.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

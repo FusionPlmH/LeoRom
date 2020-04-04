@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:paddingTop="@dimen/sec_widget_img_margin" android:paddingBottom="@dimen/sec_widget_img_margin" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/sec_widget_img_margin" android:paddingEnd="@dimen/sec_widget_img_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/desc_image" android:background="@color/sec_widget_help_image_backgound_color" android:layout_width="fill_parent" android:layout_height="200.0dip" android:layout_centerHorizontal="true" />
+</RelativeLayout>

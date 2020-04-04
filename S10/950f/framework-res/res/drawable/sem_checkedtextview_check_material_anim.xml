@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true" android:id="@id/on" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_026" />
+    <item android:id="@id/off" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_000" />
+    <transition android:toId="@id/on" android:fromId="@id/off">
+        <animation-list>
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_000" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_001" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_002" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_003" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_004" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_005" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_006" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_007" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_008" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_009" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_010" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_011" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_012" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_013" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_014" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_015" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_016" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_017" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_018" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_019" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_020" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_021" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_022" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_023" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_024" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_025" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_026" />
+        </animation-list>
+    </transition>
+    <transition android:toId="@id/off" android:fromId="@id/on">
+        <animation-list>
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_026" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_025" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_024" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_023" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_022" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_021" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_020" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_019" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_018" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_017" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_016" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_015" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_014" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_013" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_012" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_011" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_010" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_009" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_008" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_007" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_006" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_005" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_004" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_003" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_002" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_001" />
+            <item android:duration="10" android:drawable="@drawable/sem_checkedtextview_check_to_on_mtrl_000" />
+        </animation-list>
+    </transition>
+</animated-selector>

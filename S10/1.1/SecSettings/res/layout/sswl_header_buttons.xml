@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:layout_gravity="end" android:orientation="horizontal" android:id="@id/header_buttons" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sswl_header_buttons_top_margin" android:layout_marginEnd="@dimen/sswl_header_buttons_end_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.sec.android.secsetupwizardlib.VI.VoiceGuideButton android:id="@id/sswl_voice_guide_button" android:background="?android:selectableItemBackgroundBorderless" android:focusable="true" android:visibility="invisible" android:clickable="true" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center" android:id="@id/sswl_voice_guide_button_icon" android:layout_width="@dimen/sswl_voice_guide_button_icon_size" android:layout_height="@dimen/sswl_voice_guide_button_icon_size" android:src="@drawable/sswl_voice_guide_button_off" />
+    </com.sec.android.secsetupwizardlib.VI.VoiceGuideButton>
+    <LinearLayout android:id="@id/sswl_more_options_button" android:background="?android:selectableItemBackgroundBorderless" android:focusable="true" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginStart="15.0dip">
+        <ImageView android:layout_gravity="center" android:id="@id/sswl_more_options_button_icon" android:layout_width="@dimen/sswl_more_options_button_icon_size" android:layout_height="@dimen/sswl_more_options_button_icon_size" android:src="@drawable/sswl_more_options_button_icon" android:tint="@color/sswl_more_options_button_icon_color" />
+    </LinearLayout>
+</LinearLayout>

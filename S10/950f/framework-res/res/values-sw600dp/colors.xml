@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sem_tab_unselected_color">#b2ffffff</color>
+    <color name="tw_list_select_material">#6699dbe7</color>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.dnd.DragAndDropView android:id="@id/dragarea_view" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_gravity="center|left|top" android:id="@id/fullscreen_area" android:background="@drawable/drag_area_background" android:padding="10.0dip" android:visibility="invisible" android:layout_width="100.0dip" android:layout_height="100.0dip" />
+    <TextView android:layout_gravity="center|left|top" android:id="@id/side_primary_area" android:background="@drawable/drag_area_background" android:padding="10.0dip" android:visibility="invisible" android:layout_width="100.0dip" android:layout_height="100.0dip" />
+    <TextView android:layout_gravity="center|left|top" android:id="@id/side_secondary_area" android:background="@drawable/drag_area_background" android:padding="10.0dip" android:visibility="invisible" android:layout_width="100.0dip" android:layout_height="100.0dip" />
+    <TextView android:layout_gravity="center|left|top" android:id="@id/side_all_area" android:background="@drawable/drag_area_background" android:padding="10.0dip" android:visibility="invisible" android:layout_width="100.0dip" android:layout_height="100.0dip" />
+    <ImageView android:id="@id/drag_target" android:layout_width="100.0dip" android:layout_height="100.0dip" />
+</com.android.systemui.dnd.DragAndDropView>

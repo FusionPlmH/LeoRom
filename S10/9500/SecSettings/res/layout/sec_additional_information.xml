@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/quick_tools_header_img_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center" android:id="@id/quick_tools_header_img" android:background="@color/sec_widget_help_image_backgound_color" android:layout_width="fill_parent" android:layout_height="@dimen/sec_quick_tools_header_img_height" android:layout_margin="@dimen/sec_body_text_top_padding" android:src="@drawable/sec_quick_tools_anim" android:scaleType="fitCenter" />
+    </LinearLayout>
+    <TextView android:id="@id/descriptionText_1" android:background="@color/sec_widget_round_and_bgcolor" android:paddingTop="@dimen/sec_body_text_top_padding" android:paddingBottom="@dimen/sec_body_text_bottom_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/additional_information_description" android:paddingStart="@dimen/sec_body_text_side_padding" android:paddingEnd="@dimen/sec_body_text_side_padding" style="@style/body_text_style" />
+</LinearLayout>

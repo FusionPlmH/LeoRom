@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/sec_widget_round_and_bgcolor" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/sec_widget_relative_link_bg_color" />
+            <stroke android:width="@dimen/sec_widget_settings_chunk_stroke_width" android:color="@color/sec_widget_round_stroke_color" />
+            <corners android:radius="26.0dip" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@color/sec_dashboard_btn_mask_ripple_color"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/rec_shape">
+        <shape android:shape="rectangle"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <corners android:radius="@dimen/sec_widget_fix_now_button_bg_radius" />
+            <solid android:color="@color/sec_widget_round_button_empty_bg_color" />
+            <stroke android:width="@dimen/sec_widget_round_button_stroke" android:color="@color/sec_widget_list_item_config_normal_color" />
+        </shape>
+    </item>
+</ripple>

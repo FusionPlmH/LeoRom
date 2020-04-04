@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/sec_status_bar" settings:keywords="@string/keywords_display"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <SwitchPreferenceCompat android:persistent="false" android:title="@string/sec_show_notification_icons_title" android:key="show_notification_icons" android:order="1" />
+    <com.samsung.android.settings.widget.SecRadioButtonPreference android:key="recent_notifications" android:order="2" settings:allowDividerAbove="false" />
+    <com.samsung.android.settings.widget.SecRadioButtonPreference android:title="@string/sec_all_notification_title" android:key="all_notification" android:order="3" settings:allowDividerAbove="false" />
+    <SwitchPreferenceCompat android:persistent="false" android:title="@string/sec_show_battery_percentage_title" android:key="show_battery_percent" android:order="4" />
+    <SwitchPreferenceCompat android:title="@string/sec_show_network_info_title" android:key="show_network_info" android:order="5" />
+    <SwitchPreferenceCompat android:title="@string/real_time_network_speed_title" android:key="network_speed" android:summary="@string/real_time_network_speed_summary" android:order="6" />
+</PreferenceScreen>

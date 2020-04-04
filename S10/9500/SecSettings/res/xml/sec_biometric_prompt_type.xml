@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/preferred_biometric_type_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.settings.widget.SecUnclickablePreference android:title="@string/preferred_biometric_type_description" android:key="biometric_prompt_desc" style="@style/description_text" />
+    <com.samsung.android.settings.widget.SecRadioButtonPreference android:title="@string/bio_smartscan_title" android:key="bp_intelligent_scan" />
+    <com.samsung.android.settings.widget.SecRadioButtonPreference android:title="@string/bio_face_recognition_title" android:key="bp_face" />
+    <com.samsung.android.settings.widget.SecRadioButtonPreference android:title="@string/bio_iris_scanner_title" android:key="bp_iris" />
+    <com.samsung.android.settings.widget.SecRadioButtonPreference android:title="@string/bio_fingerprint_sanner_title" android:key="bp_fingerprint" />
+</PreferenceScreen>

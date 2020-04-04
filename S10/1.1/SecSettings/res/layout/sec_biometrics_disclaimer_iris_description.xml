@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/biometrics_disclaimer_more_desc_iris_total" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/biometrics_disclaimer_more_about_iris" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="@dimen/biometrics_disclaimer_more_about_height" android:layout_marginTop="@dimen/biometrics_disclaimer_more_about_guide_margin_top">
+        <TextView android:textSize="@dimen/biometrics_disclaimer_more_about_text_size" android:textStyle="bold" android:textColor="@color/biometrics_guide_common_spinner_text_color" android:ellipsize="marquee" android:id="@id/biometrics_disclaimer_more_about_text_iris" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/biometrics_disclaimer_more_about_text_iris" android:singleLine="true" android:layout_weight="1.0" android:marqueeRepeatLimit="marquee_forever" />
+        <ImageView android:layout_gravity="center" android:id="@id/biometrics_disclaimer_more_about_image_iris" android:layout_width="@dimen/biometrics_disclaimer_more_about_icon_width" android:layout_height="@dimen/biometrics_disclaimer_more_about_icon_height" android:tint="@color/biometrics_guide_common_spinner_icon_color" android:layout_marginStart="@dimen/biometrics_disclaimer_more_about_image_margin_start" />
+    </LinearLayout>
+    <RelativeLayout android:id="@id/biometrics_disclaimer_more_desc_layout_iris" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/biometrics_disclaimer_more_about_iris">
+        <LinearLayout android:orientation="horizontal" android:id="@id/biometrics_disclaimer_more_desc_iris_1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/biometrics_disclaimer_common_margin_top">
+            <TextView android:gravity="start" android:id="@id/biometrics_disclaimer_more_desc_iris_text_1" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SecBiometricsGuideCommonInfoTextStyle" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/biometrics_disclaimer_more_desc_iris_2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/biometrics_disclaimer_more_about_text_margin_top" android:layout_below="@id/biometrics_disclaimer_more_desc_iris_1">
+            <TextView android:gravity="start" android:id="@id/biometrics_disclaimer_more_desc_iris_text_2" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SecBiometricsGuideCommonInfoTextStyle" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/biometrics_disclaimer_more_desc_iris_3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/biometrics_disclaimer_more_about_text_margin_top" android:layout_below="@id/biometrics_disclaimer_more_desc_iris_2">
+            <TextView android:gravity="start" android:id="@id/biometrics_disclaimer_more_desc_iris_text_3" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SecBiometricsGuideCommonInfoTextStyle" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/biometrics_disclaimer_more_desc_iris_4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/biometrics_disclaimer_more_about_text_margin_top" android:layout_below="@id/biometrics_disclaimer_more_desc_iris_3">
+            <TextView android:gravity="start" android:id="@id/biometrics_disclaimer_more_desc_iris_text_4" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SecBiometricsGuideCommonInfoTextStyle" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

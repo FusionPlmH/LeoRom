@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/mode_radio_group" android:paddingTop="@dimen/sec_widget_listview_padding_top" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center" android:id="@id/preview_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sec_widget_body_text_padding_top" android:layout_marginBottom="@dimen/sec_widget_body_text_padding_top" />
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="@dimen/sec_widget_list_divider_height" android:layout_marginStart="@dimen/sec_widget_list_padding_inner">
+                <View android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="@dimen/sec_widget_list_with_radio_btn_divider_inset" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center_vertical" android:id="@id/icon_only_layout" android:background="?android:listChoiceBackgroundIndicator" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeightSmall" android:paddingStart="@dimen/sec_widget_list_item_padding_start" android:paddingEnd="@dimen/sec_widget_list_item_padding_end">
+                <RadioButton android:gravity="center_vertical" android:id="@id/icon_only_radio" android:background="@null" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:paddingTop="@dimen/sec_widget_list_item_padding_top" android:paddingBottom="@dimen/sec_widget_list_item_padding_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/icon_only_title" android:paddingStart="@dimen/sec_widget_list_padding_inner" style="@style/list_title_text_style" />
+            </LinearLayout>
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="@dimen/sec_widget_list_divider_height" android:layout_marginStart="@dimen/sec_widget_list_padding_inner">
+                <View android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="@dimen/sec_widget_list_with_radio_btn_divider_inset" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center_vertical" android:id="@id/icon_backgrounds_layout" android:background="?android:listChoiceBackgroundIndicator" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeightSmall" android:paddingStart="@dimen/sec_widget_list_item_padding_start" android:paddingEnd="@dimen/sec_widget_list_item_padding_end">
+                <RadioButton android:gravity="center_vertical" android:id="@id/icon_backgrounds_radio" android:background="@null" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <LinearLayout android:orientation="vertical" android:paddingTop="@dimen/sec_widget_list_item_padding_top" android:paddingBottom="@dimen/sec_widget_list_item_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/sec_widget_list_padding_inner" android:paddingEnd="@dimen/sec_widget_list_padding_inner">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/icon_backgrounds" android:singleLine="true" style="@style/list_title_text_style" />
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/icon_backgrounds_summary" style="@style/list_summary_text_style" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/blackView" android:layout_width="fill_parent" android:layout_height="0.0dip" android:foreground="?android:colorForeground" android:layout_weight="1.0" />
+        <LinearLayout android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <include layout="@layout/sec_display_button_bar" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/background_location_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.settings.UnclickablePreference android:title="@string/background_location_description" android:key="location_use_in_background_description" style="@style/description_text" />
+    <PreferenceCategory android:title="@string/background_location_category" android:key="location_use_in_background_app_list_preference" />
+</PreferenceScreen>

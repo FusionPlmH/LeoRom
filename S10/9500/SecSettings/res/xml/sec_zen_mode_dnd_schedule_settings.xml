@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/sec_enable_as_scheduled"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.settings.widget.SecUnclickablePreference android:title="@string/sec_dnd_schedule_description" android:key="schedule_title" />
+    <com.android.settings.applications.LayoutPreference android:layout="@layout/sec_zen_schedule_repeat_button_and_description" android:key="schedule_reapeat" />
+    <SecPreference android:title="@string/sec_dnd_set_schedule" android:key="schedule_time" />
+</PreferenceScreen>

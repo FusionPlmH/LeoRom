@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apn_auth_entries">
+        <item>མེད།</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP or CHAP</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0</item>
+        <item>0.5</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>གསལ་པོ་མེད་པ།</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>IWLAN</item>
+    </string-array>
+    <string-array name="bearer_entries_dcm_kdi">
+        <item>གསལ་པོ་མེད་པ།</item>
+        <item>4G</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>IWLAN</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>ཆེས་ཆུང་བ།</item>
+        <item>ཆུང་།</item>
+        <item>སྤྱིར་བཏང་།</item>
+        <item>ཆེ་བ།</item>
+        <item>ཧ་ཅང་ཆེ།</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>སོར་བཞག</item>
+        <item>རྒྱན་ཐིག་མེད་པའི་ཡིག་གཟུགས་འདམ།</item>
+        <item>Sans serif ཚགས་དམ་དུ་གཏོང་།</item>
+        <item>Sans serifསོགས་ཀྱི་ཡིག་གཟུགས་ཞེང་ཆེ་བ།</item>
+        <item>Serif</item>
+        <item>Serifསོགས་པའི་ཡིག་གཟུགས་སྤོམ་པ།</item>
+        <item>སྤྲོ་གསེང་།</item>
+        <item>སྐྱ་རིས།</item>
+        <item>ཆུང་བྲིས།</item>
+    </string-array>
+    <string-array name="data_usage_billing_cycle_summary">
+        <item>ཟླ་རེའི་ཉིན་ཨང་1པ།</item>
+        <item>ཟླ་རེའི་ཉིན་ཨང་2པ།</item>
+        <item>ཟླ་རེའི་ཉིན་ཨང་3པ།</item>
+        <item>ཟླ་རེའི་ཉིན་ཨང་4པ།</item>
+        <item>ཟླ་རེའི་ཉིན་5་བ།</item>
+        <item>ཟླ་རེའི་ཉིན་6་པ།</item>
+        <item>ཟླ་རེའི་ཉིན་7་པ།</item>
+        <item>ཟླ་རེའི་ཉིན་8་པ།</item>
+        <item>ཟླ་རེའི་ཉིན་9་བ།</item>
+        <item>ཟླ་རེའི་ཉིན་10་བ།</item>
+        <item>ཟླ་རེའི་ཉིན་11་པ།</item>
+        <item>ཟླ་རེའི་ཉིན་12་བ།</item>
+        <item>ཟླ་རེའི་ཉིན་13་པ།</item>
+        <item>ཟླ་རེའི་ཉིན་14་བ།</item>
+        <item>ཟླ་རེའི་ཉིན་15་པ།</item>
+        <item>ཟླ་རེའི་ཉིན་16་པ།</item>
+        <item>ཟླ་རེའི་ཉིན་17་པ།</item>
+        <item>ཟླ་རེའི་ཉིན་18་པ།</item>
+        <item>ཟླ་རེའི་ཉིན་19་བ།</item>
+        <item>ཟླ་རེའི་ཉིན་20་བ།</item>
+        <item>ཟླ་རེའི་ཉིན་21་པ།</item>
+        <item>ཟླ་རེའི་ཉིན་22་བ།</item>
+        <item>ཟླ་རེའི་ཉིན་23་པ།</item>
+        <item>ཟླ་རེའི་ཉིན་24་བ།</item>
+        <item>ཟླ་རེའི་ཉིན་25་བ།</item>
+        <item>ཟླ་རེའི་ཉིན་26་པ།</item>
+        <item>ཟླ་རེའི་ཉིན་27་པ།</item>
+        <item>ཟླ་རེའི་ཉིན་28་པ།</item>
+        <item>ཟླ་རེའི་ཉིན་29་པ།</item>
+        <item>ཟླ་རེའི་ཉིན་30་བ།</item>
+        <item>ཟླ་རེའི་ཉིན་31་པ།</item>
+    </string-array>
+    <string-array name="dex_timeout_entries">
+        <item>སྐར་ཆ་15</item>
+        <item>སྐར་ཆ་30</item>
+        <item>སྐར་མ་1</item>
+        <item>སྐར་མ་2</item>
+        <item>སྐར་མ་ལྔ།</item>
+        <item>སྐར་མ་10</item>
+        <item>སྐར་མ་ཉི་ཤུ།</item>
+        <item>སྐར་མ་སུམ་ཅུ།</item>
+        <item>སྐར་མ་དྲུག་ཅུ།</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>སྐར་ཆ་15</item>
+        <item>སྐར་ཆ་30</item>
+        <item>སྐར་མ་1</item>
+        <item>སྐར་མ་2</item>
+        <item>སྐར་མ་5</item>
+        <item>སྐར་མ་10</item>
+        <item>སྐར་མ་སུམ་ཅུ།</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_summaries">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>རྩོམ་སྒྲིག་ཆས་མཐའ་དག</item>
+        <item>རང་ལེན་རྩོམ་སྒྲིག་ཆས།</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_titles">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>རྩོམ་སྒྲིག་ཆས་མཐའ་དག</item>
+        <item>རང་ལེན་རྩོམ་སྒྲིག་ཆས།</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Disconnected</item>
+        <item>Initializing…</item>
+        <item>Connecting…</item>
+        <item>Connected</item>
+        <item>Timeout</item>
+        <item>མ་ཐུབ།</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>རང་འགུལ།</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>སྒོ་འབྱེད།</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>ནམ་ཡང་དུས་མི་ཡོལ་བ།</item>
+        <item>སྐར་མ་5</item>
+        <item>སྐར་མ་10</item>
+        <item>སྐར་མ་ཉི་ཤུ།</item>
+        <item>སྐར་མ་སུམ་ཅུ།</item>
+        <item>སྐར་མ་དྲུག་ཅུ།</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>Wi-Fi་མཉམ་རོལ་གྱི་ཁ་འབྱེད་རྒྱུ་ཡིན་ནམ།</item>
+        <item>Wi-Fi་མཉམ་རོལ་གྱི་སྒོ་སྟེམ།</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>རང་འགུལ།</item>
+        <item>ལག་འགུལ།</item>
+        <item>རྟག་ཏུ་བློ་འདྲི་བྱས།</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>འཇགས་རྣམ།</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>རང་འགུལ་འཚོལ་བཤེར།</item>
+        <item>གྲངས་ཚད་རྩི་བའི་དྲ་རྒྱར་འཛིན།</item>
+        <item>གྲངས་ཚད་མི་རྩི་བའི་གྲ་རྒྱར་འཛིན།</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>སྦྲེལ་ཟིན་པ།</item>
+        <item>གདན་འདྲེལ་ཞུས་ཟིན།</item>
+        <item>འབྲེལ་མཐུད་མ་ཐུབ།</item>
+        <item>འདིར་བརྡེབས་ནས་འབྲེལ་དགོས།</item>
+        <item>ཚད་ལས་བརྒལ་བ།</item>
+        <item>འཕྲུལ་ཆས་གཞན་ཞིག་དང་འབྲེལ་མཐུད་བྱས་ཟིན།</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>མེད།</item>
+        <item>ལག་འགུལ།</item>
+        <item>རང་འགུལ་སྒྲིག་སྦྱོར་བྱེད་པ།</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>བཤེར་འཚོལ་བྱེད་བཞིན་པ།</item>
+        <item>དྲ་བར་འབྲེལ་མཐུད་བྱེད་བཞིན་པ།</item>
+        <item>ཚོད་དཔྱད་བྱེད་བཞིན་པ།</item>
+        <item>ད་ལྟ་IP ས་གནས་ཐོབ་ལེན་བྱེད་བཞིན་པ།</item>
+        <item>འབྲེལ་མཐུད་ཟིན།</item>
+        <item>བར་མཚམས་བཞག</item>
+        <item>ད་ལྟ་བཅད་བཞིན་པ།</item>
+        <item>བཅད་ཟིན།</item>
+        <item>མ་ཐུབ།</item>
+        <item>བཀག་ཟིན།</item>
+        <item>ཁྱེད་ཀྱི་མུ་འབྲེལ་དྲ་རྒྱའི་འབྲེལ་མཐུད་སྤུས་ཚད་ལ་རྟོགས་དཔྱད་བྱ་བཞིན་པ།</item>
+    </string-array>
+</resources>

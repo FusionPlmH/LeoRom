@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeight" android:paddingStart="@dimen/sec_wifi_activity_edit_text_padding_start" android:paddingEnd="@dimen/sec_wifi_activity_edit_text_padding_end"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="@dimen/sec_wifi_activity_label_text_size" android:ellipsize="marquee" android:id="@id/title" android:fadingEdge="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textAlignment="viewStart" android:paddingStart="@dimen/sec_wifi_activity_label_padding_start" />
+        <Spinner android:textColor="?android:textColorPrimary" android:layout_gravity="center_vertical" android:id="@id/spinner" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/title" />
+    </RelativeLayout>
+</LinearLayout>

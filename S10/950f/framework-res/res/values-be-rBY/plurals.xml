@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">Прапаноў аўтазапаўнення: %d</item>
+        <item quantity="one">Адна прапанова аўтазапаўнення</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">Немагчыма адначасова паказаць больш за %d праграм на экране. Старэйшая праграма згорнута.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Немагчыма адначасова паказаць больш за %d праграмы на экране. Старэйшая праграма згорнута.</item>
+        <item quantity="many">Немагчыма адначасова паказаць больш за %d праграм на экране. Старэйшая праграма згорнута.</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d праграм выкарыстоўваюць мабільную перадачу даных, нават калі тэлефон падлучаны да Wi-Fi.</item>
+        <item quantity="one">%d праграма выкарыстоўвае мабільную перадачу даных, нават калі тэлефон падлучаны да Wi-Fi.</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">Націсніце тут, каб кіраваць гэтымі праграмамі.</item>
+        <item quantity="zero">Націсніце тут, каб кіраваць гэтымі праграмамі.</item>
+        <item quantity="one">Націсніце тут, каб кіраваць гэтай праграмай.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s хоча чымсьці падзяліцца з вам з дапамогай Wi-Fi Direct. У вас ёсць %2$d секунд на прыняцце.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s хоча чымсьці падзяліцца з вам з дапамогай Wi-Fi Direct. У вас ёсць %2$d секунда на прыняцце.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$s хоча чымсьці падзяліцца з вам з дапамогай Wi-Fi Direct. У вас ёсць %2$d секунды на прыняцце.</item>
+        <item quantity="many">%1$s хоча чымсьці падзяліцца з вам з дапамогай Wi-Fi Direct. У вас ёсць %2$d секунд на прыняцце.</item>
+    </plurals>
+</resources>

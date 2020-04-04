@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d தானியங்கு நிரப்பல் பரிந்துரைகள்</item>
+        <item quantity="one">ஒரு தானியங்கு நிரப்பல் பரிந்துரை</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">ஒரே நேரத்தில், %d பயன்பாடுகளுக்கும் அதிகமாக திரையில் காட்ட இயலாது. மிகப் பழமையான பயன்பாடு சிறிதாக்கப்பட்டுள்ளது.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">உங்கள் ஃபோன் Wi-Fi உடன் இணைக்கப்படிருக்கும் போதும் கூட, %d பயன்பாடுகள் எப்போதும் மொபைல் தரவைப் பயன்படுத்துகிறது.</item>
+        <item quantity="one">உங்கள் ஃபோன் Wi-Fi உடன் இணைக்கப்படிருக்கும் போதும் கூட, %d பயன்பாடு எப்போதும் மொபைல் தரவைப் பயன்படுத்துகிறது.</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">இந்தப் பயன்பாடுகளை நிர்வகிக்க இங்கு டேப் செய்க.</item>
+        <item quantity="zero">இந்தப் பயன்பாடுகளை நிர்வகிக்க இங்கு டேப் செய்க.</item>
+        <item quantity="one">இந்தப் பயன்பாட்டை நிர்வகிக்க இங்கு டேப் செய்க.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s, Wi-Fi Direct-ஐப் பயன்படுத்தி எதையோ பகிர விரும்புகிறார். %2$d வினாடிகளுக்குள் நீங்கள் ஏற்கலாம்.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s, Wi-Fi Direct-ஐப் பயன்படுத்தி எதையோ பகிர விரும்புகிறார். %2$d வினாடிக்குள் நீங்கள் ஏற்கலாம்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

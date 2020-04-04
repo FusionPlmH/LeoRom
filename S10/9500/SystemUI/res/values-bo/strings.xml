@@ -1,0 +1,1603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_brightness_detail_button">གསལ་ཚད་སྒྲིག་ཡུལ་ངོས་པང་།</string>
+    <string name="accessibility_button">མཐེབ་གནོན།</string>
+    <string name="accessibility_page_indicator">ཤོག་གྲངས་%1$dཔ།སྡོམ་ཤོག་གྲངས་%2$dཡོད།</string>
+    <string name="accessibility_phone_four_bars">ལག་ཐོག་ཁ་པར་འཕྲིན་རྟགས་བཞི།</string>
+    <string name="accessibility_quick_settings_finder">འཚོལ་བཤེར་བྱེད།</string>
+    <string name="accessibility_quick_settings_more_option">འདེམས་ག་གང་མང་།</string>
+    <string name="agree">མོས་མཐུན།</string>
+    <string name="airplane_mode_plmn">འཕུར་སྐྱོད་རྣམ་པ།</string>
+    <string name="airplane_mode_show_popup_message">འཕུར་སྐྱོད་རྣམ་པའི་སྐབས་སུ་ཁ་ཕྱེས་ནས་གླེང་མོལ་དང་ཆ་འཕྲིན གནས་སྤོ་དན་གྲངས Wi-Fi་དང་སོ་སྔོན་འདུས་པའི་དྲ་རྒྱའི་རྩོལ་ནུས་ཚང་མ་བཀོལ་སྡོམ་བྱེད།གལ་ཏེ་Wi-Fi་དང་སོ་སྔོན་སྤྱོད་དགོས་ན།༼སྒྲིག་འགོད༽དམ་བརྡ་སྦྱོར་ངོ་བྱང་དུ་དེའི་ཁ་འབྱེད་རོགས།</string>
+    <string name="airplane_mode_show_popup_message_cmcc">འཕུར་སྐྱོད་རྣམ་པའི་འོག་ཁྱེད་ཀྱི་ཁ་པར་དང་ཆ་འཕྲིན། གཞི་གྲངས་དྲ་བའི་ནུས་པ་བཀག་སྲིད། ད་དུང་ Wi-Fiདང་སོ་སྔོན་སོགས་པའི་འབྲེལ་མཐུད་ནུས་པ་ཡང་བཀག་སྲིད། གལ་སྲིད་ Wi-Fiདང་སོ་སྔོན་བེད་སྤྱོད་གཏོང་དགོས་ཚེ། ཁྱེད་ཀྱི་༼སྒྲིག་འགོད༽་དམ་བརྡ་ཐོ་གཏོང་ངོས་ནས་ནུས་པ་དེ་ཁ་ཕྱེ་དགོས།</string>
+    <string name="airplane_mode_show_popup_message_vzw">"除非使用 Wi-Fi，否则您将无法使用互联网、电子邮件或其他需要数据连接的应用程序。
+是否打开【飞行模式】？"</string>
+    <string name="airplane_mode_show_popup_message_wifi">"Wi-Fiདང་སོ་སྔོན་ཁ་རྒྱག་པ།
+
+ཁྱེད་ནས་༼སྒྲིག་འགོད་༽དམ་མྱུར་འགྲོས་སྒྲིག་འགོད་ངོས་པང་ནང་ཕན་ནུས་འདི་དག་ཁ་ཕྱེ་ཐུབ།"</string>
+    <string name="airplane_mode_show_popup_safelock">【阻止锁定时关机】启用期间无法启用【飞行模式】。请在解锁屏幕后重试。</string>
+    <string name="airplane_mode_show_popup_summary">འཕུར་སྐྱོད་རྣམ་པའི་སྐབས་སུ་ཁ་ཕྱེས་ནས་གླེང་མོལ་དང་ཆ་འཕྲིན གནས་སྤོ་དན་གྲངས Wi-Fi་དང་སོ་སྔོན་འདུས་པའི་དྲ་རྒྱའི་རྩོལ་ནུས་ཚང་མ་བཀོལ་སྡོམ་བྱེད།གལ་ཏེ་Wi-Fi་དང་སོ་སྔོན་སྤྱོད་དགོས་ན།༼སྒྲིག་འགོད༽དམ་བརྡ་སྦྱོར་ངོ་བྱང་དུ་དེའི་ཁ་འབྱེད་རོགས།</string>
+    <string name="airplane_mode_show_popup_title">འཕུར་སྐྱོད་རྣམ་པའི་སྒུལ་སློང་རྒྱུ་ཡིན་ནམ།</string>
+    <string name="airplane_mode_show_popup_title_vzw">打开飞行模式</string>
+    <string name="airplane_mode_show_toast_turn_on_wifi_for_wificalling">གལ་སྲིད་Wi-Fiཁ་པར་བེད་སྤྱོད་གཏོང་ཚེ།Wi-Fiཁ་ཕྱེ་དགོས།</string>
+    <string name="airplane_mode_toast_impossible_during_call">གླེང་མོལ་སྐབས་སུ་༼འཕུར་སྐྱོད་རྣམ་པ༽ཡི་སྒུལ་སློང་མི་ཐུབ།</string>
+    <string name="allow_notifications_guide_text">འདིའི་རིགས་ཀྱི་བརྡ་སྦྱོར་ལ་ཆོག་མཆན་གནང་།</string>
+    <string name="app_label">UIམ་ལག</string>
+    <string name="assistance_app_setting_alert_dialog_title">བརྙན་ཡོལ་མ་ངོས་མཐེབ་ཡུན་རིང་མནན་སྐབས་སུ་ཁ་ཕྱེ་དགོས་པའི་ཉེར་སྤྱོད་བྱ་རིམ་འདེམས་པ། གལ་ཏེ་བདམས་པའི་ཉེར་སྤྱོད་རྗེས་ནས་སྒྱུར་དགོས་ན། ༼སྒྲིག་འགོད་༽ནང་གི་༼འཕྲུལ་ཆས་རམ་འདེགས་ཉེར་སྤྱོད་བྱ་རིམ་༽ནང་ཞུགས་དགོས།</string>
+    <string name="assistance_app_setting_item_none">མེད།</string>
+    <string name="battery_cable_charging_from_wireless_to_cable_text">སྐུད་མེད་གློག་གསོག་ནས་གློག་ཐག་གློག་གསོག་ཏུ་བརྗེ་སྒྱུར་བྱེད་བཞིན་འདུག</string>
+    <string name="battery_cable_charging_title">གློག་སྣོན་ཆས་གློག་སྣོན་བྱེད།</string>
+    <string name="battery_charging_level_and_time_text">"གློག་སྣོན་བཞིན་པ།%1$d%%
+(གློག་མ་ཁེངས་བར་ད་དུང་%2$sཙམ་ཡོད།)"</string>
+    <string name="battery_charging_level_text">%d%%ལ་གློག་སྣོན་བྱེད་བཞིན་པ།</string>
+    <string name="battery_charging_time_text">(གློག་ཁེངས་པར་གསོག་པར་ད་དུང་%s་འདུག)</string>
+    <string name="battery_charging_title">གློག་གསོག་བཞིན་པ།</string>
+    <string name="battery_fast_charging_title">མྱུར་མགྱོགས་གློག་གསོག</string>
+    <string name="battery_fast_charging_title_chn">འགྲོས་མྱུར་གློག་གསོག</string>
+    <string name="battery_fast_wireless_charging_title">སྐུད་མེད་མྱུར་གསོག་གློག་</string>
+    <string name="battery_fast_wireless_charging_title_chn">འགྲོས་མྱུར་སྐུད་མེད་གློག་གསོག་བྱེད་བཞིན་འདུག</string>
+    <string name="battery_health_interruption_by_limit_high_temperature_text_phone">"གློག་སྣོན་བྱེད་མཚམས་བཞག་ཟིན།ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་དྲོད་ཚད་མཐོ་དྲགས།གློག་སྣོན་ཆས་འབྲེལ་མཐུད་བྱེད་སྐབས་ངེས་པར་དུ་ཡིད་གཟབ་བྱེད་དགོས།གློག་སྣོན་ཆས་ཚ་པོ་ཡིན་སྲིད།
+
+བརྐོག་པ་བསྐྱར་དུ་གློག་སྣོན་ཆས་དང་འབྲེལ་མཐུད་བྱས་ནས་མུ་མཐུད་གློག་སྣོན་བྱེད་ཐུབ།གལ་སྲིད་ཚ་དྲགས་ཚེ།ཚོང་མགྲོན་ཞབས་ཞུ་དང་འབྲེལ་གཏུག་བྱེད་དགོས།དེ་ལྟར་མ་བྱས་ཚེ་མེ་སྐྱོན་དང་གནོད་འཚེ་ཡོང་ཉེན་ཡོད།"</string>
+    <string name="battery_health_interruption_by_limit_high_temperature_text_tablet">"གློག་སྣོན་བྱེད་མཚམས་བཞག་ཟིན།ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་དྲོད་ཚད་མཐོ་དྲགས།གློག་སྣོན་ཆས་འབྲེལ་མཐུད་བྱེད་སྐབས་ངེས་པར་དུ་ཡིད་གཟབ་བྱེད་དགོས།གློག་སྣོན་ཆས་ཚ་པོ་ཡིན་སྲིད།
+
+བརྐོག་པ་བསྐྱར་དུ་གློག་སྣོན་ཆས་དང་འབྲེལ་མཐུད་བྱས་ནས་མུ་མཐུད་གློག་སྣོན་བྱེད་ཐུབ།གལ་སྲིད་ཚ་དྲགས་ཚེ།ཚོང་མགྲོན་ཞབས་ཞུ་དང་འབྲེལ་གཏུག་བྱེད་དགོས།དེ་ལྟར་མ་བྱས་ཚེ་མེ་སྐྱོན་དང་གནོད་འཚེ་ཡོང་ཉེན་ཡོད།"</string>
+    <string name="battery_health_interruption_by_limit_high_temperature_title">གློག་སྣོན་ཆས་བརྐོག་དགོས།</string>
+    <string name="battery_health_interruption_by_terminal_open_galaxy_text">无法为设备充电。请确保您使用的是盖乐世兼容电池和充电器，并且设备已正确连接至充电器。</string>
+    <string name="battery_health_interruption_by_terminal_open_text">无法为您的设备充电。确保您使用的是三星兼容电池和充电器，并且您的设备已正确连接至充电器。</string>
+    <string name="battery_health_interruption_by_too_high_temperature_text_phone">ལག་ཐོག་ཁ་པར་དྲོད་ཚད་མཐོ་དྲགས།གློག་སྣོན་དེ་དྲོད་ཚད་སླར་གསོ་བྱེད་སྐབས་མུ་མཐུད་བྱེད་སྲིད།</string>
+    <string name="battery_health_interruption_by_too_high_temperature_text_tablet">ངོས་པང་གློག་ཀླད་དྲོད་ཚད་མཐོ་དྲགས།གློག་སྣོན་དེ་དྲོད་ཚད་སླར་གསོ་བྱེད་སྐབས་མུ་མཐུད་བྱེད་སྲིད།</string>
+    <string name="battery_health_interruption_by_too_low_temperature_text_phone">ལག་ཐོག་ཁ་པར་དྲོད་ཚད་དམའ་དྲགས།གློག་སྣོན་དེ་དྲོད་ཚད་སླར་གསོ་བྱེད་སྐབས་མུ་མཐུད་བྱེད་སྲིད།</string>
+    <string name="battery_health_interruption_by_too_low_temperature_text_tablet">ངོས་པང་གློག་ཀླད་དྲོད་ཚད་དམའ་དྲགས།གློག་སྣོན་དེ་དྲོད་ཚད་སླར་གསོ་བྱེད་སྐབས་མུ་མཐུད་བྱེད་སྲིད།</string>
+    <string name="battery_health_interruption_title">གློག་སྣོད་མཚམས་བཞག་ཟིན།</string>
+    <string name="battery_info_status_charging">གློག་སྣོན་བྱེད་བཞིན་པ།</string>
+    <string name="battery_info_status_discharging">གློག་གསོག་གིན་མི་འདུག</string>
+    <string name="battery_info_status_full">ཁེངས་ཟིན་པ།</string>
+    <string name="battery_low_sec_app_name">སྒྲིག་ཆས་ཞིག་གསོ།</string>
+    <string name="battery_low_sec_body_phone">ལག་ཐོག་ཁ་པར་ལ་གློག་སྣོན་བྱེད་པའམ་འདི་གར་བརྡེབས་ནས་གློག་བསྲི་བའི་རྣམ་པ་ཁ་ཕྱེ་དགོས།</string>
+    <string name="battery_low_sec_body_phone_psm">ལག་ཐོག་ཁ་པར་ལ་གློག་སྣོན་བྱེད་</string>
+    <string name="battery_low_sec_body_tablet">ངོས་པང་གློག་ཀླད་ལ་གློག་སྣོན་བྱེད་པའམ་འདི་གར་བརྡེབས་ནས་གློག་བསྲི་བའི་རྣམ་པ་ཁ་ཕྱེ་དགོས།</string>
+    <string name="battery_low_sec_body_tablet_psm">ངོས་པང་གློག་ཀླད་ལ་གློག་སྣོན་བྱེད་</string>
+    <string name="battery_low_sec_noti_channel">电量不足</string>
+    <string name="battery_low_sec_title">གློག་གི་ཡུན་ཚད%d%%།</string>
+    <string name="battery_not_fully_connected_charging_popup_text_charger">ཁ་པར་ལ་འགྲོགས་པའི་གློག་གསོག་ཆས་སྤྱོད་རོགས།</string>
+    <string name="battery_not_fully_connected_charging_popup_text_charger_tablet">སྙོམ་ལེབ་གློག་ཀླད་ལ་འགྲོགས་པའི་གློག་གསོག་ཆས་སྤྱོད་རོགས།</string>
+    <string name="battery_not_fully_connected_charging_popup_text_connection">དན་གྲངས་སྐུད་པ་དང་གློག་གསོག་ཆས་དག་པོར་སྦྲེལ་མཐུད་བྱེད་རོགས།</string>
+    <string name="battery_not_fully_connected_charging_popup_text_cover">གལ་ཏེ་ཁྱེད་ཀྱིས་སྲུང་ཁེབས་སྤྱོད་བཞིན་ཡོད་ན།དེ་ཕྲལ་རོགས།</string>
+    <string name="battery_not_fully_connected_charging_popup_text_damage">དན་གྲངས་སྐུད་པར་ཆག་སྐྱོན་མེད་པ་ཁག་ཐེག་བྱེད་རོགས།</string>
+    <string name="battery_not_fully_connected_charging_popup_text_faster">ལྷག་པར་མྱུར་མོས་གློག་གསོག་ཆེད།</string>
+    <string name="battery_not_fully_connected_charging_popup_title">ཁྱེད་ཀྱི་གློག་གསོག་ཆས་ཀྱི་སྦྲེལ་མཐུད་ལ་ལྟ་རྟོག་བྱེད།</string>
+    <string name="battery_not_fully_connected_charging_text">གློག་སྣོན་གང་མགྱོགས་བྱེད་ཐུབ་པའི་ཕྱིར།འཕྲུལ་ཆས་དང་ལྷན་ཅིག་ཡོད་པའི་གློག་སྣོན་ཆས་བེད་སྤྱོད་གཏོང་བ་དང་དེ་ཉིད་འབྲེལ་མཐུད་ཡག་པོ་བྱེད་དགོས།</string>
+    <string name="battery_not_fully_connected_charging_text_chn">འགྲོས་མྱུར་གློག་གསོག་བྱེད་ཆེད།ཁ་པར་ལ་འགྲོགས་པའི་གློག་གསོག་ཆས་བཀོལ་ཞིང་དག་པོས་སྦྲེལ་བ་ཁག་ཐེག་བྱེད་རོགས།</string>
+    <string name="battery_not_fully_connected_charging_text_jpn">ཁྱེད་ཀྱི་གློག་གསོག་ཆས་དག་པོར་སྦྲེལ་བ་ཁག་ཐེག་བྱེད་རོགས།</string>
+    <string name="battery_not_fully_connected_charging_text_tablet_chn">འགྲོས་མྱུར་གློག་གསོག་བྱེད་ཆེད།སྙོམ་ལེབ་གློག་ཀླད་ལ་འགྲོགས་པའི་གློག་གསོག་ཆས་བཀོལ་ཞིང་དག་པོས་སྦྲེལ་བ་ཁག་ཐེག་བྱེད་རོགས།</string>
+    <string name="battery_not_fully_connected_charging_text_vzw">请确保正确连接充电器。</string>
+    <string name="battery_not_fully_connected_charging_title">ཁྱེད་ཀྱི་གློག་གསོག་ཆས་ཀྱི་སྦྲེལ་མཐུད་ལ་ལྟ་རྟོག་བྱེད།</string>
+    <string name="battery_not_fully_connected_charging_title_vzw">连接不完全</string>
+    <string name="battery_slow_charging_text">གལ་སྲིད་གང་མགྱོགས་གློག་སྣོན་བྱ་དགོས་ཚེ།ཁྱེད་ནས་བཟོ་གྲྭའི་གློག་སྣོན་ཡོ་བྱད་བེད་སྤྱོད་གཏོང་དགོས།</string>
+    <string name="battery_slow_charging_title">设备正在慢速充电</string>
+    <string name="battery_slow_charging_toast_text">若要加速充电，使用此手机附带的充电器和电缆</string>
+    <string name="battery_slow_charging_toast_text_for_tablet">若要加速充电，使用本平板电脑附带的充电器和电缆。</string>
+    <string name="battery_swelling_mode_high_temp_noti_text_phone">ཁྱེད་ཀྱི་ཁ་པར་དྲོད་ཚད་མཐོ་དྲགས།གློག་གསོག་ཁེངས་པར་གསོག་མི་ཐུབ།བསིལ་མོའི་ཁོར་ཡུག་ཏུ་གློག་གསོག་བྱེད་རོགས།</string>
+    <string name="battery_swelling_mode_high_temp_noti_text_tablet">ཁྱེད་ཀྱི་སྙོམ་ལེབ་གློག་ཀླད་ཀྱི་དྲོད་ཚད་མཐོ་དྲགས།གློག་གསོག་ཁེངས་པར་གསོག་མི་ཐུབ།བསིལ་མོའི་ཁོར་ཡུག་ཏུ་གློག་གསོག་བྱེད་རོགས།</string>
+    <string name="battery_swelling_mode_low_temp_noti_text_phone">ཁྱེད་ཀྱི་ཁ་པར་དྲོད་ཚད་དམའ་དྲགས་པས་གློག་ཁེངས་པར་གསོག་མི་ཐུབ།ཁོར་ཡུལ་དྲོན་པོར་གློག་གསོག་རོགས།</string>
+    <string name="battery_swelling_mode_low_temp_noti_text_tablet">ཁྱེད་ཀྱི་སྙོམ་ལེབ་གློག་ཀླད་དྲོད་ཚད་དམའ་དྲགས་པས་གློག་ཁེངས་པར་གསོག་མི་ཐུབ།ཁོར་ཡུལ་དྲོན་པོར་གློག་གསོག་རོགས།</string>
+    <string name="battery_swelling_mode_noti_title">གློག་གསོག་ལ་དཔག་རྒྱ་ཕོག</string>
+    <string name="battery_wireless_charger_fod_text">སྐུད་མེད་གློག་གསོག་གི་མཚམས་བཞག་ཟིན།གལ་ཏེ་གློག་གསོག་ཆས་དང་ཁ་པར་བར་དུ་དངོས་པོ་གཞན་པ་ཡོད་པའམ་ཁ་པར་ཤུན་སྐོགས་མཐུག་པོ་སྒྲིག་འཇུག་བྱས་བྱེད་དགོས་ན།གཙང་ཕྱགས་བྱས་རྗེས་སླར་ཚོད་ལྟ་བྱེད་རོགས།</string>
+    <string name="battery_wireless_charger_fod_title">སྐུད་མེད་གློག་སྣོན་མཚམས་འཇོག་ཟིན།</string>
+    <string name="battery_wireless_charging_disconnect_by_high_temperature_text">སྐུད་མེད་གློག་གསོག་གི་བར་མཚམས་བཞག་ཟིན།ཁྱེད་ཀྱི་ཁ་པར་དྲོད་ཚད་མཐོ་དྲག ཁ་པར་གྲང་མོར་གྱུར་རྗེས་སུ་སླར་སྒུལ་སློང་རོགས།</string>
+    <string name="battery_wireless_charging_disconnect_by_high_temperature_text_tablet">སྐུད་མེད་གློག་གསོག་གི་བར་མཚམས་བཞག་ཟིན།ཁྱེད་ཀྱི་སྙོམ་ལེབ་གློག་ཀླད་དྲོད་ཚད་མཐོ་དྲག སྙོམ་ལེབ་གློག་ཀླད་གྲང་མོར་གྱུར་རྗེས་སུ་སླར་སྒུལ་སློང་རོགས།</string>
+    <string name="battery_wireless_charging_disconnect_text">སྐུད་མེད་གློག་སྣོན་བྱེད་མཚམས་འཇོག་ཟིན།</string>
+    <string name="battery_wireless_charging_from_cable_to_wireless_text">གློག་ཐག་གློག་གསོག་ནས་སྐུད་མེད་གློག་གསོག་དུ་བརྗེ་སྒྱུར་བྱེད་བཞིན་འདུག</string>
+    <string name="battery_wireless_charging_title">སྐུད་མེད་གློག་སྣོན།</string>
+    <string name="blue_light_disable_reason">%1$sཁ་རྒྱག་ནས་%2$sབེད་སྤྱོད་བྱས།</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">སྒྲ་ཟློས་ཀྱི་སྦྲེལ་མཐུད་དུ་བཙུགས་ཟིན།</string>
+    <string name="bluetooth_a2dp_profile_summary_connected_battery">སྒྲ་ཟློས་སུ་སྤྱོད་པའི་སྦྲེལ་མཐུད་བཙུགས་ཟིན།གློག་ནུས་ལྷག་མ་%d%%་འདུག</string>
+    <string name="bluetooth_connected">སྦྲེལ་ཟིན་པ།</string>
+    <string name="bluetooth_connected_battery">སྦྲེལ་ཟིན།གློག་ཚད་ལྷག་མ་%d%%་ཡིན།</string>
+    <string name="bluetooth_connecting">དྲ་བར་འབྲེལ་མཐུད་བྱེད་བཞིན་པ།</string>
+    <string name="bluetooth_connecting_error_message">འདིར་འཐུད་པ་མེད %s།</string>
+    <string name="bluetooth_disconnect_message">%sདང་སོ་སྔོན་འབྲེལ་བ་མཚམས་ཆད།</string>
+    <string name="bluetooth_disconnecting">ད་ལྟ་བཅད་བཞིན་པ།</string>
+    <string name="bluetooth_display_remote_device_name_after_pair">འཕྲུལ་ཆས་འདི་འབྲེལ་མཐུད་བྱས་རྗེས།འཕྲུལ་ཆས་མིང་གསལ་སྲིད།</string>
+    <string name="bluetooth_getting_remote_device_name">འཕྲུལ་ཆས་མིང་ཐོབ་ལེན་བྱེད་བཞིན་པ།</string>
+    <string name="bluetooth_headset_profile_summary_connected">གླེང་མོལ་སྦྲེལ་མཐུད་དུ་བཙུགས་ཟིན།</string>
+    <string name="bluetooth_headset_profile_summary_connected_battery">གླེང་མོལ་དུ་སྤྱོད་པའི་སྦྲེལ་མཐུད་བཙུགས་ཟིན།གློག་ནུས་ལྷག་མ་%d%%་འདུག</string>
+    <string name="bluetooth_hid_connecting_error_summury">སྦྲེལ་མཐུད་བྱེད་མི་ཐུབ།སླར་%s་ནས་སྦྲེལ་མཐུད་བྱེད་པའི་ཚོད་ལྟ་བྱེད་རོགས།</string>
+    <string name="bluetooth_hid_profile_summary_connected">ཡིག་བཏགས་འཕྲུལ་ཆས་དང་འབྲེལ་ཟིན།</string>
+    <string name="bluetooth_pairing">ད་ལྟ་སྡེབ་སྒྲིག་བྱེད་བཞིན་པ།</string>
+    <string name="bluetooth_pairing_device_down_black_list_error_message">%1$s ལ་འབྲེལ་མཐུད་མི་ཐུབ། %2$s ནང་ཁྱེད་ཀྱི་སྒྲིག་འགོད་ཁག་ལ་གཟིགས་ནས་སླར་ཚོད་ལྟ་གནང་རོགས།</string>
+    <string name="bluetooth_pairing_device_down_error_message">འདིར་འཐུད་པ་མེད %s།</string>
+    <string name="bluetooth_pairing_error_message">%sདང་ལྷན་སྡེབ་མི་ཐུབ།དེ་ཉིད་ལྷན་སྡེབ་བྱ་རྒྱུའི་གྲ་སྒྲིག་བྱས་ཟིན།</string>
+    <string name="bluetooth_pairing_fail_restored">སོ་སྔོན་སྒྲིག་ཆས་ནི་ཁ་པར་ཉེ་འདབས་སུ་འཇོག་པའམ་དེ་ནི་ཟླ་སྒྲིག་རྣམ་པར་གནས་མིན་ལ་ལྟ་རྟོག་བྱེད།</string>
+    <string name="bluetooth_pairing_fail_restored_tablet">སོ་སྔོན་སྒྲིག་ཆས་ནི་སྙོམ་ལེབ་གློག་ཀླད་ཉེ་འདབས་སུ་འཇོག་པའམ་དེ་ནི་ཟླ་སྒྲིག་རྣམ་པར་གནས་མིན་ལ་ལྟ་རྟོག་བྱེད།</string>
+    <string name="bluetooth_pairing_pin_error_message">%sདང་ལྷན་སྡེབ་མི་ཐུབ།དེ་ཉིད་ལྷན་སྡེབ་བྱ་རྒྱུའི་གྲ་སྒྲིག་བྱས་ཟིན།</string>
+    <string name="bluetooth_pairing_rejected_error_message">%sལྷན་སྡེབ་འགོག་ཟིན།</string>
+    <string name="bluetooth_pan_connecting_error_summury">སྦྲེལ་མཐུད་བྱེད་མི་ཐུབ།%s་སྟེང་དུ་༼སོ་སྔོན་དྲ་རྒྱ་མཉམ་རོལ༽གྱི་སྒུལ་སློང་རོགས།</string>
+    <string name="bluetooth_pan_nap_connected">འབྲེལ་མཐུད་བྱས་ནས་མུ་འབྲེལ་དྲ་བའི་འབྲེལ་མཐུད་ལ་མཁོ་འདོན་བྱེད་པ།</string>
+    <string name="bluetooth_pan_nap_connecting_error_summury">སྦྲེལ་མཐུད་བྱེད་མི་ཐུབ།</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">འཕྲུལ་ཆས་དང་འདི་གནས་དྲ་བའི་འབྲེལ་མཐུད་མཉམ་སྤྱོད་བྱེད་པ།</string>
+    <string name="bluetooth_pan_panu_connected">འབྲེལ་མཐུད་བྱས་ནས་མུ་འབྲེལ་དྲ་བའི་འབྲེལ་མཐུད་ལ་བཅར་ཞུགས་བྱེད་པ།</string>
+    <string name="bluetooth_pan_profile_summary_use_for">ལྷན་སྡེབ་བྱས་པའི་འཕྲུལ་ཆས་ཐོག་སོ་སྔོན་ཁ་ཕྱེ་བ་དང་དྲ་བ་མཉམ་སྤྱོད་བྱས་ནས་ལག་ཐོག་ཁ་པར་འདིའི་ཐོག་མུ་འབྲེལ་དྲ་བ་བཅར་འདྲི་བྱེད་ཆོག</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">འཕྲུལ་ཆས་འབྲེལ་ནས་དྲ་བ་བཅར་འདྲི་བྱེད་པ།</string>
+    <string name="bluetooth_pbap_multiple_property">PBAP་མང་བོའི་གཏོགས་གཤིས།</string>
+    <string name="bluetooth_pbap_multiple_property_summary">འབྲེལ་གཏུག་མང་བོའི་གཏོགས་གཤིས་མང་པོ་འགྲོས་བསྟུན་བྱེད་དུ་འཇུག</string>
+    <string name="bluetooth_profile_a2dp">སྒྲ་ཟློས།</string>
+    <string name="bluetooth_profile_headset">གླེང་མོལ།</string>
+    <string name="bluetooth_profile_hid">འཇུག་བྱེད་འཕྲུལ་ཆས།</string>
+    <string name="bluetooth_profile_map">ཆ་འཕྲིན་བཅར་འདྲི།</string>
+    <string name="bluetooth_profile_map_summary">ལྷན་སྡེབ་ཟིན་པའི་འཕྲུལ་ཆས་འདིས་ཁྱེད་ཀྱི་ཆ་འཕྲིན་བཅར་འདྲི་ཆོག་པ།</string>
+    <string name="bluetooth_profile_pan">མུ་འབྲེལ་དྲ་བ་བཅར་ཞུགས།</string>
+    <string name="bluetooth_profile_pan_nap">མུ་འབྲེལ་དྲ་བའི་འབྲེལ་མཐུད་མཉམ་སྤྱོད།</string>
+    <string name="bluetooth_profile_pbap">འབྲེལ་གཏུག་མིང་བྱང་བཅར་འདྲི་བྱས།</string>
+    <string name="bluetooth_profile_pbap_tts">འབྲེལ་གཏུག་མིང་བྱང་དང་ཁ་པར་ཟིན་ཐོ།</string>
+    <string name="bluetooth_profile_sap_summary">ལྷན་སྡེབ་ཟིན་པའི་འཕྲུལ་ཆས་ཁྱེད་ཀྱི་SIMབྱང་བུ་བཅར་འདྲི་ཆོག་པ།</string>
+    <string name="bluetooth_profile_textinput">ཡིག་རྐྱང་འཇུག་པ།</string>
+    <string name="bluetooth_spp_profile_summary_connected">ཕྲེང་སྦྲེལ་སྣེ་གནས་སྡེབ་སྒྲིག་ཡིག་ཆ་བརྒྱུད་ནས་སྦྲེལ།</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset">གླེང་མོལ་དང་སྒྲ་ཟློས་སྦྲེལ་མཐུད་དུ་བཙུགས་ཟིན།</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset_battery">གླེང་མོལ་དང་སྒྲ་ཟློས་སུ་སྤྱོད་པའི་སྦྲེལ་མཐུད་བཙུགས་ཟིན།གློག་ནུས་ལྷག་མ་%d%%་འདུག</string>
+    <string name="bluetooth_summary_restored_device">སྔོན་གྱི་ཁ་པར་སྟེང་དུ་ཟླ་སྒྲིག་བྱས་ཟིན།</string>
+    <string name="bluetooth_tethering_cannot_connect_while_connected_to_wifi">Wi-Fiདྲ་བ་འབྲེལ་སྐབས་༼སོ་སྔོན་མཉམ་སྤྱོད་དྲ་བ་༽སྤྱད་མི་ཐུབ།</string>
+    <string name="bluetooth_tethering_error_with_wifi_phone_summary">གལ་ཏེ་སོ་སྔོན་མཉམ་རོལ་དྲ་རྒྱའི་སྒུལ་སློང་དགོས་ན།ཁ་པར་སྟེང་དུ་Wi-Fi་ཡི་སྒུལ་སློང་རོགས།</string>
+    <string name="bluetooth_tethering_error_with_wifi_tablet_summary">གལ་ཏེ་སོ་སྔོན་མཉམ་རོལ་དྲ་རྒྱའི་སྒུལ་སློང་དགོས་ན།སྙོམ་ལེབ་གློག་ཀླད་སྟེང་དུ་Wi-Fi་ཡི་སྒུལ་སློང་རོགས།</string>
+    <string name="button_close">ཁ་རྒྱག་པ།</string>
+    <string name="button_yes">གཏན་འཁེལ།</string>
+    <string name="byteShort">B</string>
+    <string name="cancel">རྩིས་མེད།</string>
+    <string name="cant_open_image_viewer_app">པར་རིས་ཁ་ཕྱེ་ནས་ཉེར་སྤྱོད་བྱ་རིམ་བལྟ་ཞིབ་བྱས་མི་ཐུབ།</string>
+    <string name="cant_open_image_viewer_app_in_emergency_mode">དོད་དྲགས་རྣམ་པའི་ནང་པར་རིས་ཁ་ཕྱེ་ནས་ཉེར་སྤྱོད་བྱ་རིམ་ལྟ་ཞིབ་བྱེད་མི་ཐུབ།</string>
+    <string name="cant_open_image_viewer_app_in_mpsm">གློག་ཤིན་ཏུ་བསྲི་བའི་རྣམ་པའི་ནང་པར་རིས་ཁ་ཕྱེ་ནས་ཉེར་སྤྱོད་བྱ་རིམ་ལྟ་ཞིབ་བྱེད་མི་ཐུབ།</string>
+    <string name="cant_open_image_viewer_app_in_ps">%sནང་དུ་པར་རིས་ཁ་ཕྱེ་ནས་ཉེར་སྤྱོད་བྱ་རིམ་ལྟ་ཞིབ་མི་ཐུབ།</string>
+    <string name="cant_open_photo_editor_in_ps">%sའོག་ཏུ་འདྲ་པར་སྒྲིག་བཟོ་ཡོ་བྱད་ཁ་ཕྱེ་མི་ཐུབ།</string>
+    <string name="cant_open_ps">%s ཕྱིས་པ་མེད།</string>
+    <string name="cant_screenshot_in_ps">%sདྲས་ཡོལ་ནང་ཁ་ཕྱེ་མི་ཐུབ།</string>
+    <string name="card_crash">SIMབྱང་བུའི་སྐྱོན་ཆག</string>
+    <string name="clear_all_text">གཙང་དོར་བྱེད།</string>
+    <string name="colour_adjustment_title">ཚོན་མདོག་སྙོམས་སྒྲིག</string>
+    <string name="colour_lens_title">ཚོན་མདོག་བརྙན་མིག</string>
+    <string name="cooling_body">"ཁྱེད་ཀྱི་འཕྲུལ་ཆས་ཚ་དྲགས།གྲང་མོ་བཟོ་བའི་ཐབས་ཤེས་གཏོང་དགོས།
+
+ཁྱེད་ནས་མུ་མཐུད་འཕྲུལ་ཆས་བེད་སྤྱོད་གཏོང་ཆོག།ཡིན་ནའང་
+-བརྙལ་ཡོལ་མི་གསལ་བར་སྒྱུར་སྲིད།
+-འཕྲུལ་ཆས་འགོར་དུ་འགྲོ་སྲིད།
+-གློག་སྣོན་མཚམས་འཇོག་སྲིད།
+
+འཕྲུལ་ཆས་གྲང་ཐག་ཆོད་རྗེས།ནུས་པ་རང་འགུལ་གྱི་སླར་གསོ་བྱེད་ཐུབ།"</string>
+    <string name="cooling_body_tablet_vzw">"您的平板电脑正在变得过热，因此正在采取措施自行降温。
+
+您仍然可以使用平板电脑，但可能需要注意：
+屏幕可能变暗。
+平板电脑可能变慢。
+充电可能暂停。
+
+平板电脑冷却后，性能将会自动恢复正常。"</string>
+    <string name="cooling_body_vzw">"您的手机正在变得过热，因此正在采取措施自行降温。
+
+您仍然可以使用手机，但您会注意到以下情况：
+屏幕可能变暗。
+手机可能变慢。
+充电可能被暂停。
+
+手机冷却后，性能将会自动恢复正常。"</string>
+    <string name="cooling_noti_text">འདི་གར་ཐུག་ཙམ་བརྡེབས་ནས་ཞིབ་ཆ་བལྟ་ཞིབ་བྱེད་པ།</string>
+    <string name="cooling_noti_text_vzw">གནས་འདིར་རྡེབ་ནས་གནས་ཚུལ་དེ་ལས་མང་བར་རྒྱུས་ལོན་བྱེད།</string>
+    <string name="cooling_popup_title">འཕྲུལ་ཆས་ད་ལྟ་གྲང་དག་བཅོད་བཞིན་ཡོད།</string>
+    <string name="cooling_title">འཕྲུལ་ཆས་ཚ་དྲགས།</string>
+    <string name="cooling_title_vzw">冷却</string>
+    <string name="data_connection_error_data_roaming_off_body">Wi-Fiདྲ་བ་དང་འབྲེལ་བའམ་གཞི་གྲངས་ཕྱིར་ཡན་ཁ་ཕྱེ་དགོས།</string>
+    <string name="data_connection_error_flight_mode_on_body">ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་Wi-Fiདྲ་བ་དང་འབྲེལ་མེད།གལ་སྲིད་འགུལ་གཏོང་དྲ་བ་བེད་སྤྱོད་བཏང་ཚེ།༼སྒྲིག་འགོད་༽ནང་ནས་འཕུར་སྐྱོད་རྣམ་པ་ཁ་རྒྱག་དགོས།</string>
+    <string name="data_connection_error_flight_mode_on_body_tablet">ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་Wi-Fiདྲ་བ་དང་འབྲེལ་མེད།གལ་སྲིད་འགུལ་གཏོང་དྲ་བ་བེད་སྤྱོད་བྱེད་པར་སྒྱུར་ཚེ།༼སྒྲིག་འགོད་༽ནང་དུ་འཕུར་སྐྱོད་རྣམ་པ་ཁ་རྒྱག་དགོས།</string>
+    <string name="data_connection_error_flight_mode_on_title">འཕུར་སྐྱོད་རྣམ་པ་ཁ་རྒྱག་པ།</string>
+    <string name="data_connection_error_mobile_data_off">འགུལ་གཏོང་གཞི་གྲངས་ཁ་བཀག་ཟིན། Wi-Fi དྲ་བ་དང་འབྲེལ་བའམ་འགུལ་གཏོང་གཞི་གྲངས་ཁ་ཕྱེ་ནས་ཚོད་ལྟ་གནང་རོགས།</string>
+    <string name="data_connection_error_mobile_data_off_body">Wi-Fiདྲ་བ་དང་འབྲེལ་བའམ་འགུལ་གཏོང་གཞི་གྲངས་ཁ་ཕྱེ་དགོས།</string>
+    <string name="data_connection_error_mobile_data_off_title">འགུལ་གཏོང་གཞི་གྲངས་ཁ་ཕྱེའམ།</string>
+    <string name="data_connection_error_no_network_connection">དྲ་བའི་འབྲེལ་མཐུད་མེད།</string>
+    <string name="data_connection_error_no_signal_body">སྤྱོད་ཆོག་པའི་དྲ་བ་གང་རུང་མི་རྙེད།</string>
+    <string name="data_connection_error_toast_notification">Wi-Fiའབྲེལ་མཐུད་བྱེད་དགོས།Wi-Fiདྲ་བ་འབྲེལ་ནས་བསྐྱར་ཚོད་བྱེད་དགོས།</string>
+    <string name="dcm_lockscreen_active_help_text">སྒྲོག་པའི་རྟགས་རིས་ལ་བརྡེབས་ནས་ཁ་འབྱེད་རོགས།</string>
+    <string name="dcm_lockscreen_active_help_text_biometrics">སྐྱེ་དངོས་ངོས་འཛིན་ནམ་སྒྲོག་པའི་རྟགས་རིས་ལ་བརྡེབས་ནས་ཁ་འབྱེད་རོགས།</string>
+    <string name="dcm_lockscreen_active_help_text_biometrics_voice_assistant">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ནས་ཁ་འབྱེད་རོགས།</string>
+    <string name="dcm_lockscreen_active_help_text_face">བཞིན་རས་ངོས་འཛིན་ནམ་སྒྲོག་པའི་རྟགས་རིས་ལ་བརྡེབས་ནས་ཁ་འབྱེད་རོགས།</string>
+    <string name="dcm_lockscreen_active_help_text_face_voice_assistant">བཞིན་རས་ངོས་འཛིན་ནམ་སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ནས་ཁ་འབྱེད།</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints">མཛུབ་རིས་སྤྱོད་པའམ་ཡང་ན་རྟགས་རིས་ལ་བརྡེབས་ནས་ཁ་འབྱེད་རོགས།</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_face">མཛུབ་རིས་སྤྱད་ནས་ཁ་འབྱེད་པའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ལ་བརྡེབས་ནས་བཞིན་རས་ངོས་འཛིན་སྤྱོད་པར་སྒྱུར་རོགས།</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_face_voice_assistant">མཛུབ་རིས་སྤྱད་ནས་ཁ་འབྱེད་པའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ནས་བཞིན་རས་ངོས་འཛིན་དུ་སྒྱུར་རོགས།</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_intelligent">མཛུབ་རིས་སྤྱད་ནས་ཁ་འབྱེད་པའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ལ་བརྡེབས་ནས་༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པར་སྒྱུར་རོགས།</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_intelligent_voice_assistant">མཛུབ་རིས་སྤྱད་ནས་ཁ་འབྱེད་པའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ནས་༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པར་སྒྱུར་རོགས།</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_iris">མཛུབ་རིས་སྤྱད་ནས་ཁ་འབྱེད་པའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ལ་བརྡེབས་ནས་འཇའ་སྐྱི་སྤྱོད་པར་སྒྱུར་རོགས།</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_iris_voice_assistant">མཛུབ་རིས་སྤྱད་ནས་ཁ་འབྱེད་པའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ནས་འཇའ་སྐྱི་ངོས་འཛིན་དུ་སྒྱུར་རོགས།</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_voice_assistant">མཛུབ་རིས་སྤྱོད་པའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ནས་ཁ་འབྱེད་རོགས།</string>
+    <string name="dcm_lockscreen_active_help_text_intelligent">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཡང་ན་སྒྲོག་སེལ་རྟགས་རིས་ལ་བརྡེབས་ནས་ཁ་འབྱེད་རོགས།</string>
+    <string name="dcm_lockscreen_active_help_text_intelligent_voice_assistant">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ན་ཁ་འབྱེད་རོགས།</string>
+    <string name="dcm_lockscreen_active_help_text_iris">འཇའ་སྐྱི་སྤྱོད་པའམ་ཡང་ན་སྒྲོག་སེལ་རྟགས་རིས་ལ་བརྡེབས་ནས་ཁ་འབྱེད་རོགས།</string>
+    <string name="dcm_lockscreen_active_help_text_iris_voice_assistant">འཇའ་སྐྱི་སྤྱོད་པའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ནས་ཁ་འབྱེད་རོགས།</string>
+    <string name="dcm_lockscreen_active_help_text_voice_assistant">སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ནས་ཁ་འབྱེད།</string>
+    <string name="dcm_lockscreen_unlock_help_text">སྒྲོག་པའི་རྟགས་རིས་ལ་བརྡེབས་ནས་སྒྲོག་སེལ་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_face">སྒྲོག་པའི་རྟགས་རིས་ལ་བརྡེབས་ནས་སྦྱིན་རས་ངོས་འཛིན་བརྒྱུད་ནས་སྒྲོག་སེལ་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_face_voice_assistant">སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ཏེ་བཞིན་རས་ངོས་འཛིན་བརྒྱུད་ནས་སྒྲོག་སེལ།</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_intelligent">སྒྲོག་པའི་རྟགས་རིས་ལ་བརྡེབས་ནས་༼རིག་ནུས་བཤེར་འབེབ༽བརྒྱུད་ནས་སྒྲོག་སེལ་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_intelligent_voice_assistant">སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ཏེ་༼རིག་ནུས་བཤེར་འབེབ༽སྤྱད་ནས་སྒྲོག་སེལ།</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_iris">གལ་ཏེ་འཇའ་སྐྱི་བཀོལ་ནས་སྒྲོག་སེལ་དགོས་ན་སྒྲོག་གི་རྟགས་རིས་ལ་སྡེབ་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_iris_voice_assistant">སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ཏེ་འཇའ་སྐྱི་སྒྲོག་སེལ་སྤྱོད།</string>
+    <string name="dcm_lockscreen_unlock_help_text_biometrics">སྐྱེ་དངོས་ངོས་འཛིན་ནམ་སྒྲོག་པའི་རྟགས་རིས་ལ་བརྡེབས་ནས་སྒྲོག་སེལ་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_biometrics_voice_assistant">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ནས་སྒྲོག་སེལ་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_face">བཞིན་རས་ངོས་འཛིན་ནམ་སྒྲོག་པའི་རྟགས་རིས་ལ་བརྡེབས་ནས་སྒྲོག་སེལ་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_face_voice_assistant">བཞིན་རས་ངོས་འཛིན་ནམ་སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ནས་སྒྲོག་སེལ་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints">མཛུབ་རིས་སྤྱོད་པའམ་ཡང་ན་རྟགས་རིས་ལ་བརྡེབས་ནས་ཁ་འབྱེད་སྒྲོག་སེལ་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_face">མཛུབ་རིས་སྤྱད་ནས་སྒྲོག་སེལ་པའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ལ་བརྡེབས་ནས་འཇའ་སྐྱི་སྤྱོད་པར་སྒྱུར་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_face_voice_assistant">མཛུབ་རིས་སྤྱད་ནས་སྒྲོག་སེལ་བའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ནི་བཞིན་རས་ངོས་འཛིན་དུ་སྒྱུར་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_intelligent">མཛུབ་རིས་སྤྱད་ནས་སྒྲོག་སེལ་པའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ལ་བརྡེབས་ནས་༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པར་སྒྱུར་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_intelligent_voice_assistant">མཛུབ་རིས་སྤྱད་ནས་སྒྲོག་སེལ་བའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ནི་བཞིན་རས་ངོས་འཛིན་དུ་སྒྱུར་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_iris">请使用指纹解锁设备，或点击锁定图标改为使用虹膜</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_iris_voice_assistant">མཛུབ་རིས་སྤྱད་ནས་ཁ་འབྱེད་པའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ནས་འཇའ་སྐྱི་སྤྱོད་པར་སྒྱུར་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_voice_assistant">མཛུབ་རིས་སྤྱོད་པའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ནས་སྒྲོག་སེལ་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_intelligent">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཡང་ན་སྒྲོག་སེལ་རྟགས་རིས་ལ་བརྡེབས་ནས་སྒྲོག་སེལ་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_intelligent_voice_assistant">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ན་སྒྲོག་སེལ་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_iris">འཇའ་སྐྱི་སྤྱོད་པའམ་ཡང་ན་སྒྲོག་སེལ་རྟགས་རིས་ལ་བརྡེབས་ནས་སྒྲོག་སེལ་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_iris_voice_assistant">འཇའ་སྐྱི་སྤྱོད་པའམ་ཡང་ན་སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ནས་སྒྲོག་སེལ་རོགས།</string>
+    <string name="dcm_lockscreen_unlock_help_text_voice_assistant">སྒྲོག་པའི་རྟགས་རིས་ལ་ཆ་བརྡེབས་བྱས་ནས་སྒྲོག་སེལ།</string>
+    <string name="dcm_lockscreen_voice_assistant_active_instructions">༼བསྡམ་སྒྲིག་༽མཐེབ་གཞོང་ཉིས་བརྡེབས་བྱས་ནས་ལག་ཐོག་ཁ་པར་གསང་འགྲོལ་བ།</string>
+    <string name="default_carrier_text_searching">འཚོལ་བ</string>
+    <string name="default_volume_control_summary">སྒྲ་ཤུགས་མཐེབ་མནན་དུས་སོར་བཞག་སྨྱན་གཟུགས་སྒྲ་ཤུགས་གཏོང་འཛིན་བྱས།</string>
+    <string name="default_volume_control_title">སྒྲ་ཤུགས་འཐེབ་བེད་སྤྱད་ནས་སྒྲ་ཚོད་འཛིན་པ།</string>
+    <string name="development_settings_title">གསར་སྤེལ་མཁན་གྱི་འདེམས་ག</string>
+    <string name="device_disabled">ཁྱེད་ཀྱི་བདེ་འཇགས་སྲིད་ཇུས་ཀྱིས་ཁྱེད་ཀྱིས་སྐྱེ་དངོས་ངོས་འཛིན་སྤྱད་ནས་གོམ་པ་གཉིས་ཀྱི་ར་སྤྲོད་སྤྱོད་པ་ཟློག གལ་ཏེ་ཁ་པར་གྱི་སྒྲོག་སེལ་དགོས་ན་ཁྱེད་ཀྱི་IT་དོ་དམ་པར་འབྲེལ་བ་བྱེད་རོགས།</string>
+    <string name="direction_lock_too_many_failed_attempts_countdown">སྐར་ཆ་%dརྗེས་སུ་སླར་ཚོད་ལྟ་བྱེད།</string>
+    <string name="disagree">མོས་མཐུན་མེད།</string>
+    <string name="dnd_noti_action_disable">ཁ་རྒྱག</string>
+    <string name="dnd_noti_message">དུས་བརྡ་སྐད་མེད་བཟོས་ཟིན།</string>
+    <string name="dnd_noti_title">སུན་འགོག་ཀྱི་ཁ་ཕྱེ་ཟིན།</string>
+    <string name="dock_non_resizeble_failed_to_dock_text">ཉེར་སྤྱོད་བྱ་རིམ་འདི་ཡིས་ཡོལ་འགོས་མཐོང་རིས་ལ་རྒྱབ་སྐྱོར་མི་ཐོབ།</string>
+    <string name="dont_support_mulit_window">བཀོལ་སྤྱོད་འདི་ལ་བརྙན་ཡོལ་མང་བ་རྒྱབ་སྐྱོར་མེད།</string>
+    <string name="dont_support_split_screen">ཉེར་སྤྱོད་བྱ་རིམ་འདི་ཡིས་ཡོལ་འགོས་མཐོང་རིས་ལ་རྒྱབ་སྐྱོར་མི་ཐོབ།</string>
+    <string name="download_popup_button_cancel">རྩིས་མེད།</string>
+    <string name="download_popup_button_download">ཕབ་ལེན་བྱེད།</string>
+    <string name="download_ps">%sཕབ་ལེན་བྱེད་དམ།</string>
+    <string name="dream_cant_use_this_app_in_multi_window_view_tpop">ཀུན་མཐོང་རིས་ལ་ དངོས་པོ་འདི་ལག་ལེན་འཐབ་མི་བཏུབ་པ།</string>
+    <string name="durationMinutes">སྐར་མ། %d</string>
+    <string name="emergency_mode">དོད་དྲགས་རྣམ་པ།</string>
+    <string name="fingerprint_verification_description_default_text">ཁྱེད་ཀྱི་མཛུབ་རིས་བཤེར་འབེབ་བྱེད།</string>
+    <string name="flash_light_disabled_by_low_battery">གློག་ཚད་མི་ལྡང་།གློག་བཞུ་ཁ་ཕྱེ་མི་ཐུབ།</string>
+    <string name="flash_light_notification_button">སྒོ་རྒྱག་པ།</string>
+    <string name="flash_light_notification_title">ལག་བཞུ་ཁ་ཕྱེ་ཟིན།</string>
+    <string name="flash_light_turn_off_by_low_battery">གློག་མི་ལྡང་།ལག་བཞུ་ཁ་རྒྱག་སྲིད།</string>
+    <string name="flight_mode_enabled_dialog_body">༼འཕུར་སྐྱོད་རྣམ་པ༽ཡི་སྒུལ་བསླངས་ཟིན།Wi-Fi་དྲ་རྒྱར་སྦྲེལ་ན་མ་གཏོགས།དེ་ལས་ལྡོག་ན་བཤེར་ལྟ་ཡོ་བྱད་དང་སྦྲག་ཡིག་གམ་དེ་ལས་གཞན་གྱི་དན་གྲངས་སྦྲེལ་མཐུད་བྱེད་དགོས་པའི་ཉེར་སྤྱོད་སྤྱོད་མི་ཐུབ།</string>
+    <string name="flight_mode_enabled_dialog_body_volte_and_vowifi">༼འཕུར་སྐྱོད་རྣམ་པ༽ཡི་སྒུལ་བསླངས་ཟིན།Wi-Fi་དྲ་རྒྱར་སྦྲེལ་ན་མ་གཏོགས།དེ་ལས་ལྡོག་ན་བཤེར་ལྟ་ཡོ་བྱད་དང་སྦྲག་ཡིག Wi-Fi་གླེང་མོལ་ལམ་དེ་ལས་གཞན་གྱི་དན་གྲངས་སྦྲེལ་མཐུད་བྱེད་དགོས་པའི་ཉེར་སྤྱོད་སྤྱོད་མི་ཐུབ།</string>
+    <string name="flight_mode_enabled_dialog_title">འཕུར་སྐྱོད་རྣམ་པ།</string>
+    <string name="force_immersive_guide_dialog_guide_path">གལ་སྲིད་མཐེབ་གནོན་འདི་སྦས་དགོས་ཚེ།༼སྒྲིག་འགོད་༽>༼འཆར་མཐོང་༽>༼ཕྱོགས་སྟོན་གསལ་བྱང་༽ནང་ཞུགས་དགོས།</string>
+    <string name="force_immersive_guide_dialog_message1">མཐེབ་གནོན་དེར་རྡེབ་ནས་སྣ་འདྲེན་སྡེ་ཡིབ།</string>
+    <string name="force_immersive_guide_dialog_message2">གློག་གསོག་སྣེ་གནས་ཉེ་འཁོར་གྱི་འཆར་ཡོལ་མཐའ་འཁོར་ནས་ནང་རོལ་དུ་འདྲེད་འགུལ་བྱེད་ཅིང་སྣ་འདྲེན་ནར་མོ་འཆར་དུ་འཇུག</string>
+    <string name="force_immersive_guide_dialog_message3">མཐེབ་དེར་ཆ་རྡེབ་བྱས་ན་སྣ་འདྲེན་སྡེའི་གནས་ས་གཏན་འཁེལ་བྱེད།</string>
+    <string name="force_immersive_guide_dialog_message4">བརྙན་ཡོལ་ཁག་ཅིག་(དཔེར་ན་བརྙན་ཡོལ་མ་ངོས་ལྟ་བུ།)ཐོག་ཕྱོགས་སྟོན་གསལ་བྱང་རྟག་ཏུ་གསལ་བ།</string>
+    <string name="force_immersive_guide_dialog_ok">གཏན་འཁེལ།</string>
+    <string name="force_immersive_guide_dialog_setting">སྒྲིག་འགོད།</string>
+    <string name="force_immersive_guide_dialog_title">ཕྱོགས་སྟོན་གསལ་བྱང་སྦས་པ།</string>
+    <string name="force_immersive_guide_toast_hide">ཉིས་བརྡེབས་བྱས་ནས་ཕྱོགས་སྟོན་གསལ་བྱང་སྦས་པ།</string>
+    <string name="force_immersive_guide_toast_show">ཉིས་བརྡེབས་བྱས་ནས་ཕྱོགས་སྟོན་གསལ་བྱང་བསྡམ་སྒྲིག་བྱེད།</string>
+    <string name="freeform_forced_resizable">དངོས་པོ་དུ་མའི་ནང་ ཡོ་བྱས་དེ་ལག་ལེན་འཐབ་མེད་པ།</string>
+    <string name="full_battery_noti_channel">གློག་རྫས་ཁེངས་ཟིན།</string>
+    <string name="full_battery_noti_text">གློག་རྫས་ཁེངས་ཟིན།</string>
+    <string name="full_battery_title">བརྡ་ཐོ།</string>
+    <string name="gesture_recents_device_assistance_onboarding">གོང་དུ་འདྲེད་ཅིང་མན་ནས་སྒྲིག་ཆས་ཀྱི་རམ་འདེགས་རྩོལ་ནུས་ཉེར་སྤྱོད་ཀྱི་ཁ་འབྱེད།</string>
+    <string name="gesture_recents_quick_scrub_onboarding">གཡས་སུ་འདྲེད་འགུལ་བྱས་ཏེ་མྱུར་མོས་ཉེར་སྤྱོད་བརྗེ་སྒྱུར་བྱེད།</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="greyscale_mode_title">སྐྱ་ཚད།</string>
+    <string name="hotspot_disable_wifi_sharing">Wi-Fi་མཉམ་རོལ་གྱི་སྒོ་སྟེམ།</string>
+    <string name="hotspot_enable_wifi_sharing">Wi-Fi་མཉམ་རོལ་གྱི་ཁ་འབྱེད་རྒྱུ་ཡིན་ནམ།</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off">འགུལ་སྐྱོད་ཚ་རྡུལ་དང་རིག་ནུས་ལྟ་ཀློག་གཉིས་དུས་གཅིག་ཏུ་སྤྱོད་མི་ཐུབ། རིག་ནུས་ལྟ་ཀློག་འགོག་རྒྱུ་རེད།</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_chn">WLANཚ་རྡུལ་དང་རིག་ནུས་ལྟ་ཀློག་གཉིས་དུས་གཅིག་ཏུ་སྤྱོད་ཐབས་མེད། རིག་ནུས་ལྟ་ཀློག་འགོག་པ་རེད།</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_spr">Smart Viewཁ་རྒྱག་རྗེས་གཞི་ནས་འགུལ་གཏོང་འབྲེལ་ཚེག་བེད་སྤྱོད་གཏོང་ཆོག།</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_tmo">Smart Viewཁ་རྒྱག་རྗེས་གཞི་ནས་འགུལ་གཏོང་འབྲེལ་ཚེག་བེད་སྤྱོད་གཏོང་ཆོག།</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_vzw">འགུལ་སྐྱོད་ཚ་རྡུལ་དང་རིག་ནུས་ལྟ་ཀློག་གཉིས་དུས་གཅིག་ཏུ་སྤྱོད་མི་ཐུབ། རིག་ནུས་ལྟ་ཀློག་འགོག་རྒྱུ་རེད།</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off">Wi-Fiཁ་རྒྱག་རྗེས་གཞི་ནས་འགུལ་གཏོང་འབྲེལ་ཚེག་བེད་སྤྱོད་གཏོང་ཐུབ།</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_att">འཁྱེར་བདེའི་Wi-Fiཚ་གནས་སྒོ་ཕྱེས་པ་ན་Wi-Fiཡི་སྒོ་སྟེམ།</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_chn">Wi-Fiཁ་རྒྱག་རྗེས་གཞི་ནས་འགུལ་གཏོང་འབྲེལ་ཚེག་བེད་སྤྱོད་གཏོང་ཐུབ།</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_jpn">༼Wi-Fi་དྲ་རྒྱ༽ཡི་སྒུལ་བསླངས་པ་ན་Wi-Fi་ཡི་སྒོ་སྟེམ་ངེས་ཡིན།</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_mtr">Wi-Fiཁ་རྒྱག་རྗེས་གཞི་ནས་འགུལ་གཏོང་འབྲེལ་ཚེག་བེད་སྤྱོད་གཏོང་ཐུབ།</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_spr">Wi-Fiཁ་རྒྱག་རྗེས་གཞི་ནས་འགུལ་གཏོང་འབྲེལ་ཚེག་བེད་སྤྱོད་གཏོང་ཐུབ།</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_tmo">༼USBདྲ་རྒྱ་མཉམ་རོལ༽ལམ་༼གནས་སྤོ་ཚ་གནས༽ཀྱི་སྒུལ་སློང་སྐབས་སུ་Wi-Fiཡི་སྒོ་སྟེམ།གལ་ཏེ་ Wi-Fiཡི་སྒུལ་སློང་དགོས་ན།༼USBདྲ་རྒྱ་མཉམ་རོལ༽ལམ་༼གནས་སྤོ་ཚ་གནས༽ཀྱི་སྒོ་སྟེམ།</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_vzw">འགུལ་གཏོང་འབྲེལ་ཚེག་ནས་ཁྱེད་ཀྱི་འགུལ་གཏོང་གཞི་གྲངས་བེད་སྤྱོད་བཏང་ནས་འབྲེལ་མཐུད་བྱེད་སྲིད།Wi-Fiའབྲེལ་མཐུད་ཁ་རྒྱག་སྲིད།</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_wifisharing_lite">ད་སྐབས་གྱི་Wi-Fi་དྲ་རྒྱ་ནི་ཚ་གནས་ལ་བརྟེན་ནས་མཉམ་རོལ་བྱེད་མི་ཐུབ།གནས་སྤོ་དན་གྲངས་སྤྱད་ནས་ཚབ་བྱེད།</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off">གལ་སྲིད་འགུལ་གཏོང་འབྲེལ་ཚེག་བེད་སྤྱོད་བཏང་ཚེ།མིག་སྔར་Wi-Fiཐད་འབྲེལ་བརྒྱུད་འབྲེལ་མཐུད་བྱས་པའི་འཕྲུལ་ཆས་ཡོད་ཚད་ཀྱི་འབྲེལ་མཐུད་བཅད་སྲིད།</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_chn">འགུལ་གཏོང་ WLAN འབྲེལ་ཚོལས་ཁྱ་ཕྱེ་བའི་སྐབས་ WLAN བརྒྱུད་ནས་ཐད་འབྲེལ་བྱ་བའི་འཕྲུལ་ཆས་ཁག་གི་འབྲེལ་མཐུད་བཅད་སྲིད།</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_spr">གལ་སྲིད་འགུལ་གཏོང་འབྲེལ་ཚེག་བེད་སྤྱོད་བཏང་ཚེ།མིག་སྔར་Wi-Fiཐད་འབྲེལ་བརྒྱུད་འབྲེལ་མཐུད་བྱས་པའི་འཕྲུལ་ཆས་ཡོད་ཚད་ཀྱི་འབྲེལ་མཐུད་བཅད་སྲིད།</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_tmo">གལ་སྲིད་འགུལ་གཏོང་འབྲེལ་ཚེག་བེད་སྤྱོད་བཏང་ཚེ།མིག་སྔར་Wi-Fiཐད་འབྲེལ་བརྒྱུད་འབྲེལ་མཐུད་བྱས་པའི་འཕྲུལ་ཆས་ཡོད་ཚད་ཀྱི་འབྲེལ་མཐུད་བཅད་སྲིད།</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_vzw">གལ་སྲིད་འགུལ་གཏོང་འབྲེལ་ཚེག་བེད་སྤྱོད་བཏང་ཚེ།མིག་སྔར་Wi-Fiཐད་འབྲེལ་བརྒྱུད་འབྲེལ་མཐུད་བྱས་པའི་འཕྲུལ་ཆས་ཡོད་ཚད་ཀྱི་འབྲེལ་མཐུད་བཅད་སྲིད།</string>
+    <string name="hotspot_warning_dialog_title_smartview_off">འགུལ་སྐྱོད་ཚ་ཁུལ་ཁ་ཕྱེ་དགོས་སམ།</string>
+    <string name="hotspot_warning_dialog_title_wifi_off">Wi-Fiཁ་རྒྱག་གམ།</string>
+    <string name="hotspot_warning_dialog_title_wifi_off_tmo">ཡིད་གཟབ།</string>
+    <string name="hotspot_warning_dialog_title_wifi_off_vzw">འགུལ་གཏོང་འབྲེལ་ཚེག་དང་Wi-Fi</string>
+    <string name="hotspot_warning_dialog_title_wifi_off_wifisharing_lite">Wi-Fi་དྲ་རྒྱ་ཆད་པའི་སྐབས་ཁོ་ནར་སྦྲེལ་མཐུད་བྱེད།</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off">འགུལ་སྐྱོད་ཚ་ཁུལ་ཁ་ཕྱེ་དགོས་སམ།</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off_tmo">ཡིད་གཟབ།</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off_vzw">འགུལ་གཏོང་འབྲེལ་ཚེག་དང་Wi-Fi</string>
+    <string name="image_viewer">པར་རིས་བཤེར་ལྟ་ཡོ་བྱད།</string>
+    <string name="ime_security_warning">%sགྱིས་ཁྱེད་ནས་འཇུག་པའི་ཡིག་རྐྱང་ཚང་མ་བསྡུ་གསོག་བྱེད་སྲིད།དེའི་ནང་གསང་ཨང་དང་ཡིད་རྟོན་དངུལ་བྱང་སོགས་པའི་སྒེར་གྱི་གཞི་གྲངས་ཚུད་ཡོད།</string>
+    <string name="incompatible_charger_dialog_text">连接的充电器与本手机不兼容。为防止损坏您的手机，已停止充电。若要继续充电，使用本手机附送的原装充电器和电缆。</string>
+    <string name="incompatible_charger_notification_text">无法充电。请使用原装充电器。</string>
+    <string name="incompatible_charger_ticker">གློག་སྣོན་བྱེད་མེད་པ།</string>
+    <string name="incompatible_charger_title">གློག་སྣོན་མེད་པ།</string>
+    <string name="insert_sim_card">SIMབྱང་བུ་འཇུག་པ།</string>
+    <string name="insert_sim_card_message">SIMབྱང་བུ་བསྒར་ནས་དྲ་བའི་ཞབས་ཞུར་བཅར་འདྲི་བྱེད་པ།</string>
+    <string name="iris_guide_str_enable_toggle">གནས་འདིར་རྡེབ་ནས་འཇའ་སྐྱི་སྤྱོད།</string>
+    <string name="iris_guide_str_for_text_preview">འཇའ་སྐྱི་སྤྱོད་ཆེད་འདིར་གཟིཊ།</string>
+    <string name="it_policy_not_allow_wifi">བདེ་འཇགས་སྲིད་ཇུས་ཀྱིས་Wi-Fiསྤྱོད་པ་ཟློག</string>
+    <string name="keyboard_shortcut_group_applications">ཉེར་སྤྱོད་བྱ་རིམ་མྱུར་མགྱོགས་འགྲོས་ཐབས།</string>
+    <string name="keyboard_shortcut_group_applications_bixby">པའེ་པི།</string>
+    <string name="keyboard_shortcut_group_applications_browser">བཤེར་ལྟ་ཡོ་བྱད།</string>
+    <string name="keyboard_shortcut_group_applications_calendar">ཉིན་ཐོ།</string>
+    <string name="keyboard_shortcut_group_applications_contacts">འབྲེལ་གཏུག་མིང་བྱང་།</string>
+    <string name="keyboard_shortcut_group_applications_email">གློག་རྡུལ་སྦྲག་ཡིག</string>
+    <string name="keyboard_shortcut_group_applications_messages">ཆ་འཕྲིན།</string>
+    <string name="keyboard_shortcut_group_applications_music">རོལ་དབྱངས།</string>
+    <string name="keyboard_shortcut_group_system">མ་ལག་མྱུར་མགྱོགས་འགྲོས་ཐབས།</string>
+    <string name="keyboard_shortcut_group_system_all_apps">ཉེར་སྤྱོད།</string>
+    <string name="keyboard_shortcut_group_system_back">ཕྱིར་ལོག</string>
+    <string name="keyboard_shortcut_group_system_home">བརྙན་ཡོལ་མ་ངོས།</string>
+    <string name="keyboard_shortcut_group_system_lock_screen">བསྡམ་སྒྲིག་བརྙན་ཡོལ།</string>
+    <string name="keyboard_shortcut_group_system_notifications">བརྡ་ཐོ།</string>
+    <string name="keyboard_shortcut_group_system_recents">ཉེ་དུས་བེད་སྤྱོད་བྱས་པ།</string>
+    <string name="keyboard_shortcut_group_system_running_apps">འགུལ་སྐྱོད་བྱེད་བཞིན་པའི་ཉེར་སྤྱོད་བྱ་རིམ།</string>
+    <string name="keyboard_shortcut_group_system_shortcuts_helper">མཐེབ་གཞོང་མྱུར་མགྱོགས་འགྲོས་ཐབས།</string>
+    <string name="keyboard_shortcut_group_system_switch_languages">སྐད་རིགས་བརྗེས་པ།</string>
+    <string name="keyboard_shortcut_popup_help">Metaམཐེབ་སྟེ།Windows་མཐེབ་དང་བཀའ་རྒྱའམ་སྒྲིག་བཀོལ་རྒྱུད་ཁོངས་གཞན་པའི་མཐེབ།</string>
+    <string name="keyguard_accessibility_call">འབོད་གཏོང་།</string>
+    <string name="keyguard_accessibility_direction_lock_unlock">ཁ་ཕྱོགས་སྒྲོག་འཛིན།</string>
+    <string name="keyguard_accessibility_dot">ཚེག</string>
+    <string name="keyguard_accessibility_pattern_area">图案区域</string>
+    <string name="keyguard_accessibility_pattern_unlock">རིི་མོས་སྒོ་ལྕགས་ཕྱེ་བ།</string>
+    <string name="keyguard_cmas_text">ཉེན་བརྡ་བྲེལ་མོ།</string>
+    <string name="keyguard_dualclock_locale_view_home">བརྙན་ཡོལ་མ་ངོས་སུ་ཕྱིར་ལོག</string>
+    <string name="keyguard_dualclock_locale_view_home_skt">སོ་ལེ།</string>
+    <string name="keyguard_dualclock_locale_view_roaming">ས་དེ་རང་</string>
+    <string name="keyguard_dualclock_locale_view_roaming_skt">འཁྱམ་མྱུལ།</string>
+    <string name="keyguard_fmm_owner_phone">དོ་བདག་གི་ཨང་གྲངས།</string>
+    <string name="keyguard_fmm_phone_locked_title">ཁ་པར་སྒོ་བསྡམ་ཟིན།</string>
+    <string name="keyguard_missing_sim_message">插入 USIM 卡，然后重启设备</string>
+    <string name="keyguard_progress_erasing_all">གཞི་གྲངས་ཡོངས་རྫོགས་སུབ་བཞིན་པ།</string>
+    <string name="keyguard_skt_usim_unregistered">无法使用 USIM 卡。请下载 USIM 卡信息。</string>
+    <string name="keyguard_usim_not_used">无法使用 USIM 卡。已输入错误的 PIN 解锁码 (PUK) %d 次。请购买新的 USIM 卡。</string>
+    <string name="kg_1_attempt_remaining">(ད་དུང་ཚོད་ལྟ་ཐེངས་1བྱས་ཆོག)</string>
+    <string name="kg_accessibility_password_unlock">འབྲེས་སྦྱོར་གསང་ཨང་གི་སྒྲོག་སེལ།</string>
+    <string name="kg_accessibility_pin_edit_box">སྒྲིག་བཟོ་བྱེད་ཁུལ།</string>
+    <string name="kg_accessibility_pin_unlock">PIN་སྒྲོག་སེལ།</string>
+    <string name="kg_background_auth_face_instruction_text">གདོང་བཞིན་ཚོར་རྟོགས་བེད་སྤྱད་ནས་གསང་འགྲོལ།</string>
+    <string name="kg_background_auth_fingerprint_unlock_successed_text">མཛུབ་རིས་བརྒྱུད་ནས་ལག་ཐོག་ཁ་པར་གསང་འགྲོལ་བྱས་ཟིན།</string>
+    <string name="kg_background_auth_iris_instruction_text">འཇའ་སྐྱི་བེད་སྤྱོད་བྱས་ནས་གསང་འགྲོལ་བ།</string>
+    <string name="kg_background_auth_tablet_fingerprint_unlock_successed_text">མཛུབ་རིས་བརྒྱུད་ནས་ངོས་པང་གློག་ཀླད་གསང་འགྲོལ་བྱེད།</string>
+    <string name="kg_background_auth_tablet_unlock_failed_text">ངོས་པང་གློག་ཀླད་གསང་འགྲོལ་མི་ཐུབ།</string>
+    <string name="kg_background_auth_tablet_unlock_successed_text">ངོས་པང་གློག་ཀླད་གསང་འགྲོལ་བྱས་ཟིན།</string>
+    <string name="kg_background_auth_unlock_failed_text">ལག་ཐོག་ཁ་པར་གསང་འགྲོལ་མི་ཐུབ།</string>
+    <string name="kg_background_auth_unlock_instruction_text">སྐྱེ་དངོས་ཚོར་རྟོགས་བེད་སྤྱོད་བྱས་ནས་གསང་འགྲོལ་དགོས།</string>
+    <string name="kg_background_auth_unlock_successed_text">ལག་ཐོག་ཁ་པར་བསྡམ་སྒྲིག་བྱས་ཟིན།</string>
+    <string name="kg_biometric_temporary_error_text">བཞིན་རས་ངོས་འཛིན་ནམ་འཇའ་སྐྱི་ངོས་འཛིན་སྤྱོད་མི་ཐུབ།གལ་ཏེ་གནས་ཚུལ་འདི་འདྲར་བསྟུད་མར་བསྐུར་ན།ཁྱེད་ཀྱི་ཁ་པར་གྱི་སྒུལ་སླར་སློང་རོགས།</string>
+    <string name="kg_biometrics_has_confirmed">སྐྱེ་དངོས་ངོས་འཛིན་ངོས་ལེན་བྱས་ཟིན།</string>
+    <string name="kg_biometrics_swipe_active_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱད་ནས་སྒོ་འབྱེད།</string>
+    <string name="kg_biometrics_swipe_active_voice_assistant_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་འཆར་ཡོལ་དུ་མཛུབ་མོ་གཉིས་འདྲེད་ནས་ཁ་འབྱེད།</string>
+    <string name="kg_biometrics_swipe_unlock_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱད་ནས་་སྒྲོག་སེལ།</string>
+    <string name="kg_biometrics_swipe_unlock_voice_assistant_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་འཆར་ཡོལ་དུ་མཛུབ་མོ་གཉིས་འདྲེད་ནས་སྒྲོག་སེལ།</string>
+    <string name="kg_carrier_lock_call_owner">ང་ལ་ཁ་པར་གཏོང་ཡོང་དགོས།</string>
+    <string name="kg_carrier_lock_findlostphone">ལག་ཐོག་ཁ་པར་བོར་བརླག་སོང་བའམ་རྐུ་ལ་ཤོར་ཟིན།</string>
+    <string name="kg_carrier_lock_too_many_failed_attempts">མཉམ་བསྲེས་གསང་ཨང་ཐེངས་5འཇུག་ནོར་ཕྱིན།སྐར་མ་10 རྗེས་སུ་བསྐྱར་ཚོད་བྱེད་དགོས།</string>
+    <string name="kg_carrier_lock_unlock">གསང་ཨང་འཇུག་པ།</string>
+    <string name="kg_carrier_lock_wrong_password">མཉམ་བསྲེས་གསང་ཨང་འཇུག་ནོར་སོང་ཟིན།</string>
+    <string name="kg_ctc_enter_confirm_pin_hint">UIM/SIMབྱང་བུ་གསར་པའི་གསང་འགྲོལ་PINཨང་གྲངས་ཡང་བསྐྱར་འཇུག་ནས་གཏན་འཁེལ་བྱ་དགོས།</string>
+    <string name="kg_ctc_password_wrong_pin_code_one">འཇུག་པའི་UIM/SIMབྱང་བུ་PINཨང་གྲངས་ནོར།ཚོད་ལྟ་ཐེངས་1བྱས་ཆོག</string>
+    <string name="kg_ctc_password_wrong_pin_code_other">འཇུག་པའི་UIM/SIMབྱང་བུ་PINཨང་གྲངས་ནོར།ཚོད་ལྟ་ཐེངས་%dབྱས་ཆོག</string>
+    <string name="kg_ctc_puk_enter_pin_hint">UIM/SIMབྱང་བུ་གསར་པའི་གསང་འགྲོལ་PINཨང་གྲངས་འཇུག་དགོས།</string>
+    <string name="kg_ctc_sim_puk_instructions">UIM/SIMབྱང་བུ་གསང་བསྡམ་ཟིན།PUKཨང་གྲངས་འཇུག་རོགས།དོ་གཉེར་ཚོང་པ་དང་འབྲེལ་གཏུག་བྱས་ནས་ཞིབ་ཕྲའི་ཆ་འཕྲིན་རྒྱུས་ལེན་བྱ་དགོས།</string>
+    <string name="kg_ctc_sim_puk_remaining_1_attempt">འཇུག་པའི་PUKཨང་གྲངས་ནོར།གལ་སྲིད་ཡང་བསྐྱར་PUKཨང་གྲངས་ཐེངས་གཅིག་ནོར་ཚེ།UIM/SIMབྱང་བུ་བསྡམ་སྒྲིག་བྱེད་སྲིད།</string>
+    <string name="kg_ctc_sim_puk_remaining_attempts">输入的 PUK 码错误。如果您再输错 %d 次 PUK 码，UIM/SIM 卡将被永久锁定。</string>
+    <string name="kg_ctc_sim_unlock_progress_dialog_message">ད་ལྟ་UIM/SIMབྱང་བུ་གསལ་འགྲོལ་བྱེད་བཞིན་པ།</string>
+    <string name="kg_ctc_unlock_sim_pin_instructions">UIM/SIMབྱང་བུའི་གསང་འགྲོལ་PINཨང་གྲངས་འཇུག་དགོས།</string>
+    <string name="kg_dcm_sim_puk_instructions">PINཨང་གྲངས་འགོག་ཟིན།PUKཨང་གྲངས་འཇུག་ནས་མུ་མཐུད་བྱ་དགོས།</string>
+    <string name="kg_default_carrier_text_searching">འཚོལ་བ</string>
+    <string name="kg_dex_emergency_text">གལ་སྲིད་དོད་དྲགས་འབོད་གཏོང་བྱས་ཚེ།DeXནང་ནས་ལག་ཐོག་ཁ་པར་དོར་དགོས།</string>
+    <string name="kg_direction_lock_instructions_normal_mode">ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་ནས་བརྙན་ཡོལ་བསྡམ་སྒྲིག་བྱེད།</string>
+    <string name="kg_empty_sim_perso_hint">གསང་ཨང་ནང་འཇུག་བྱས་མེད།གསང་ཨང་(PIN)ནང་འཇུག་བྱེད།</string>
+    <string name="kg_face_1st_active_instructions">བཞིན་རས་ངོས་འཛིན་སྤྱད་ནས་ཁ་འབྱེད།</string>
+    <string name="kg_face_1st_unlock_instructions">བཞིན་རས་ངོས་འཛིན་སྤྱད་ནས་སྒྲོག་སེལ།</string>
+    <string name="kg_face_authentication_error_camera_unavailable_retry_text">ངོ་གདོང་ངོས་འཛིན་ལ་དཀའ་ངལ་འདུག ལྡེབ་ནས་སླར་བྱེད།</string>
+    <string name="kg_face_authentication_error_camera_unavailable_video_call_text">གཟུགས་མཐོང་བརྙན་པར་བྱེད་ཚེ་ཁྱེད་རང་གི་ངོ་གདོང་ངོས་འཛིན་ལག་ལེན་འཐབ་མི་ནུས་པ།</string>
+    <string name="kg_face_authentication_error_retry_text">གདོང་བཞིན་ཚོར་རྟོགས་མ་ཐུབ།རྟགས་རིས་བརྡེབས་ནས་གདོང་བཞིན་ཚོར་རྟོགས་བསྐྱར་དུ་བྱེད་དགོས།</string>
+    <string name="kg_face_authentication_failed_retry_text">མི་མཐུན།རྟགས་རིས་བརྡེབས་ནས་གདོང་བཞིན་ཚོར་རྟོགས་བེད་སྤྱོད་གཏོང་དགོས།</string>
+    <string name="kg_face_cancel_for_dex">གདོང་པ་ཚོར་རྟོགས་རྩིས་མེད་བཏང་།</string>
+    <string name="kg_face_cover_clear_view_toast_for_dex">གདོང་བཞིན་ཚོར་རྟོགས་དེ་Clear Viewསྲུང་སྐྱོང་ཤུབས་འབྲེལ་སྐབས་སྤྱོད་མི་ཐུབ།</string>
+    <string name="kg_face_cover_led_view_toast_for_dex">གདོང་བཞིན་ཚོར་རྟོགས་དེ་LEDརིག་ནུས་སྲུང་སྐྱོང་ཀོ་ཤུབས་ཁེབས་ཐོག་སྤྱོད་མི་ཐུབ།</string>
+    <string name="kg_face_cover_s_view_toast_for_dex">གདོང་བཞིན་ཚོར་རྟོགས་དེ་རིག་ནུས་སྲུང་སྐྱོང་ཀོ་ཤུབས་ཁེབས་ཐོག་སྤྱོད་མི་ཐུབ།</string>
+    <string name="kg_face_cover_toast_for_dex">སྲུང་ཁེབས་ལ་སྦྲེལ་སྐབས་སུ་ངོ་གདོང་ངོས་འཛིན་སྤྱོད་མི་ཐུབ།</string>
+    <string name="kg_face_direction_active_instructions">གདོང་བཞིན་ཚོར་རྟོགས་བེད་སྤྱད་པའམ་ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་པ་ནས་ཁ་ཕྱེ་དགོས།</string>
+    <string name="kg_face_direction_none_instructions">གདོང་བཞིན་ཚོར་རྟོགས་བེད་སྤྱད་པའམ་ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་པ་དགོས།</string>
+    <string name="kg_face_guide_text_for_enable_toggle">འདི་གར་བརྡེབས་ནས་གདོང་བཞིན་ཚོར་རྟོགས་བེད་སྤྱོད་བྱས།</string>
+    <string name="kg_face_not_supported_at_180_degree">གལ་ཏེ་བཞིན་རས་ངོས་འཛིན་སྤྱོད་དགོས་ན་ཁྱེད་ཀྱི་སྙོམ་ལེབ་གློག་ཀླད་འཁོར་འགུལ་བྱས་ཏེ་པར་ཆས་ནི་ཞབས་འདབས་ལ་འབྲལ་ཏུ་འཇུག་རོགས།</string>
+    <string name="kg_face_or_fingerprint_active_voice_assistant_instructions">མཛུབ་རིས་སྤྱད་ནས་ཁ་ཕྱེ་བའམ་མཛུབ་མོ་གཉིས་སྤྱད་དེ་བརྙན་ཡོལ་འདྲུད་དེ་གདོང་བཞིན་ཚོར་རྟོགས་བེད་སྤྱོད་བྱེད་པ།</string>
+    <string name="kg_face_password_active_instructions">གདོང་བཞིན་ཚོར་རྟོགས་བེད་སྤྱད་པའམ་མཉམ་བསྲེས་གསང་ཨང་འཇུག་ནས་ཁ་ཕྱེ་དགོས།</string>
+    <string name="kg_face_password_none_instructions">གདོང་བཞིན་ཚོར་རྟོགས་བེད་སྤྱད་པའམ་མཉམ་བསྲེས་གསང་ཨང་འཇུག་དགོས།</string>
+    <string name="kg_face_pattern_active_instructions">གདོང་བཞིན་ཚོར་རྟོགས་བེད་སྤྱད་པའམ་རིས་དབྱིབས་བྲིས་ནས་ཁ་ཕྱེ་དགོས།</string>
+    <string name="kg_face_pattern_none_instructions">གདོང་བཞིན་ཚོར་རྟོགས་བེད་སྤྱད་པའམ་རིས་དབྱིབས་བྲིས་དགོས།</string>
+    <string name="kg_face_pin_active_instructions">གདོང་བཞིན་ཚོར་རྟོགས་བེད་སྤྱད་པའམ་PINའཇུག་ནས་ཁ་ཕྱེ་དགོས།</string>
+    <string name="kg_face_pin_none_instructions">གདོང་བཞིན་ཚོར་རྟོགས་བེད་སྤྱད་པའམ་PINའཇུག་དགོས།</string>
+    <string name="kg_face_retry_content_description">ཉིས་བརྡེབས་བྱས་ནས་གདོང་བཞིན་ཚོར་རྟོགས་བེད་སྤྱོད་གཏོང་དགོས།</string>
+    <string name="kg_face_retry_text">རྟགས་རིས་ལ་བརྡེབས་ནས་སླར་བཞིན་རས་ངོས་འཛིན་གྱི་ཚོད་ལྟ་བྱེད།</string>
+    <string name="kg_face_start_for_dex">ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་ཐོག་གདོང་པ་ཚོར་རྟོགས་བེད་སྤྱད།</string>
+    <string name="kg_face_stop">བཞིན་རས་ངོས་འཛིན་གྱི་མཚམས་འཇོག</string>
+    <string name="kg_face_toast_preview_for_dex">ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་ཐོག་གདོང་པ་ཚོར་རྟོགས་སྤྱད་ནས་ཐོབ་ཐང་ངོས་འཛིན་བྱེད་པ།</string>
+    <string name="kg_fbe_notification_header">སླར་ཁ་པར་གྱི་སྒུལ་བསླངས་ཟིན།</string>
+    <string name="kg_fbe_notification_message">ཁྱེད་ཀྱི་ཁ་པར་གྱི་སྒྲོག་སེལ་ནས་ཉེར་སྤྱོད་ཀྱི་བརྡ་སྦྱོར་འཐོབ་པར་བྱེད།</string>
+    <string name="kg_finger_print_bad_quality_error_message">མཛུབ་རིས་ཚོར་འདྲེན་ཡོ་བྱད་ལ་དྲེག་པ་འཁོར་ཡོད་སྲིད།ཁུལ་ཁོངས་འདིར་གཙང་སྦྲ་བྱས་ནས་བསྐྱར་ཚོད་བྱེད་དགོས།</string>
+    <string name="kg_finger_print_database_error_message">མཛུབ་རིས་གཞི་གྲངས་སྐྱོན་ཤོར་ཟིན།མཛུབ་རིས་བརྙན་ཡོལ་བསྡམ་སྒྲིག་རིགས་གྲས་སུ་བསྐྱར་སྒྲིག་བྱས་རྗེས།ཁྱེད་ཀྱི་མཛུབ་རིས་བསྐྱར་དུ་སྣོན་འཇུག་བྱེད་པའམ་བརྙན་ཡོལ་བསྡམ་སྒྲིག་རིགས་གྲས་སྒྱུར་དགོས།</string>
+    <string name="kg_finger_print_not_responding_error_message">མཛུབ་རིས་ཚོར་ལེན་ཡོ་བྱད་དང་ལེན་མི་བྱེད་པས། ཅུང་ཙམ་ནས་བསྐྱར་ཚོད་གནང་རོགས།</string>
+    <string name="kg_finger_print_sensor_changed_error_message">མཛུབ་རིས་ཚོར་བརྡ་བརྒྱུད་གཏོང་འཕྲུལ་ཆས་ལེགས་པར་བསྒྱུར་མི་འདུག ཞབས་ཞུ་ས་ཚིགས་ལ་འབྲེལ་བ་བྱེད།</string>
+    <string name="kg_finger_print_sensor_error_message">མཛུབ་རིས་ཚོར་ལེན་ཡོ་བྱད་ཀྱི་ཚོར་ལེན་བྱེད་མ་ཐུབ། གལ་སྲིད་ཆ་འཕྲིན་འདི་ཡང་བསྐོར་བསྐྱར་བསྐོར་ཐོན་ཚེ། ཁྱེད་ཀྱི་འཕྲུལ་ཆས་ཀྱི་གློག་ཁ་བསྐྱར་དུ་ཕྱེ་དགོས།</string>
+    <string name="kg_finger_print_sensor_with_recalibration_error_message">ཡོལ་ངོས་གཙོ་བོའི་མཐེབ་གཙང་མ་སྐམ་པོ་ཡིན་ངེས་ཅན་ཐོག་ཡང་བསྐྱར་ཚོད་ལྟ་བྱེད་རོགས།</string>
+    <string name="kg_fingerprint_acquired_image_dirty">མཛུབ་རིས་ཚོར་འདྲེན་ཆས་ཕྱིས་ནས་སླར་ཚོད་ལྟ་བྱེད་རོགས།</string>
+    <string name="kg_fingerprint_acquired_light">ཤུགས་བཀོལ་ནས་གནོན་རོགས།</string>
+    <string name="kg_fingerprint_acquired_partial">མཛུབ་རིས་ཚོར་འདྲེན་ཆས་ཚང་མ་འགེབས།</string>
+    <string name="kg_fingerprint_acquired_too_fast">ཁྱེད་ཀྱི་མཛུབ་མོ་ནི་ཚོར་འདྲེན་ཆས་སྟེང་དུ་ཅུང་རིང་བར་འཇོག་དགོས།</string>
+    <string name="kg_fingerprint_acquired_too_wet">ཁྱེད་ཀྱི་མཛུབ་མོ་གཙང་མ་ཡིན་པ་ཁག་ཐེག་བྱེད་རོགས།</string>
+    <string name="kg_fingerprint_direction_active_instructions">མཛུབ་རིས་བེད་སྤྱད་པའམ་ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་་ཁ་ཕྱེ་རོགས།</string>
+    <string name="kg_fingerprint_direction_none_instructions">མཛུབ་རིས་བེད་སྤྱོད་བཏང་བའམ་ཡང་ན་མུ་འབྲེལ་ཁ་ཕྱོགས་བྲིས་དགོས།</string>
+    <string name="kg_fingerprint_no_match">ཆ་འགྲིག་མེད།</string>
+    <string name="kg_fingerprint_or_swipe_active_instructions">མཛུབ་རིས་སྤྱད་ནས་ཁ་འབྱེད།</string>
+    <string name="kg_fingerprint_or_swipe_active_voice_assistant_instructions">མཛུབ་རིས་སྤྱོད་པའམ་འཆར་ཡོལ་དུ་མཛུབ་མོ་གཉིས་འདྲེད་ནས་ཁ་འབྱེད་རོགས།</string>
+    <string name="kg_fingerprint_or_swipe_unlock_instructions">མཛུབ་རིས་སྤྱད་ནས་སྒྲོག་སེལ།</string>
+    <string name="kg_fingerprint_password_active_instructions">མཛུབ་རིས་བེད་སྤྱད་པའམ་གསང་ཨང་འཇུག་ནས་ཁ་ཕྱེ།</string>
+    <string name="kg_fingerprint_password_none_instructions">མཛུབ་རིས་སྤྱོད་པའམ་གསང་གྲངས་ནང་འཇུག</string>
+    <string name="kg_fingerprint_pattern_active_instructions">མཛུབ་རིས་བེད་སྤྱད་པའམ་རིས་དབྱིབས་བྲིས་ནས་ཁ་ཕྱེ།</string>
+    <string name="kg_fingerprint_pattern_none_instructions">མཛུབ་རིས་སྤྱོད་པའམ་ཐིག་རིས་འགོད།</string>
+    <string name="kg_fingerprint_pin_active_instructions">མཛུབ་རིས་སམ་PINཨང་གྲངས་འཇུག་ནས་ཁ་ཕྱེ་བ།</string>
+    <string name="kg_fingerprint_pin_none_instructions">མཛུབ་རིས་སྤྱོད་པའམPINནང་འཇུག</string>
+    <string name="kg_fingerprints_direction_bouncer_instructions">མཛུབ་རིས་བེད་སྤྱད་པའམ་ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་་ཁ་ཕྱེ་རོགས།</string>
+    <string name="kg_fingerprints_direction_instructions">མཛུབ་རིས་བེད་སྤྱོད་བཏང་བའམ་ཡང་ན་མུ་འབྲེལ་ཁ་ཕྱོགས་བྲིས་དགོས།</string>
+    <string name="kg_fingerprints_direction_unabled_instructions">您的设备已重启，需要使用方向序列解锁。您可以在下次解锁设备时使用指纹。</string>
+    <string name="kg_fingerprints_password_bouncer_instructions">མཛུབ་རིས་བེད་སྤྱད་པའམ་གསང་ཨང་འཇུག་ནས་ཁ་ཕྱེ།</string>
+    <string name="kg_fingerprints_password_instructions">མཛུབ་རིས་སྤྱོད་པའམ་གསང་གྲངས་ནང་འཇུག</string>
+    <string name="kg_fingerprints_password_unabled_instructions">您的设备已重启，需要使用混合密码解锁。您可以在下次解锁设备时使用指纹。</string>
+    <string name="kg_fingerprints_pattern_bouncer_instructions">མཛུབ་རིས་བེད་སྤྱད་པའམ་རིས་དབྱིབས་བྲིས་ནས་ཁ་ཕྱེ།</string>
+    <string name="kg_fingerprints_pattern_instructions">མཛུབ་རིས་སྤྱོད་པའམ་སྒོ་འབྱེད་དབྱིབས་རིས་འབྲི་བ།</string>
+    <string name="kg_fingerprints_pattern_unabled_instructions">您的设备已重启，需要使用图案解锁。您可以在下次解锁设备时使用指纹。</string>
+    <string name="kg_fingerprints_pin_bouncer_instructions">མཛུབ་རིས་སམ་PINཨང་གྲངས་འཇུག་ནས་ཁ་ཕྱེ་བ།</string>
+    <string name="kg_fingerprints_pin_instructions">མཛུབ་རིས་སྤྱོད་པའམPINནང་འཇུག</string>
+    <string name="kg_fingerprints_pin_unabled_instructions">ཁྱེད་ཀྱི་འཕྲུལ་ཆས་གློག་ཁ་བསྐྱར་དུ་ཟིན།PINཨང་གྲངས་བེད་སྤྱོད་བཏང་ནས་གསང་འགྲོལ་དགོས།ཁྱེད་ནས་རྗེས་སུ་འཕྲུལ་ཆས་གསང་འགྲོལ་བྱེད་སྐབས་མཛུབ་རིས་བེད་སྤྱོད་གཏོང་ཆོག</string>
+    <string name="kg_flight_mode">འཕུར་སྐྱོད་རྣམ་པ།</string>
+    <string name="kg_forgot_spass_button_text">通过三星帐户解锁</string>
+    <string name="kg_hide_password_accessibility">འདྲེས་སྦྱོར་གསང་ཨང་ཡིབ།</string>
+    <string name="kg_ib_cancel_for_dex">རིག་ནུས་བཤེར་འབེབ་འདོར།</string>
+    <string name="kg_ib_cancel_text">རིག་ནུས་བཤེར་འབེབ་འདོར།</string>
+    <string name="kg_ib_cover_toast_for_dex">སྲུང་སྐྱོང་ཁ་ལེབ་ལ་སྦྲེལ་སྐབས་སུ་༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་མི་ཐུབ།</string>
+    <string name="kg_ib_not_supported_at_180_degree">གལ་ཏེ་རིག་ནུས་བཤེར་འབེབ་སྤྱོད་དགོས་ན།ཁྱེད་ཀྱི་སྙོམ་ལེབ་གློག་ཀླད་སྐོར་ནར་པར་ཆས་ནི་ཞབས་འདབས་ལ་འབྲལ་ཏུ་འཇུག་རོགས།</string>
+    <string name="kg_ib_retry_text">རྟགས་རིས་ལ་བརྡེབས་ནས་སླར་༼རིག་ནུས་བཤེར་འབེབ༽ཀྱི་ཚོད་ལྟ་བྱེད།</string>
+    <string name="kg_ib_start_for_dex">ཁྱེད་ཀྱི་ཁ་པར་སྟེང་དུ་རིག་ནུས་བཤེར་འབེབ་སྤྱོད།</string>
+    <string name="kg_ib_stop">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་མཚམས་འཇོག</string>
+    <string name="kg_ib_toast_preview_for_dex">ཁྱེད་ཀྱི་ཁ་པར་སྟེང་དུ་རིག་ནུས་བཤེར་འབེབ་སྤྱོད།</string>
+    <string name="kg_incorrect_password">གསང་གྲངས་བསྲེས་མ་ནང་འཇུག་བྱས་པ་ནོར་སོང་།</string>
+    <string name="kg_incorrect_pattern">རི་མོ་བྲིས་པ་ནོར་སོང་།</string>
+    <string name="kg_incorrect_pin">ནོར་འཁྲུལ་གྱི་ཨང་ཀིའི་གསང་གྲངས་ནང་འཇུག་བྱས།</string>
+    <string name="kg_infinity_wallpaper_description">Infinityཡོལ་རིས་དེ་དུས་གཅིག་ནང་ཁྱེད་ཀྱི་Always on Displayདང་བརྙན་ཡོལ་མ་ངོས་དང་བསྡམ་སྒྲིག་བརྙན་ཡོལ་བེད་སྤྱོད་བཏང་སྲིད།</string>
+    <string name="kg_infinity_wallpaper_description_without_aod">Infinityཡོལ་རིས་དུས་མཚུངས་ཁྱེད་ཀྱི་བརྙན་ཡོལ་མ་ངོས་དང་བསྡམ་སྒྲིག་བརྙན་ཡོལ་ཐོག་བེད་སྤྱོད་གཏོང་སྲིད།</string>
+    <string name="kg_intelligent_1st_active_instructions">རིག་ནུས་བཤེར་འབེབ་སྤྱད་ནས་ཁ་འབྱེད།</string>
+    <string name="kg_intelligent_1st_unlock_instructions">རིག་ནུས་བཤེར་འབེབ་སྤྱད་ནས་སྒྲོག་སེལ།</string>
+    <string name="kg_intelligent_direction_active_instructions">རིག་ནུས་བཤེར་འབེབ་སྤྱོད་པའམ་ཡང་ན་ཁ་ཕྱོགས་སྟར་སྒྲིག་སྤྱད་ནས་ཁ་འབྱེད་རོགས།</string>
+    <string name="kg_intelligent_direction_none_instructions">རིག་ནུས་བཤེར་འབེབ་སྤྱོད་པའམ་ཡང་ན་ཁ་ཕྱོགས་སྟར་སྒྲིག་སྤྱོད།</string>
+    <string name="kg_intelligent_or_fingerprint_active_voice_assistant_instructions">མཛུབ་རིས་སྤྱད་ནས་ཁ་འབྱེད་པའམ་ཡང་ན་འཆར་ཡོལ་ལ་མཛུབ་མོ་2་འདྲེད་ནས་༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད།</string>
+    <string name="kg_intelligent_password_active_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཡང་ན་འདྲེས་སྦྱོར་གསང་ཨང་ནང་འཇུག་བྱས་ནས་ཁ་འབྱེད་རོགས།</string>
+    <string name="kg_intelligent_password_none_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཡང་ན་འདྲེས་སྦྱོར་གསང་ཨང་ནང་འཇུག་བྱེད་རོགས།</string>
+    <string name="kg_intelligent_pattern_active_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཡང་ན་ཐིག་རིས་བྲིས་ནས་ཁ་འབྱེད་རོགས།</string>
+    <string name="kg_intelligent_pattern_none_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཡང་ན་ཐིག་རིས་འགོད་རོགས།</string>
+    <string name="kg_intelligent_pin_active_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཡང་ན་PIN་ནང་འཇུག་བྱས་ནས་ཁ་འབྱེད་རོགས།</string>
+    <string name="kg_intelligent_pin_none_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཡང་ན་PIN་ནང་འཇུག་བྱེད་རོགས།</string>
+    <string name="kg_intelligent_retry_content_description">ཆ་བརྡེབས་བྱས་ནས་༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད།</string>
+    <string name="kg_intelligent_scan_proximity_guide_text">ཁྱེད་ཀྱི་ལག་པས་ཚོར་འདྲེན་ཆས་ཀྱི་བཀབ་ཡོད་དམ།ཚོར་འདྲེན་ཆས་ཕྱིར་འབུད་པ་བྱས་ཏེ་རིག་ནུས་བཤེར་འབེབ་སྤྱོད་རོགས།</string>
+    <string name="kg_iris_1st_active_instructions">འཇའ་སྐྱི་སྤྱད་ནས་ཁ་འབྱེད།</string>
+    <string name="kg_iris_1st_unlock_instructions">འཇའ་སྐྱི་སྤྱད་ནས་སྒྲོག་སེལ།</string>
+    <string name="kg_iris_cancel">འཇའ་སྐྱི་ཚོར་རྟོགས་རྩིས་མེད་བཏང་།</string>
+    <string name="kg_iris_cancel_for_dex">འཇའ་སྐྱི་ཚོར་རྟོགས་རྩིས་མེད་བཏང་།</string>
+    <string name="kg_iris_cover_clear_view_toast_for_dex">འཇའ་སྐྱི་ཚོར་རྟོགས་Clear Viewསྲུང་སྐྱོབ་ཤུབས་ཁེབས་རྒྱག་སྐབས་བེད་སྤྱོད་གཏོང་མི་ཐུབ།</string>
+    <string name="kg_iris_cover_led_view_toast_for_dex">འཇའ་སྐྱི་ཚོར་རྟོགས་LEDརིག་ནུས་སྲུང་སྐྱོབ་ཤུབས་ཁེབས་རྒྱག་སྐབས་བེད་སྤྱོད་གཏོང་མི་ཐུབ།</string>
+    <string name="kg_iris_cover_s_view_toast_for_dex">འཇའ་སྐྱི་ཚོར་རྟོགས་རིག་ནུས་སྲུང་སྐྱོབ་ཤུབས་ཁེབས་རྒྱག་སྐབས་བེད་སྤྱོད་གཏོང་མི་ཐུབ།</string>
+    <string name="kg_iris_cover_toast_for_dex">སྲུང་ཁེབས་ལ་སྦྲེལ་སྐབས་སུ་འཇའ་སྐྱི་ངོས་འཛིན་སྤྱོད་མི་ཐུབ།</string>
+    <string name="kg_iris_direction_active_instructions">请使用虹膜或绘出方向序列打开</string>
+    <string name="kg_iris_direction_instructions">使用虹膜或绘出方向序列</string>
+    <string name="kg_iris_direction_none_instructions">使用虹膜或绘出方向序列</string>
+    <string name="kg_iris_no_match">ཆ་མཚུངས་མེད་པ</string>
+    <string name="kg_iris_not_supported_at_180_degree">གལ་ཏེ་འཇའ་སྐྱི་ངོས་འཛིན་སྤྱོད་དགོས་ན།ཁྱེད་ཀྱི་སྙོམ་ལེབ་གློག་ཀླད་སྐོར་ནར་པར་ཆས་ནི་ཞབས་འདབས་ལ་འབྲལ་ཏུ་འཇུག་རོགས།</string>
+    <string name="kg_iris_or_fingerprint_active_voice_assistant_instructions">མཛུབ་རིས་སྤྱད་ནས་ཁ་འབྱེད་པའམ་འཆར་ཡོལ་དུ་མཛུབ་མོ་གཉིས་འདྲེད་ནས་འཇའ་སྐྱི་སྤྱོད་རོགས།</string>
+    <string name="kg_iris_password_active_instructions">使用虹膜或输入混合密码打开</string>
+    <string name="kg_iris_password_none_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱེད་རོགས།</string>
+    <string name="kg_iris_pattern_active_instructions">使用虹膜或绘出图案打开</string>
+    <string name="kg_iris_pattern_none_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་ཐིག་རིས་འགོད་རོགས།</string>
+    <string name="kg_iris_pattern_text_for_mkeyboard">འདི་གར་བརྡེབས་ནས་རིས་དབྱིབས་བྲིས་པ།</string>
+    <string name="kg_iris_pin_active_instructions">使用虹膜或输入数字密码打开</string>
+    <string name="kg_iris_pin_none_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱེད་རོགས།</string>
+    <string name="kg_iris_proximity_guide_text">ཁྱེད་ཀྱི་ལག་པས་ཚོར་འདྲེན་ཆས་ཀྱི་བཀབ་ཡོད་དམ།ཚོར་འདྲེན་ཆས་ཕྱིར་འབུད་པ་བྱས་ཏེ་འཇའ་སྐྱི་ངོས་འཛིན་སྤྱོད་རོགས།</string>
+    <string name="kg_iris_retry_content_description">ཆ་བརྡེབས་བྱས་ནས་འཇའ་སྐྱི་བཤེར་འབེབ་བྱེད།</string>
+    <string name="kg_iris_retry_text">པར་རིས་ལ་བརྡེབས་ནས་སླར་འཇའ་སྐྱི་ངོས་འཛིན་གྱི་ཚོད་ལྟ་བྱེད།</string>
+    <string name="kg_iris_start_for_dex">ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་ཐོག་འཇའ་སྐྱི་བེད་སྤྱད་པ།</string>
+    <string name="kg_iris_stop">འཇའ་སྐྱི་བཤེར་འབེབ་ཀྱི་མཚམས་འཇོག</string>
+    <string name="kg_iris_strong_auth_prompt_reason_24_timeout_universal_lock">བདེ་འཇགས་ཀྱི་ཆེད་དུ་ཁ་ཕྱོགས་སྟར་སྒྲིག་སྤྱད་ནས་ཁྱེད་ཀྱི་ཁ་པར་གྱི་སྒྲོག་སེལ་རོགས།ཐེངས་རྗེས་མར་ཁ་པར་གྱི་སྒྲོག་སེལ་སྐབས་སུ་སྐྱེ་དངོས་ངོས་འཛིན་སྤྱད་ཆོག</string>
+    <string name="kg_iris_strong_auth_prompt_reason_restarting_universal_lock">ཁྱེད་ཀྱི་འཕྲུལ་ཆས་བསྐྱར་དུ་ཁ་ཕྱེ་ཟིན།ཁ་ཕྱོགས་སྟར་གྲངས་སྤྱད་ནས་གསང་འགྲོལ་བྱ་དགོས།ཁྱེད་ནས་ཐེངས་རྗེས་མ་འཕྲུལ་ཆས་ཀྱི་གསང་འགྲོལ་སྐབས་འཇའ་སྐྱི་སྤྱད་ཆོག</string>
+    <string name="kg_iris_strong_auth_prompt_reason_universal_lock_security_policy">བདེ་འཇགས་ཐབས་ཇུས་རྐྱེན་པས།ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་ནས་འཇའ་སྐྱི་ཚོར་རྟོགས་ཚབ་བྱ་དགོས།</string>
+    <string name="kg_iris_toast_preview_for_dex">ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་ཐོག་འཇའ་སྐྱི་སྤྱད་ནས་ཐོབ་ཐང་ངོས་འཛིན་བྱེད་པ།</string>
+    <string name="kg_iris_too_many_timeout_error_text">དྲོད་ཚད་མཐོ་དྲགས།འཇའ་སྐྱི་ཚོར་རྟོགས་བེད་སྤྱོད་གཏོང་མི་ཐུབ།ལག་ཐོག་ཁ་པར་གྲང་ཐག་ཆོད་རྗེས་བསྐྱར་ཚོད་བྱེད་དགོས།</string>
+    <string name="kg_iris_too_many_timeout_error_toast_text">འཇའ་སྐྱི་ཚོར་རྟོགས་LEDཚ་དྲགས།ཅུང་ཟད་ནས་ཚོད་ལྟ་བྱ་དགོས།</string>
+    <string name="kg_keycode_delete">སུབ་པ།</string>
+    <string name="kg_keycode_ok">གཏན་འཁེལ།</string>
+    <string name="kg_kor_empty_sim_puk_hint">未输入 PIN 解锁码 (PUK)，请重试。</string>
+    <string name="kg_kor_enter_confirm_pin_hint">USIMབྱང་བུའི་PINཨང་སླར་ནང་འཇུག་བྱས་ནས་ཐག་གཅོད་བྱེད།</string>
+    <string name="kg_kor_invalid_confirm_pin_hint">PIN་གསར་བ་ཟླ་སྒྲིག་བྱེད་མི་ཐུབ།</string>
+    <string name="kg_kor_invalid_sim_puk_hint">གྲངས་གནས་8ཀྱི་PINསྒྲོག་སེལ་(PUK)ནང་འཇུག་བྱེད།</string>
+    <string name="kg_kor_password_wrong_pin_code">PINཨང་གྲངས་འཇུག་ནོར་སོང་།ད་དུང་ཚོད་ལྟ་ཐེངས་%dབྱེད་ཆོག།ལས་ཚབ་ནང་ཞུགས་དགོས།</string>
+    <string name="kg_kor_puk_enter_pin_hint">"USIMབྱང་བུའི་PINཨང་འཛུགས།
+PINཨང་ནི་ངེས་པར་གྲངས་གནས་4ནས་8་བར་ཡིན།"</string>
+    <string name="kg_kor_sim_pin_instructions">请输入解锁 USIM 卡的 PIN 码 (4 至 8 位数)</string>
+    <string name="kg_kor_sim_puk_instructions">PUKནང་འཇུག་བྱེད།</string>
+    <string name="kg_kor_sim_puk_remaining_attempts">"PUKཨང་གྲངས་འཇུག་ནོར་ཐེངས་%1$dསོང་ཡོད།གལ་སྲིད་ཡང་བསྐྱར་PUKཨང་གྲངས་འཇུག་ནོར་ཐེངས་%2$dསོང་ཚེ།USIMབརྟན་ནས་བཀག་སྲིད།
+
+གལ་སྲིད་ཁྱེད་ནས་རང་གི་PUKཨང་གྲངས་མ་ཤེས་ཚེ།ཚོང་མགྲོན་ཞབས་ཞུ་ལྟེ་གནས་དང་འབྲེལ་གཏུག་བྱེད་དགོས།"</string>
+    <string name="kg_kor_sim_unlock_progress_dialog_message">SIMབྱང་བུ་གསང་འགྲོལ།</string>
+    <string name="kg_kor_success_pin_message">གསང་ཨང་གསར་(PIN)ཉར་ཟིན།</string>
+    <string name="kg_kor_wrong_puk_code">解锁码输入错误</string>
+    <string name="kg_ktt_sim_perso_instructions">གྲངས་གནས་4ནས་8ཀྱི་གསང་ས་ཨང་(PIN)ནང་འཇུག་བྱེད།</string>
+    <string name="kg_lockscreen_emergency_call_button_text">དོད་དྲགས་འབོད་གཏོང་།</string>
+    <string name="kg_login_checking_password">ད་ལྟ་རྩིས་གཞི་ཞིབ་བཤེར་བྱེད་བཞིན་པ།</string>
+    <string name="kg_login_invalid_input">བཀོལ་བདག་མིང་ངམ་གསང་ཨང་ནུས་མེད་རེད།</string>
+    <string name="kg_login_password_hint">གསང་གྲངས།</string>
+    <string name="kg_login_submit_button">ཐོ་འགོད།</string>
+    <string name="kg_login_username_hint">སྤྱོད་མཁན་གྱི་མིང་།(གློག་རྡུལ་འཕྲིན་ཡིག་)</string>
+    <string name="kg_missing_sim_message_short">SIMབྱང་བུ་མི་འདུག</string>
+    <string name="kg_multi_biometrics_direction_instructions">སྐྱེ་དངོས་ཚོར་རྟོགས་བེད་སྤྱོད་བྱེད་པའམ་ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་དགོས།</string>
+    <string name="kg_multi_biometrics_prompt_reason_timeout_universal_lock_strong_auth">བདེ་འཇགས་ཐབས་ཇུས་རེ་བར་ལྟར།ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་ནས་སྐྱེ་དངོས་ཚོར་རྟོགས་ཀྱི་ཚབ་ཏུ་སྤྱད་དགོས།</string>
+    <string name="kg_multi_biometrics_strong_auth_prompt_reason_24_timeout_universal_lock">བདེ་འཇགས་ཀྱི་ཆེད་དུ་ཁ་ཕྱོགས་སྟར་སྒྲིག་སྤྱད་ནས་ཁྱེད་ཀྱི་ཁ་པར་གྱི་སྒྲོག་སེལ་རོགས།ཐེངས་རྗེས་མར་ཁ་པར་གྱི་སྒྲོག་སེལ་སྐབས་སུ་སྐྱེ་དངོས་ངོས་འཛིན་སྤྱད་ཆོག</string>
+    <string name="kg_multi_biometrics_strong_auth_prompt_reason_restarting_universal_lock">您的设备已重启，需要使用方向序列解锁。您可以在下次解锁设备时使用生物识别。</string>
+    <string name="kg_multi_direction_active_instructions">སྐྱེ་དངོས་ཚོར་རྟོགས་བེད་སྤྱོད་པའམ་ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་ནས་ཁ་ཕྱེ་དགོས།</string>
+    <string name="kg_multi_direction_none_instructions">སྐྱེ་དངོས་ཚོར་རྟོགས་བེད་སྤྱོད་བྱེད་པའམ་ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་དགོས།</string>
+    <string name="kg_multi_password_active_instructions">སྐྱེ་དངོས་ཚོར་ཤེས་བེད་སྤྱད་པའམ་མཉམ་གསེས་གསང་ཨང་འཇུག་ནས་ཁ་ཕྱེ།</string>
+    <string name="kg_multi_password_none_instructions">སྐྱེ་དངོས་ཚོར་ཤེས་བེད་སྤྱད་པའམ་མཉམ་གསེས་གསང་ཨང་འཇུག་</string>
+    <string name="kg_multi_pattern_active_instructions">སྐྱེ་དངོས་ཚོར་ཤེས་བེད་སྤྱད་པའམ་རིས་དབྱིབས་བྲིས་ནས་ནས་ཁ་ཕྱེ།</string>
+    <string name="kg_multi_pattern_none_instructions">སྐྱེ་དངོས་ཚོར་ཤེས་བེད་སྤྱད་པའམ་རིས་དབྱིབས་བྲིས་དགོས།</string>
+    <string name="kg_multi_pin_active_instructions">སྐྱེ་དངོས་ཚོར་ཤེས་བེད་སྤྱད་པའམ་PINའཇུག་ནས་ཁ་ཕྱེ།</string>
+    <string name="kg_multi_pin_none_instructions">སྐྱེ་དངོས་ཚོར་ཤེས་བེད་སྤྱད་པའམ་PINའཇུག་</string>
+    <string name="kg_n_attempts_remaining">(ད་དུང་ཚོད་ལྟ་ཐེངས་%dབྱས་ཆོག)</string>
+    <string name="kg_no_match">ཆ་མཚུངས་མེད་པ</string>
+    <string name="kg_none_direction_1_frp">"如果您再输错一次方向序列，您的手机将自动重置为出厂设置，并清除该手机上的所有信息。
+
+如果您的手机已重置，您可能需要输入与此手机相关联的 Google 帐户信息 (邮件地址和混合密码) 才能重新使用。"</string>
+    <string name="kg_none_direction_1_reactivation">"གལ་སྲིད་ཁྱེད་ནས་ད་ངུང་ཁ་ཕྱོགས་སྟར་གྲངས་འཇུག་ནོར་ཐེངས་གཅིག་ཐོན་ཚེ།ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་རང་འགུལ་ཐོག་བཟོ་གྲྭའི་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱེད་སྲིད།མ་ཟད་ལག་ཐོག་ཁ་པར་འདི་ཐོག་གི་གཞི་གྲངས་ཡོད་ཚད་གཙང་དོར་བྱེད་སྲིད།
+
+གལ་སྲིད་ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་བསྐྱར་སྒྲིག་བྱས་ཟིན་ཚེ།ཁྱེད་ནས་ལག་ཐོག་ཁ་པར་འདི་དང་འབྲེལ་ཡོད་ཀྱི་Samsung accountཆ་འཕྲིན་(འཕྲིན་ཡིག་ས་གནས་དང་གསང་ཨང་)འཇུག་དགོས།དེ་རྗེས་བསྐྱར་དུ་བེད་སྤྱོད་གཏོང་ཐུབ།"</string>
+    <string name="kg_none_direction_active_instructions">ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་ནས་གསང་འགྲོལ་བ།</string>
+    <string name="kg_none_direction_none_frp">"如果您再输错 %d 次方向序列，您的手机将自动重置为出厂设置，并清除该手机上的所有信息。
+
+如果您的手机已重置，您可能需要输入与此手机相关联的 Google 帐户信息 (邮件地址和混合密码) 才能重新使用。"</string>
+    <string name="kg_none_direction_none_instructions">ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་ནས་བརྙན་ཡོལ་བསྡམ་སྒྲིག་བྱེད།</string>
+    <string name="kg_none_direction_none_reactivation">"གལ་སྲིད་ཁྱེད་ནས་ཁ་ཕྱོགས་སྟར་གྲངས་འཇུག་ནོར་ཐེངས་%dཐོན་ཚེ།ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་རང་འགུལ་ཐོག་བཟོ་གྲྭའི་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱེད་སྲིད།མ་ཟད་ལག་ཐོག་ཁ་པར་འདི་ཐོག་གི་གཞི་གྲངས་ཡོད་ཚད་གཙང་དོར་བྱེད་སྲིད།
+
+གལ་སྲིད་ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་བསྐྱར་སྒྲིག་བྱས་ཟིན་ཚེ།ཁྱེད་ནས་ལག་ཐོག་ཁ་པར་འདི་དང་འབྲེལ་ཡོད་ཀྱི་Samsung accountཆ་འཕྲིན་(འཕྲིན་ཡིག་ས་གནས་དང་གསང་ཨང་)འཇུག་དགོས།དེ་རྗེས་བསྐྱར་དུ་བེད་སྤྱོད་གཏོང་ཐུབ།"</string>
+    <string name="kg_none_face_direction_deviceadmin_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁ་ཕྱོགས་སྟར་སྒྲིག་འགོད་རོགས།</string>
+    <string name="kg_none_face_direction_emergencymodeoff_instructions">བཞིན་རས་ངོས་འཛིན་སྤྱོད་པའམ་ཁ་ཕྱོགས་སྟར་ཕྲེང་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_face_direction_emergencymodeon_instructions">བཞིན་རས་ངོས་འཛིན་སྤྱོད་པའམ་ཁ་ཕྱོགས་ཨང་སྟར་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_none_face_direction_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་ཁ་ཕྱོགས་སྟར་སྒྲིག་སྤྱོད།</string>
+    <string name="kg_none_face_direction_shutdown_instructions">གདོང་བཞིན་ཚོར་རྟོགས་བེད་སྤྱོད་བྱེད་པའམ་ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་ནས་ལག་ཐོག་ཁ་པར་ཁ་རྒྱག་དགོས།</string>
+    <string name="kg_none_face_direction_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁ་ཕྱོགས་སྟར་སྒྲིག་འགོད་རོགས།</string>
+    <string name="kg_none_face_password_deviceadmin_instructions">བདེ་འཇགས་ཐབས་ཇུས་ཀྱི་རེ་བ་ལྟར།མཉམ་བསྲེས་གསང་ཨང་འཇུག་ནས་གདོང་བཞིན་ཚོར་རྟོགས་ཚབ་ཏུ་བེད་སྤྱོད་གཏོང་དགོས།</string>
+    <string name="kg_none_face_password_emergencymodeoff_instructions">བཞིན་རས་ངོས་འཛིན་སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_face_password_emergencymodeon_instructions">བཞིན་རས་ངོས་འཛིན་སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_none_face_password_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་མཉམ་བསྲེས་གསང་ཨང་སྤྱོད།</string>
+    <string name="kg_none_face_password_shutdown_instructions">གདོང་བཞིན་ཚོར་རྟོགས་བེད་སྤྱད་པའམ་མཉམ་བསྲེས་གསང་ཨང་འཇུག་ནས་ལག་ཐོག་ཁ་པར་ཁ་རྒྱག་པ།</string>
+    <string name="kg_none_face_password_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་འདྲེས་སྦྱོར་གསང་ཨང་སྤྱོད་རོགས།</string>
+    <string name="kg_none_face_pattern_deviceadmin_instructions">བདེ་འཇགས་ཐབས་ཇུས་རེ་འདུན་བཞིན།རིས་དབྱིབས་བྲིས་ནས་གདོང་བཞིན་ཚོར་རྟོགས་ཚབ་ཏུ་བེད་སྤྱོད་བྱ་དགོས།</string>
+    <string name="kg_none_face_pattern_emergencymodeoff_instructions">བཞིན་རས་ངོས་འཛིན་སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_face_pattern_emergencymodeon_instructions">བཞིན་རས་ངོས་འཛིན་སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_none_face_pattern_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་ཐིག་རིས་འགོད།</string>
+    <string name="kg_none_face_pattern_shutdown_instructions">གདོང་བཞིན་ཚོར་རྟོགས་བེད་སྤྱད་པའམ་རིས་དབྱིབས་བྲིས་ནས་ལག་ཐོག་ཁ་པར་ཁ་རྒྱག་པ།</string>
+    <string name="kg_none_face_pattern_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་ཐིག་རིས་འགོད་རོགས།</string>
+    <string name="kg_none_face_pin_deviceadmin_instructions">བདེ་འཇགས་ཐབས་ཇུས་ཀྱི་རེ་བ་ལྟར།འཇུག་དགོས་PINའཇུག་ནས་ངོས་པང་ཚོར་རྟོགས་ཚབ་ཏུ་བེད་སྤྱོད་གཏོང་དགོས།</string>
+    <string name="kg_none_face_pin_emergencymodeoff_instructions">བཞིན་རས་ངོས་འཛིན་སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_face_pin_emergencymodeon_instructions">བཞིན་རས་ངོས་འཛིན་སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_none_face_pin_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་སུ་PIN་སྤྱོད།</string>
+    <string name="kg_none_face_pin_shutdown_instructions">གདོང་བཞིན་ཚོར་རྟོགས་བེད་སྤྱད་པའམ་PINའཇུག་ནས་ལག་ཐོག་ཁ་པར་ཁ་རྒྱག་པ།</string>
+    <string name="kg_none_face_pin_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་PIN་སྤྱོད་རོགས།</string>
+    <string name="kg_none_facefingerprint_direction_itpolicy_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁ་ཕྱོགས་སྟར་སྒྲིག་འགོད་རོགས།</string>
+    <string name="kg_none_facefingerprint_password_itpolicy_instructions">བདེ་འཇགས་ཐབས་ཇུས་ཀྱི་རེ་བ་ལྟར།མཛུབ་རིས་བེད་སྤྱེད་པའམ་མཉམ་བསྲེས་ཨང་གྲངས་འཇུག་ནས་གདོང་བཞིན་ཚོར་རྟོགས་ཚབ་ཏུ་བེད་སྤྱོད་གཏོང་དགོས།</string>
+    <string name="kg_none_facefingerprint_pattern_itpolicy_instructions">བདེ་འཇགས་ཐབས་ཇུས་ཀྱི་རེ་བ་ལྟར།མཛུབ་རིས་བེད་སྤྱེད་པའམ་རིས་དབྱིབས་བྲིས་ནས་གདོང་བཞིན་ཚོར་རྟོགས་ཚབ་ཏུ་བེད་སྤྱོད་གཏོང་དགོས།</string>
+    <string name="kg_none_facefingerprint_pin_itpolicy_instructions">བདེ་འཇགས་ཐབས་ཇུས་ཀྱི་རེ་བ་ལྟར།མཛུབ་རིས་བེད་སྤྱེད་པའམ་PINའཇུག་ནས་གདོང་བཞིན་ཚོར་རྟོགས་ཚབ་ཏུ་བེད་སྤྱོད་གཏོང་དགོས།</string>
+    <string name="kg_none_fingerprint_direction_deviceadmin_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁ་ཕྱོགས་སྟར་སྒྲིག་འགོད་རོགས།</string>
+    <string name="kg_none_fingerprint_direction_emergencymodeoff_instructions">མཛུབ་རིས་སྤྱོད་པའམ་ཁ་ཕྱོགས་སྟར་ཕྲེང་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_fingerprint_direction_emergencymodeon_instructions">མཛུབ་རིས་སྤྱོད་པའམ་ཁ་ཕྱོགས་ཨང་སྟར་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_none_fingerprint_direction_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་ཁ་ཕྱོགས་སྟར་སྒྲིག་སྤྱོད།</string>
+    <string name="kg_none_fingerprint_direction_shutdown_instructions">མཛུབ་རིས་བེད་སྤྱད་པའམ་ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་ནས་ལག་ཐོག་ཁ་པར་ཁ་རྒྱག།</string>
+    <string name="kg_none_fingerprint_direction_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁ་ཕྱོགས་སྟར་སྒྲིག་འགོད་རོགས།</string>
+    <string name="kg_none_fingerprint_password_deviceadmin_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་འདྲེས་སྦྱོར་གསང་ཨང་སྤྱོད་རོགས།</string>
+    <string name="kg_none_fingerprint_password_emergencymodeoff_instructions">མཛུབ་རིས་ངོས་འཛིན་སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_fingerprint_password_emergencymodeon_instructions">མཛུབ་རིས་སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_none_fingerprint_password_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་མཉམ་བསྲེས་གསང་ཨང་སྤྱོད།</string>
+    <string name="kg_none_fingerprint_password_shutdown_instructions">མཛུབ་རིས་བེད་སྤྱད་པའམ་མཉམ་གསེས་གསང་ཨང་འཇུག་ལག་ཐོག་ཁ་པར་ཁ་རྒྱག།</string>
+    <string name="kg_none_fingerprint_password_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་འདྲེས་སྦྱོར་གསང་ཨང་སྤྱོད་རོགས།</string>
+    <string name="kg_none_fingerprint_pattern_deviceadmin_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་ཐིག་རིས་འགོད་རོགས།</string>
+    <string name="kg_none_fingerprint_pattern_emergencymodeoff_instructions">མཛུབ་རིས་སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_fingerprint_pattern_emergencymodeon_instructions">མཛུབ་རིས་སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_none_fingerprint_pattern_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་ཐིག་རིས་འགོད།</string>
+    <string name="kg_none_fingerprint_pattern_shutdown_instructions">མཛུབ་རིས་བེད་སྤྱད་པའམ་རིས་དབྱིབས་བྲིས་ནས་ལག་ཐོག་ཁ་པར་ཁ་རྒྱག།</string>
+    <string name="kg_none_fingerprint_pattern_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་ཐིག་རིས་འགོད་རོགས།</string>
+    <string name="kg_none_fingerprint_pin_deviceadmin_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་PIN་སྤྱོད་རོགས།</string>
+    <string name="kg_none_fingerprint_pin_emergencymodeoff_instructions">མཛུབ་རིས་ངོས་འཛིན་སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_fingerprint_pin_emergencymodeon_instructions">མཛུབ་རིས་སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_none_fingerprint_pin_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་སུ་PIN་སྤྱོད།</string>
+    <string name="kg_none_fingerprint_pin_shutdown_instructions">མཛུབ་རིས་བེད་སྤྱད་པའམ་PINའཇུག་ལག་ཐོག་ཁ་པར་ཁ་རྒྱག།</string>
+    <string name="kg_none_fingerprint_pin_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་PIN་སྤྱོད་རོགས།</string>
+    <string name="kg_none_intelligent_direction_deviceadmin_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁ་ཕྱོགས་སྟར་སྒྲིག་འགོད་རོགས།</string>
+    <string name="kg_none_intelligent_direction_emergencymodeoff_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཁ་ཕྱོགས་སྟར་ཕྲེང་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_intelligent_direction_emergencymodeon_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཁ་ཕྱོགས་ཨང་སྟར་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_none_intelligent_direction_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་ཁ་ཕྱོགས་སྟར་སྒྲིག་སྤྱོད།</string>
+    <string name="kg_none_intelligent_direction_shutdown_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཡང་ན་ཁ་ཕྱོགས་ཨང་སྟར་བྲིས་ནས་ཁ་པར་གྱི་སྒོ་སྟེམ་རོགས།</string>
+    <string name="kg_none_intelligent_direction_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁ་ཕྱོགས་སྟར་སྒྲིག་འགོད་རོགས།</string>
+    <string name="kg_none_intelligent_password_deviceadmin_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་འདྲེས་སྦྱོར་གསང་ཨང་སྤྱོད་རོགས།</string>
+    <string name="kg_none_intelligent_password_emergencymodeoff_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_intelligent_password_emergencymodeon_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་།</string>
+    <string name="kg_none_intelligent_password_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་མཉམ་བསྲེས་གསང་ཨང་སྤྱོད།</string>
+    <string name="kg_none_intelligent_password_shutdown_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཡང་ན་འདྲེས་སྦྱོར་གསང་ཨང་ནང་འཇུག་བྱས་ནས་ཁ་པར་གྱི་སྒོ་སྟེམ་རོགས།</string>
+    <string name="kg_none_intelligent_password_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་འདྲེས་སྦྱོར་གསང་ཨང་སྤྱོད་རོགས།</string>
+    <string name="kg_none_intelligent_pattern_deviceadmin_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་ཐིག་རིས་འགོད་རོགས།</string>
+    <string name="kg_none_intelligent_pattern_emergencymodeoff_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_intelligent_pattern_emergencymodeon_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་།</string>
+    <string name="kg_none_intelligent_pattern_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་ཐིག་རིས་འགོད།</string>
+    <string name="kg_none_intelligent_pattern_shutdown_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཡང་ན་ཐིག་རིས་བྲིས་ནས་ཁ་པར་གྱི་སྒོ་སྟེམ་རོགས།</string>
+    <string name="kg_none_intelligent_pattern_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་ཐིག་རིས་འགོད་རོགས།</string>
+    <string name="kg_none_intelligent_pin_deviceadmin_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་PIN་སྤྱོད་རོགས།</string>
+    <string name="kg_none_intelligent_pin_emergencymodeoff_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_intelligent_pin_emergencymodeon_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་།</string>
+    <string name="kg_none_intelligent_pin_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་སུ་PIN་སྤྱོད།</string>
+    <string name="kg_none_intelligent_pin_shutdown_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཡང་ན་PIN་ནང་འཇུག་བྱས་ནས་ཁ་པར་གྱི་སྒོ་སྟེམ་རོགས།</string>
+    <string name="kg_none_intelligent_pin_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་PIN་སྤྱོད་རོགས།</string>
+    <string name="kg_none_iris_direction_deviceadmin_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁ་ཕྱོགས་སྟར་སྒྲིག་འགོད་རོགས།</string>
+    <string name="kg_none_iris_direction_emergencymodeoff_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་ཁ་ཕྱོགས་སྟར་ཕྲེང་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_iris_direction_emergencymodeon_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་ཁ་ཕྱོགས་ཨང་སྟར་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_none_iris_direction_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་ཁ་ཕྱོགས་སྟར་སྒྲིག་སྤྱོད།</string>
+    <string name="kg_none_iris_direction_shutdown_instructions">འཇའ་སྐྱི་སྤྱད་པའམ་ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་ནས་ལག་ཐོག་ཁ་པར་ཁ་རྒྱག།</string>
+    <string name="kg_none_iris_direction_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁ་ཕྱོགས་སྟར་སྒྲིག་འགོད་རོགས།</string>
+    <string name="kg_none_iris_password_deviceadmin_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་འདྲེས་སྦྱོར་གསང་ཨང་སྤྱོད་རོགས།</string>
+    <string name="kg_none_iris_password_emergencymodeoff_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_iris_password_emergencymodeon_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་བྲེལ་ཚུབ་རྣམ་པའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_none_iris_password_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་མཉམ་བསྲེས་གསང་ཨང་སྤྱོད།</string>
+    <string name="kg_none_iris_password_shutdown_instructions">འཇའ་སྐྱི་སྤྱད་པའམ་མཉམ་གསེས་གསང་ཨང་འཇུག་ནས་ལག་ཐོག་ཁ་པར་ཁ་རྒྱག།</string>
+    <string name="kg_none_iris_password_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་འདྲེས་སྦྱོར་གསང་ཨང་སྤྱོད་རོགས།</string>
+    <string name="kg_none_iris_pattern_deviceadmin_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་ཐིག་རིས་འགོད་རོགས།</string>
+    <string name="kg_none_iris_pattern_emergencymodeoff_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_iris_pattern_emergencymodeon_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་བྲེལ་ཚུབ་རྣམ་པའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_none_iris_pattern_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་ཐིག་རིས་འགོད།</string>
+    <string name="kg_none_iris_pattern_shutdown_instructions">འཇའ་སྐྱི་སྤྱད་པའམ་རིས་དབྱིབས་བྲིས་ནས་ལག་ཐོག་ཁ་པར་ཁ་རྒྱག།</string>
+    <string name="kg_none_iris_pattern_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་ཐིག་རིས་འགོད་རོགས།</string>
+    <string name="kg_none_iris_pin_deviceadmin_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་PIN་སྤྱོད་རོགས།</string>
+    <string name="kg_none_iris_pin_emergencymodeoff_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_iris_pin_emergencymodeon_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་བྲེལ་ཚུབ་རྣམ་པའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_none_iris_pin_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་སུ་PIN་སྤྱོད།</string>
+    <string name="kg_none_iris_pin_shutdown_instructions">འཇའ་སྐྱི་སྤྱད་པའམ་PINའཇུག་ནས་ལག་ཐོག་ཁ་པར་ཁ་རྒྱག།</string>
+    <string name="kg_none_iris_pin_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་PIN་སྤྱོད་རོགས།</string>
+    <string name="kg_none_multi_direction_deviceadmin_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁ་ཕྱོགས་སྟར་སྒྲིག་འགོད་རོགས།</string>
+    <string name="kg_none_multi_direction_emergencymodeoff_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་ཁ་ཕྱོགས་སྟར་ཕྲེང་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_multi_direction_emergencymodeon_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་ཁ་ཕྱོགས་ཨང་སྟར་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_none_multi_direction_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་ཁ་ཕྱོགས་སྟར་སྒྲིག་སྤྱོད།</string>
+    <string name="kg_none_multi_direction_shutdown_instructions">སྐྱེ་དངོས་ཚོར་ཤེས་བེད་སྤྱད་པའམ་ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་ནས་ལག་ཐོག་ཁ་པར་ཁ་རྒྱག།</string>
+    <string name="kg_none_multi_direction_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁ་ཕྱོགས་སྟར་སྒྲིག་འགོད་རོགས།</string>
+    <string name="kg_none_multi_password_deviceadmin_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་འདྲེས་སྦྱོར་གསང་ཨང་སྤྱོད་རོགས།</string>
+    <string name="kg_none_multi_password_emergencymodeoff_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_multi_password_emergencymodeon_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_none_multi_password_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་མཉམ་བསྲེས་གསང་ཨང་སྤྱོད།</string>
+    <string name="kg_none_multi_password_shutdown_instructions">སྐྱེ་དངོས་ཚོར་ཤེས་བེད་སྤྱད་པའམ་མཉམ་གསེས་གསང་ཨང་འཇུག་ལག་ཐོག་ཁ་པར་ཁ་རྒྱག།</string>
+    <string name="kg_none_multi_password_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་འདྲེས་སྦྱོར་གསང་ཨང་སྤྱོད་རོགས།</string>
+    <string name="kg_none_multi_pattern_deviceadmin_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་ཐིག་རིས་འགོད་རོགས།</string>
+    <string name="kg_none_multi_pattern_emergencymodeoff_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_multi_pattern_emergencymodeon_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_none_multi_pattern_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་ཐིག་རིས་འགོད།</string>
+    <string name="kg_none_multi_pattern_shutdown_instructions">སྐྱེ་དངོས་ཚོར་ཤེས་བེད་སྤྱད་པའམ་རིས་དབྱིབས་བྲིས་ནས་ལག་ཐོག་ཁ་པར་ཁ་རྒྱག།</string>
+    <string name="kg_none_multi_pattern_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་ཐིག་རིས་འགོད་རོགས།</string>
+    <string name="kg_none_multi_pin_deviceadmin_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་PIN་སྤྱོད་རོགས།</string>
+    <string name="kg_none_multi_pin_emergencymodeoff_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_multi_pin_emergencymodeon_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_none_multi_pin_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་སུ་PIN་སྤྱོད།</string>
+    <string name="kg_none_multi_pin_shutdown_instructions">སྐྱེ་དངོས་ཚོར་ཤེས་བེད་སྤྱད་པའམ་PINའཇུག་ལག་ཐོག་ཁ་པར་ཁ་རྒྱག།</string>
+    <string name="kg_none_multi_pin_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་PIN་སྤྱོད་རོགས།</string>
+    <string name="kg_none_none_direction_emergencymodeoff_instructions">ཁ་ཕྱོགས་སྟར་ཕྲེང་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_none_direction_emergencymodeon_instructions">ཁ་ཕྱོགས་ཨང་སྟར་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་།</string>
+    <string name="kg_none_none_direction_shutdown_instructions">ཁ་ཕྱོགས་ཀྱི་རིགས་གྲས་བྲིས་ནས་ཁ་པར་ཁ་རྒྱོབ།</string>
+    <string name="kg_none_none_password_emergencymodeoff_instructions">མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ་རོགས།</string>
+    <string name="kg_none_none_password_emergencymodeon_instructions">མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ཏེ་རྣམ་པ་བྲེལ་མོ་སྒུལ་སློང་།</string>
+    <string name="kg_none_none_password_shutdown_instructions">ཁ་པར་མེད་པའི་ཕྱིར་ གསང་རྟགས་འཇུག</string>
+    <string name="kg_none_none_pattern_emergencymodeoff_instructions">ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_none_none_pattern_emergencymodeon_instructions">པར་རིས་བཀོད་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་།</string>
+    <string name="kg_none_none_pattern_shutdown_instructions">ཁ་པར་ མེད་པ་བཟོས་ཕྱིར་ བཟོ་བཀོད་སྐྲུན</string>
+    <string name="kg_none_none_pin_emergencymodeoff_instructions">PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ་རོགས།</string>
+    <string name="kg_none_none_pin_emergencymodeon_instructions">PIN་ནང་འཇུག་བྱས་ཏེ་རྣམ་པ་བྲེལ་མོ་སྒུལ་སློང་།</string>
+    <string name="kg_none_none_pin_shutdown_instructions">PIN འཇུག་ནས་ཁ་པར་ཁ་རྒྱོབ།</string>
+    <string name="kg_none_password_1_frp">"如果您再输错一次混合密码，您的手机将自动重置为出厂设置，并清除该手机上的所有信息。
+
+如果您的手机已重置，您可能需要输入与此手机相关联的 Google 帐户信息 (邮件地址和密码) 才能重新使用。"</string>
+    <string name="kg_none_password_1_reactivation">"གལ་སྲིད་ཁྱེད་ནས་མཉམ་བསྲེས་ཨང་གྲངས་འཇུག་ནོར་ཐེངས་%dཐོན་ཚེ།ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་རང་འགུལ་ཐོག་བཟོ་གྲྭའི་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱས།མ་ཟད་ངོས་པང་ཀློག་ཀླད་འདི་ཐོག་གི་ཆ་འཕྲིན་ཡོད་ཚད་གཙང་དོར་བྱེད་སྲིད།
+
+གལ་སྲིད་ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་བསྐྱར་སྒྲིག་བྱས་ཟིན།ཁྱེད་ནས་ངོས་པང་གློག་ཀླད་འདི་དང་འབྲེལ་ཡོད་པའི་Samsung accountཆ་འཕྲིན་(འཕྲིན་ཡིག་ས་གནས་དང་གསང་ཨང་)འཇུག་དགོས།དེ་རྗེས་བསྐྱར་དུ་བེད་སྤྱོད་གཏོང་ཐུབ།"</string>
+    <string name="kg_none_password_active_instructions">མཉམ་གསེས་གསང་ཨང་འཇུག་ནས་ཁ་ཕྱེ།</string>
+    <string name="kg_none_password_none_frp">"如果您再输错 %d 次混合密码，您的手机将自动重置为出厂设置，并清除该手机上的所有信息。
+
+如果您的手机已重置，您可能需要输入与此手机相关联的 Google 帐户信息 (邮件地址和密码) 才能重新使用。"</string>
+    <string name="kg_none_password_none_instructions">གསང་རྟགས་འཇུག་པ།</string>
+    <string name="kg_none_password_none_reactivation">"གལ་སྲིད་ཁྱེད་ནས་ད་དུང་མཉམ་བསྲེས་ཨང་གྲངས་འཇུག་ནོར་ཐེངས་གཅིག་ཐོན་ཚེ།ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་རང་འགུལ་ཐོག་བཟོ་གྲྭའི་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱས།མ་ཟད་ངོས་པང་ཀློག་ཀླད་འདི་ཐོག་གི་ཆ་འཕྲིན་ཡོད་ཚད་གཙང་དོར་བྱེད་སྲིད།
+
+གལ་སྲིད་ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་བསྐྱར་སྒྲིག་བྱས་ཟིན།ཁྱེད་ནས་ངོས་པང་གློག་ཀླད་འདི་དང་འབྲེལ་ཡོད་པའི་Samsung accountཆ་འཕྲིན་(འཕྲིན་ཡིག་ས་གནས་དང་གསང་ཨང་)འཇུག་དགོས།དེ་རྗེས་བསྐྱར་དུ་བེད་སྤྱོད་གཏོང་ཐུབ།"</string>
+    <string name="kg_none_pattern_1_frp">"如果您再输错一次图案，您的手机将自动重置为出厂设置，并清除该手机上的所有信息。
+
+如果您的手机已重置，您可能需要输入与此手机相关联的 Google 帐户信息 (邮件地址和密码) 才能重新使用。"</string>
+    <string name="kg_none_pattern_1_reactivation">"གལ་སྲིད་ཁྱེད་ནས་ད་དུང་རིས་དབྱིབས་འཇུག་ནོར་ཐེངས་གཅིག་ཐོན་ཚེ།ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་རང་འགུལ་ཐོག་བཟོ་གྲྭའི་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱེད་སྲིད།མ་ཟད་ལག་ཐོག་ཁ་པར་འདི་ཐོག་གི་གཞི་གྲངས་ཡོད་ཚད་གཙང་དོར་བྱེད་སྲིད།
+
+གལ་སྲིད་ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་བསྐྱར་སྒྲིག་བྱས་ཟིན་ཚེ།ཁྱེད་ནས་ལག་ཐོག་ཁ་པར་འདི་དང་འབྲེལ་ཡོད་ཀྱི་Samsung accountཆ་འཕྲིན་འཇུག་དགོས།(འཕྲིན་ཡིག་ས་གནས་དང་གསང་ཨང་)རྗེས་བསྐྱར་དུ་བེད་སྤྱོད་གཏོང་ཐུབ།"</string>
+    <string name="kg_none_pattern_active_instructions">གསང་འགྲོལ་རིས་དབྱིབས་བྲིས་ནས་ཁ་ཕྱེ།</string>
+    <string name="kg_none_pattern_none_frp">"如果您再输错 %d 次图案，您的手机将自动重置为出厂设置，并清除该手机上的所有信息。
+
+如果您的手机已重置，您可能需要输入与此手机相关联的 Google 帐户信息 (邮件地址和密码) 才能重新使用。"</string>
+    <string name="kg_none_pattern_none_instructions">གསང་འགྲོལ་རིས་དབྱིངས་བྲིས་དགོས།</string>
+    <string name="kg_none_pattern_none_reactivation">"གལ་སྲིད་ཁྱེད་ནས་རིས་དབྱིབས་འཇུག་ནོར་ཐེངས་%dཐོན་ཚེ།ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་རང་འགུལ་ཐོག་བཟོ་གྲྭའི་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱེད་སྲིད།མ་ཟད་ལག་ཐོག་ཁ་པར་འདི་ཐོག་གི་གཞི་གྲངས་ཡོད་ཚད་གཙང་དོར་བྱེད་སྲིད།
+
+གལ་སྲིད་ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་བསྐྱར་སྒྲིག་བྱས་ཟིན་ཚེ།ཁྱེད་ནས་ལག་ཐོག་ཁ་པར་འདི་དང་འབྲེལ་ཡོད་ཀྱི་Samsung accountཆ་འཕྲིན་འཇུག་དགོས།(འཕྲིན་ཡིག་ས་གནས་དང་གསང་ཨང་)རྗེས་བསྐྱར་དུ་བེད་སྤྱོད་གཏོང་ཐུབ།"</string>
+    <string name="kg_none_pin_1_frp">"如果您再输错一次数字密码，您的手机将自动重置为出厂设置，并清除该手机上的所有信息。
+
+如果您的手机已重置，您可能需要输入与此手机相关联的 Google 帐户信息 (邮件地址和密码) 才能重新使用。"</string>
+    <string name="kg_none_pin_1_reactivation">"གལ་སྲིད་ཁྱེད་ནས་ད་དུང་PINའཇུག་ནོར་ཐེངས་གཅིག་ཐོན་ཚེ།ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་རང་འགུལ་ཐོག་བཟོ་གྲྭའི་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱེད་སྲིད།མ་ཟད་ལག་ཐོག་ཁ་པར་འདི་ཐོག་གི་གཞི་གྲངས་ཡོད་ཚད་གཙང་དོར་བྱེད་སྲིད།
+
+གལ་སྲིད་ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་བསྐྱར་སྒྲིག་བྱས་ཟིན་ཚེ།ཁྱེད་ནས་ལག་ཐོག་ཁ་པར་འདི་དང་འབྲེལ་ཡོད་ཀྱི་Samsung accountཆ་འཕྲིན་འཇུག་དགོས།(འཕྲིན་ཡིག་ས་གནས་དང་གསང་ཨང་)རྗེས་བསྐྱར་དུ་བེད་སྤྱོད་གཏོང་ཐུབ།"</string>
+    <string name="kg_none_pin_active_instructions">PINཨང་གྲངས་འཇུག་ནས་ཁ་ཕྱེ་བ།</string>
+    <string name="kg_none_pin_none_frp">"如果您再输错 %d 次数字密码，您的手机将自动重置为出厂设置，并清除该手机上的所有信息。
+
+如果您的手机已重置，您可能需要输入与此手机相关联的 Google 帐户信息 (邮件地址和密码) 才能重新使用。"</string>
+    <string name="kg_none_pin_none_instructions">PINའཇུག་པ།</string>
+    <string name="kg_none_pin_none_reactivation">"གལ་སྲིད་ཁྱེད་ནས་PINའཇུག་ནོར་ཐེངས་%dཐོན་ཚེ།ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་རང་འགུལ་ཐོག་བཟོ་གྲྭའི་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱེད་སྲིད།མ་ཟད་ལག་ཐོག་ཁ་པར་འདི་ཐོག་གི་གཞི་གྲངས་ཡོད་ཚད་གཙང་དོར་བྱེད་སྲིད།
+
+གལ་སྲིད་ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་བསྐྱར་སྒྲིག་བྱས་ཟིན་ཚེ།ཁྱེད་ནས་ལག་ཐོག་ཁ་པར་འདི་དང་འབྲེལ་ཡོད་ཀྱི་Samsung accountཆ་འཕྲིན་འཇུག་དགོས།(འཕྲིན་ཡིག་ས་གནས་དང་གསང་ཨང་)རྗེས་བསྐྱར་དུ་བེད་སྤྱོད་གཏོང་ཐུབ།"</string>
+    <string name="kg_none_recovery_none_instructions">སླར་གསོ་བྱེད་པའི་གསང་ཨང་འཇུག་ནས་གསང་འགྲོལ་བ།</string>
+    <string name="kg_password_hint">དྲན་སྐུལ།</string>
+    <string name="kg_password_hint_show">དྲན་སྐུལ་%s</string>
+    <string name="kg_password_perso_failed">PIN ནོར་འཁྲུལ་ཐོན།PINཞིབ་བཤེར་བྱས་ནས་བསྐྱར་ཚོད་བྱེད་དགོས།</string>
+    <string name="kg_password_perso_max_failed">ནང་འཇུག་བྱས་པའི་USIMབྱང་བུའི་བསྡམ་སྒྲིག་PIN ནོར་སོང་།ཚོད་ལྟ་བྱེད་ཐེངས་མང་ཤོས་སུ་སླེབས་ཟིན།འཕྲུལ་ཆས་བསྐྱར་དུ་ཁ་ཕྱེ་བའམ་ཚོང་མགྲོན་ཞབས་ཞུ་ལྟེ་གནས་བཅར་འདྲི་བྱེད་དགོས།</string>
+    <string name="kg_password_sub_instructions">ཁྱེད་ཀྱི་མཉམ་གསེས་གསང་ཨང་ནང་དུ་ཉུང་མཐར་ཡིག་རྟགས་%dཡོད་དགོས།དེའི་ནང་ཉུང་མཐར་དབྱིན་ཡིག་ཡིག་འབྲུ་1དགོས།</string>
+    <string name="kg_password_sub_instructions_vzw">ཁྱེད་ཀྱི་མཉམ་གསེས་གསང་ཨང་ནང་ཡིག་འབྲུ་ཡོད་པ་དང་ཉུང་མཐར་ཡིག་རྟགས་%dཡོད་དགོས།</string>
+    <string name="kg_password_wrong_pin_code_one">ཡང་མ་དག་པའི་SIMབྱང་བུའི་PINཨང་གྲངས་འཇུག་ཡོད།ཁྱེད་ལ་ད་དུང་གོ་སྐབས་ཐེངས་1ཡོད།</string>
+    <string name="kg_password_wrong_pin_code_other">ཡང་མ་དག་པའི་SIMབྱང་བུའི་PINཨང་གྲངས་འཇུག་ཡོད།ཁྱེད་ལ་ད་དུང་གོ་སྐབས་ཐེངས་%dཡོད།</string>
+    <string name="kg_perso_locked_message">USIMགཞན་པ་བཀག་འགོག་བྱེད།</string>
+    <string name="kg_phone_unlocked">ལག་ཐོག་ཁ་པར་གསང་འགྲོལ་བྱས་ཟིན།</string>
+    <string name="kg_pin_locked_message">PINཨང་ནང་འཇུག་བྱེད།</string>
+    <string name="kg_pin_sub_instructions">PINནང་ཉུང་མཐར་ཨང་ཀི་4དགོས།</string>
+    <string name="kg_pin_sub_instructions_vzw">ཁྱེད་ཀྱི་PINདེ་ཨང་ཀི་%dའམ་དེ་བས་གང་བ་ལས་གྲུབ་ཡོད།</string>
+    <string name="kg_power_charging">%d%%ལ་གློག་སྣོན་བྱེད་བཞིན་པ།</string>
+    <string name="kg_power_charging_remaining_time">%s གློག་རྫས་མ་བཀང་རིང་ དགོས་པ</string>
+    <string name="kg_power_charging_wirelessly">སྐུད་མེད་གློག་སྣོན་བྱེད་བཞིན་པ་%d%%</string>
+    <string name="kg_power_connect_charger">གློག་སྣོན་ཡོ་བྱད་འབྲེལ་མཐུད་བྱེད་པ།</string>
+    <string name="kg_power_fast_charging">%d%%ལ་མྱུར་མགྱོགས་གློག་སྣོན་བྱེད་བཞིན་པ།</string>
+    <string name="kg_power_fast_charging_chn">འགྲོས་མྱུར་གློག་གསོག་བྱེད་བཞིན་འདུག%d%%</string>
+    <string name="kg_power_fast_charging_wirelessly">%d%%ལ་མྱུར་མགྱོགས་སྐུད་མེད་གློག་གསོག་བྱེད་པ།</string>
+    <string name="kg_power_fast_charging_wirelessly_chn">འགྲོས་མྱུར་གློག་གསོག་བྱེད་བཞིན་འདུག%d%%</string>
+    <string name="kg_power_fully_charged">ཁེངས་ཟིན།</string>
+    <string name="kg_power_time_format_hour">ཆུ་ཚོད་%d</string>
+    <string name="kg_power_time_format_hour_minute">ཆུ་ཚོད་%1$d དང་སྐར་མ་ %2$d</string>
+    <string name="kg_power_time_format_minute">སྐར་མ་%d</string>
+    <string name="kg_prompt_reason_timeout_password_strong_auth">བདེ་འཇགས་ཐབས་ཇུས་རྐྱེན་པས།མཉམ་གསེས་གསང་ཨང་འཇུག་ནས་མཛུབ་རིས་ཚོར་རྟོགས་ཚབ་ཏུ་བེད་སྤྱོད་བྱ་དགོས།</string>
+    <string name="kg_prompt_reason_timeout_pattern_strong_auth">བདེ་འཇགས་ཐབས་ཇུས་རྐྱེན་པས།རིས་དབྱིབས་བྲིས་ནས་མཛུབ་རིས་ཚོར་རྟོགས་ཚབ་ཏུ་བེད་སྤྱོད་བྱ་དགོས།</string>
+    <string name="kg_prompt_reason_timeout_pin_strong_auth">བདེ་འཇགས་ཐབས་ཇུས་ཡོང་ཆེད།PINཨང་གྲངས་འཇུག་ནས་མཛུབ་རིས་ཚོར་རྟོགས་ཀྱི་ཚབ་བྱ་དགོས།</string>
+    <string name="kg_prompt_reason_timeout_universal_lock_strong_auth">བདེ་འཇགས་ཐབས་ཇུས་རྐྱེན་པས།ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་ནས་མཛུབ་རིས་ཚོར་རྟོགས་ཚབ་བྱ་དགོས།</string>
+    <string name="kg_puk_locked_message">PUKཨང་ནང་འཇུག་བྱེད།</string>
+    <string name="kg_remained_1_attempt_countdown_1_min_with_auto_wipe">"འཕྲུལ་ཆས་གསང་འགྲོལ་ཚོད་ལྟ་ཐེངས་%dབྱས་ཟིན།ཁྱེད་ནས་ད་དུང་ཚོད་ལྟ་ཐེངས་1བྱས་རྗེས།འཕྲུལ་ཆས་བཟོ་གྲྭའི་སོར་བཞག་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱེད་པ་དང་གཞི་གྲངས་ཡོད་ཚད་སུབ་སྲིད།
+
+སྐར་མ་1རྗེས་སུ་བསྐྱར་ཚོད་བྱ་དགོས།"</string>
+    <string name="kg_remained_1_attempt_countdown_1_sec_with_auto_wipe">"འཕྲུལ་ཆས་གསང་འགྲོལ་ཚོད་ལྟ་ཐེངས་%dབྱས་ཟིན།ཁྱེད་ནས་ད་དུང་ཚོད་ལྟ་ཐེངས་1བྱས་རྗེས།འཕྲུལ་ཆས་བཟོ་གྲྭའི་སོར་བཞག་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱེད་པ་དང་གཞི་གྲངས་ཡོད་ཚད་སུབ་སྲིད།
+
+སྐར་ཆ་1རྗེས་སུ་བསྐྱར་ཚོད་བྱ་དགོས།"</string>
+    <string name="kg_remained_1_attempt_countdown_mins_with_auto_wipe">"འཕྲུལ་ཆས་གསང་འགྲོལ་ཚོད་ལྟ་ཐེངས་%1$dབྱས་ཟིན།ཁྱེད་ནས་ད་དུང་ཚོད་ལྟ་ཐེངས་1བྱས་རྗེས།འཕྲུལ་ཆས་བཟོ་གྲྭའི་སོར་བཞག་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱེད་པ་དང་གཞི་གྲངས་ཡོད་ཚད་སུབ་སྲིད།
+
+སྐར་མ་%2$dརྗེས་སུ་བསྐྱར་ཚོད་བྱ་དགོས།"</string>
+    <string name="kg_remained_1_attempt_countdown_secs_with_auto_wipe">"འཕྲུལ་ཆས་གསང་འགྲོལ་ཚོད་ལྟ་ཐེངས་%1$dབྱས་ཟིན།ཁྱེད་ནས་ད་དུང་ཚོད་ལྟ་ཐེངས་1བྱས་རྗེས།འཕྲུལ་ཆས་བཟོ་གྲྭའི་སོར་བཞག་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱེད་པ་དང་གཞི་གྲངས་ཡོད་ཚད་སུབ་སྲིད།
+
+སྐར་ཆ་%2$dརྗེས་སུ་བསྐྱར་ཚོད་བྱ་དགོས།"</string>
+    <string name="kg_rmm_lock_instructions">请输入来自 %s 的数字密码</string>
+    <string name="kg_samsung_account_button_text">通过三星帐户解锁</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_wipe">འཕྲུལ་ཆས་གསང་འགྲོལ་ཚོད་ལྟ་ཐེངས་གཅིག་བྱས་ཟིན།ཁྱེད་ནས་ད་དུང་ཚོད་ལྟ་ཐེངས་%dབྱས་ཆོག།དེ་རྗེས་འཕྲུལ་ཆས་བཟོ་གྲྭའི་སོར་བཞག་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱེད་པ་དང་ཡིག་ཆ་དང་ཕབ་ལེན་བྱས་པའི་ཉེར་སྤྱོད་བྱ་རིམ་ཚུད་པའི་གཞི་གྲངས་ཡོད་ཚད་སུབ་སྲིད།</string>
+    <string name="kg_sec_1_remaining_count_almost_at_wipe">འཕྲུལ་ཆས་གསང་འགྲོལ་ཚོད་ལྟ་ཐེངས་%dབྱས་ཟིན།ཁྱེད་ནས་ད་དུང་ཚོད་ལྟ་ཐེངས་1བྱས་ཆོག།དེ་རྗེས་འཕྲུལ་ཆས་བཟོ་གྲྭའི་སོར་བཞག་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱེད་པ་དང་ཡིག་ཆ་དང་ཕབ་ལེན་བྱས་པའི་ཉེར་སྤྱོད་བྱ་རིམ་ཚུད་པའི་གཞི་གྲངས་ཡོད་ཚད་སུབ་སྲིད།</string>
+    <string name="kg_sec_failed_attempts_almost_at_wipe">འཕྲུལ་ཆས་གསང་འགྲོལ་ཚོད་ལྟ་ཐེངས་%1$dབྱས་ཟིན།ཁྱེད་ནས་ད་དུང་ཚོད་ལྟ་ཐེངས་%2$dབྱས་ཆོག།དེ་རྗེས་འཕྲུལ་ཆས་བཟོ་གྲྭའི་སོར་བཞག་སྒྲིག་འགོད་དུ་བསྐྱར་སྒྲིག་བྱེད་པ་ཡིག་ཆ་དང་ཕབ་ལེན་ཟིན་པའི་ཉེར་སྤྱོད་བྱ་རིམ་ཚུད་པའི་་གཞི་གྲངས་ཡོད་ཚད་སུབ་སྲིད།</string>
+    <string name="kg_sec_puk_enter_confirm_pin_hint">SIMགཱ་ཡི་PINཨང་གྲངས་གསར་པ་ཡང་བསྐྱར་ནང་འཇུག་བྱས་ནས་གཏན་འཁེལ་བྱེད་པ།</string>
+    <string name="kg_sec_puk_enter_pin_hint">SIMགཱ་ཡི་ PINཨང་གྲངས་ནང་འཇུག་བྱེད་པ།</string>
+    <string name="kg_sec_sim_unlock_progress_dialog_message">SIMབྱང་བུའི་སྒྲོག་སེལ་བཞིན་འདུག</string>
+    <string name="kg_secure_password">མཉམ་བསྲེས་གསང་གྲངས།</string>
+    <string name="kg_secure_pattern">རྟགས་རིས།</string>
+    <string name="kg_secure_pin">ཨང་ཀིའི་གསང་གྲངས།</string>
+    <string name="kg_secure_using_ppp_instead_of_fingerprints">ཐེངས་%1$d་ལ་མཛུབ་རིས་སྤྱད་ནས་ཁ་པར་འདིའི་སྒྲོག་སེལ་བའི་ཚོད་ལྟ་བྱས་ཟིན།%2$s་སྤྱད་ནས་སྒྲོག་སེལ་བས་ཚབ་བྱེད་རོགས།</string>
+    <string name="kg_secure_using_swipe_instead_of_fingerprints">མཛུབ་རིས་ཀྱིས་ཁ་པར་འདིའི་སྒྲོག་སེལ་བའི་ཚོད་ལྟ་ཐེངས་%d་བྱས་ཟིན།འདྲེད་འགུལ་སྒྲོག་སེལ་སྤྱད་ནས་ཚབ་བྱེད་རོགས།</string>
+    <string name="kg_show_password_accessibility">འདྲེས་སྦྱོར་གསང་ཨང་འཆར།</string>
+    <string name="kg_sim_lock_accepted">PINཨང་གྲངས་གསང་འགྲོལ་བྱེད་པ།</string>
+    <string name="kg_sim_lock_verified">ཨང་རྟགས་དང་ལེན་བྱས་ཟིན།</string>
+    <string name="kg_sim_locked_message">SIMབྱང་བུ་བསྡམ་སྒྲིག་བྱས་ཟིན།</string>
+    <string name="kg_sim_pin_remaining_1_attempt">ད་དུང་ཚོད་ལྟ་ཐེངས་1བྱས་ཆོག</string>
+    <string name="kg_sim_pin_remaining_attempts">གོ་སྐབས་ལྷག་མ་ཐེངས་%dཡོད།</string>
+    <string name="kg_sim_puk_instructions">SIM་བྱང་བུ་སྒྲོག་ཟིན།PUK་ཨང་ནང་འཇུག་བྱེད།གཉེར་སྐྱོང་པར་འབྲེལ་གཏུག་བྱས་ནས་གནས་ཚུལ་ཞིབ་ཕྲར་རྒྱུས་ལོན་བྱེད།</string>
+    <string name="kg_sim_puk_remaining_1_attempt">གལ་སྲིད་ཡང་མ་དག་པའི་PUKཨང་གྲངས་བསྐྱར་དུ་ཐེངས་1འཇུག་ཚེ།SIMབྱང་བུ་བསྡམ་སྒྲིག་བྱེད་སྲིད།</string>
+    <string name="kg_sim_puk_remaining_attempts">གལ་སྲིད་ཡང་མ་དག་པའི་PUKཨང་གྲངས་བསྐྱར་དུ་ཐེངས་%dའཇུག་ཚེ།SIMབྱང་བུ་བསྡམ་སྒྲིག་བྱེད་སྲིད།</string>
+    <string name="kg_sim_puk_tmo_help_contact_service_provider">您的 PIN 码已阻止。若要解除阻止设备，请联系您的运营商。</string>
+    <string name="kg_sim_puk_tmo_sos_call">SOS</string>
+    <string name="kg_skt_sim_perso_instructions">输入 USIM 卡解锁 PIN 码 (4 位数)</string>
+    <string name="kg_smart_lock_content_description">འཆར་ཡོལ་ལ་ཆ་རྡེབ་བྱས་ནས་སྒྲིག་ཆས་སྒྲོག</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_direction_lock">ཁྱེད་ཀྱི་འཕྲུལ་ཆས་ཆུ་ཚོད་24ཡན་བེད་སྤྱོད་བཏང་མེད།ཁ་ཕྱོགས་སྟར་གྲངས་སྤྱད་ནས་གསང་འགྲོལ་བྱ་དགོས།ཁྱེད་ནས་ཐེངས་རྗེས་མ་འཕྲུལ་ཆས་ཀྱི་གསང་འགྲོལ་སྐབས་མཛུབ་རིས་སྤྱད་ཆོག</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_password">您的设备已超过 24 小时没有使用，需要使用混合密码解锁。您可以在下次解锁设备时使用指纹。</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pattern">您的设备已超过 24 小时没有使用，需要使用图案解锁。您可以在下次解锁设备时使用指纹。</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pin">ཁྱེད་ཀྱི་འཕྲུལ་ཆས་དུས་ཡུན་ཆུ་ཚོད་24ཡན་ལ་བེད་སྤྱོད་བྱས་མེད།PINཨང་གྲངས་བེད་སྤྱོད་བཏང་ནས་གསང་འགྲོལ་དགོས།ཁྱེད་ནས་རྗེས་སུ་འཕྲུལ་ཆས་གསང་འགྲོལ་བྱེད་སྐབས་མཛུབ་རིས་བེད་སྤྱོད་གཏོང་ཆོག</string>
+    <string name="kg_swipe_active_instructions">འདྲེད་འགུལ་བྱས་ཏེ་ཁ་འབྱེད།</string>
+    <string name="kg_swipe_to_continue">འདྲེད་འགུལ་བྱས་ཏེ་མུ་མཐུད།</string>
+    <string name="kg_swipe_to_continue_using_this_app">བརྗེ་སྒྱུར་བྱས་ཏེ་མུ་མཐུད་ནས་ཉེར་སྤྱོད་འདི་སྤྱོད།</string>
+    <string name="kg_swipe_unlock_instructions">འདྲུད་ནས་གསང་འགྲོལ་བྱེད་པ།</string>
+    <string name="kg_swipe_unlock_smart_lock_instructions">རིག་ནུས་སྒྲོག་གིས་ཁ་པར་གྱི་སྒྲོག་སེལ་ཟིན།</string>
+    <string name="kg_swipe_unlock_strong_auth_instructions">འདྲུད་ནས་གསང་འགྲོལ་བྱེད་པ།</string>
+    <string name="kg_tablet_direction_1_frp">"如果您再输错一次方向序列，您的平板电脑将自动重置为出厂设置，并清除该平板电脑上的所有信息。
+
+如果您的平板电脑已重置，您可能需要输入与此平板电脑相关联的 Google 帐户信息 (邮件地址和混合密码) 才能重新使用。"</string>
+    <string name="kg_tablet_direction_1_reactivation">"གལ་སྲིད་ཁྱེད་ནས་ད་ངུང་ཁ་ཕྱོགས་སྟར་གྲངས་འཇུག་ནོར་ཐེངས་གཅིག་ཐོན་ཚེ།ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་རང་འགུལ་ཐོག་བཟོ་གྲྭའི་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱས།མ་ཟད་ངོས་པང་ཀློག་ཀླད་འདི་ཐོག་གི་ཆ་འཕྲིན་ཡོད་ཚད་གཙང་དོར་བྱེད་སྲིད།
+
+གལ་སྲིད་ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་བསྐྱར་སྒྲིག་བྱས་ཟིན།ཁྱེད་ནས་ངོས་པང་གློག་ཀླད་འདི་དང་འབྲེལ་ཡོད་པའི་Samsung accountཆ་འཕྲིན་(འཕྲིན་ཡིག་ས་གནས་དང་གསང་ཨང་)འཇུག་དགོས།དེ་རྗེས་བསྐྱར་དུ་བེད་སྤྱོད་གཏོང་ཐུབ།"</string>
+    <string name="kg_tablet_direction_none_frp">"如果您再输错 %d 次方向序列，您的平板电脑将自动重置为出厂设置，并清除该平板电脑上的所有信息。
+
+如果您的平板电脑已重置，您可能需要输入与此平板电脑相关联的 Google 帐户信息 (邮件地址和密码) 才能重新使用。"</string>
+    <string name="kg_tablet_direction_none_reactivation">"གལ་སྲིད་ཁྱེད་ནས་ཁ་ཕྱོགས་སྟར་གྲངས་འཇུག་ནོར་ཐེངས་%dཐོན་ཚེ།ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་རང་འགུལ་ཐོག་བཟོ་གྲྭའི་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱས།མ་ཟད་ངོས་པང་ཀློག་ཀླད་འདི་ཐོག་གི་ཆ་འཕྲིན་ཡོད་ཚད་གཙང་དོར་བྱེད་སྲིད།
+
+གལ་སྲིད་ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་བསྐྱར་སྒྲིག་བྱས་ཟིན།ཁྱེད་ནས་ངོས་པང་གློག་ཀླད་འདི་དང་འབྲེལ་ཡོད་པའི་Samsung accountཆ་འཕྲིན་(འཕྲིན་ཡིག་ས་གནས་དང་གསང་ཨང་)འཇུག་དགོས།དེ་རྗེས་བསྐྱར་དུ་བེད་སྤྱོད་གཏོང་ཐུབ།"</string>
+    <string name="kg_tablet_face_direction_emergencymodeoff_instructions">བཞིན་རས་ངོས་འཛིན་སྤྱོད་པའམ་ཁ་ཕྱོགས་སྟར་ཕྲེང་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_face_direction_emergencymodeon_instructions">བཞིན་རས་ངོས་འཛིན་སྤྱོད་པའམ་ཁ་ཕྱོགས་ཨང་སྟར་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_tablet_face_direction_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་ཁ་ཕྱོགས་སྟར་སྒྲིག་སྤྱོད།</string>
+    <string name="kg_tablet_face_direction_shutdown_instructions">ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་བསྐྱར་དུ་ཁ་ཕྱེ་ཟིན།ཁ་ཕྱོགས་སྟར་གྲངས་སྤྱད་ནས་གསང་འགྲོལ་དགོས།རྗེས་སུ་ངོས་པང་གློག་ཀླད་གསང་འགྲོལ་བྱེད་སྐབས་མཛུབ་རིས་སྤྱོད་ཆོག།</string>
+    <string name="kg_tablet_face_direction_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁ་ཕྱོགས་སྟར་སྒྲིག་འགོད་རོགས།</string>
+    <string name="kg_tablet_face_password_emergencymodeoff_instructions">བཞིན་རས་ངོས་འཛིན་སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_face_password_emergencymodeon_instructions">བཞིན་རས་ངོས་འཛིན་སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_tablet_face_password_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་མཉམ་བསྲེས་གསང་ཨང་སྤྱོད།</string>
+    <string name="kg_tablet_face_password_shutdown_instructions">བཞིན་རས་ངོས་འཛིན་ནམ་མཉམ་བསྲེས་གསང་ཨང་བཀོལ་ནས་སྙོམ་ལེབ་གློག་ཀླད་ཀྱི་སྒོ་སྟེམ་རོགས།</string>
+    <string name="kg_tablet_face_password_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་འདྲེས་སྦྱོར་གསང་ཨང་སྤྱོད་རོགས།</string>
+    <string name="kg_tablet_face_pattern_emergencymodeoff_instructions">བཞིན་རས་ངོས་འཛིན་སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_face_pattern_emergencymodeon_instructions">བཞིན་རས་ངོས་འཛིན་སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_tablet_face_pattern_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་ཐིག་རིས་འགོད།</string>
+    <string name="kg_tablet_face_pattern_shutdown_instructions">བཞིན་རས་ངོས་འཛིན་ནམ་ཐིག་རིས་འབྲི་བ་བརྒྱུད་ནས་སྙོམ་ལེབ་གློག་ཀླད་ཀྱི་སྒོ་སྟེམ་རོགས།</string>
+    <string name="kg_tablet_face_pattern_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་ཐིག་རིས་འགོད་རོགས།</string>
+    <string name="kg_tablet_face_pin_emergencymodeoff_instructions">བཞིན་རས་ངོས་འཛིན་སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_face_pin_emergencymodeon_instructions">བཞིན་རས་ངོས་འཛིན་སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_tablet_face_pin_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་སུ་PIN་སྤྱོད།</string>
+    <string name="kg_tablet_face_pin_shutdown_instructions">བཞིན་རས་ངོས་འཛིན་ནམ་PIN་ཨང་བཀོལ་ནས་སྙོམ་ལེབ་གློག་ཀླད་ཀྱི་སྒོ་སྟེམ་རོགས།</string>
+    <string name="kg_tablet_face_pin_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་PIN་སྤྱོད་རོགས།</string>
+    <string name="kg_tablet_fingerprint_direction_emergencymodeoff_instructions">མཛུབ་རིས་སྤྱོད་པའམ་ཁ་ཕྱོགས་སྟར་ཕྲེང་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_fingerprint_direction_emergencymodeon_instructions">མཛུབ་རིས་སྤྱོད་པའམ་ཁ་ཕྱོགས་ཨང་སྟར་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_tablet_fingerprint_direction_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་ཁ་ཕྱོགས་སྟར་སྒྲིག་སྤྱོད།</string>
+    <string name="kg_tablet_fingerprint_direction_shutdown_instructions">མཛུབ་རིས་བེད་སྤྱད་པའམ་ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་ནས་ངོས་པང་གློག་ཀླད་ཁ་རྒྱག།</string>
+    <string name="kg_tablet_fingerprint_direction_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁ་ཕྱོགས་སྟར་སྒྲིག་འགོད་རོགས།</string>
+    <string name="kg_tablet_fingerprint_password_emergencymodeoff_instructions">མཛུབ་རིས་ངོས་འཛིན་སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_fingerprint_password_emergencymodeon_instructions">མཛུབ་རིས་སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_tablet_fingerprint_password_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་མཉམ་བསྲེས་གསང་ཨང་སྤྱོད།</string>
+    <string name="kg_tablet_fingerprint_password_shutdown_instructions">མཛུབ་རིས་བེད་སྤྱད་པའམ་མཉམ་གསེས་གསང་ཨང་འཇུག་ངོས་པང་གློག་ཀླད་ཁ་རྒྱག།</string>
+    <string name="kg_tablet_fingerprint_password_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་འདྲེས་སྦྱོར་གསང་ཨང་སྤྱོད་རོགས།</string>
+    <string name="kg_tablet_fingerprint_pattern_emergencymodeoff_instructions">མཛུབ་རིས་སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_fingerprint_pattern_emergencymodeon_instructions">མཛུབ་རིས་སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_tablet_fingerprint_pattern_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་ཐིག་རིས་འགོད།</string>
+    <string name="kg_tablet_fingerprint_pattern_shutdown_instructions">མཛུབ་རིས་བེད་སྤྱད་པའམ་རིས་དབྱིབས་བྲིས་ནས་ངོས་པང་གློག་ཀླད་ཁ་རྒྱག།</string>
+    <string name="kg_tablet_fingerprint_pattern_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་ཐིག་རིས་འགོད་རོགས།</string>
+    <string name="kg_tablet_fingerprint_pin_emergencymodeoff_instructions">མཛུབ་རིས་ངོས་འཛིན་སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_fingerprint_pin_emergencymodeon_instructions">མཛུབ་རིས་སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_tablet_fingerprint_pin_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་སུ་PIN་སྤྱོད།</string>
+    <string name="kg_tablet_fingerprint_pin_shutdown_instructions">མཛུབ་རིས་བེད་སྤྱད་པའམ་PINའཇུག་ངོས་པང་གློག་ཀླད་ཁ་རྒྱག།</string>
+    <string name="kg_tablet_fingerprint_pin_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་PIN་སྤྱོད་རོགས།</string>
+    <string name="kg_tablet_fingerprints_direction_unabled_instructions">您的设备已重启，需要使用方向序列解锁。您可以在下次解锁设备时使用指纹。</string>
+    <string name="kg_tablet_fingerprints_password_unabled_instructions">您的设备已重启，需要使用混合密码解锁。您可以在下次解锁设备时使用指纹。</string>
+    <string name="kg_tablet_fingerprints_pattern_unabled_instructions">您的设备已重启，需要使用图案解锁。您可以在下次解锁设备时使用指纹。</string>
+    <string name="kg_tablet_fingerprints_pin_unabled_instructions">ཁྱེད་ཀྱི་འཕྲུལ་ཆས་གློག་ཁ་བསྐྱར་དུ་ཟིན།PINཨང་གྲངས་བེད་སྤྱོད་བཏང་ནས་གསང་འགྲོལ་དགོས།ཁྱེད་ནས་རྗེས་སུ་འཕྲུལ་ཆས་གསང་འགྲོལ་བྱེད་སྐབས་མཛུབ་རིས་བེད་སྤྱོད་གཏོང་ཆོག</string>
+    <string name="kg_tablet_intelligent_direction_emergencymodeoff_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཁ་ཕྱོགས་སྟར་ཕྲེང་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_intelligent_direction_emergencymodeon_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཁ་ཕྱོགས་ཨང་སྟར་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_tablet_intelligent_direction_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་ཁ་ཕྱོགས་སྟར་སྒྲིག་སྤྱོད།</string>
+    <string name="kg_tablet_intelligent_direction_shutdown_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཡང་ན་ཁ་ཕྱོགས་ཨང་སྟར་བྲིས་ནས་སྙོམ་ལེབ་གློག་ཀླད་ཀྱི་སྒོ་སྟེམ་རོགས།</string>
+    <string name="kg_tablet_intelligent_direction_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁ་ཕྱོགས་སྟར་སྒྲིག་འགོད་རོགས།</string>
+    <string name="kg_tablet_intelligent_password_emergencymodeoff_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_intelligent_password_emergencymodeon_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་།</string>
+    <string name="kg_tablet_intelligent_password_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་མཉམ་བསྲེས་གསང་ཨང་སྤྱོད།</string>
+    <string name="kg_tablet_intelligent_password_shutdown_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཡང་ན་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ཏེ་སྙོམ་ལེབ་གློག་ཀླད་ཀྱི་སྒོ་སྟེམ་རོགས།</string>
+    <string name="kg_tablet_intelligent_password_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་འདྲེས་སྦྱོར་གསང་ཨང་སྤྱོད་རོགས།</string>
+    <string name="kg_tablet_intelligent_pattern_emergencymodeoff_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_intelligent_pattern_emergencymodeon_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་།</string>
+    <string name="kg_tablet_intelligent_pattern_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་ཐིག་རིས་འགོད།</string>
+    <string name="kg_tablet_intelligent_pattern_shutdown_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཡང་ན་ཐིག་རིས་བྲིས་ནས་སྙོམ་ལེབ་གློག་ཀླད་ཀྱི་སྒོ་སྟེམ་རོགས།</string>
+    <string name="kg_tablet_intelligent_pattern_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་ཐིག་རིས་འགོད་རོགས།</string>
+    <string name="kg_tablet_intelligent_pin_emergencymodeoff_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_intelligent_pin_emergencymodeon_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་།</string>
+    <string name="kg_tablet_intelligent_pin_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་སུ་PIN་སྤྱོད།</string>
+    <string name="kg_tablet_intelligent_pin_shutdown_instructions">༼རིག་ནུས་བཤེར་འབེབ༽སྤྱོད་པའམ་ཡང་ན་PIN་ཨང་ནང་འཇུག་བྱས་ཏེ་སྙོམ་ལེབ་གློག་ཀླད་ཀྱི་སྒོ་སྟེམ་རོགས།</string>
+    <string name="kg_tablet_intelligent_pin_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་PIN་སྤྱོད་རོགས།</string>
+    <string name="kg_tablet_iris_direction_emergencymodeoff_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་ཁ་ཕྱོགས་སྟར་ཕྲེང་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_iris_direction_emergencymodeon_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་ཁ་ཕྱོགས་ཨང་སྟར་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_tablet_iris_direction_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་ཁ་ཕྱོགས་སྟར་སྒྲིག་སྤྱོད།</string>
+    <string name="kg_tablet_iris_direction_shutdown_instructions">འཇའ་སྐྱི་སྤྱད་པའམ་ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་ནས་ངོས་པང་གློག་ཀླད་ཁ་རྒྱག།</string>
+    <string name="kg_tablet_iris_direction_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁ་ཕྱོགས་སྟར་སྒྲིག་འགོད་རོགས།</string>
+    <string name="kg_tablet_iris_password_emergencymodeoff_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_iris_password_emergencymodeon_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་བྲེལ་ཚུབ་རྣམ་པའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_tablet_iris_password_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་མཉམ་བསྲེས་གསང་ཨང་སྤྱོད།</string>
+    <string name="kg_tablet_iris_password_shutdown_instructions">འཇའ་སྐྱི་སྤྱད་པའམ་མཉམ་གསེས་གསང་ཨང་འཇུག་ནས་ངོས་པང་གློག་ཀླད་ཁ་རྒྱག།</string>
+    <string name="kg_tablet_iris_password_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་འདྲེས་སྦྱོར་གསང་ཨང་སྤྱོད་རོགས།</string>
+    <string name="kg_tablet_iris_pattern_emergencymodeoff_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_iris_pattern_emergencymodeon_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་བྲེལ་ཚུབ་རྣམ་པའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_tablet_iris_pattern_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་ཐིག་རིས་འགོད།</string>
+    <string name="kg_tablet_iris_pattern_shutdown_instructions">འཇའ་སྐྱི་སྤྱད་པའམ་རིས་དབྱིབས་བྲིས་ནས་ངོས་པང་གློག་ཀླད་ཁ་རྒྱག།</string>
+    <string name="kg_tablet_iris_pattern_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་ཐིག་རིས་འགོད་རོགས།</string>
+    <string name="kg_tablet_iris_pin_emergencymodeoff_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_iris_pin_emergencymodeon_instructions">འཇའ་སྐྱི་སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་བྲེལ་ཚུབ་རྣམ་པའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_tablet_iris_pin_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་སུ་PIN་སྤྱོད།</string>
+    <string name="kg_tablet_iris_pin_shutdown_instructions">འཇའ་སྐྱི་སྤྱད་པའམ་PINའཇུག་ནས་ངོས་པང་གློག་ཀླད་ཁ་རྒྱག།</string>
+    <string name="kg_tablet_iris_pin_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་PIN་སྤྱོད་རོགས།</string>
+    <string name="kg_tablet_multi_direction_emergencymodeoff_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་ཁ་ཕྱོགས་སྟར་ཕྲེང་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_multi_direction_emergencymodeon_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་ཁ་ཕྱོགས་ཨང་སྟར་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_tablet_multi_direction_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་ཁ་ཕྱོགས་སྟར་སྒྲིག་སྤྱོད།</string>
+    <string name="kg_tablet_multi_direction_shutdown_instructions">སྐྱེ་དངོས་ཚོར་ཤེས་བེད་སྤྱད་པའམ་ཁ་ཕྱོགས་སྟར་གྲངས་བྲིས་ནས་ངོས་པང་གློག་ཀླད་ཁ་རྒྱག།</string>
+    <string name="kg_tablet_multi_direction_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁ་ཕྱོགས་སྟར་སྒྲིག་འགོད་རོགས།</string>
+    <string name="kg_tablet_multi_password_emergencymodeoff_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_multi_password_emergencymodeon_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_tablet_multi_password_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་མཉམ་བསྲེས་གསང་ཨང་སྤྱོད།</string>
+    <string name="kg_tablet_multi_password_shutdown_instructions">སྐྱེ་དངོས་ཚོར་ཤེས་བེད་སྤྱད་པའམ་མཉམ་གསེས་གསང་ཨང་འཇུག་ངོས་པང་གློག་ཀླད་ཁ་རྒྱག།</string>
+    <string name="kg_tablet_multi_password_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་འདྲེས་སྦྱོར་གསང་ཨང་སྤྱོད་རོགས།</string>
+    <string name="kg_tablet_multi_pattern_emergencymodeoff_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_multi_pattern_emergencymodeon_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_tablet_multi_pattern_restart_instructions">སླར་སྒུལ་བསླངས་རྗེས་སུ་ཐིག་རིས་འགོད།</string>
+    <string name="kg_tablet_multi_pattern_shutdown_instructions">སྐྱེ་དངོས་ཚོར་ཤེས་བེད་སྤྱད་པའམ་རིས་དབྱིབས་བྲིས་ནས་ངོས་པང་གློག་ཀླད་ཁ་རྒྱག།</string>
+    <string name="kg_tablet_multi_pattern_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་ཐིག་རིས་འགོད་རོགས།</string>
+    <string name="kg_tablet_multi_pin_emergencymodeoff_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_multi_pin_emergencymodeon_instructions">སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད་པའམ་PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་རོགས།</string>
+    <string name="kg_tablet_multi_pin_restart_instructions">སྒུལ་སླར་བསླངས་རྗེས་སུ་PIN་སྤྱོད།</string>
+    <string name="kg_tablet_multi_pin_shutdown_instructions">སྐྱེ་དངོས་ཚད་འཇལ་ཡང་ན་ PIN བེད་སྤྱོད་བྱས་ནས་གློག་པང་ཁ་རྒྱོབ།</string>
+    <string name="kg_tablet_multi_pin_timeout_instructions">བདེ་འཇགས་ཀྱི་ཆེད་དུ།ཁྱེད་ཀྱི་PIN་སྤྱོད་རོགས།</string>
+    <string name="kg_tablet_none_direction_emergencymodeoff_instructions">ཁ་ཕྱོགས་སྟར་ཕྲེང་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_none_direction_emergencymodeon_instructions">ཁ་ཕྱོགས་ཨང་སྟར་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་།</string>
+    <string name="kg_tablet_none_direction_shutdown_instructions">ཁ་ཕྱོགས་ཀྱི་རིགས་གྲས་བྲིས་ནས་གློག་པང་ཁ་རྒྱོབ།</string>
+    <string name="kg_tablet_none_password_emergencymodeoff_instructions">མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ་རོགས།</string>
+    <string name="kg_tablet_none_password_emergencymodeon_instructions">མཉམ་བསྲེས་གསང་ཨང་ནང་འཇུག་བྱས་ཏེ་རྣམ་པ་བྲེལ་མོ་སྒུལ་སློང་།</string>
+    <string name="kg_tablet_none_password_shutdown_instructions">ཡོ་བྱས་མེད་པའི་ཕྱིར་ གསང་རྟགས་འཇུག</string>
+    <string name="kg_tablet_none_pattern_emergencymodeoff_instructions">ཐིག་རིས་བྲིས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ།</string>
+    <string name="kg_tablet_none_pattern_emergencymodeon_instructions">པར་རིས་བཀོད་ནས་རྣམ་པ་བྲེལ་མོའི་སྒུལ་སློང་།</string>
+    <string name="kg_tablet_none_pattern_shutdown_instructions">ཡོ་བྱས མེད་པ་བཟོས་ཕྱིར་ བཟོ་བཀོད་སྐྲུན</string>
+    <string name="kg_tablet_none_pin_emergencymodeoff_instructions">PIN་ནང་འཇུག་བྱས་ནས་རྣམ་པ་བྲེལ་མོའི་སྒོ་སྟེམ་རོགས།</string>
+    <string name="kg_tablet_none_pin_emergencymodeon_instructions">PIN་ནང་འཇུག་བྱས་ཏེ་རྣམ་པ་བྲེལ་མོ་སྒུལ་སློང་།</string>
+    <string name="kg_tablet_none_pin_shutdown_instructions">PIN འཇུག་ནས་ ཡོ་བྱས་མེད་པ་བཟོས།</string>
+    <string name="kg_tablet_password_1_frp">"如果您再输错一次混合密码，您的平板电脑将自动重置为出厂设置，并清除该平板电脑上的所有信息。
+
+如果您的平板电脑已重置，您可能需要输入与此平板电脑相关联的 Google 帐户信息 (邮件地址和混合密码) 才能重新使用。"</string>
+    <string name="kg_tablet_password_1_reactivation">"གལ་སྲིད་ཁྱེད་ནས་མཉམ་བསྲེས་ཨང་གྲངས་འཇུག་ནོར་ཐེངས་%dཐོན་ཚེ།ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་རང་འགུལ་ཐོག་བཟོ་གྲྭའི་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱེད་སྲིད།མ་ཟད་ལག་ཐོག་ཁ་པར་འདི་ཐོག་གི་གཞི་གྲངས་ཡོད་ཚད་གཙང་དོར་བྱེད་སྲིད།
+
+གལ་སྲིད་ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་བསྐྱར་སྒྲིག་བྱས་ཟིན་ཚེ།ཁྱེད་ནས་ལག་ཐོག་ཁ་པར་འདི་དང་འབྲེལ་ཡོད་ཀྱི་Samsung accountཆ་འཕྲིན་འཇུག་དགོས།(འཕྲིན་ཡིག་ས་གནས་དང་གསང་ཨང་)རྗེས་བསྐྱར་དུ་བེད་སྤྱོད་གཏོང་ཐུབ།"</string>
+    <string name="kg_tablet_password_none_frp">"如果您再输错 %d 次混合密码，您的平板电脑将自动重置为出厂设置，并清除该平板电脑上的所有信息。
+
+如果您的平板电脑已重置，您可能需要输入与此平板电脑相关联的 Google 帐户信息 (邮件地址和混合密码) 才能重新使用。"</string>
+    <string name="kg_tablet_password_none_reactivation">"གལ་སྲིད་ཁྱེད་ནས་ད་དུང་མཉམ་བསྲེས་ཨང་གྲངས་འཇུག་ནོར་ཐེངས་གཅིག་ཐོན་ཚེ།ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་རང་འགུལ་ཐོག་བཟོ་གྲྭའི་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱེད་སྲིད།མ་ཟད་ལག་ཐོག་ཁ་པར་འདི་ཐོག་གི་གཞི་གྲངས་ཡོད་ཚད་གཙང་དོར་བྱེད་སྲིད།
+
+གལ་སྲིད་ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་བསྐྱར་སྒྲིག་བྱས་ཟིན་ཚེ།ཁྱེད་ནས་ལག་ཐོག་ཁ་པར་འདི་དང་འབྲེལ་ཡོད་ཀྱི་Samsung accountཆ་འཕྲིན་འཇུག་དགོས།(འཕྲིན་ཡིག་ས་གནས་དང་གསང་ཨང་)རྗེས་བསྐྱར་དུ་བེད་སྤྱོད་གཏོང་ཐུབ།"</string>
+    <string name="kg_tablet_pattern_1_frp">"如果您再绘制错一次图案，您的平板电脑将自动重置为出厂设置，并清除该平板电脑上的所有信息。
+
+如果您的平板电脑已重置，您可能需要输入与此平板电脑相关联的 Google 帐户信息 (邮件地址和混合密码) 才能重新使用。"</string>
+    <string name="kg_tablet_pattern_1_reactivation">"གལ་སྲིད་ཁྱེད་ནས་ད་དུང་རིས་དབྱིབས་འཇུག་ནོར་ཐེངས་གཅིག་ཐོན་ཚེ།ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་རང་འགུལ་ཐོག་བཟོ་གྲྭའི་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱས།མ་ཟད་ངོས་པང་ཀློག་ཀླད་འདི་ཐོག་གི་ཆ་འཕྲིན་ཡོད་ཚད་གཙང་དོར་བྱེད་སྲིད།
+
+གལ་སྲིད་ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་བསྐྱར་སྒྲིག་བྱས་ཟིན།ཁྱེད་ནས་ངོས་པང་གློག་ཀླད་འདི་དང་འབྲེལ་ཡོད་པའི་Samsung accountཆ་འཕྲིན་(འཕྲིན་ཡིག་ས་གནས་དང་གསང་ཨང་)འཇུག་དགོས།དེ་རྗེས་བསྐྱར་དུ་བེད་སྤྱོད་གཏོང་ཐུབ།"</string>
+    <string name="kg_tablet_pattern_none_frp">"如果您再绘制错 %d 次图案，您的平板电脑将自动重置为出厂设置，并清除该平板电脑上的所有信息。
+
+如果您的平板电脑已重置，您可能需要输入与此平板电脑相关联的 Google 帐户信息 (邮件地址和混合密码) 才能重新使用。"</string>
+    <string name="kg_tablet_pattern_none_reactivation">"གལ་སྲིད་ཁྱེད་ནས་རིས་དབྱིབས་འཇུག་ནོར་ཐེངས་%dཐོན་ཚེ།ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་རང་འགུལ་ཐོག་བཟོ་གྲྭའི་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱས།མ་ཟད་ངོས་པང་ཀློག་ཀླད་འདི་ཐོག་གི་ཆ་འཕྲིན་ཡོད་ཚད་གཙང་དོར་བྱེད་སྲིད།
+
+གལ་སྲིད་ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་བསྐྱར་སྒྲིག་བྱས་ཟིན།ཁྱེད་ནས་ངོས་པང་གློག་ཀླད་འདི་དང་འབྲེལ་ཡོད་པའི་Samsung accountཆ་འཕྲིན་(འཕྲིན་ཡིག་ས་གནས་དང་གསང་ཨང་)འཇུག་དགོས།དེ་རྗེས་བསྐྱར་དུ་བེད་སྤྱོད་གཏོང་ཐུབ།"</string>
+    <string name="kg_tablet_pin_1_frp">"如果您再输错一次数字密码，您的平板电脑将自动重置为出厂设置，并清除该平板电脑上的所有信息。
+
+如果您的平板电脑已重置，您可能需要输入与此平板电脑相关联的 Google 帐户信息 (邮件地址和混合密码) 才能重新使用。"</string>
+    <string name="kg_tablet_pin_1_reactivation">"གལ་སྲིད་ཁྱེད་ནས་ད་ངུང་PINའཇུག་ནོར་ཐེངས་གཅིག་ཐོན་ཚེ།ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་རང་འགུལ་ཐོག་བཟོ་གྲྭའི་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱས།མ་ཟད་ངོས་པང་ཀློག་ཀླད་འདི་ཐོག་གི་ཆ་འཕྲིན་ཡོད་ཚད་གཙང་དོར་བྱེད་སྲིད།
+
+གལ་སྲིད་ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་བསྐྱར་སྒྲིག་བྱས་ཟིན།ཁྱེད་ནས་ངོས་པང་གློག་ཀླད་འདི་དང་འབྲེལ་ཡོད་པའི་Samsung accountཆ་འཕྲིན་(འཕྲིན་ཡིག་ས་གནས་དང་གསང་ཨང་)འཇུག་དགོས།དེ་རྗེས་བསྐྱར་དུ་བེད་སྤྱོད་གཏོང་ཐུབ།"</string>
+    <string name="kg_tablet_pin_none_frp">"如果您再输错 %d 次数字密码，您的平板电脑将自动重置为出厂设置，并清除该平板电脑上的所有信息。
+
+如果您的平板电脑已重置，您可能需要输入与此平板电脑相关联的 Google 帐户信息 (邮件地址和混合密码) 才能重新使用。"</string>
+    <string name="kg_tablet_pin_none_reactivation">"གལ་སྲིད་ཁྱེད་ནས་PINའཇུག་ནོར་ཐེངས་%dཐོན་ཚེ།ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་རང་འགུལ་ཐོག་བཟོ་གྲྭའི་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱས།མ་ཟད་ངོས་པང་ཀློག་ཀླད་འདི་ཐོག་གི་ཆ་འཕྲིན་ཡོད་ཚད་གཙང་དོར་བྱེད་སྲིད།
+
+གལ་སྲིད་ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་བསྐྱར་སྒྲིག་བྱས་ཟིན།ཁྱེད་ནས་ངོས་པང་གློག་ཀླད་འདི་དང་འབྲེལ་ཡོད་པའི་Samsung accountཆ་འཕྲིན་(འཕྲིན་ཡིག་ས་གནས་དང་གསང་ཨང་)འཇུག་དགོས།དེ་རྗེས་བསྐྱར་དུ་བེད་སྤྱོད་གཏོང་ཐུབ།"</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_direction_lock">ཁྱེད་ཀྱི་འཕྲུལ་ཆས་ཆུ་ཚོད་24ཡན་བེད་སྤྱོད་བཏང་མེད།ཁ་ཕྱོགས་སྟར་གྲངས་སྤྱད་ནས་གསང་འགྲོལ་བྱ་དགོས།ཁྱེད་ནས་ཐེངས་རྗེས་མ་འཕྲུལ་ཆས་ཀྱི་གསང་འགྲོལ་སྐབས་མཛུབ་རིས་སྤྱད་ཆོག</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_password">您的设备已超过 24 小时没有使用，需要使用混合密码解锁。您可以在下次解锁设备时使用指纹。</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_pattern">您的设备已超过 24 小时没有使用，需要使用图案解锁。您可以在下次解锁设备时使用指纹。</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_pin">ཁྱེད་ཀྱི་འཕྲུལ་ཆས་དུས་ཡུན་ཆུ་ཚོད་24ཡན་ལ་བེད་སྤྱོད་བྱས་མེད།PINཨང་གྲངས་བེད་སྤྱོད་བཏང་ནས་གསང་འགྲོལ་དགོས།ཁྱེད་ནས་རྗེས་སུ་འཕྲུལ་ཆས་གསང་འགྲོལ་བྱེད་སྐབས་མཛུབ་རིས་བེད་སྤྱོད་གཏོང་ཆོག</string>
+    <string name="kg_too_many_failed_attempt_countdown">སྐར་ཆ1ནང་བསྐྱར་དུ་ཚོད་ལྟ་བྱེད།</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_min_with_auto_wipe">"འཕྲུལ་ཆས་གསང་འགྲོལ་ཚོད་ལྟ་ཐེངས་%1$dབྱས་ཟིན།ཁྱེད་ནས་ད་དུང་ཚོད་ལྟ་ཐེངས་%2$dབྱས་རྗེས།འཕྲུལ་ཆས་བཟོ་གྲྭའི་སོར་བཞག་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱེད་པ་དང་གཞི་གྲངས་ཡོད་ཚད་སུབ་སྲིད།
+
+སྐར་མ་1རྗེས་སུ་བསྐྱར་ཚོད་བྱ་དགོས།"</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_sec_with_auto_wipe">"འཕྲུལ་ཆས་གསང་འགྲོལ་ཚོད་ལྟ་ཐེངས་%1$dབྱས་ཟིན།ཁྱེད་ནས་ད་དུང་ཚོད་ལྟ་ཐེངས་%2$dབྱས་རྗེས།འཕྲུལ་ཆས་བཟོ་གྲྭའི་སོར་བཞག་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱེད་པ་དང་གཞི་གྲངས་ཡོད་ཚད་སུབ་སྲིད།
+
+སྐར་ཆ་1རྗེས་སུ་བསྐྱར་ཚོད་བྱ་དགོས།"</string>
+    <string name="kg_too_many_failed_attempts_countdown_mins_with_auto_wipe">"འཕྲུལ་ཆས་གསང་འགྲོལ་ཚོད་ལྟ་ཐེངས་%1$dབྱས་ཟིན།ཁྱེད་ནས་ད་དུང་ཚོད་ལྟ་ཐེངས་%2$dབྱས་རྗེས།འཕྲུལ་ཆས་བཟོ་གྲྭའི་སོར་བཞག་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱེད་པ་དང་གཞི་གྲངས་ཡོད་ཚད་སུབ་སྲིད།
+
+སྐར་མ་%3$dརྗེས་སུ་བསྐྱར་ཚོད་བྱ་དགོས།"</string>
+    <string name="kg_too_many_failed_attempts_countdown_secs_with_auto_wipe">"འཕྲུལ་ཆས་གསང་འགྲོལ་ཚོད་ལྟ་ཐེངས་%1$dབྱས་ཟིན།ཁྱེད་ནས་ད་དུང་ཐེངས་མ་%2$dབྱས་ཆོག།དེ་རྗེས་འཕྲུལ་ཆས་བཟོ་གྲྭའི་ཐོག་མའི་སོར་བཞག་སྒྲིག་འགོད་ལ་བསྐྱར་སྒྲིག་བྱེད་པ་དང་གཞི་གྲངས་ཚང་མ་སུབ་སྲིད།
+
+སྐར་ཆ་%3$dརྗེས་སུ་བསྐྱར་ཚོད་བྱེད་དགོས།"</string>
+    <string name="kg_too_many_failed_countdown_1_sec_with_auto_wipe">སྐར་ཆ1ནང་བསྐྱར་དུ་ཚོད་ལྟ་བྱེད།</string>
+    <string name="kg_touch_lockscreen_game_guide">སླར་ཉེར་སྤྱོད་འདིའི་སྒུལ་སློང་དགོས་ཤིང་ད་གཟོད་མདུན་ཡོལ་དུ་བེད་སྤྱོད་ཐུབ།ཁྱེད་ཀྱི་ཁ་པར་གྱི་ཁ་ཕྱེས་ཆོག་ཅིང་།འདིར་སླར་སྒུལ་སློང་མི་དགོས་པར་ཡོལ་གཙོ་སྟེང་དུ་ཉེར་སྤྱོད་འདི་སྤྱད་ཆོག</string>
+    <string name="kg_tts_shortcut_app">ཉིས་བརྡེབས་དང་འདྲུད་འགུལ་བྱས་ནས་%sཁ་ཕྱེ་བ།</string>
+    <string name="kg_ucm_enter_confirm_pin_hint">PINནང་འཇུག་བྱེད་ནས་ངེས་གཏན་བྱེད།</string>
+    <string name="kg_ucm_invalid_confirm_pin_hint">PINsཆ་མཚུངས་མི་འདུག</string>
+    <string name="kg_ucm_loading">ནང་འདྲེན་བྱེད་བཞིན་པ།</string>
+    <string name="kg_ucm_password_not_matching">རིག་ནུས་བྱང་བུའི་གསང་ཨང་དང་ལག་ཐོག་ཁ་པར་ནང་ཉར་ཚགས་བྱས་པའི་གསང་ཨང་མི་མཐུན།</string>
+    <string name="kg_ucm_password_wrong_puk_code">ཡང་དག་མིན་པའིPUKབཏག་འདུག</string>
+    <string name="kg_ucm_puk_enter_pin_hint">PINགསར་བ་འཇུག་པ།</string>
+    <string name="kg_ucm_unknown_error_occurred">རྒྱུས་མེད་ནོར་འཁྲུལ་ཐོན།</string>
+    <string name="kg_ucm_unlocking">སྒྲོག་སེལ་བཞིན་འདུག</string>
+    <string name="kg_unlock_progress">སྒྲོག་སེལ་བཞིན་འདུག</string>
+    <string name="kg_unlock_sim_pin_instructions">SIMབྱང་བུའི་གསང་འགྲོལ་PINཨང་གྲངས་འཇུག་དགོས།</string>
+    <string name="kg_unlock_sim_pin_remaining_1_attempt">SIMབྱང་བུའི་གསང་འགྲོལ་PINཨང་གྲངས་འཇུག་དགོས།ད་དུང་ཚོད་ལྟ་ཐེངས་1བྱས་ཆོག</string>
+    <string name="kg_unlock_sim_pin_remaining_attempts">SIMབྱང་བུའི་གསང་འགྲོལ་PINཨང་གྲངས་འཇུག་དགོས།ད་དུང་ཚོད་ལྟ་ཐེངས་%dབྱས་ཆོག</string>
+    <string name="kg_use_biometrics_first">སྔོན་ཐོག་ཏུ་སྐྱེ་དངོས་ངོས་འཛིན་སྤྱོད།</string>
+    <string name="kg_use_fingerprint_first">སྔོན་ཐོག་ཏུ་མཛུབ་རིས་སྤྱོད།</string>
+    <string name="kg_use_irises_first">སྔོན་ཐོག་ཏུ་འཇའ་སྐྱི་སྤྱོད།</string>
+    <string name="kg_voice_assistant_active_instructions">མཛུབ་མོ་2་འདྲེད་འགུལ་བྱས་ཏེ་ཁ་འབྱེད།</string>
+    <string name="kg_voice_assistant_unlock_instructions">མཛུབ་མོ་2་འདྲེད་འགུལ་བྱས་ཏེ་སྒྲོག་སེལ།</string>
+    <string name="kg_voice_assistant_unlock_strong_auth_instructions">ལག་མཛུབ་གཉིས་འགུལ་ནས་བརྙན་ཡོལ་ཁ་འགྲོལ་བ།</string>
+    <string name="kg_wallpaper_applied_toast">བརྙན་ཡོལ་གྱི་པར་འདི་ནི་ གསང་ལྕགས་ཀྱི་བརྙན་ཡོལ་ལ་འཇུག་ཤག།</string>
+    <string name="kg_wallpaper_applied_toast_infinity">Infinityཡོལ་རིས་Always on Displayབརྙན་ཡོལ་མ་ངོས་དང་བསྡམ་སྒྲིག་བརྙན་ཡོལ་ཐོག་བེད་སྤྱོད་བཏང་ཟིན།</string>
+    <string name="kg_wallpaper_applied_toast_infinity_without_aod">Infinityཡོལ་རིས་དང་བརྙན་ཡོལ་མ་ངོས་དང་བསྡམ་སྒྲིག་བརྙན་ཡོལ་ཐོག་བེད་སྤྱོད་བཏང་ཟིན།</string>
+    <string name="kg_wallpaper_change_wallpaper_when_infinity_applied">གལ་སྲིད་ཁྱེད་ནས་ཡོལ་རིས་འདི་བེད་སྤྱོད་བཏང་ཚེ།Infinityནུས་པ་ཁ་རྒྱག་སྲིད།</string>
+    <string name="kg_wallpaper_changes_restrict_toast">བདེ་འཇགས་ཐབས་ཇུས་ཚད་བཀག་རྐྱེན་པས།ཡོལ་རིས་སྒྲིག་སྒྱུར་མི་ཐུབ།</string>
+    <string name="kg_wallpaper_confirm_dialog_apply">གོ་ཆོད།</string>
+    <string name="kg_wallpaper_confirm_dialog_message">གལ་སྲིད་ཁྱེད་ནས་ཡོལ་རིས་འདི་བེད་སྤྱོད་བཏང་ཚེ།Infinityནུས་པ་ཁ་རྒྱག་སྲིད།</string>
+    <string name="kg_wallpaper_download_guide_popup_phone_body">གལ་སྲིད་བྱེད་ནུས་འདི་བེད་སྤྱོད་བྱེད་དགོས་ཚེ། %sཕབ་ལེན་བྱོས།</string>
+    <string name="kg_wallpaper_download_guide_popup_title">%sཕབ་ལེན་བྱེད་དམ།</string>
+    <string name="kg_wallpaper_preview_button">ཡོལ་རིས་ལ་སྒྲིག་པ།</string>
+    <string name="kg_wallpaper_preview_gif_converting_popup_body">GIF་ནི་བརྙན་ཟློས་སུ་བརྗེ་སྒྱུར་བྱས་པ་ན་ད་གཟོད་རྩིག་ཤོག་ཏུ་སྒྲིག་འགོད་བྱེད་ཐུབ།</string>
+    <string name="kg_wallpaper_preview_gif_converting_popup_title">བརྗེ་སྒྱུར་བྱེད་བཞིན་འདུག</string>
+    <string name="kg_wallpaper_preview_infinity_motion_effect">ཡོལ་གཙོ་སྟེང་གི་འགུལ་རྣམ་ནུས་འབྲས།</string>
+    <string name="kg_wallpaper_preview_title">བརྙན་ཡོལ་སྒྲོག་འཛིན།</string>
+    <string name="kg_wallpaper_preview_title_infinity">Infinityཡོལ་རིས།</string>
+    <string name="kg_wallpaper_preview_video_big_size_info">ཁྱེད་ཀྱིས་བདམས་པའི་བརྙན་ཟློས་ནི་ཆེ་དྲགས།གཤམ་གྱི་མཐེབ་གནོན་ལ་བརྡེབས་ནས་དེ་ནི་ཆེ་ཤོས་100 MB་རུ་འདྲ་གཅོད་བྱེད།</string>
+    <string name="kg_wallpaper_preview_video_info">མང་མཐར་སྐར་ཆ་15་ཡི་བརྙན་ཟློས་ནི་སྒྲོག་ཡོལ་རྩིག་ཤོག་ཏུ་འཆར།</string>
+    <string name="kg_wallpaper_preview_video_long_info">ཁྱེད་ཀྱིས་བདམས་ཟིན་པའི་བརྙན་ཟློས་རིང་དྲགས། གཤམ་གྱི་མཐེབ་གནོན་ལ་རྡེབ་ནས་ཆེས་རིང་ན་ཡང་སྐར་ཆ་15་ལས་མ་འདས་པར་བྱས་ནས་འདྲ་གཅོད་བྱེད།</string>
+    <string name="kg_wallpaper_preview_video_wallpaper">བརྙན་ཟློས་རྩིག་ཤོག</string>
+    <string name="kg_wallpaper_preview_video_wallpaper_original_video_error_toast">བརྙན་ཟློས་འབྱེད་ཕྱོད་དམའ་དྲགས།བརྙན་ཟློས་རྩིག་ཤོག་རྩོམ་སྒྲིག་བྱེད་མི་ཐུབ།</string>
+    <string name="kg_wallpaper_preview_video_wallpaper_trimmer_error_toast">སྤུས་ཚད་མཐོན་པའི་བརྙན་ཟློས་སྒྲོག་གཏོང་བྱེད་སྐབས་སུ་བརྙན་ཟློས་རྩིག་ཤོག་རྩིག་ཤོག་རྩོམ་སྒྲིག་བྱེད་མི་ཐུབ།</string>
+    <string name="kg_wallpaper_video_trimmer">བརྙན་ཟློས་དྲས་བཟོ་ཡོ་བྱད།</string>
+    <string name="kg_warning_none_1_none_auto_wipe">ཁ་པར་དེ་ལག་ལེན་འཐབ་པའི་ཕྱིར་ ཐེངས་ 1 བྱ་འདུག། ཁྱེད་རང་ལ་ཐེངས་ %d ལུས་པ་ལས་ ཁྱེད་རང་གི་ལས་གྲྭ་གི་འགལ་ཉེས་འགོད་སྒྲིག་ནང་འཇུག་ནས་ ཡིག་སྣོད་དང་ལེན་པའི་འབོད་སྐུལ་ཚོའི་མེད་པ་འགྱུར།</string>
+    <string name="kg_warning_none_none_1_auto_wipe">ཁ་པར་དེ་ལག་ལེན་འཐབ་པའི་ཕྱིར་ ཐེངས་ %d བྱ་འདུག། ཁྱེད་རང་ལ་ཐེངས་ 1 ལུས་པ་ལས་ ཁྱེད་རང་གི་ལས་གྲྭ་གི་འགལ་ཉེས་འགོད་སྒྲིག་ནང་འཇུག་ནས་ ཡིག་སྣོད་དང་ལེན་པའི་འབོད་སྐུལ་ཚོའི་མེད་པ་འགྱུར།</string>
+    <string name="kg_warning_none_none_none_auto_wipe">ཁ་པར་དེ་ལག་ལེན་འཐབ་པའི་ཕྱིར་ ཐེངས་ %1$d བྱ་འདུག། ཁྱེད་རང་ལ་ཐེངས་ %2$d ལུས་པ་ལས་ ཁྱེད་རང་གི་ལས་གྲྭ་གི་འགལ་ཉེས་འགོད་སྒྲིག་ནང་འཇུག་ནས་ ཡིག་སྣོད་དང་ལེན་པའི་འབོད་སྐུལ་ཚོའི་མེད་པ་འགྱུར།</string>
+    <string name="kg_warning_tablet_1_none_auto_wipe">ཡོ་བྱས་དེ་ ལག་ལེན་འཐབ་པའི་ཕྱིར་ ཐེངས་ 1 བྱ་འདུག། ཁྱེད་རང་ལ་ཐེངས་ %d ལུས་པ་ལས་ ཁྱེད་རང་གི་ལས་གྲྭ་གི་འགལ་ཉེས་འགོད་སྒྲིག་ནང་འཇུག་ནས་ ཡིག་སྣོད་དང་ལེན་པའི་འབོད་སྐུལ་ཚོའི་མེད་པ་འགྱུར།</string>
+    <string name="kg_warning_tablet_none_1_auto_wipe">ཡོ་བྱས་དེ་ལག་ལེན་འཐབ་པའི་ཕྱིར་ ཐེངས་ %d བྱ་འདུག། ཁྱེད་རང་ལ་ཐེངས་ 1 ལུས་པ་ལས་ ཁྱེད་རང་གི་ལས་གྲྭ་གི་འགལ་ཉེས་འགོད་སྒྲིག་ནང་འཇུག་ནས་ ཡིག་སྣོད་དང་ལེན་པའི་འབོད་སྐུལ་ཚོའི་མེད་པ་འགྱུར།</string>
+    <string name="kg_warning_tablet_none_none_auto_wipe">ཡོ་བྱས་དེ་ལག་ལེན་འཐབ་པའི་ཕྱིར་ ཐེངས་ %1$d བྱ་འདུག ཁྱེད་རང་ལ་ཐེངས་ %2$d ལུས་པ་ལས་ ཁྱེད་རང་གི་ལས་གྲྭ་གི་འགལ་ཉེས་འགོད་སྒྲིག་ནང་འཇུག་ནས་ ཡིག་སྣོད་དང་ལེན་པའི་འབོད་སྐུལ་ཚོའི་མེད་པ་འགྱུར།</string>
+    <string name="kg_wrong_direction_lock">དཔེ་རིས་འབྲི་བའི་ཁ་ཕྱོགས་མི་འགྲིག</string>
+    <string name="kg_wrong_direction_lock_vzw">方向不正确 (还可尝试 %d 次)</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="later">ཅུང་ཟད་</string>
+    <string name="lock_to_app_desc">འདི་ལྟར་སྒྲུབ་ན་ཁྱེད་ཀྱིས་རྩེར་འཇོག་འདོར་བའི་བར་དུ་ཉེར་སྤྱོད་སྒྲིག་རིམ་གྱི་མཐོང་ཐུབ་རང་བཞིན་རྒྱུན་སྲོང་བྱེད་ཐུབ།</string>
+    <string name="lock_to_app_dex_desc">ཕན་ནུས་འདི་Samsung DeXརྣམ་པའི་འོག་སྤྱོད་མི་ཐུབ།</string>
+    <string name="lock_to_app_dex_title">ཁྲ་ངོས་གོང་སྒྲིག་མི་ཐུབ།</string>
+    <string name="lock_to_app_negative">རྩིས་མེད།</string>
+    <string name="lock_to_app_positive">གཏན་འཁེལ།</string>
+    <string name="lock_to_app_recent_and_back">ཉེར་སྤྱོད་འདི་བརྟན་པོར་བཏང་བ་འདོར་དགོས་ན།དུས་མཉམ་དུ་ཉེ་ཆར་སྤྱད་པའི་མཐེབ་གནོན་དང་ཕྱི་ལོག་མཐེབ་གནོན་གནོན་རོགས།</string>
+    <string name="lock_to_app_recent_and_back_accessibility">གལ་ཏེ་བརྟན་གནས་ཉེར་སྤྱོད་བྱ་རིམ་རྩིས་མེད་དུ་གཏོང་ན།ཁྱེད་ཀྱིས་ཉེ་ལམ་མཐེབ་ནོན་རོགས།</string>
+    <string name="lock_to_app_recent_and_back_softkey">ཉེར་སྤྱོད་འདི་བརྟན་པོར་བཏང་བ་འདོར་དགོས་ན།དུས་མཉམ་དུ་ཉེ་ཆར་སྤྱད་པའི་མཐེབ་གནོན་དང་ཕྱི་ལོག་མཐེབ་གནོན་གནོན་རོགས།</string>
+    <string name="lock_to_app_recent_and_back_softkey_accessibility">གལ་སྲིད་ཉེར་སྤྱོད་བྱ་རིམ་བརྟན་སྒྲིག་བྱ་རྒྱུ་རྩིས་མེད་བཏང་ཚེ།ཉེ་དུས་བེད་སྤྱོད་བྱེད་པའི་མཐེབ་གནོན་རྒྱུན་རིང་མནན་དགོས།</string>
+    <string name="lock_to_app_title">ཉེར་སྤྱོད་བརྟན་པོར་བཏང་།</string>
+    <string name="lock_to_app_unable_to_pin_desc">ཉེར་སྤྱོད་བྱ་རིམ་འདི་ཡིས་བརྟན་སྒྲིག་ཁྲ་ངོས་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།</string>
+    <string name="lock_to_app_unable_to_pin_title">%sབརྟན་སྒྲིག་མི་ཐུབ།</string>
+    <string name="lock_to_app_unable_to_pin_toast">无法固定应用程序。%s已关闭。发生未知错误。</string>
+    <string name="lockscreen_nosim_text_kor_only">"USIM 卡未识别
+只能拨打紧急电话"</string>
+    <string name="managed_profile_foreground_toast">ཁྱེད་ཀྱིས་%s་ནང་དུ་ཉེར་སྤྱོད་འདི་སྤྱོད་བཞིན་འདུག</string>
+    <string name="maximum_power_saving_mode">གློག་ཤིན་ཏུ་བསྲི་བའི་རྣམ་པ།</string>
+    <string name="megabyteShort">MB</string>
+    <string name="memory_full_dialog_msg">ཁྱེད་ཀྱི་འཕྲུལ་ཆས་ཀྱི་གསོག་སྣོད་མི་ལྡང་། ༼གསོག་སྣོད།༽བརྡེབས་ནས་ཡིག་ཆ་ཁ་ཤས་སུབ་དོར་བཏང་རྗེས། ཚོད་ལྟ་བྱ་དགོས།</string>
+    <string name="memory_full_dialog_title">བརྙན་ཡོལ་དྲས་རིས་ལེན་མི་ཐུབ།</string>
+    <string name="mobile_data_roaming_disable_toast_lgt">གཞི་གྲངས་ཕྱིར་ཡན་སྤྱོད་མཚམས་བཞག་ཟིན།</string>
+    <string name="mobile_data_roaming_title">གཞི་གྲངས་ཕྱིར་ཡན་སྒྲིག་པ།</string>
+    <string name="mobile_data_show_popup_disable">Wi-Fi་སྤྱད་ན་མ་གཏོགས།དེ་ལས་ལྡོག་ན་སྦྲེལ་རེས་དྲ་རྒྱ་དགོས་པའི་ཉེར་སྤྱོད་གང་རུང་སྤྱོད་མི་ཐུབ།</string>
+    <string name="mobile_data_show_popup_disable_att">ལག་ཐོག་ཁ་པར་བཞུར་ཚད་ཁ་རྒྱག་པའི་དུས་སུ།AT&amp;Tབརྙན་མཐོང་ཁ་པར་བེད་སྤྱོད་གཏོང་མི་ཐུབ།ཁྱེད་ནས་Wi-Fiདྲ་བ་བེད་སྤྱོད་གཏོང་བ་ཕུད།དེ་མིན་ཚེ་མུ་འབྲེལ་དྲ་རྒྱ་དང་གློག་རྡུལ་འཕྲིན་ཡིག་གམ་གཞི་གྲངས་འབྲེལ་མཐུད་དགོས་པའི་ཉེར་སྤྱོད་བྱ་རིམ་བེད་སྤྱོད་གཏོང་མི་ཐུབ།</string>
+    <string name="mobile_data_show_popup_disable_dcm">"གལ་ཏེ་གནས་སྤོ་དན་གྲངས་ཀྱི་སྒོ་སྟེམ་ན།ཁྱེད་ཀྱི་སྒྲིག་ཆས་དེ་ངེས་པར་Wi-Fiལ་སྦྲེལ་དགོས་ཤིང་ད་གཟོད་དྲ་རྒྱའི་སྦྲེལ་མཐུད་དགོས་པའི་ཞབས་ཞུ་སྤྱོད་ཐུབ།
+
+སྤོ་འགུལ་དན་གྲངས་ཀྱི་སྒོ་སྟེམ།"</string>
+    <string name="mobile_data_show_popup_disable_kor">"Wi-Fiབེད་སྤྱོད་བཏང་མེད་ཚེ།ཁྱེད་ནས་མུ་འབྲེལ་དྲ་རྒྱ་དང་གློག་རྡུལ་འཕྲིན་ཡིག་གམ་གཞི་གྲངས་འབྲེལ་མཐུད་བྱེད་དགོས་པའི་ཉེར་སྤྱོད་བྱ་རིམ་གཞན་བེད་སྤྱོད་གཏོང་མི་ཐུབ།
+
+འགུལ་གཏོང་གཞི་གྲངས་ཁ་རྒྱག་སྲིད།"</string>
+    <string name="mobile_data_show_popup_disable_kor_kt">འགུལ་གཏོང་གཞི་གྲངས་(WCDMA/LTE)བཀག་སྲིད།ཁྱེད་ནས་Wi-Fiབེད་སྤྱོད་གཏོང་བ་ཕུད།དེ་མིན་གཞི་གྲངས་འབྲེལ་མཐུད་དགོས་པའི་ཉེར་སྤྱོད་བྱ་རིམ་བེད་སྤྱོད་གཏོང་མི་ཐུབ།ཡིན་ནའམ་ཚོན་འཕྲིན་སྔར་བཞིན་སྐུར་བའམ་ལེན་ཐུབ།</string>
+    <string name="mobile_data_show_popup_disable_kor_lgt">"Wi-Fiབེད་སྤྱོད་བཏང་མེད་ཚེ།ཁྱེད་ནས་མུ་འབྲེལ་དྲ་རྒྱ་དང་གློག་རྡུལ་འཕྲིན་ཡིག་གམ་གཞི་གྲངས་འབྲེལ་མཐུད་བྱེད་དགོས་པའི་ཉེར་སྤྱོད་བྱ་རིམ་གཞན་བེད་སྤྱོད་གཏོང་མི་ཐུབ།
+
+འགུལ་གཏོང་གཞི་གྲངས་ཁ་རྒྱག་སྲིད།"</string>
+    <string name="mobile_data_show_popup_disable_vzw">"ཁྱེད་ཀྱིས་Wi-Fi་སྤྱད་ན་མ་གཏོགས།དེ་ལས་ལྡོག་ན་ཁྱེད་ཀྱིས་ལྟ་བཤེར་ཡོ་བྱས་དང་སྦྲག་ཡིག་གམ་དན་གྲངས་སྦྲེལ་མཐུད་དགོས་པའི་ཉེར་སྤྱོད་གཞན་པ་སྤྱོད་མི་ཐུབ།
+
+གནས་སྤོ་དན་གྲངས་སྦྲེལ་མཐུད་ཀྱི་སྒོ་སྟེམ་རྒྱུ་ཡིན་ནམ།"</string>
+    <string name="mobile_data_show_popup_disable_vzw_volte">"གནས་སྤོ་དན་གྲངས་ཀྱི་སྒོ་སྟེམ་སྐབས་སུ།ཁ་པར་གྱི་བརྙན་ཟློས་གླེང་མོལ་རྩོལ་ནུས་ཀྱིས་ལས་སྒྲུབ་བྱེད་མི་ཐུབ།དེ་ལས་གཞན་དུ།ཁྱེད་ཀྱིས་Wi-Fi་སྤྱད་ན་མ་གཏོགས།དེ་ལས་ལྡོག་ན་ལྟ་ཀློག་ཆས་དང་སྦྲག་ཡིག་གམ་དན་གྲངས་སྦྲེལ་མཐུད་དགོས་པའི་ཉེར་སྤྱོད་གཞན་པ་སྤྱོད་མི་ཐུབ།
+
+གནས་སྤོ་དན་གྲངས་སྦྲེལ་མཐུད་ཀྱི་སྒོ་སྟེམ་རྒྱུ་ཡིན་ནམ།"</string>
+    <string name="mobile_data_show_popup_disable_vzw_volte_tablet">"གནས་སྤོ་དན་གྲངས་ཀྱི་སྒོ་སྟེམ་སྐབས་སུ།སྙོམ་ལེབ་གློག་ཀླད་ཀྱི་བརྙན་ཟློས་གླེང་མོལ་རྩོལ་ནུས་ཀྱིས་ལས་སྒྲུབ་བྱེད་མི་ཐུབ།དེ་ལས་གཞན་དུ།ཁྱེད་ཀྱིས་Wi-Fi་སྤྱད་ན་མ་གཏོགས།དེ་ལས་ལྡོག་ན་ལྟ་ཀློག་ཆས་དང་སྦྲག་ཡིག་གམ་དན་གྲངས་སྦྲེལ་མཐུད་དགོས་པའི་ཉེར་སྤྱོད་གཞན་པ་སྤྱོད་མི་ཐུབ།
+
+གནས་སྤོ་དན་གྲངས་སྦྲེལ་མཐུད་ཀྱི་སྒོ་སྟེམ་རྒྱུ་ཡིན་ནམ།"</string>
+    <string name="mobile_data_show_popup_enable_kor">འགུལ་གཏོང་གཞི་གྲངས་ཁ་ཕྱེ་སྲིད།ཁྱེད་ཀྱི་གྲོན་དངུལ་སྡེར་ཁ་བཞིན།འགུལ་གཏོང་དྲ་བ་འབྲེལ་མཐུད་བྱས་ཚེ་གྲོན་དངུལ་འཕར་མ་ཐོབ་སྲིད།.</string>
+    <string name="mobile_data_show_popup_enable_kor_kt">འགུལ་གཏོང་གཞི་གྲངས་ཁ་ཕྱེ་སྲིད།ཁྱེད་ཀྱི་གྲོན་དངུལ་སྡེར་ཁ་བཞིན།འགུལ་གཏོང་དྲ་བ་འབྲེལ་མཐུད་བྱས་ཚེ་གྲོན་དངུལ་འཕར་མ་ཐོབ་སྲིད།.</string>
+    <string name="mobile_data_show_popup_enable_kor_lgt">འགུལ་གཏོང་གཞི་གྲངས་ཁ་ཕྱེ་སྲིད།ཁྱེད་ཀྱི་གྲོན་དངུལ་སྡེར་ཁ་བཞིན།འགུལ་གཏོང་དྲ་བ་འབྲེལ་མཐུད་བྱས་ཚེ་གྲོན་དངུལ་འཕར་མ་ཐོབ་སྲིད།</string>
+    <string name="mobile_data_show_popup_enable_kor_skt_kt">འགུལ་གཏོང་གཞི་གྲངས་ཁ་ཕྱེ་སྲིད།ཁྱེད་ཀྱི་གྲོན་དངུལ་སྡེར་ཁ་བཞིན།འགུལ་གཏོང་དྲ་བ་འབྲེལ་མཐུད་བྱས་ཚེ་གྲོན་དངུལ་འཕར་མ་ཐོབ་སྲིད།.</string>
+    <string name="mobile_data_show_popup_roaming_enable">གཞི་གྲངས་ཕྱིར་ཡན་ཁ་ཕྱེ་སྲིད།ཁྱེད་ཀྱི་གྲོན་དངུལ་སྡེར་ཁ་བཞིན།ཕྱིར་ཡན་སྐབས་སུ་འགུལ་གཏོང་གཞི་གྲངས་བེད་སྤྱོད་བཏང་ཚེ་གྲོན་དངུལ་འཕར་མ་ཐོབ་སྲིད།</string>
+    <string name="mobile_data_show_toast_airplane_mode">འཕུར་སྐྱོད་རྣམ་པའི་སྒུལ་བསླངས་པའི་སྐབས་སུ་གནས་སྤོ་དྲ་རྒྱ་སྦྲེལ་མི་ཐུབ།འཕུར་སྐྱོད་རྣམ་པའི་སྒོ་སྟེམ་ནས་སླར་ཚོད་ལྟ་བྱེད་རོགས།</string>
+    <string name="mobile_data_show_toast_not_disable_during_voltecall">高级通话启用时无法打开或关闭移动数据</string>
+    <string name="mobile_data_title">འགུལ་གཏོང་གཞི་གྲངས</string>
+    <string name="mobile_device_warning_toast_notification">步行或驾驶时使用移动设备存在事故风险。</string>
+    <string name="mobile_hotspot_detail_connected_device">འཕྲུལ་ཆས་འབྲེལ་མཐུད།</string>
+    <string name="mobile_hotspot_detail_connected_devices">འབྲེལ་ཟིན་པའི་འཕྲུལ་ཆས་</string>
+    <string name="mobile_hotspot_detail_connection_mode_allow_all">འཕྲུལ་ཆས་འབྲེལ་མཐུད་བྱེད་ཆོག་པ།</string>
+    <string name="mobile_hotspot_detail_connection_mode_allowed_device">ཆོག་མཆན་ཐོབ་པའི་འཕྲུལ་ཆས་ཁོ་ན།</string>
+    <string name="mobile_hotspot_detail_password">མཉམ་བསྲེས་གསང་གྲངས།</string>
+    <string name="mobile_hotspot_detail_title">འགུལ་གཏོང་དྲ་བ།</string>
+    <string name="mobile_hotspot_detail_title_jpn">Wi-Fiདྲ་བ་མཉམ་སྤྱོད།</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_message">SIMབྱང་བུ་གཅིག་འཇུག་ནས་འགུལ་གཏོང་འབྲེལ་ཚེག་དང་དྲ་བ་མཉམ་སྤྱོད་འདེམས་ག་གཞན་པ་བེད་སྤྱོད་གཏོང་དགོས།</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_message_jpn">插入 SIM 卡可使用 Wi-Fi 网络共享。</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title">SIMབྱང་བུ་མེད་པ།</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title_jpn">无法启用 Wi-Fi 网络共享</string>
+    <string name="mobile_hotspot_dialog_nousim_or_nosim_warning">UIM/SIM གཱ་བླུགས་ནས་སྤོ་སྒུལ་གླེང་མདོ་བེད་སྤྱོད་པའམ་གཞན་དྲ་བ་མཉམ་སྤྱོད་བྱེད་ནུས་བཀོལ།</string>
+    <string name="mobile_hotspot_dialog_smartview_off_warn">༼འགུལ་གཏོང་འབྲེལ་ཚེག་༽དང་Smart Viewལྷན་ཅིག་ཁ་ཕྱེ་མི་ཐུབ།Smart Viewཁ་རྒྱག་དགོས།</string>
+    <string name="mobile_hotspot_dialog_smartview_off_warn_chn">WLANཚ་རྡུལ་དང་རིག་ནུས་ལྟ་ཀློག་གཉིས་དུས་གཅིག་ཏུ་སྤྱོད་ཐབས་མེད། རིག་ནུས་ལྟ་ཀློག་འགོག་པ་རེད།</string>
+    <string name="mobile_hotspot_dialog_smartview_off_warn_jpn">༼Wi-Fiདྲ་བ་མཉམ་སྤྱོད་༽དང་Smart Viewལྷན་དུ་ཁ་ཕྱེ་མི་ཐུབ།Smart Viewཁ་རྒྱག་སྲིད།</string>
+    <string name="mobile_hotspot_dialog_wifi_sharing_enable_text">སྦྲེལ་མཐུད་མཉམ་རོལ་བྱེད་པའི་སྔོན་དུ།Wi-Fi་རུ་མཁོ་སྤྲོད་པའི་ཆོག་མཆན་ཐོབ་པ་ཁག་ཐེག་བྱེད་རོགས།</string>
+    <string name="mobile_hotspot_dialog_wifi_sharing_enable_title">Wi-Fiམཉམ་སྤྱོད་ཁ་ཕྱེའམ།</string>
+    <string name="mobile_hotspot_dialog_wifi_sharing_lite_enable_text">Wi-Fi་དྲ་རྒྱ་ཁག་ཅིག་གིས་༼Wi-Fi་མཉམ་རོལ༽གྱི་སྒུལ་བསླངས་སྐབས་སུ་མཉམ་རོལ་བྱེད་མི་ཐུབ།</string>
+    <string name="mobile_hotspot_toast_disable_airplne_mode">འཕུར་སྐྱོད་རྣམ་པའི་སྒུལ་བསླངས་པའི་སྐབས་སུ་གནས་སྤོ་དྲ་རྒྱ་སྦྲེལ་མི་ཐུབ།འཕུར་སྐྱོད་རྣམ་པའི་སྒོ་སྟེམ་ནས་སླར་ཚོད་ལྟ་བྱེད་རོགས།</string>
+    <string name="mobile_hotspot_toast_internet_sharing">མུ་འབྲེལ་དྲ་རྒྱ་མཉམ་སྤྱོད།</string>
+    <string name="mobile_hotspot_wifi_sharing">Wi-Fiམཉམ་སྤྱོད་བྱེད།</string>
+    <string name="mobile_hotspot_wifi_sharing_Status_disabled">ཁ་བཀག</string>
+    <string name="mobile_hotspot_wifi_sharing_Status_enabled">སྒོ་ཕྱེ།</string>
+    <string name="mobileap">འགུལ་གཏོང་དྲ་བ།</string>
+    <string name="mw_divider_button_close">ཉེར་སྤྱོད་བྱ་རིམ་ཁ་རྒྱག</string>
+    <string name="negative_color_title">ལྡོག་ཚོན།</string>
+    <string name="no">རྩིས་མེད།</string>
+    <string name="no_app_can_perform_this_action">བྱ་བ་འདི་བྱེད་པའི་ཡོ་བྱས་མཐོང་བ་མ་ཡིན།</string>
+    <string name="no_network_connection">དྲ་བའི་འབྲེལ་མཐུད་མེད་པ།</string>
+    <string name="no_sim_notification_text">SIMབྱང་བུ་བསྒར་བ།</string>
+    <string name="no_sim_notification_text_cct">Xfinity Mobile SIM་བྱང་བུ་འཛེར་རོགས།གལ་ཏེ་དེ་ལས་མང་བའི་ཆ་འཕྲིན་ལ་རྒྱུས་ལོན་བྱེད་དགོས་ན།xfinitymobile.com/activate་ལ་འདྲི་གཏུག་བྱེད་པའམ་888-936-4968་ལ་ཁ་པར་གཏོང་རོགས།</string>
+    <string name="no_sim_notification_text_vzw">点击以获得更多信息。</string>
+    <string name="no_sim_notification_title">SIMམེད་པ</string>
+    <string name="no_sim_notification_title_cct">未检测到 SIM 卡</string>
+    <string name="no_sim_notification_title_tmo">SIMབྱང་བུ་འཇུག་མེད།</string>
+    <string name="no_sim_notification_title_vzw">未找到 SIM 卡</string>
+    <string name="no_such_item">པར་རིས་རྙེད་མི་ཐུབ།</string>
+    <string name="noti_direct_reply_exceed_text_limit_toast">ཡིག་རྐྱང་འཇུག་པའི་ཚད་ལ་སླེབས་ཟིན།</string>
+    <string name="noti_setting_text">བརྡ་སྦྱོར་སྒྲིག་འགོད།</string>
+    <string name="noti_toast_wifi_is_not_available">WLANསྤྱོད་རྒྱུ་མེད། སྤོ་འགུལ་དྲྭ་རྒྱར་སྦྲེལ་ན་རིན་པ་བསྣོན་ཡོང་སྲིད། དེ་ནི་ཁྱོད་ཀྱི་རྩིས་སྤྲོད་འཆར་གཞིར་རག་ལས།</string>
+    <string name="notification_cancel">རྩིས་མེད།</string>
+    <string name="notification_channel_blocked">བརྡ་སྦྱོར་དང་ཟུར་རྟགས་ཟློག</string>
+    <string name="notification_channel_general">བརྡ་སྦྱོར་སྤྱིར་བཏང་བ།</string>
+    <string name="notification_channel_ongoing">བྱེད་བཞིན་འདུག</string>
+    <string name="notification_done">ལས་ཟིན།</string>
+    <string name="notification_info_details">ཞིབ་ཕྲའི་ཆ་འཕྲིན།</string>
+    <string name="notification_save">ཉར།</string>
+    <string name="notification_settings_icon_description">ཉེར་སྤྱོད་བརྡ་སྦྱོར་སྒྲིག་འགོད།</string>
+    <string name="ok">གཏན་འཁེལ།</string>
+    <string name="one_item_will_be_deleted">བརྙན་ཡོལ་འདིའི་དྲས་རིས་སུབ་བམ།</string>
+    <string name="overheat_poweroff_notice_text">"ཁྱེད་ཀྱི་འཕྲུལ་ཆས་ཚ་དྲགས།གཏོར་སྐྱོན་མི་ཡོང་བའི་ཆེད་དུ།གློག་ཁ་བཀག་རང་འགུལ་བཀག་སྲིད།
+
+གཤམ་གྱི་རྒྱུ་རྐྱེན་འཕྲུལ་ཆས་ཚ་དྲགས་པ་ཡིན་སྲིད།
+-རིས་དབྱིབས་མང་བའི་ཉེར་སྤྱོད་བྱ་རིམ་རྒྱུན་རིང་བེད་སྤྱོད་བྱེད་པ།དཔེར་ན་རྩེད་མོ་དང་ཕྱོགས་སྟོན་ཉེར་སྤྱོད་བྱ་རིམ།
+-ཡིག་ཆ་ཆེན་པོ་གཏོང་འདྲེན་བྱེད་པ།
+-ཁོར་ཡུག་ཚ་བ་ཆེ་བའི་གནས་ཁྱེད་ཀྱི་འཕྲུལ་ཆས་བེད་སྤྱོད་བྱེད་པ།"</string>
+    <string name="overheat_poweroff_notice_title">འཕྲུལ་ཆས་རང་འགུལ་གློག་ཁ་བཀག་པ།</string>
+    <string name="overheat_poweroff_warning_text_append">འཕྲུལ་ཆས་གྲང་ཐག་མ་ཆོད་གོང་།ཁྱེད་ནས་གློག་ཁ་བསྐྱར་དུ་ཕྱེ་མི་ཐུབ།</string>
+    <string name="overheat_poweroff_warning_text_new">ཁྱེད་ཀྱི་འཕྲུལ་ཆས་ཚ་དྲགས།དེ་གྲང་ཐག་ཆོད་པའི་ཕྱིར་།སྐར་ཆ་%dརྗེས་སུ་གློག་ཁ་བཀག་སྲིད།</string>
+    <string name="overheat_poweroff_warning_title">གློག་ཁ་བཀག</string>
+    <string name="overheat_shutdown_notice_text">"您的手机温度过高。为避免造成损坏，将立即关机。
+
+导致过热的可能原因如下：
+长时间使用图形密集的应用程序，例如视频游戏和导航应用程序。
+下载或上传大文件。
+在温度非常高的地方使用手机。"</string>
+    <string name="overheat_shutdown_notice_text_tablet">"您的平板电脑温度过高。平板电脑已关闭以免造成损坏。
+
+过热可能是由以下原因造成：
+长时间使用图形密集的应用程序，例如视频游戏和导航应用程序。
+正在下载或上传大文件。
+在温度非常高的地方使用您的平板电脑。"</string>
+    <string name="overheat_shutdown_notice_title">为何我的手机会自行关机？</string>
+    <string name="overheat_shutdown_notice_title_tablet">为何我的平板电脑会自行关机？</string>
+    <string name="overheat_shutdown_warning_text">"您的手机正在变得过热。
+将立即关机来冷却。"</string>
+    <string name="overheat_shutdown_warning_text_tablet">您的平板电脑正在变得过热。其将立即关闭以降温。</string>
+    <string name="overheat_shutdown_warning_title">关闭</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_editor">པར་རིས་སྒྲིག་བཟོ་ཡོ་བྱད།</string>
+    <string name="popupui_dialog_turn_on_button">སྒུལ་སློང་།</string>
+    <string name="power_supplying_low_battery_alert_body">USB OTG་དན་གྲངས་སྐུད་པ་སྦྲེལ་ན་ཁ་པར་གྱི་གློག་ནུས་བྱེད།USB OTG་དན་གྲངས་སྐུད་པ་སྦྲེལ་བ་བཅད་ནས་གློག་ནུས་སྲི་རོགས།</string>
+    <string name="power_supplying_low_battery_alert_body_tablet">USB OTG་དན་གྲངས་སྐུད་པ་སྦྲེལ་ན་སྙོམ་ལེབ་གློག་ཀླད་ཀྱི་གློག་ཚད་ཟད་གྲོན་བྱེད།USB OTG་དན་གྲངས་སྐུད་པའི་སྦྲེལ་མཐུད་བཅད་ནས་གློག་སྲི་རོགས།</string>
+    <string name="power_supplying_low_battery_alert_title">གློག་ཚད་མི་ལྡང་།</string>
+    <string name="powerui_power_sharing_alert_dialog_body">"您必须下载该应用程序，才能控制分享的电量。如果在没有该应用程序的情况下，通过三星的 Power Sharing 电缆 EP-SG900 将您的设备连接至另一台设备，则整个电池的电量将被传输到另一台设备。
+连接至 Samsung Apps，然后下载该应用程序。"</string>
+    <string name="private_dns_mode_off">ཁ་རྒྱག</string>
+    <string name="private_dns_mode_opportunistic">རང་འགུལ།</string>
+    <string name="private_dns_mode_provider">གསང་བའི་DNS་མཁོ་སྤྲོད་གཙོ་འཕྲུལ་མིང་།</string>
+    <string name="private_dns_mode_provider_hostname_hint">DNS་ནང་འཇུག་བྱས་ཏེ་མཁོ་སྤྲོད་པའི་གཙོ་འཕྲུལ་མིང་ནང་འཇུག་བྱེད་རོགས།</string>
+    <string name="proximity_sensor_tip_body">འཆར་ཡོལ་སྟེང་གི་ཐག་ཉེའི་ཚོར་འདྲེན་ཆས་ཀྱིས་རྟག་པོར་ལས་སྒྲུབ་བྱེད་ནས་བསམ་ཡུལ་ལས་འདས་པ་འཆར་ཡོལ་ལ་ཐུག་པ་ལྡོག</string>
+    <string name="proximity_sensor_tip_button">ཧ་གོ་སོང་།</string>
+    <string name="proximity_sensor_tip_title">ཅིའི་ཕྱིར་འཚེར།</string>
+    <string name="qs_contact_us">ང་ཚོར་འབྲེལ་གཏུག་བྱོས།</string>
+    <string name="qs_detail_capture_mode">ཡོལ་དྲས་རྣམ་པ།</string>
+    <string name="qs_detail_capture_mode_text">མྱུར་ལམ་སྒྲིག་འགོད་ངོས་གཞུང་དུ་སྣོན་དགོས་པའི་བྱེད་ནུས་འདམ་རོགས།</string>
+    <string name="qs_detail_capture_screen">བརྙན་ཡོལ་དྲས་ལེན།</string>
+    <string name="qs_detail_flashlight_title">ལག་ཁྱེར་གློག་སྒྲོན།</string>
+    <string name="qs_detail_palm_capture_description">སྦར་མོའི་མཐའ་བརྙན་ཡོལ་ཐོག་འདྲུད་ནས་ཡོལ་བ་དྲས་ལེན་བྱེད་པ།</string>
+    <string name="qs_detail_palm_capture_title">སྦར་མོ་འདྲུད་ནས་ཡོལ་རིས་དྲས་པ།</string>
+    <string name="qs_detail_recorder_screen">བརྙན་ཡོལ་ཕབ་བཟོ།</string>
+    <string name="qs_detail_smart_capture_description">བརྙན་ཡོལ་དྲས་རིས་ནང་བརྙན་ཡོལ་ཐོག་སྦས་སྐུང་ཁུལ་ཁོངས་ཚུད་སྲིད།ཁྱེད་ནས་དྲས་ལེན་བྱས་རྗེས་བརྙན་ཡོལ་དྲས་རིས་སྒྲིག་བཟོ་དང་མཉམ་སྤྱོད་བྱེད་ཆོག</string>
+    <string name="qs_detail_smart_capture_title">རིག་ནུས་ཡོལ་དྲས།</string>
+    <string name="qs_edit_panel_badge_text">N</string>
+    <string name="qs_edit_setting_active_area_tapped">མྱུར་འགྲོས་སྒྲིག་འགོད་ངོས་པང་ཐོག་ཡོད།</string>
+    <string name="qs_edit_setting_available_area_tapped">མྱུར་འགྲོས་སྒྲིག་འགོད་ངོས་པང་ཐོག་མེད།</string>
+    <string name="qs_edit_summary">འདྲེད་འགུལ་ལ་བརྟེན་ནས་མཐེབ་གནོན་ཁ་སྣོན་བྱེད།</string>
+    <string name="qs_location_consent_dialog_body_message_dcm">GPSགནས་ཡུལ་དང་ཁྱེད་ཀྱི་གནས་ཡུལ་གཞི་གྲངས་བེད་སྤྱོད་བྱ་ཐབས་དེ་ཁྱེད་ཀྱི་བེད་སྤྱོད་བྱེད་པའི་ཉེར་སྤྱོད་བྱ་རིམ་གྱིས་གཏོང་འཛིན་བྱ་སྲིད།</string>
+    <string name="qs_location_consent_dialog_body_message_vzw">"ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་དེས་ཉེར་སྤྱོད་བྱ་རིམ་དང་དཔེར་ན་ས་ཀྲ།ཉོ་སྒྲུབ།གནམ་གཤིས་སོགས་པའི་ཞབས་ཞུ་བར་གནས་ཡུལ་རགས་ཙམ་མཉམ་སྤྱོད་བྱེད་ཐུབ།
+
+ཁྱེད་ཀྱི་གནས་ཡུལ་བེད་སྤྱོད་བཏང་བའི་ཉེར་སྤྱོད་བྱ་རིམ་དང་ཞབས་ཞུ་ཁག་གིས་ཁྱེད་ལ་བརྡ་ཐོ་སྐུར་སྲིད།གལ་སྲིད་ཁྱེད་ནས་ཉེར་སྤྱོད་བྱ་རིམ་མམ་དོ་གཉེར་ཚོང་པས་ཁྱེད་ཀྱི་གནས་ཡུལ་ཆ་འཕྲིན་བསྡུ་གསོག་དང་བེད་སྤྱོད།མཉམ་སྤྱོད་གཏོང་ཐབས་རྒྱུས་ལེན་བྱས་ཚེ།བེད་སྤྱོད་མ་གཏོང་གོང་ལ་འབྲེལ་ཡོད་གསང་བའི་ཐབས་ཇུས་ཀློག་ལྟ་བྱེད་དགོས།
+
+ཁྱེད་ཀྱི་གནས་ཡུལ་གཏན་འཁེལ་བྱུང་རྗེས་འགུལ་གཏོང་དྲ་བ་བེད་སྤྱོད་གཏོང་དགོས།འདིར་གཞི་གྲངས་བེད་སྤྱོད་གཏོང་ཚད་ཐོབ་སྲིད།"</string>
+    <string name="qs_location_consent_dialog_body_message_vzw_tablet">"ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་དེས་ཉེར་སྤྱོད་བྱ་རིམ་དང་དཔེར་ན་ས་ཀྲ།ཉོ་སྒྲུབ།གནམ་གཤིས་སོགས་པའི་ཞབས་ཞུ་བར་གནས་ཡུལ་རགས་ཙམ་མཉམ་སྤྱོད་བྱེད་ཐུབ།
+
+ཁྱེད་ཀྱི་གནས་ཡུལ་བེད་སྤྱོད་བཏང་བའི་ཉེར་སྤྱོད་བྱ་རིམ་དང་ཞབས་ཞུ་ཁག་གིས་ཁྱེད་ལ་བརྡ་ཐོ་སྐུར་སྲིད།གལ་སྲིད་ཁྱེད་ནས་ཉེར་སྤྱོད་བྱ་རིམ་མམ་དོ་གཉེར་ཚོང་པས་ཁྱེད་ཀྱི་གནས་ཡུལ་ཆ་འཕྲིན་བསྡུ་གསོག་དང་བེད་སྤྱོད།མཉམ་སྤྱོད་གཏོང་ཐབས་རྒྱུས་ལེན་བྱས་ཚེ།བེད་སྤྱོད་མ་གཏོང་གོང་ལ་འབྲེལ་ཡོད་གསང་བའི་ཐབས་ཇུས་ཀློག་ལྟ་བྱེད་དགོས།
+
+ཁྱེད་ཀྱི་གནས་ཡུལ་གཏན་འཁེལ་བྱུང་རྗེས་འགུལ་གཏོང་དྲ་བ་བེད་སྤྱོད་གཏོང་དགོས།འདིར་གཞི་གྲངས་བེད་སྤྱོད་གཏོང་ཚད་ཐོབ་སྲིད།"</string>
+    <string name="qs_location_consent_dialog_title_dcm">སྤྱོད་མཁན་མོས་མཐུན།</string>
+    <string name="qs_location_consent_dialog_title_vzw">གནས་གཏན་ཆོག་པ།</string>
+    <string name="qs_location_detail_default_title">གནས་ཡུལ་ཞབས་ཞུ།</string>
+    <string name="qs_location_detail_gps_title">GPS</string>
+    <string name="qs_location_detail_mode_battery_saving">གློག་སྲི།</string>
+    <string name="qs_location_detail_mode_battery_saving_description">Wi-Fiདང་འགུལ་གཏོང་དྲ་བ་སྤྱད་ནས་ཁྱེད་ཀྱི་གནས་ཡུལ་ཚོད་དཔག་བྱ་ཐུབ།</string>
+    <string name="qs_location_detail_mode_high_accuracy">ཆེས་གནད་ཕིགས་པ</string>
+    <string name="qs_location_detail_mode_high_accuracy_description">GPSདང་Wi-Fi འགུལ་གཏོང་དྲ་བ་སྤྱད་ནས་ཁྱེད་ཀྱི་གནས་ཡུལ་ཚོད་དཔག་བྱ་ཐུབ།</string>
+    <string name="qs_location_detail_mode_sensors_only_description">GPSསྤྱད་ནས་ཁྱེད་ཀྱི་གནས་ཡུལ་གཏན་འཁེལ་བྱ་ཐུབ།</string>
+    <string name="qs_location_detail_mode_sensors_only_phone">ལག་ཐོག་ཁ་པར་ཁོ་ན།</string>
+    <string name="qs_location_detail_mode_sensors_only_tablet">ངོས་པང་གློག་ཀླད་ཁོ་ན།</string>
+    <string name="qs_location_detail_mode_summary_title">གནས་འཁེལ་བྱ་ཐབས།</string>
+    <string name="qs_location_detail_summary_default">GPSདང་Wi-Fi འགུལ་གཏོང་དྲ་བ་སྤྱད་ནས་ཁྱེད་ཀྱི་གནས་ཡུལ་ཚོད་དཔག་བྱ་ཐུབ།</string>
+    <string name="qs_multisim_data_preffered_btn_title">འགུལ་གཏོང་གཞི་གྲངས།</string>
+    <string name="qs_multisim_data_switching">"སྔར་བཞིན་SIM་བརྗེ་སྒྱུར་བྱེད།
+ཅུང་ཙམ་གྱི་རྗེས་སུ་སླར་ཚོད་ལྟ་བྱེད།"</string>
+    <string name="qs_multisim_data_turned_off">ཁ་རྒྱག་ཟིན།</string>
+    <string name="qs_multisim_sim_card_manager">SIMབྱང་བུ་དོ་དམ་ཡོ་བྱད།</string>
+    <string name="qs_multisim_sms_preffered_btn_title">ཆ་འཕྲིན།</string>
+    <string name="qs_multisim_voice_ask_always">རྟག་ཏུ་བློ་འདྲི་བྱེད་པ།</string>
+    <string name="qs_multisim_voice_others">གཞན།</string>
+    <string name="qs_multisim_voice_preffered_btn_title">ཁ་བརྡ།</string>
+    <string name="qs_navigation_bar_detail_description">ཁྱེད་ཀྱི་སྣེ་འདྲེན་ངོ་བྱང་ཡིབ་ཆོག་ཅིང་ཡོལ་ཧྲིལ་ལག་ཚུགས་འདམ་སྐབས་སུ་འདྲེད་འགུལ་ལག་ཚུགས་སྤྱད་ནས་ཕྱི་ལོག་བྱས་ཆོག་ལ་འཆར་ཡོལ་དུ་ཞུགས་པའམ་ཉེ་ཆར་སྤྱད་པའི་ཉེར་སྤྱོད་ལ་ལྟ་རྟོག་བྱས་ཆོག</string>
+    <string name="qs_navigation_bar_detail_full_screen_gestures_options">ཡོལ་ཧྲིལ་ལག་བརྡ།</string>
+    <string name="qs_navigation_bar_detail_navigation_buttons_options">སྣེ་འདྲེན་མཐེབ་གནོན།</string>
+    <string name="qs_navigation_bar_detail_title">ཕྱོགས་སྟོན་ཐུག</string>
+    <string name="qs_navigation_bar_detail_title_option">སྣ་འདྲེན་རིགས་ཚན་འདམ་རོགས།</string>
+    <string name="qs_navigation_bar_exclusive_function_turn_off_onehand_mode_desc">ཡོལ་ཧྲིལ་ལག་ཚུགས་སྤྱོད་དགོས་ན།ཁྱེད་ཀྱི་ལག་ཡའི་རྣམ་པ་ནི་༼ལག་ཚུགས༽སུ་སྒྲིག་འགོད་བྱེད་དགོས།</string>
+    <string name="qs_navigation_bar_label">"སྣ་འདྲེན་
+ངོ་བྱང་།"</string>
+    <string name="qs_navigation_bar_setting_button">སྒྲིག་འགོད།</string>
+    <string name="qs_navigation_bar_toast_acceesibility">༼རམ་འདེགས་རྩོལ་ནུས༽མཐེབ་གནོན་འཆར་སྐབས་སུ་སྣ་འདྲེན་སྡེ་འཆར་མི་ཐུབ།</string>
+    <string name="qs_navigation_bar_toast_voice_assistant_enabled">སྐད་སྒྲའི་ལག་རོགས་ཀྱི་སྒུལ་སློང་སྐབས་སུ་སྣ་འདྲེན་སྡེའི་སྒོ་སྟེམ་མི་ཐུབ།</string>
+    <string name="qs_noti_settings">གནས་སྟངས་འདེམས་བྱང་།</string>
+    <string name="qspanel_brightness_auto_brightness_summary">ཁྱེད་ཀྱི་གསལ་ཚད་རྗེས་ཚོར་ལེགས་སྒྲིག་བྱེད་པ་དང་འོད་གསལ་དེ་རིགས་འོག་རང་འགུལ་གྱིས་བེད་སྤྱོད་བྱེད་པ།</string>
+    <string name="qspanel_brightness_auto_brightness_summary_nopac">མིག་སྔའི་འོད་མདངས་གསལ་ཚད་བཞིན་རང་འགུལ་ཐོག་བརྙན་ཡོལ་གསལ་ཚད་སྒྲིག་པ།</string>
+    <string name="qspanel_brightness_auto_brightness_title">གསལ་ཚད་རང་འགུལ་སྙོམ་སྒྲིག་བྱེད།</string>
+    <string name="qspanel_brightness_control_on_the_top_summary">བརྡ་ཐོ་གཏོང་པང་ཐོག་གསལ་ཚད་གཏོང་འཛིན་གསལ་བ།</string>
+    <string name="qspanel_brightness_control_on_the_top_title">གོང་ཐོད་དུ་འཆར་མཐོང་གཏོང་འཛིན་བྱེད་པ།</string>
+    <string name="qspanel_brightness_detail_level">རིམ་ཚད།</string>
+    <string name="qspanel_brightness_detail_title">གསལ་ཚད།</string>
+    <string name="qspanel_brightness_eye_strain_dialog_message">དུས་ཡུན་རིང་པོ་མཐོ་འཚེར་སྤྱད་ན་གློག་ནུས་ཟད་གྲོན་ཆེར་གཏོང་།</string>
+    <string name="qspanel_brightness_outdoor_mode_summary">བརྙན་ཡོལ་གསལ་ཚད་ཆེར་གཏོང་ནས་ཁྱེད་ནས་ཕྱི་ལོགས་སུ་མཐོང་ཐུབ་པ་བྱེད་པ།གལ་སྲིད་ཁྱེད་ནས་མུ་མཐུད་བརྙན་ཡོལ་བེད་སྤྱོད་མ་བྱས་ཚེ།ཕྱི་ལོགས་རྣམ་པ་སྐར་མ་15ནང་དུ་ཁ་རྒྱག་སྲིད།</string>
+    <string name="qspanel_brightness_outdoor_mode_title">སྒོའི་ཕྱི་རོལ་རྣམ་པ།</string>
+    <string name="qspanel_brightness_slider_hbm_text">འཚེར་ཚད་ཆེ་ཤོས་སུ་བསྒྱུར་ཟིན།དཀར་གསལ་གྱི་འོད་སྣང་འོག་ཏུ་ནུས་འབྲས་ལེགས་ཤོས་ཐོབ་ཐུབ།</string>
+    <string name="qspanel_screen_grid_content_description">%2$d ནས་ %1$d</string>
+    <string name="qspanel_screen_grid_ok_button">གཏན་འཁེལ།</string>
+    <string name="qspanel_screen_grid_title">འཐེབ་ནོན་དྲ་མིག</string>
+    <string name="quick_panel_data_usage">བཞུར་འབོར་བེད་སྤྱོད།</string>
+    <string name="quick_settings_airplane_mode_label">"འཕུར་སྐྱོད་
+རྣམ་པ།"</string>
+    <string name="quick_settings_allow">ཆོག་པ།</string>
+    <string name="quick_settings_blf_detail_seekbar">རབ་རིབ་ཚད།</string>
+    <string name="quick_settings_blf_detail_summary">བརྙན་ངོས་ལས་འཕྲོ་བའི་འོད་རླབས་སྔོན་པོ་ཚོད་འཛིན་བརྒྱུད་ནས་མིག་གི་ཉེན་ཁ་ཆུང་དུ་གཏོང་།</string>
+    <string name="quick_settings_block">བཀག་འགོག</string>
+    <string name="quick_settings_bluelightfilter_detail_title">འོད་རླབས་སྔོན་པོའི་དབྱེ་ཚགས།</string>
+    <string name="quick_settings_bluelightfilter_label">"འོད་སྔོན་
+དབྱེ་ཚགས།"</string>
+    <string name="quick_settings_bluetooth_connected_devices">"སྒྲིག་ཆས་%d
+སྦྲེལ་ཟིན།"</string>
+    <string name="quick_settings_bluetooth_detail_available_devices_title">སྤྱོད་ཆོག་པའི་སྒྲིག་ཆས།</string>
+    <string name="quick_settings_bluetooth_detail_empty_text_available">ཉེ་འཁོར་ནས་སོ་སྔོན་སྒྲིག་ཆས་མ་རྙེད།</string>
+    <string name="quick_settings_bluetooth_detail_off_text">སོ་སྔོན་ཁ་ཕྱེ་ནས་དེ་དང་ཆ་སྒྲིག་གམ་ཆ་སྒྲིག་ཟིན་པའི་སྒྲིག་ཆས་གསལ་ཐོ་ལ་བལྟ་བ།</string>
+    <string name="quick_settings_bluetooth_detail_paired_devices_title">སྒྲིག་ཆས་ཆ་སྒྲིག་བྱས་ཟིན།</string>
+    <string name="quick_settings_bluetooth_label">སོ་སྔོན།</string>
+    <string name="quick_settings_bluetooth_scanning">སོ་སྔོན་སྒྲིག་ཆས་བཤེར་འབེབ་བྱེད་བཞིན་འདུག</string>
+    <string name="quick_settings_cancel">རྩིས་མེད།</string>
+    <string name="quick_settings_data_roaming_detail_title">གཞི་གྲངས་ཕྱིར་ཡན།</string>
+    <string name="quick_settings_data_roaming_label">"数据
+漫游"</string>
+    <string name="quick_settings_dnd_detail_title">སུན་འགོག</string>
+    <string name="quick_settings_dnd_summary">ཁྱེད་ནས་འདེམས་པའི་དམིགས་བསལ་ཅན་མིན་པའི་ཁ་པར་དང་དྲན་སྐུལ་དང་སྨྱན་གཟུགས་སྐད་མེད་བཟོ་བ།</string>
+    <string name="quick_settings_done">གྲུབ་ཟིན།</string>
+    <string name="quick_settings_dual_label_content_description">%sམཐེབ་གནོན་རྟགས་བྱང་ཉིས་བརྡེབས་བྱས་ནས་འབྲེལ་ཡོད་མྱུར་མགྱོགས་སྒྲིག་འགོད་བལྟ་ཞིབ་བྱས་ཆོག</string>
+    <string name="quick_settings_enable">ཁ་ཕྱེ།</string>
+    <string name="quick_settings_flashlight_detail_level">རིམ་ཚད།</string>
+    <string name="quick_settings_flashlight_detail_title">གསལ་ཚད།</string>
+    <string name="quick_settings_flight_mode_detail_off_summary_non_volte_vzw">"༼འཕུར་སྤྱོད་རྣམ་པ༽ཡི་སྒུལ་བསླངས་རྗེས་སུ།Wi-Fi་སྤྱད་ན་མ་གཏོགས།དེ་ལས་ལྡོག་ན་ཁྱེད་ཀྱིས་བཤེར་ལྟ་ཡོ་བྱད་དང་སྦྲག་ཡིག་གམ་དན་གྲངས་སྦྲེལ་མཐུད་དགོས་པའི་ཉེར་སྤྱོད་གཞན་པ་སྤྱོད་མི་ཐུབ།
+
+༼འཕུར་སྤྱོད་རྣམ་པ༽ཡི་སྒུལ་སློང་དགོས་སམ།"</string>
+    <string name="quick_settings_flight_mode_detail_off_summary_volte_vzw">"༼འཕུར་སྤྱོད་རྣམ་པ༽ཡི་སྒུལ་བསླངས་རྗེས་སུ།Wi-Fi་སྤྱད་ན་མ་གཏོགས།དེ་ལས་ལྡོག་ན་ཁྱེད་ཀྱིས་བཤེར་ལྟ་ཡོ་བྱད་དང་སྦྲག་ཡིག Wi-Fi་གླེང་མོལ་ལམ་དན་གྲངས་སྦྲེལ་མཐུད་དགོས་པའི་ཉེར་སྤྱོད་གཞན་པ་སྤྱོད་མི་ཐུབ།
+
+༼འཕུར་སྤྱོད་རྣམ་པ༽ཡི་སྒུལ་སློང་དགོས་སམ།"</string>
+    <string name="quick_settings_flight_mode_detail_on_summary_non_volte_vzw">Wi-Fiབེད་སྤྱོད་བཏང་མེད་ཚེ།ཁྱེད་ནས་མུ་འབྲེལ་དྲ་རྒྱ་དང་གློག་རྡུལ་འཕྲིན་ཡིག་གམ་གཞི་གྲངས་འབྲེལ་མཐུད་བྱེད་དགོས་པའི་ཉེར་སྤྱོད་བྱ་རིམ་གཞན་བེད་སྤྱོད་གཏོང་མི་ཐུབ།</string>
+    <string name="quick_settings_flight_mode_detail_on_summary_volte_vzw">Wi-Fiབེད་སྤྱོད་བཏང་མེད་ཚེ།ཁྱེད་ནས་མུ་འབྲེལ་དྲ་རྒྱ་དང་གློག་རྡུལ་འཕྲིན་ཡིག་གམ་གཞི་གྲངས་འབྲེལ་མཐུད་བྱེད་དགོས་པའི་ཉེར་སྤྱོད་བྱ་རིམ་གཞན་བེད་སྤྱོད་གཏོང་མི་ཐུབ།༼འཕུར་སྐྱོད་རྣམ་པ་༽ཁ་ཕྱེ་དུས།ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་བརྙན་མཐོང་ཁ་པར་བེད་སྤྱོད་གཏོང་མི་ཐུབ།</string>
+    <string name="quick_settings_flight_mode_detail_summary">"དྲ་རྒྱའི་སྦྲེལ་མཐུད་མཐའ་དག་གི་སྒོ་རྒྱག་པ། དེར་གླེང་མོལ་དང་འཕྲིན་ཐུང་། སྦྲེལ་རེས་དྲ་རྒྱའི་འདྲི་གཏུག་གམ་Wi-Fi་དང་སོ་སྔོན་ལ་སོགས་འདུས།n
+འཕུར་སྐྱོད་རྣམ་པའི་སྒུལ་བསླངས་རྗེས་སུ། ཁྱེད་ཀྱིས་༼སྒྲིག་འགོད་༽དམ་སླ་བདེའི་སྒྲིག་འགོད་ངོས་གཞོང་ནང་དུ་སླར་Wi-Fi་དང་སོ་སྔོན་གྱི་ཁ་འབྱེད།"</string>
+    <string name="quick_settings_flight_mode_detail_title">འཕུར་སྐྱོད་རྣམ་པ།</string>
+    <string name="quick_settings_it_policy_prevents">བདེ་འཇགས་ཐབས་ཇུས་ལས་%sབེད་སྤྱོད་བཀག་ཡོད།</string>
+    <string name="quick_settings_manual_rotation_button_on_navigation_bar_summary">མྱི་བརྟེན་གྱིས་ཁ་ཕྱོགས་སྒྱུར་སྐབས་སུ་མྱི་བརྟེན་གྱིས་འཆར་ཡོལ་འཁོར་འགུལ་བྱེད་པར་ཆོག་མཆན་གནང་།</string>
+    <string name="quick_settings_manual_rotation_button_on_navigation_bar_title">སྣ་འདྲེན་ངོ་བྱང་གི་འཁོར་སྐྱོད་མཐེབ་གནོན།</string>
+    <string name="quick_settings_manual_rotation_category">ལག་འགུལ་འཁོར་སྐྱོད།</string>
+    <string name="quick_settings_mobile_data_detail_summary">ཁྱེད་ཀྱི་འགུལ་གཏོང་དྲ་བ་བརྒྱུད་ནས་མུ་འབྲེལ་དྲ་བ་བཅར་འདྲི་བྱོས།</string>
+    <string name="quick_settings_mobile_data_detail_title">འགུལ་གཏོང་གཞི་གྲངས།</string>
+    <string name="quick_settings_mobile_data_label">"འགུལ་གཏོང་
+གཞི་གྲངས།"</string>
+    <string name="quick_settings_mobile_hotspot_label">"གནས་སྤོ
+ཚ་གནས།"</string>
+    <string name="quick_settings_mobile_hotspot_label_jpn">"Wi-Fi
+网络共享"</string>
+    <string name="quick_settings_phone_visibility_label">"ཁ་པར་
+གསལ་ཆ།"</string>
+    <string name="quick_settings_reading_mode_detail_title">ལྟ་ཀློག་རྣམ་པ་</string>
+    <string name="quick_settings_reading_mode_label">"ལྟ་ཀློག་
+རྣམ་པ།"</string>
+    <string name="quick_settings_reading_mode_summary">ཀློག་འདོན་ལ་བསྟུན་ནས་འཆར་ཡོལ་ལེགས་སྒྲིག་བྱས་ཟིན།རྣམ་པ་དེ་ནི་བདམས་ཟིན་པའི་ཉེར་སྤྱོད་ཁོ་ནར་སྤྱོད་ཐུབ།</string>
+    <string name="quick_settings_reset">བསྐྱར་སྒྲིག</string>
+    <string name="quick_settings_rotation_category">འཕྲེད་ཡོལ་རྣམ་པར་སྐོར།</string>
+    <string name="quick_settings_rotation_detail_call_screen">སྐད་སྒྲའི་གླེང་མོལ་འཆར་ཡོལ་གྱི་སྒོ་སྟེམ།</string>
+    <string name="quick_settings_rotation_detail_home_screen">འཆར་ཡོལ་གཙོ་བོ།</string>
+    <string name="quick_settings_rotation_detail_lock_screen">བསྡམ་སྒྲིག་བརྙན་ཡོལ།</string>
+    <string name="quick_settings_rotation_lock_auto_rotate">རང་འགུལ་སྐོར་བ་རྒྱག</string>
+    <string name="quick_settings_rotation_lock_two_toggle_detail_summary">ལག་ཁྱེར་ཁ་པར་ཁ་ཕྱོགས་སྒྱུར་སྐབས་བརྙན་ཡོལ་ཡང་རང་བཞིན་དེ་བསྟུན་ནས་འཁོར་སྐྱོད་བྱེད།</string>
+    <string name="quick_settings_rotation_lock_two_toggle_detail_summary_for_tablet">ངོས་པང་གློག་ཀླད་ཁ་ཕྱོགས་སྒྱུར་སྐབས་རང་འགུལ་ཐོག་བརྙན་ཡོལ་སྒྱུར་བ།</string>
+    <string name="quick_settings_screen_capture_label">"བརྙན་ཡོལ་
+དྲས་ལེན་བྱེད་པ།"</string>
+    <string name="quick_settings_sec_dnd_label">སུན་འགོག</string>
+    <string name="quick_settings_sec_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_sound_mode_detail_label">སྐད་སྒྲའི་རྣམ་པ།</string>
+    <string name="quick_settings_sound_mode_detail_mixer_dnd_turned_on">སུན་འགོག་ཀྱི་ཁ་ཕྱེ་ཟིན།</string>
+    <string name="quick_settings_sound_mode_detail_mixer_title">སྒྲ་ཤུགས།</string>
+    <string name="quick_settings_sound_mode_detail_mute_remaining">ལྷག་པའི་དུས་ཚོད་%s</string>
+    <string name="quick_settings_sound_mode_detail_temporary_mute_duration">སྐད་མེད་རྒྱུད་མཐུད་དུས་ཡུན།</string>
+    <string name="quick_settings_sound_mode_detail_temporary_mute_summary">སྐད་སྒྲའི་རྣམ་པ་གོང་མར་(%s)ཕྱིར་ལྡོག་མ་བྱས་གོང་དུ་ལག་ཐོག་ཁ་པར་སྐད་མེད་འདུག་པའི་དུས་ཚོད་སྒྲིག་པ།</string>
+    <string name="quick_settings_sound_mode_detail_temporary_mute_title">སྐབས་འཕྲལ་སྐད་མེད་བཏང་།</string>
+    <string name="quick_settings_sound_mode_mute_label">སྐད་མེད།</string>
+    <string name="quick_settings_sound_mode_sound_label">སྐད་སྒྲ།</string>
+    <string name="quick_settings_sound_mode_vibrate_label">འདར་འགུལ།</string>
+    <string name="quick_settings_tablet_visibility_label">"གློག་པང་
+གསལ་ཆ།"</string>
+    <string name="quick_settings_volte_summary">ནུས་ཡོད་སྐབསVoLTEསྤྱོད།</string>
+    <string name="quick_settings_wifi_detail_available_networks_title">སྤྱོད་ཆོག་པའི་དྲ་བ།</string>
+    <string name="quick_settings_wifi_detail_current_network_title">ད་སྐབས་ཀྱི་དྲ་རྒྱ།</string>
+    <string name="quick_settings_wifi_detail_off_text">སྤྱོད་ཆོག་པའི་དྲ་བ་བལྟ་ཞིབ་བྱ་དགོས་ཚེ། Wi-Fiཁ་ཕྱེ་དགོས།</string>
+    <string name="quick_settings_wifi_detail_scanning_text">Wi-Fi དྲ་བ་བཤེར་འཚོལ་བྱ་བཞིན་པ།</string>
+    <string name="quick_settings_work_mode_label">ལས་ཀའི་སྡེབ་སྒྲིག་ཡིག་ཆ།</string>
+    <string name="quick_settings_work_mode_label_Premium">Workspace</string>
+    <string name="quick_settings_workmode_detail_summary">"%1$s་ཡི་སྒུལ་སློང་ཞིང་དེའི་ནང་གི་ཉེར་སྤྱོད་མཐའ་དག་གི་སྒུལ་སློང་ཞིང་།དེར་རྒྱབ་སྟེགས་ཀྱི་འགྲོས་བསྟུན་དང་བརྡ་སྦྱོར་འདུས།
+
+%2$s་ཡི་སྒོ་སྟེམ་ནས་ལས་ཀའི་འགལ་རྐྱེན་མེད་པའི་གནས་ཚུལ་འོག་ཏུ་ཁ་པར་སྤྱོད།"</string>
+    <string name="quick_settings_workmode_detail_summary_tablet">"%1$s་ཡི་སྒུལ་སློང་ཞིང་དེའི་ནང་གི་ཉེར་སྤྱོད་མཐའ་དག་གི་སྒུལ་སློང་ཞིང་།དེར་རྒྱབ་སྟེགས་ཀྱི་འགྲོས་བསྟུན་དང་བརྡ་སྦྱོར་འདུས།
+
+%2$s་ཡི་སྒོ་སྟེམ་ནས་ལས་ཀའི་འགལ་རྐྱེན་མེད་པའི་གནས་ཚུལ་འོག་ཏུ་སྙོམ་ལེབ་གློག་ཀླད་སྤྱོད།"</string>
+    <string name="recents_scroll_down">གཤམ་དུ་འགུལ་གཏོང་བྱས།</string>
+    <string name="recents_scroll_up">གོང་དུ་འགུལ་གཏོང་བྱས།</string>
+    <string name="recents_split_button_description">བགོས་ཡོལ་མཐོང་རིས་ནང་ནས་ཁ་ཕྱེ་བ།</string>
+    <string name="remove">སྤོ་དོར།</string>
+    <string name="reserve_battery_mode">གློག་སྨན་དཔེ་དབྱིབས་མངགས་ཉོ།</string>
+    <string name="retry">ཡང་བསྐྱར།</string>
+    <string name="rotation_lock_auto_rotate">རང་འགུལ་སྐོར་བ་རྒྱག</string>
+    <string name="rotation_lock_show_toast_mobile_keyboard_message">%s,ནུས་ཡོད་བཟོ་བར་བསྒྲིག་ཆས་ཐོག་ནས་མཐེབ་གཞོང་ཁ་ལེབ་ལེན་པ།</string>
+    <string name="safe_mode_alert_body">ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་བསྐྱར་དུ་ཁ་ཕྱེ་སྲིད།མ་ཟད་ཁྱེད་ཀྱི་ཉེར་སྤྱོད་བྱ་རིམ་ཡོད་ཚད་བསྐྱར་དུ་སྤྱོད་ཐུབ།</string>
+    <string name="safe_mode_alert_body_tablet">ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་བསྐྱར་དུ་ཁ་ཕྱེ་སྲིད།མ་ཟད་ཁྱེད་ཀྱི་ཉེར་སྤྱོད་བྱ་རིམ་ཡོད་ཚད་ཕྱིས་སུ་སྤྱོད་མི་ཐུབ།</string>
+    <string name="safe_mode_alert_positive_button">ཁ་རྒྱག་པ།</string>
+    <string name="safe_mode_alert_title">བདེ་འཇགས་རྣམ་པ་ཁ་རྒྱག་གམ།</string>
+    <string name="safe_mode_alert_title_vzw">关闭安全模式</string>
+    <string name="safe_mode_noti_body">འདི་གར་བརྡེབས་ནས་བདེ་འཇགས་རྣམ་པ་ཁ་རྒྱག</string>
+    <string name="safe_mode_noti_title">བདེ་འཇགས་རྣམ་པ་ཁ་ཕྱེ།</string>
+    <string name="sanitized_content_text">གནས་འདིར་རྡེབ་ནས་%s་རུ་ཞུགས།</string>
+    <string name="screen_capture_delete">སུབ་པ།</string>
+    <string name="screen_capture_edit">སྒྲིག་བཟོ།</string>
+    <string name="screen_capture_fail_for_security_policy">བདེ་འཇགས་ཚད་བཀག་ཐེབས་པའི་རྐྱེན་གྱིས།བརྙན་ཡོལ་དྲས་རིས་ལེན་མི་ཐུབ།</string>
+    <string name="screen_capture_fail_for_storage_capacity">སྒྲིག་ཆས་ཀྱི་གསོག་ཉར་བར་སྟོང་མ་ལྡང།ཡིག་ཆ་ཁ་ཤས་བསུབ་ནས་ཚོད་ལྟ་བྱེད་རོགས།</string>
+    <string name="screen_capture_share">མཉམ་སྤྱོད།</string>
+    <string name="screen_pinning_dialog_toast">ཉེར་སྤྱོད་འདི་བརྟན་པོར་བཏང་བ་འདོར་དགོས་ན།དུས་མཉམ་དུ་ཉེ་ཆར་སྤྱད་པའི་མཐེབ་གནོན་དང་ཕྱི་ལོག་མཐེབ་གནོན་གནོན་རོགས།</string>
+    <string name="screen_pinning_exit">བརྟན་སྒྲིག་ཉེར་སྤྱོད་བྱ་རིམ་རྩིས་མེད་བཏང་ཟིན།</string>
+    <string name="screen_pinning_start">ཉེར་སྤྱོད་བྱ་རིམ་བརྟན་སྒྲིག་བྱས་ཟིན།</string>
+    <string name="screenshot_cancel">རྩིས་མེད།</string>
+    <string name="screenshot_guide_dialog_msg">ནང་བརྙན་བསྟན་པ་ཕྱིར་ ཤུགས་ལྡེབ་བྱ་དང་སྒྲ་ལྡེབ་བྱ་ལྡེབ་ནས་བཞག་དགོས།</string>
+    <string name="screenshot_guide_dialog_title">ནང་བརྙན་པར་བཏབ་པ་ཚོ</string>
+    <string name="screenshot_saved_text">འདི་གར་བརྡེབས་ནས་ལྟ་ཞིབ་བྱེད་པ།</string>
+    <string name="screenshot_saved_title">རིག་ནུས་ཡོལ་དྲས། དེ་ཡིས་འདྲ་གཅོད་བྱེད།</string>
+    <string name="sec_accessibility_back">ཕྱིར་ལྡོག་པ།</string>
+    <string name="sec_accessibility_home">བརྙན་ཡོལ་མ་ངོས།</string>
+    <string name="sec_accessibility_navbar_hide_pin">ཕྱོགས་སྟོན་གསལ་བྱང་སྦས་པ།</string>
+    <string name="sec_accessibility_navbar_show_pin">ཕྱོགས་སྟོན་གསལ་བྱང་བསྡམ་སྒྲིག་བྱས།</string>
+    <string name="sec_accessibility_recent">ཉེ་དུས་བེད་སྤྱོད་བྱས།</string>
+    <string name="sec_battery_discharging_duration">གློག་རྫས་བེད་སྤྱོད་གཏོང་ཡུན་སྔོན་དཔག་བྱེད་པ་%s</string>
+    <string name="sec_battery_history_days_no_hours">ཉིན་%d</string>
+    <string name="sec_battery_history_days_with_hours">ཉིན་%1$d་དང་དུས་ཆུང་%2$d</string>
+    <string name="sec_battery_history_hours_no_seconds">ཆུ་ཚོད་%1$d དང་སྐར་མ་ %2$d</string>
+    <string name="sec_battery_history_minutes_no_seconds">སྐར་མ་%d</string>
+    <string name="sec_block_this_notification_text">བརྡ་སྦྱོར་འདི་འགོག</string>
+    <string name="sec_bluetooth_show_le_devices_without_names">མིང་མེད་པའི་BLE་སྒྲིག་ཆས་འཆར།</string>
+    <string name="sec_bluetooth_show_le_devices_without_names_summary">མིང་(MAC་གནས་ས་ཁོ་ན)མེད་པའི་སོ་སྔོན་གྱི་ནུས་འབྲས་དམའ་ཤོས་ཀྱི་སྒྲིག་ཆས་འཆར།</string>
+    <string name="sec_data_usage_disabled_dialog_body">ཁྱེད་ཀྱིས་སྒྲིག་འགོད་བྱས་པའི་བེད་སྤྱོད་བཀག་རྒྱར་ཐུག་པས་གནས་སྤོ་དན་གྲངས་བེད་སྤྱོད་ཀྱི་མཚམས་བཞག་ཟིན།</string>
+    <string name="sec_data_usage_disabled_dialog_body_vzw">"已达到您指定的数据使用量限制，因此移动数据已关闭。
+
+如果打开移动数据，运营商可能收取数据使用费用。"</string>
+    <string name="sec_data_usage_disabled_dialog_enable">མུ་མཐུད།</string>
+    <string name="sec_data_usage_disabled_dialog_enable_vzw">打开数据</string>
+    <string name="sec_data_usage_disabled_dialog_keep_off">སྒོ་སྟེམ་པ་རྒྱུན་འཁྱོངས་བྱེད།</string>
+    <string name="sec_data_usage_disabled_dialog_mobile_title">གནས་སྤོ་དན་གྲངས་སྤྱོད་པའི་མུ་མཐུད་རྒྱུ་ཡིན་ནམ།</string>
+    <string name="sec_data_usage_disabled_dialog_mobile_title_vzw">移动数据现已关闭</string>
+    <string name="sec_data_usage_disabled_dialog_turn_off">ཁ་རྒྱོབ།</string>
+    <string name="sec_default_app">སྒྲིག་འགོད་སོར་བཞག་བྱས།</string>
+    <string name="sec_no_default_app">སོར་བཞག་བྱས་པའི་ཉེར་སྤྱོད་བྱ་རིམ་སྒྲིག་འགོད་བྱས་མེད།</string>
+    <string name="sec_notification_group_overflow_description">སྡོམ་པས་བརྡ་སྦྱོར་%d</string>
+    <string name="sec_qs_unable_remove_minimum">མཐེབ་གནོན་སྤོར་འདོར་བྱེད་མི་ཐུབ།སླ་བདེའི་ངོ་བྱང་དུ་ཉུང་མཐར་མཐེབ་གནོན་%d་འདུ་དགོས།</string>
+    <string name="sec_quick_settings_details">ཞིབ་ཕྲའི་ཆ་འཕྲིན།</string>
+    <string name="sec_quick_settings_disclosure_management">ཁ་པར་འདི་ནི་ཁྱེད་ཀྱི་རྩ་འཛུགས་ཀྱིས་དོ་དམ་བྱེད།</string>
+    <string name="sec_quick_settings_disclosure_management_tablet">སྙོམ་ལེབ་གློག་ཀླད་ནི་ཁྱེད་ཀྱི་རྩ་འཛུགས་ཀྱིས་དོ་དམ་བྱེད།</string>
+    <string name="sec_quick_settings_disclosure_named_management">ཁ་པར་འདི་ནི་%s་ཡིས་དོ་དམ་བྱེད།</string>
+    <string name="sec_quick_settings_disclosure_named_management_tablet">སྙོམ་ལེབ་གློག་ཀླད་ནི་%s་ཡིས་དོ་དམ་བྱེད།</string>
+    <string name="sec_quick_settings_disclosure_named_vpn">%s་རུ་སྦྲེལ་ཟིན།</string>
+    <string name="sec_quick_settings_flashlight_label">ལག་ཁྱེར་གློག་སྒྲོན།</string>
+    <string name="sec_quick_settings_rotation_locked_landscape_label">འཕྲེད་ཕྱོགས།</string>
+    <string name="sec_quick_settings_rotation_locked_portrait_label">གཞུང་ཕྱོགས།</string>
+    <string name="sec_quick_settings_rotation_unlocked_label">"རང་འགུལ་
+སྐོར་བ་རྒྱག"</string>
+    <string name="sec_reorder_buttons">འཐེབ་ནོན་གོ་རིམ།</string>
+    <string name="sec_running_foreground_services_msg">ཉེར་སྤྱོད་གཅིག་ལ་བརྡེབས་ནས་དེའི་གློག་ཚད་དང་བཞུར་འབོར་བེད་སྤྱོད་གནས་ཚུལ་ལ་ལྟ་རྟོག་བྱས་ཆོག</string>
+    <string name="sec_running_foreground_services_title">གློག་སྨན་སྤྱོད་བཞིན་པའི་ཉེར་སྤྱོད།</string>
+    <string name="sec_samsung_cloud_title">Samsung Cloud</string>
+    <string name="sec_video_call_title">བརྙན་མཐོང་ཁ་བརྡ།</string>
+    <string name="select_private_dns_configuration_dialog_title">གསང་བའི་DNS</string>
+    <string name="select_private_dns_configuration_title">གསང་བའི་DNS</string>
+    <string name="servicebox_alarm_next">ཅོང་བརྡ་རྗེས་མ།</string>
+    <string name="servicebox_alarm_no_alarm">མ་འོངས་ཉིན་7ནང་དུས་བརྡ་མེད།</string>
+    <string name="servicebox_event_calendar">ཉིན་ཐོ།</string>
+    <string name="servicebox_event_my_event">ངའི་ལས་དོན།</string>
+    <string name="servicebox_event_no_events">ལས་དོན་མེད་པ།</string>
+    <string name="servicebox_event_open_ss">%sཡི་སྒོ་འབྱེད།</string>
+    <string name="servicebox_event_task">ལས་འགན།</string>
+    <string name="servicebox_event_time_all_day">ཉིན་ཡོངས།</string>
+    <string name="servicebox_music_closed">ཁྱེད་ཀྱི་རོལ་དབྱངས་གཏོང་འཛིན་ཡོ་བྱད་ལ་རོལ་དབྱངས་ཁག་ཅིག་དགོས།ལག་ཐོག་ཁ་པར་གསང་འགྲོལ་དགོས་པ་དང་རོལ་དབྱངས་ཁག་ཅིག་བཏང་ནས་གཏོང་འཛིན་ཡོ་བྱད་གསལ་བྱ་དགོས།</string>
+    <string name="servicebox_music_description_album_cover">རོལ་སྡེར་ཁ་ཤོག</string>
+    <string name="servicebox_music_description_next">གོམ་པ་འོག་མ།</string>
+    <string name="servicebox_music_description_pause">暂停</string>
+    <string name="servicebox_music_description_play">播放</string>
+    <string name="servicebox_music_description_prev">གོམ་པ་གོང་མ།</string>
+    <string name="servicebox_music_lyrics">གཞས་ཚིག</string>
+    <string name="servicebox_music_play_first">ཁྱེད་ཀྱིས་གཞས་གཏོང་ཆས་ཞིག་བྱེད་སྤྱོད་བྱས་རྗེས། ཁྱེད་ཀྱིས་ཁ་རྒྱབ་བརྙན་ཡོལ་བྱེད་སྒང་ནས་ཁྱེད་ཀྱི་བྱང་ཁྱེད་ཀྱི་གཞས་སྟངས་འཛིན་བྱེད་ཐུབ།</string>
+    <string name="servicebox_music_unknown">རྒྱུས་མེད།</string>
+    <string name="servicebox_noti_btn">སྒྲིག་འགོད།</string>
+    <string name="servicebox_noti_exp">བསྡམ་སྒྲིག་བརྙན་ཡོལ་དང་Always on Displayནང་དུ་ཡོལ་མལ་ལྷུ་ཆས་བེད་སྤྱོད་བཏང་ནས་ཁྱེད་ཀྱི་རོལ་དབྱངས་ལ་མྱུར་མགྱོགས་བཅར་འདྲི་བྱེད་པ།</string>
+    <string name="servicebox_noti_title">FaceWidgetབེད་སྤྱད།</string>
+    <string name="sim_card_tray_empty_water_protection_dialog_body">ཆུ་ཞུགས་པས་ཆག་སྐྱོན་སློང་བ་ཟློག་ཆེད་SIM་བྱང་བྲེ་དམ་པོར་འཛེར་བ་ཁག་ཐེག་བྱེད་རོགས།</string>
+    <string name="sim_card_tray_water_protection_dialog_body">"SIM་བྱང་བུ་མ་ཚོར།ཁྱེད་ཀྱི་ཁ་པར་གཏོང་མི་ཐུབ་ཅིང་འཕྲིན་ཐུང་གཏོང་མི་ཐུབ་ལ་གནས་སྤོ་དན་གྲངས་སྤྱོད་མི་ཐུབ།
+
+ཆུ་ཞུགས་པས་ཆག་སྐྱོན་སློང་བ་ཟློག་ཆེད་SIM་བྱང་བྲེ་དམ་པོར་འཛེར་བ་ཁག་ཐེག་བྱེད་རོགས།"</string>
+    <string name="sim_card_tray_water_protection_dialog_title">SIM་བྱང་བྲེར་ལྟ་རྟོག་བྱེད།</string>
+    <string name="sim_sd_card_tray_empty_water_protection_dialog_body">ཆུས་གནོད་པ་ལས་སྐྱོབ་ཅིང་། SIM/SDབྱང་བའི་སྡེར་མ་སྐམ་པོ་ཉར་བ་བྱེད།</string>
+    <string name="sim_sd_card_tray_water_protection_dialog_body">"SIMབྱང་བུ་འཚོལ་ཞིབ་བྱེད་ཐུབ་མི་འདུག ཁྱོད་ཀྱི་དཔྱད་ཆས་ཀྱིས་བྱ་ལས་ཁ་ཤས་སྤེལ་མི་ཐུབ་སྟེ། དཔེར་ན་ཁ་པར་གཏོང་བ་དང་འགུལ་སྐྱོད་དྲ་བ་དང་འབྲེལ་བ།
+
+ཆུའི་གནོད་པ་ལས་སྐྱོབ་ཅིང་། SIM/SDབྱང་བུའི་སྡེར་མ་སྐམ་པོ་ཉར་བ་བྱེད།"</string>
+    <string name="sim_sd_card_tray_water_protection_dialog_title">SIM/SDབྱང་བུའི་སྒྲོམ་བརྟག་ཞིབ་བྱས།</string>
+    <string name="snooze_icon_description">ཅུང་ཙམ་འགོར་རྗེས་བརྡ་གཏོང་།</string>
+    <string name="snooze_notification_guide_text">ཁྱེད་ཀྱིས་གཤམ་དུ་བདམས་པའི་དུས་ཚོད་འདས་རྗེས།སླར་བརྡ་སྦྱོར་འདི་འཆར།</string>
+    <string name="snooze_title">ཅུང་ཙམ་འགོར་རྗེས་བརྡ་གཏོང་།</string>
+    <string name="status_bar_high_performance_mode_description">གཤིས་ནུས་མཐོན་པོ་རྣམ་པའི་ཁ་འབྱེད།</string>
+    <string name="status_bar_maximum_power_saving_description">གློག་ཤིན་ཏུ་བསྲི་བའི་རྣམ་པ་ཁ་ཕྱེ།</string>
+    <string name="status_bar_power_saving_description">གློག་བསྲི་བའི་རྣམ་པ་ཁ་ཕྱེ་ཡོད།</string>
+    <string name="status_bar_sec_airplane_mode_text">འཕུར་སྐྱོད་རྣམ་པ།</string>
+    <string name="status_icon_alarm">དུས་བརྡ།</string>
+    <string name="str_smart_pop_up_view_description">"ཉེར་སྤྱོད་གང་དག་ནི་ཁྱེད་ལ་འཕེར་སྒེའུ་ནང་དུ་ཁ་འབྱེད་ཐུབ་པའི་བརྡ་སྦྱོར་སྐུར་ཐུབ་པ་འདམ།
+
+རྩོལ་ནུས་འདི་ནི་སྒེའུ་མང་ལ་རྒྱབ་སྐྱོར་བྱེད་ཐུབ་པའི་ཉེར་སྤྱོད་ཁོ་ནར་འཚམ།"</string>
+    <string name="str_smart_pop_up_view_description_at_setting">ཆིག་རྡེབ་བྱེད་ཆོག་ཀྱང་ཕྱིར་འཕར་ཁྲ་ངོས་ནང་དུ་ཁ་བརྐྱངས་འདུག་པའི་རྟགས་རིས་རྣམ་པ་ལྟར་བརྡ་ཐོ་བསྡུ་ལེན་བྱེད།</string>
+    <string name="str_smart_pop_up_view_name">རིག་ནུས་ཀྱིས་མཐོང་རིས་འཕར།</string>
+    <string name="str_smart_pop_up_view_name_at_setting">རིག་ནུས་ཕྱིར་འཕར་མཐོང་རིས།</string>
+    <string name="str_suggested_app">གྲོས་གཞི་བཏོན་པའི་ཉེར་སྤྱོད།</string>
+    <string name="suggestion_to_minimize">བརྡ་སྦྱོར་འདི་དག་ཆུང་ཤོས་སུ་སྒྱུར་རྒྱུ་ཡིན་ནམ།</string>
+    <string name="switch_bar_off">ཁ་རྒྱག</string>
+    <string name="switch_bar_on">ཕྱེ་བ།</string>
+    <string name="switched_to_onephone_mode">已切换至单号码模式</string>
+    <string name="switched_to_twophone_mode">模式已切换至双号码模式</string>
+    <string name="terabyteShort">TB</string>
+    <string name="tether_settings_title_all">འགུལ་གཏོང་དྲ་བ་དང་དྲ་རྒྱ་མཉམ་རོལ།</string>
+    <string name="time_format_hour">ཆུ་ཚོད་%d</string>
+    <string name="time_format_hour_minute">ཆུ་ཚོད་%1$d དང་སྐར་མ་ %2$d</string>
+    <string name="time_format_minute">སྐར་མ་%d</string>
+    <string name="to_use_this_function_download_ps">གལ་སྲིད་བྱེད་ནུས་འདི་བེད་སྤྱོད་བྱེད་དགོས་ཚེ། %sཕབ་ལེན་བྱོས།</string>
+    <string name="to_use_this_function_download_the_following_application">"གལ་སྲིད་ཕན་ནུས་འདི་བེད་སྤྱོད་གཏོང་དགོས་ཚེ། གཤམ་གྱི་ཉེར་སྤྱོད་བྱ་རིམ་ཕབ་ལེན་བྱ་དགོས།
+
+%s"</string>
+    <string name="tts_default_lang_title">སྐད་རིགས།</string>
+    <string name="tts_default_pitch_title">སྒྲ་གདངས།</string>
+    <string name="tts_default_rate_title">སྐད་ཆའི་མྱུར་ཚད།</string>
+    <string name="tts_lang_use_system">མ་ལག་སྐད་ཡིག་བེད་སྤྱད།</string>
+    <string name="tts_settings">ཡིག་དེབ་སྐད་སྒྲར་སྒྱུར་བ།</string>
+    <string name="tts_settings_title">ཡིག་དེབ་སྐད་སྒྲར་སྒྱུར་བ།</string>
+    <string name="tw_cover_volume_warning_message">རྒྱུན་རིང་སྒྲ་ཤུགས་མཐོ་པོས་རོལ་དབྱངས་ཉན་ན་ཚོར་ནུས་ལ་གནོད་པ་བྱུང་སྲིད།གལ་སྲིད་སྒྲ་ཤུགས་ཆེ་རུ་གཏོང་ན།ལག་ཐོག་ཁ་པར་གྱི་ཁེབས་ཁ་ཕྱེ་གནང་རོགས།</string>
+    <string name="tw_safe_media_volume_warning">དུས་ཡུན་རིང་པོ་སྒྲ་ཤུགས་ཆེན་པོའི་ཐོག་ནས་ཉན་ཚེ་ཁྱེད་ཀྱི་རྣ་བ་སྐྱོན་ཡོང་སྲིད།༼གཏན་འཁེལ་༽བརྡེབས་ནས་སྒྲ་ཤུགས་བདེ་འཇགས་རིམ་ཚད་གོང་དུ་མཐོར་གཏོང་དགོས།</string>
+    <string name="tw_safe_media_volume_warning_kids_mode">བྱིས་པའི་རྣམ་པའི་ནང་སྙན་ཆས་འབྲེལ་སྐབས། སྒྲ་ཤུགས་ངོས་སྦྱོར་བྱས་པའི་བདེ་འཇགས་ཚད་(%s)ལས་བརྒལ་མི་རུང་།</string>
+    <string name="unable_to_capture_screen_emergencymode">དོད་དྲགས་རྣམ་པའི་འོག་བརྙན་ཡོལ་དྲས་འཛིན་མི་ཐུབ།</string>
+    <string name="unable_to_capture_screen_ultrapowersaving_mode">དྲས་ཡོལ་དྲས་ལེན་མི་ཐུབ་པ།</string>
+    <string name="unable_to_open_ps_in_emergency_mode">དོད་དྲགས་རྣམ་པའི་ནང་%sཁ་ཕྱེ་མི་ཐུབ།</string>
+    <string name="unable_to_open_ps_in_mpsm">གློག་གྲོན་ཚད་མཐོ་ཤོས་དཔེ་དབྱིབས་སྐབས་སུ%sཁ་ཕྱེ་མི་ཐུབ།</string>
+    <string name="unable_to_open_ps_in_upsm">གློག་ཤིན་ཏུ་བསྲི་བའི་རྣམ་པའི་ནང་དུ་%sཁ་ཕྱེ་མི་ཐུབ།</string>
+    <string name="unable_to_turn_on_being_used_by_camera">ཉེར་སྤྱོད་གཞན་པས་སྒྲོན་འོད་བེད་སྤྱོད་བྱེད་སྐབས་སུ་འཚེར་སྒྲོན་གྱི་སྒུལ་སློང་མི་ཐུབ།</string>
+    <string name="unintentional_lcd_on_alert_body">གལ་སྲིད་གནས་ཚུལ་འདི་བསྐྱར་དུ་མི་ཡོང་བ་བྱེད་དགོས་ཚེ།བར་ཐག་ཉེ་བའི་ཚོར་འདྲེན་ཡོ་བྱད་འགོག་མི་རུང་།</string>
+    <string name="unintentional_lcd_on_alert_body2">༼%s༽བརྡེབས་ནས་མུ་མཐུད་ལག་ཐོག་ཁ་པར་བེད་སྤྱོད་བཏང་བ།</string>
+    <string name="unintentional_lcd_on_alert_body2_tablet">༼%s༽ལ་བརྡེབས་ནས་མུ་མཐུད་ནས་སྙོམ་ལེབ་གློག་ཀླད་སྤྱོད།</string>
+    <string name="unintentional_lcd_on_alert_title">བསམ་ཡུལ་ལས་འདས་པས་སྲུང་སྐྱོང་ལ་རེག</string>
+    <string name="unintentional_lcd_on_alert_window_body">ཁྱེད་ཀྱི་ཁ་པར་སྲུང་ཞིང་བསམ་ཡུལ་ལས་འདས་པས་རེག་པའི་འགལ་རྐྱེན་མི་འབྱུང་བ་བྱེད།</string>
+    <string name="unintentional_lcd_on_alert_window_body2">གནས་ཚུལ་འདི་དག་འབྱུང་བ་འགོག་ཆེད་ཁ་པར་མགོ་སྟེང་དྲི་མ་མེད་པའི་གཙང་མར་གཏོང་རོགས།</string>
+    <string name="unintentional_lcd_on_alert_window_body2_tablet">གནས་ཚུལ་འདི་འདྲ་འགོག་ཆེད།སྙོམ་ལེབ་གློག་ཀླད་མགོ་སྟེང་དུ་གཙང་སྦྲ་བྱེད་རོགས།</string>
+    <string name="unintentional_lcd_on_alert_window_body_ear_proximity">ཁ་པར་ནི་ཁུག་མར་འཇོག་པའམ་རྒྱབ་ཁུག་གི་མུན་ནག་སར་འཇོག་སྐབས་སུ་བསམ་ཡུལ་ལས་འདས་པས་འཆར་ཡོལ་གྱི་ཁ་འབྱེད་པ་ཟློག</string>
+    <string name="unintentional_lcd_on_alert_window_body_ear_proximity_tablet">སྙོམ་ལེབ་གློག་ཀླད་ནི་ཁུག་མར་འཇོག་པའམ་རྒྱབ་ཁུག་གི་མུན་ནག་སར་འཇོག་སྐབས་སུ་བསམ་ཡུལ་ལས་འདས་པས་འཆར་ཡོལ་གྱི་ཁ་འབྱེད་པ་ཟློག</string>
+    <string name="unintentional_lcd_on_alert_window_body_tablet">ཁྱེད་ཀྱི་སྙོམ་ལེབ་གློག་ཀླད་ལ་བསམ་ཡུལ་ལས་འདས་པའི་ཐུག་རེག་གིས་འགལ་རྐྱེན་མ་ཕོག་པར་སྲུང་།</string>
+    <string name="unknown">རྒྱུས་མེད།</string>
+    <string name="user_guest">མགྲོན་པོ།</string>
+    <string name="volte_show_toast_airplane_mode">འཕུར་སྐྱོད་རྣམ་པ་ཁ་ཕྱེ་སྐབས་VoLTEབེད་སྤྱོད་གཏོང་མི་ཐུབ།འཕུར་སྐྱོད་རྣམ་པ་བཀག་ནས་བསྐྱར་ཚོད་བྱེད་དགོས།</string>
+    <string name="volte_show_toast_disable_not_allowed">ཞབས་འདེགས་ས་ཚིགས་ལVoLTEའགོག་པའི་དབང་ཆ་མེད།</string>
+    <string name="volte_show_toast_enable_message">གལ་ཏེ་VoLTEཞབས་ཞུ་དགོས་ན།ཁྱེད་ཀྱིས་ VoLTEཀློག་ཉོ་བྱེད་རོགས།ཞིབ་ཕྲའི་འབྲེལ་ཡོད་ཆ་འཕྲིན་ཤེས་འདོད་ན།ཁྱེད་ཀྱིས་མཁོ་འདོན་ཚོང་ཁང་ལ་འབྲེལ་གཏུགས་བྱེད་རོགས</string>
+    <string name="volte_show_toast_impossible_during_volte_call">གླེང་མོལ་གྱི་སྐབས་སུ་VoLTE་ཁ་འབྱེད་མི་ཐུབ་ཅིང་སྒོ་སྟེམ་མི་ཐུབ།</string>
+    <string name="volte_show_toast_not_support_operator">ཁྱེད་ཀྱི་མིག་སྔའི་མཉེན་ཆས་པར་གཞི་ཡིས་VoLTEལ་རྒྱབ་སྐྱོར་མི་ཐོབ།དེ་བས་མང་བའི་འབྲེལ་ཡོད་ཞིབ་ཆའི་ཆ་འཕྲིན།ཚོང་མགྲོན་ཞབས་ཞུ་དང་འབྲེལ་གཏུག་གནང་རོགས།</string>
+    <string name="volume_alarm">དྲིལ་བརྡའི་སྒྲ་ཤུགས།</string>
+    <string name="volume_bluetooth_call">སོ་སྔོན་ཁ་བརྡའི་སྒྲ་ཚད།</string>
+    <string name="volume_call">ཁ་བརྡའི་སྒྲ་ཤུགས།</string>
+    <string name="volume_cant_change_volume_smart_view">%s ཐོག་ཏུ་ བརྡ་བརྒྱུད་སྒྲ་ཡོད་ཚེ་ སྒྲ་ཤུགས་སོར་མི་ནུས་པ།</string>
+    <string name="volume_dialog_accessibility_dismissed_message">ཡིབ་ཟིན་པའི་སྒྲ་ཚད་ཚོད་འཛིན་ཆས།</string>
+    <string name="volume_dnd_turned_on">སུན་འགོག་ཀྱི་ཁ་ཕྱེ་ཟིན།</string>
+    <string name="volume_icon_content_description_ringtone_to_mute">སྐད་སྒྲའི་རྣམ་པ་ནི་སྒྲ་འཇགས་སུ་སྒྲིག་འགོད་བྱེད།</string>
+    <string name="volume_icon_content_description_ringtone_to_sound">སྐད་སྒྲའི་རྣམ་པ་ནི་སྐད་སྒྲར་སྒྲིག་འགོད་བྱེད།</string>
+    <string name="volume_icon_content_description_ringtone_to_vib">སྐད་སྒྲའི་རྣམ་པ་ནི་འདར་འགུལ་དུ་སྒྲིག་འགོད་བྱེད།</string>
+    <string name="volume_icon_content_description_to_mute">%s་སྒྲ་ཚད་སྒྲ་འཇགས་གཏོང་།</string>
+    <string name="volume_icon_content_description_to_unmute">%s་སྒྲ་ཚད་སྒྲ་འཇགས་འདོར།</string>
+    <string name="volume_icon_description_bluetooth">སོ་སྔོན་སྙན་ཆས་ཀྱི་སྒྲ་ཤུགས།</string>
+    <string name="volume_icon_description_incall">ཁ་བརྡའི་སྒྲ་ཤུགས།</string>
+    <string name="volume_icon_description_notification">བརྡ་ཐོ།</string>
+    <string name="volume_icon_description_ringer">དྲིལ་བརྡ་དང་བརྡ་ཐོ།</string>
+    <string name="volume_limiter_button_settings">སྒྲིག་འགོད།</string>
+    <string name="volume_limiter_notice_toast">གལ་སྲིད་སྒྲ་ཤུགས་མཐོ་རུ་གཏོང་དགོས་ཚེ།༼སྒྲིག་འགོད་༽ནང་ཞུགས་དགོས་དེ་རྗེས་༼སྨྱན་གཟུགས་སྒྲ་ཤུགས་ཚད་བཀག་ཡོ་བྱད་༽བཀག་པའམ་ཁྱེད་ཀྱི་སྒྲ་ཤུགས་ཚད་བཀག་སྒྱུར་ཆོག</string>
+    <string name="volume_limiter_open_cover_toast">སྲུང་སྐྱོབ་ཁེབས་ཁ་ཕྱེ་ནས་མུ་མཐུད་ལས་པ།</string>
+    <string name="volume_limiter_toast_title">སྒྲ་ཤུགས་ཚད་བཀག་ཏུ་སླེབས་ཟིན།</string>
+    <string name="volume_music">སྨྱན་གཟུགས་སྒྲ་ཤུགས།</string>
+    <string name="volume_music_hint_playing_through_bluetooth">སོ་སྔོན་བརྒྱུད་ནས་གཏོང་ལེན་བྱེད་པ།</string>
+    <string name="volume_music_hint_silent_ringtone_selected">སྐད་མེད་དྲིལ་སྒྲ་འདེམས་ཟིན།</string>
+    <string name="volume_mute_all_sounds_on">སྐད་སྒྲ་མཐའ་དག་སྒྲ་འཇགས་སུ་གཏོང་བའི་སྒུལ་བསླངས།</string>
+    <string name="volume_notification">དྲན་བརྡ་ཡི་སྒྲ</string>
+    <string name="volume_ringtone">དྲིལ་བརྡའི་སྒྲ་ཤུགས།</string>
+    <string name="volume_stream_dual_audio">སྒྲ་གཉིས་ལྡན།</string>
+    <string name="volume_unknown">སྒྲ་ཤུགས།</string>
+    <string name="volume_use_your_phone_volume_smart_view">%s སྟེང་སྒྲ་ཤུགས་ཚོད་འཛིན་བྱེད་པར་ཁྱེད་ཀྱི་ཁ་པར་གྱི་སྒྲ་ཤུགས་མཐེབ་བེད་སྤྱོད་བྱ།</string>
+    <string name="volumepanel_bixby_voice">Bixbyསྐད་སྒྲ།</string>
+    <string name="volumepanel_media">སྨྱན་གཟུགས།</string>
+    <string name="volumepanel_notification">བརྡ་ཐོ།</string>
+    <string name="volumepanel_ringtone">དྲིལ་བརྡ།</string>
+    <string name="volumepanel_system">མ་ལག</string>
+    <string name="warning_alert_check">ཡང་བསྐྱར་དྲན་བརྡ་མི་གཏོང་བ།</string>
+    <string name="water_protection_notification_body">ཆུ་རླངས་ཚོར་བྱུང་།གློག་གསོག་ཆས་བལ་ཞིང་གློག་གསོག་ཆས་དང་USB་སྣེ་གནས་སྐམ་པོ་ཡིན་པ་ཁག་ཐེག་བྱེད་རོགས།</string>
+    <string name="water_protection_notification_title">拔下充电器</string>
+    <string name="wifi_adps_summary">Wi-Fiབཞུར་ཚད་དབྱེ་ཞིབ་བྱས་ནས་གློག་རྫས་བེད་སྤྱོད་གཏོང་ཚད་དམའ་རུ་བཏང་དགོས།</string>
+    <string name="wifi_adps_title">Wi-Fiགློག་བསྲི་བའི་རྣམ་པ།</string>
+    <string name="wifi_auto_reconnect_disabled">རང་འགུལ་འབྲེལ་མཐུད་བསྐྱར་དུ་བྱ་རྒྱུ་བཀག་ཟིན།</string>
+    <string name="wifi_connected_checking_quality">ཁྱེད་ཀྱི་མུ་འབྲེལ་དྲ་རྒྱའི་འབྲེལ་མཐུད་སྤུས་ཚད་ལ་རྟོགས་དཔྱད་བྱ་བཞིན་པ།</string>
+    <string name="wifi_disabled_captive_portal">ཐོ་འཇུག་བྱ་དགོས་པ།</string>
+    <string name="wifi_disabled_no_internet">མུ་འབྲེལ་དྲ་བ་སྤྱོད་མི་ཐུབ།</string>
+    <string name="wifi_disabled_password_failure">ངོས་འཛིན་བྱ་སྐབས་ནོར་འཁྲུལ་ཐོན།</string>
+    <string name="wifi_disconnected">Wi-Fiའབྲེལ་བཅད་ཟིན།</string>
+    <string name="wifi_failed_to_obtain_IP">IP ས་གནས་ཐོབ་ལེན་བྱེད་མ་ཐུབ།</string>
+    <string name="wifi_internet_may_not_be_available">དྲ་འབྲེལ་བཀོལ་མི་ཐུབ་ཀྱང་སྲིད།</string>
+    <string name="wifi_open_network_summary">བདེ་འཇགས་མ་ཡིན།</string>
+    <string name="wifi_reconnecting">དྲ་བ་མྱུར་ཚད་ཡག་ཏུ་སོང་བའི་སྐབས་འབྲེལ་བའི་གྲ་སྒྲིག་བྱས།</string>
+    <string name="wifi_risk_ap_warning">བདེ་འཇགས་མ་ཡིན།</string>
+    <string name="wifi_safe_mode">བདེ་འཇགས་རྣམ་པ།</string>
+    <string name="wifi_safe_mode_summary">Wi-Fi་ཡི་བརྟན་པོའི་རང་བཞིན་ནི་གཤིས་ནུས་གལ་ཆེ།</string>
+    <string name="wifi_secured_summary">བདེ་འཇགས།༼བདེ་འཇགས་རང་བཞིན་འཚོལ་བཤེར༽མཐེབ་གནོན་ལ་བརྡེབས་ནས་བདེ་འཇགས་ཆ་འཕྲིན་གྱི་གནས་ཚུལ་ཞིབ་མོར་ལྟ་རྟོག་བྱེད།</string>
+    <string name="wifi_security_detection">བདེ་འཇགས་རང་བཞིན་གྱི་འཚོལ་བཤེར།</string>
+    <string name="wifi_sign_in_to_the_network">དྲ་བར་ནང་འཇུག</string>
+    <string name="wifi_unknown_secured_ap">བདེ་འཇགས་རིགས་གྲས་རྒྱུས་མེད་པས་ཁྱེད་ནས་འབྲེལ་འཇུག་ཚིགས་དེར་འབྲེལ་མི་ཐུབ།</string>
+    <string name="wifi_unknown_security_type">རྒྱུས་མེད་ཀྱི་བདེ་འཇགས་རིགས་གྲས།</string>
+    <string name="wifi_unsecured_summary">བདེ་འཇགས་མ་ཡིན།༼བདེ་འཇགས་རང་བཞིན་ཀྱི་རྟོག་བཤེར༽མཐེབ་གནོན་ལ་བརྡེབས་ནས་བདེ་འཇགས་ཆ་འཕྲིན་གྱི་ཞིབ་ཕྲའི་ཆ་འཕྲིན་ལ་ལྟ་རྟོག་བྱེད།</string>
+    <string name="yes">གཏན་འཁེལ།</string>
+</resources>

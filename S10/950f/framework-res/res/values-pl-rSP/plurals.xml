@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">Liczba doradōw autopodŏwaniŏ to %d</item>
+        <item quantity="one">Jedna dorada autopodŏwaniŏ</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">Nie można wyświetlić więcej niż %d aplikacji na ekranie jednocześnie. Zminimalizowano najstarszą aplikację.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Nie można wyświetlić więcej niż %d aplikacji na ekranie jednocześnie. Zminimalizowano najstarszą aplikację.</item>
+        <item quantity="many">Nie można wyświetlić więcej niż %d aplikacji na ekranie jednocześnie. Zminimalizowano najstarszą aplikację.</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d aplikacyji używo danych mobilnych tyż i, kej mobilniŏk je zepniynty z necym Wi-Fi.</item>
+        <item quantity="one">%d aplikacyjo używo danych mobilnych tyż i, kej mobilniŏk je zepniynty z necym Wi-Fi.</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">Tyknij tukej, coby reskyrować tymi aplikacyjami.</item>
+        <item quantity="zero">Dotknij tutaj, aby zarządzać tymi aplikacjami.</item>
+        <item quantity="one">Tyknij tukej, coby reskyrować tōm aplikacjōm.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s chce Ci coś udostępnić przy użyciu funkcji Wi-Fi Direct. Zaakceptuj w ciągu %2$d sekund.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s chce Ci coś udostępnić przy użyciu funkcji Wi-Fi Direct. Zaakceptuj w ciągu %2$d sekundy.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$s chce Ci coś udostępnić przy użyciu funkcji Wi-Fi Direct. Zaakceptuj w ciągu %2$d sekund.</item>
+        <item quantity="many">%1$s chce Ci coś udostępnić przy użyciu funkcji Wi-Fi Direct. Zaakceptuj w ciągu %2$d sekund.</item>
+    </plurals>
+</resources>

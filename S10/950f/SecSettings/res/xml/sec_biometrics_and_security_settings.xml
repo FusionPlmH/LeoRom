@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:icon="@drawable/sec_ic_settings_biometrics_and_security" android:title="@string/biometrics_and_security_title" android:key="biometrics_settings_screen"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <SecPreferenceScreen android:title="@string/bio_smartscan_title" android:key="smart_scan" android:order="-1000" />
+    <SecPreferenceScreen android:title="@string/bio_face_recognition_title" android:key="silent_lock" android:order="-900" />
+    <SecPreferenceScreen android:title="@string/bio_iris_scanner_title" android:key="iris_settings" android:order="-800" />
+    <SecPreferenceScreen android:title="@string/bio_fingerprint_sanner_title" android:key="finger_scanner" android:order="-700" />
+    <SecPreferenceScreen android:title="@string/biometrics_option_title" android:key="biometrics_option" android:order="-600" android:fragment="com.samsung.android.settings.security.BiometricsOptionSettings" />
+    <SecPreferenceScreen android:title="@string/biometrics_security_patch_title" android:key="biometrics_security_patch" android:order="-500" />
+    <SecPreferenceCategory android:title="@string/security_settings_title" android:key="sec_security_category" android:order="-200" />
+    <SecPreferenceScreen android:persistent="false" android:title="@string/iris_use_samsung_pass" android:key="samsung_pass" android:summary="@string/lockscreen_samsung_pass_summary" android:order="100" />
+    <SecPreference android:title="@string/install_other_apps" android:key="manage_external_sources" android:order="200" android:fragment="com.android.settings.applications.manageapplications.ManageApplications" settings:keywords="@string/keywords_install_other_apps">
+        <extra android:name="classname" android:value="com.android.settings.Settings$ManageExternalSourcesActivity" />
+    </SecPreference>
+    <SecPreferenceScreen android:persistent="false" android:title="@string/secure_folder_title" android:key="secure_folder" android:summary="@string/secure_folder_summary" android:order="300" />
+    <SecPreference android:title="@string/crypt_keeper_encrypt_title" android:key="encryption_and_credentials_encryption_status" android:summary="@string/summary_placeholder" android:order="400" android:fragment="com.android.settings.security.CryptKeeperSettings" />
+    <SecPreference android:title="@string/sdcard_encrypt_title" android:key="sdcard_encrypt_status" android:summary="@string/sdcard_encrypt_title_summary" android:order="500" android:fragment="com.samsung.android.settings.encryption.CryptSDCardSettings" />
+    <SecPreference android:persistent="false" android:title="@string/other_security_settings" android:key="other_security_settings" android:summary="@string/other_security_settings_summary" android:order="600" android:fragment="com.samsung.android.settings.security.OtherSecuritySettings" />
+    <SecPreferenceCategory android:title="@string/privacy_category_title" android:key="privacy_category" android:order="650" />
+    <SecSwitchPreferenceScreen android:title="@string/location_settings_title" android:key="location_settings" android:order="700" android:fragment="com.android.settings.location.LocationSettings" />
+    <SecPreferenceScreen android:title="@string/app_permissions" android:key="key_app_permissions" android:order="800" settings:keywords="@string/keywords_app_permissions">
+        <intent android:action="android.intent.action.MANAGE_PERMISSIONS" />
+    </SecPreferenceScreen>
+    <SecSwitchPreferenceScreen android:persistent="false" android:title="@string/app_permission_monitor_title" android:key="app_permission_monitor" android:summary="@string/app_permission_monitor_description" android:order="900" />
+    <SecSwitchPreference android:title="@string/label_diagnostics_info" android:key="device_info_report_diagnostics_info" android:order="1000" />
+    <SecSwitchPreference android:title="@string/device_info_marketing_information_title" android:key="marketing_information" android:order="1100" />
+</PreferenceScreen>

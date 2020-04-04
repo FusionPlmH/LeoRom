@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apn_auth_entries">
+        <item>Жок</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP or CHAP</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>Аныкталбаган</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>IWLAN</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Өтө кичинекей</item>
+        <item>Кичинекей</item>
+        <item>Кадимки</item>
+        <item>Чоң</item>
+        <item>Өтө чоң</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Баштапкы</item>
+        <item>Sans serif</item>
+        <item>Sans serif кысылды</item>
+        <item>Бекитилген кеңдиктеги Sans serif</item>
+        <item>Serif</item>
+        <item>Бекитилген кеңдиктеги Serif</item>
+        <item>Күнүмдүк</item>
+        <item>Курсив</item>
+        <item>Чакан карталар</item>
+    </string-array>
+    <string-array name="data_usage_billing_cycle_summary">
+        <item>Ар бир айдын 1 күнү</item>
+        <item>Ар бир айдын 2-күнү</item>
+        <item>Ар бир айдын 3-күнү</item>
+        <item>Ар бир айдын 4-күнү</item>
+        <item>Ар бир айдын 5чи күнү</item>
+        <item>Ар бир айдын 6чы күнү</item>
+        <item>Ар бир айдын 7чи күнү</item>
+        <item>Ар бир айдын 8чи күнү</item>
+        <item>Ар бир айдын 9чу күнү</item>
+        <item>Ар бир айдын 10чу күнү</item>
+        <item>Ар бир айдын 11чи күнү</item>
+        <item>Ар бир айдын 12чи күнү</item>
+        <item>Ар бир айдын 13чү күнү</item>
+        <item>Ар бир айдын 14чү күнү</item>
+        <item>Ар бир айдын 15чи күнү</item>
+        <item>Ар бир айдын 16чы күнү</item>
+        <item>Ар бир айдын 17чи күнү</item>
+        <item>Ар бир айдын 18чи күнү</item>
+        <item>Ар бир айдын 19чу күнү</item>
+        <item>Ар бир айдын 20чы күнү</item>
+        <item>Ар бир айдын 21чи күнү</item>
+        <item>Ар бир айдын 22чи күнү</item>
+        <item>Ар бир айдын 23чү күнү</item>
+        <item>Ар бир айдын 24чү күнү</item>
+        <item>Ар бир айдын 25чи күнү</item>
+        <item>Ар бир айдын 26чы күнү</item>
+        <item>Ар бир айдын 27чи күнү</item>
+        <item>Ар бир айдын 28чи күнү</item>
+        <item>Ар бир айдын 29чу күнү</item>
+        <item>Ар бир айдын 30чу күнү</item>
+        <item>Ар бир айдын 31чи күнү</item>
+    </string-array>
+    <string-array name="dex_timeout_entries">
+        <item>15 секунда</item>
+        <item>30 секунда</item>
+        <item>1 минут</item>
+        <item>2 минут</item>
+        <item>5 минут</item>
+        <item>10 мүнөт</item>
+        <item>20 мүнөт</item>
+        <item>30 минут</item>
+        <item>60 мүнөт</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 секунда</item>
+        <item>30 секунда</item>
+        <item>1 минут</item>
+        <item>2 минут</item>
+        <item>5 минут</item>
+        <item>10 мүнөт</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_summaries">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>Бардык кодектер</item>
+        <item>Баштапкы кодек</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_titles">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>Бардык кодектер</item>
+        <item>Баштапкы кодек</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Disconnected</item>
+        <item>Initializing…</item>
+        <item>Connecting…</item>
+        <item>Connected</item>
+        <item>Timeout</item>
+        <item>Ийгиликсиз</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>Авто</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>Ачык</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>Эч качан өчүрбөө</item>
+        <item>5 минут</item>
+        <item>10 мүнөт</item>
+        <item>20 мүнөт</item>
+        <item>30 минут</item>
+        <item>60 мүнөт</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>Wi-Fi бөлүшүүсү күйгүзүлсүнбү?</item>
+        <item>Wi-Fi тараткычын өчүрүү</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>Автоматтык</item>
+        <item>Өз алдынча</item>
+        <item>Ар дайым сура</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Туруктуу</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Автоматтык түрдө аныктоодон чыгаруу</item>
+        <item>Ченелген катары кам көрүү</item>
+        <item>Ченелбеген катары кам көрүү</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Туташты</item>
+        <item>Чакырылды</item>
+        <item>Байланыш кыйрады</item>
+        <item>Туташууга бул жерди басыңыз.</item>
+        <item>Арадан чыкты</item>
+        <item>Башка түзмөк менен туташкан</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Жок</item>
+        <item>Өз алдынча</item>
+        <item>Авто-конфиг</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Издөө…</item>
+        <item>Туташууда…</item>
+        <item>Накталыкты текшерүү…</item>
+        <item>IP дарек алууда…</item>
+        <item>Туташты</item>
+        <item>Токтотулган</item>
+        <item>Байланыш үзүлүүдө…</item>
+        <item>Байланыш үзүлдү</item>
+        <item>Ийгиликсиз</item>
+        <item>Камалган</item>
+        <item>Интернет туташууңуздун сапатын текшерүүдө…</item>
+    </string-array>
+</resources>

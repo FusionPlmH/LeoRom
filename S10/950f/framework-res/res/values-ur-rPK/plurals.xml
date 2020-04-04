@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d خودکار-بھریں تجاویز</item>
+        <item quantity="one">ایک خودکار-بھریں تجویز</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">اسکرین پر بیک وقت %d سے زیادہ ایپلیکیشنز نہیں دکھا سکتے۔ قدیم ترین ایپلیکیشن منیمائز کی گئی۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">آپ کا فون Wi-Fi سے مربوط ہونے کے باوجود %d ایپلیکیشنز موبائل ڈیٹا استعمال کررہے ہیں۔</item>
+        <item quantity="one">آپ کا فون Wi-Fi سے مربوط ہونے کے باوجود %d ایپلیکیشن موبائل ڈیٹا استعمال کررہا ہے۔</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">ان ایپلیکیشنز کو نظم کرنے کے لیے یہاں تھپکی دیں۔</item>
+        <item quantity="zero">ان ایپلیکیشنز کو نظم کرنے کے لیے یہاں تھپکی دیں۔</item>
+        <item quantity="one">اس ایپلیکیشن کو نظم کرنے کے لیے یہاں تھپکی دیں۔</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">‏%1$s Wi-Fi Direct کا استعمال کرکے آپ کے ساتھ کچھ چیزیں شیئر کرنا چاہتا ہے۔ آپ کے پاس قبول کرنے کے لیے %2$d سیکنڈز ہیں۔</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">‏%1$s Wi-Fi Direct کا استعمال کرکے آپ کے ساتھ کچھ چیزیں شیئر کرنا چاہتا ہے۔ آپ کے پاس قبول کرنے کے لیے %2$d سیکنڈ ہے۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

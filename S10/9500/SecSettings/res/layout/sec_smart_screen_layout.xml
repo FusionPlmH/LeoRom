@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView android:scrollbarStyle="outsideOverlay" android:orientation="vertical" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true" app:layout_behavior="@string/sesl_appbar_scrolling_view_behavior"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:id="@id/smart_screen_layout_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center" android:id="@id/smart_stay_animation_view" android:background="@color/sec_widget_help_image_backgound_color" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/sec_widget_img_margin" android:scaleType="fitXY" android:adjustViewBounds="true" android:contentDescription="@null" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:background="@color/sec_widget_round_and_bgcolor" android:paddingTop="@dimen/sec_widget_preference_unclickable_margin_top" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:id="@id/smart_screen_noti0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="16.0dip" android:text="@string/smart_stay_content" android:includeFontPadding="false" android:paddingStart="@dimen/sec_widget_body_text_padding_start_end" android:paddingEnd="@dimen/sec_widget_body_text_padding_start_end" style="@style/description_text" />
+            <LinearLayout android:orientation="horizontal" android:id="@id/description_for_dual_folder_model" android:paddingBottom="@dimen/sec_smart_stay_line_padding" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/sub_description_bullet" android:paddingStart="@dimen/sec_description_dot_text_padding" android:paddingEnd="@dimen/sec_smart_stay_bullet_right_padding" android:layout_marginStart="@dimen/sec_widget_body_text_padding_start_end" style="@style/description_sub_text" />
+                <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/function_inner_screen_only" android:paddingEnd="@dimen/sec_widget_body_text_padding_start_end" style="@style/description_sub_text" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>

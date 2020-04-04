@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="installed_app_detail_settings_screen"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference settings:height="1.0px" settings:roundStroke="none" />
+    <com.android.settings.applications.LayoutPreference android:layout="@layout/sec_settings_entity_header" android:selectable="false" android:key="header_view" />
+    <com.android.settings.applications.LayoutPreference android:layout="@layout/instant_app_buttons" android:selectable="false" android:key="instant_app_buttons" />
+    <com.android.settings.widget.ActionButtonPreference android:key="action_buttons" />
+    <SecPreferenceCategory android:title="@string/sec_usage_status" settings:roundStroke="top_left|top_right">
+        <SecPreference android:title="@string/data_usage_enable_mobile" android:selectable="true" android:key="data_settings" android:summary="@string/summary_placeholder" settings:controller="com.android.settings.applications.appinfo.AppDataUsagePreferenceController" />
+        <SecPreference android:title="@string/power_usage_summary_title" android:selectable="true" android:key="battery" android:summary="@string/summary_placeholder" />
+        <SecPreference android:title="@string/storage_settings" android:selectable="true" android:key="storage_settings" android:summary="@string/summary_placeholder" settings:controller="com.android.settings.applications.appinfo.AppStoragePreferenceController" />
+        <SecPreference android:enabled="false" android:title="@string/memory_settings_title" android:selectable="true" android:key="memory" android:summary="@string/summary_placeholder" />
+    </SecPreferenceCategory>
+    <SecPreferenceCategory android:title="@string/sec_detail_settings">
+        <SecPreference android:title="@string/notifications_label" android:selectable="true" android:key="notification_settings" settings:controller="com.android.settings.applications.appinfo.AppNotificationPreferenceController" />
+        <SecPreference android:title="@string/permissions_label" android:selectable="true" android:key="permission_settings" android:summary="@string/summary_placeholder" settings:controller="com.android.settings.applications.appinfo.AppPermissionPreferenceController" />
+        <com.android.settings.applications.AppDomainsPreference android:title="@string/app_launch_supported_domain_urls_title" android:selectable="true" android:key="instant_app_launch_supported_domain_urls" settings:controller="com.android.settings.applications.appinfo.InstantAppDomainsPreferenceController" />
+        <SecPreference android:title="@string/sec_default_app_title" android:selectable="true" android:key="preferred_settings" android:summary="@string/summary_placeholder" settings:controller="com.android.settings.applications.appinfo.AppOpenByDefaultPreferenceController" />
+        <SecPreference android:title="@string/time_spent_in_app_pref_title" android:key="time_spent_in_app" settings:controller="com.android.settings.applications.appinfo.TimeSpentInAppPreferenceController" />
+        <SecPreference android:title="@string/home_app" android:key="default_home" android:fragment="com.android.settings.applications.defaultapps.DefaultHomePicker" />
+        <SecPreference android:persistent="false" android:title="@string/home_app" android:key="home_dcm" android:fragment="com.samsung.android.settings.DCMHomeSettings" />
+        <SecPreference android:title="@string/default_browser_title" android:key="default_browser" android:fragment="com.android.settings.applications.defaultapps.DefaultBrowserPicker" />
+        <SecPreference android:title="@string/default_phone_title" android:key="default_phone_app" android:fragment="com.android.settings.applications.defaultapps.DefaultPhonePicker" />
+        <SecPreference android:title="@string/default_emergency_app" android:key="default_emergency_app" />
+        <SecPreference android:title="@string/sms_application_title" android:key="default_sms_app" android:fragment="com.android.settings.applications.defaultapps.DefaultSmsPicker" />
+    </SecPreferenceCategory>
+    <SecPreferenceCategory android:title="@string/advanced_apps" android:key="advanced_app_info" settings:controller="com.android.settings.applications.appinfo.AdvancedAppInfoPreferenceCategoryController">
+        <SecPreference android:title="@string/sec_overlay_settings" android:key="system_alert_window" android:summary="@string/summary_placeholder" settings:controller="com.android.settings.applications.appinfo.DrawOverlayDetailPreferenceController" />
+        <SecPreference android:title="@string/sec_write_system_settings" android:key="write_settings_apps" android:summary="@string/summary_placeholder" settings:controller="com.android.settings.applications.appinfo.WriteSystemSettingsPreferenceController" />
+        <SecPreference android:title="@string/picture_in_picture_app_detail_title" android:key="picture_in_picture" android:summary="@string/summary_placeholder" settings:controller="com.android.settings.applications.appinfo.PictureInPictureDetailPreferenceController" />
+        <SecPreference android:title="@string/install_other_apps" android:key="install_other_apps" android:summary="@string/summary_placeholder" settings:controller="com.android.settings.applications.appinfo.ExternalSourceDetailPreferenceController" />
+    </SecPreferenceCategory>
+    <SecPreferenceCategory android:title="@string/app_install_details_group_title" android:key="app_installer" settings:controller="com.android.settings.applications.appinfo.AppInstallerPreferenceCategoryController">
+        <SecPreference android:title="@string/app_install_details_title" android:key="app_info_store" settings:controller="com.android.settings.applications.appinfo.AppInstallerInfoPreferenceController" />
+    </SecPreferenceCategory>
+    <SecPreference android:title="@string/app_settings_link" android:key="app_settings_link" settings:controller="com.android.settings.applications.appinfo.AppSettingPreferenceController" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference />
+    <SecPreference android:selectable="false" android:key="app_version" android:order="9999" settings:controller="com.android.settings.applications.appinfo.AppVersionPreferenceController" />
+</PreferenceScreen>

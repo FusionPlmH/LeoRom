@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_summaries">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>所有编解码器</item>
+        <item>默认编解码器</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_titles">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>所有编解码器</item>
+        <item>默认编解码器</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>تەكشۈرۈۋاتىدۇ…</item>
+        <item>ئۇلىنىۋاتىدۇ…</item>
+        <item>تەستىقلاۋاتىدۇ…</item>
+        <item>‏IP ئادرېسىنى ئېلىۋاتىدۇ…</item>
+        <item>ئۇلاندى</item>
+        <item>توڭلىتىلدى</item>
+        <item>ئۈزۈۋاتىدۇ…</item>
+        <item>ئۈزۈلدى</item>
+        <item>مەغلۇبىيەتلىك</item>
+        <item>توسۇق</item>
+        <item>تور ئۇلىنىشىنىڭ سۈپىتىنى تەكشۈرۈۋاتىدۇ…</item>
+    </string-array>
+</resources>

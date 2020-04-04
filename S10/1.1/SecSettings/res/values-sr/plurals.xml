@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">пре %d дана</item>
+        <item quantity="one">пре %d дан</item>
+        <item quantity="few">пре %d дана</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">пре %d мин</item>
+        <item quantity="one">пре %d мин</item>
+        <item quantity="few">пре %d мин</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">пре %d год</item>
+        <item quantity="one">пре %d год</item>
+        <item quantity="few">пре %d год</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Izuzetno kratko odlaganje (%s ms)</item>
+        <item quantity="one">Izuzetno kratko odlaganje (%s ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Dugo odlaganje (%s ms)</item>
+        <item quantity="one">Dugo odlaganje (%s ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Kratko odlaganje (%s ms)</item>
+        <item quantity="one">Kratko odlaganje (%s ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Veoma dugo odlaganje (%s ms)</item>
+        <item quantity="one">Veoma dugo odlaganje (%s ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Veoma kratko odlaganje (%s ms)</item>
+        <item quantity="one">Veoma kratko odlaganje (%s ms)</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item quantity="other">Želite li da ograničite %d aplikacija?</item>
+        <item quantity="one">Želite li da ograničite aplikaciju?</item>
+    </plurals>
+    <plurals name="bluetooth_restored_count_popup_title">
+        <item quantity="other">Preneto je %d uređaja</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Prenet je %d uređaj</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Preneta su %d uređaja</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">Sledećem broju aplikacija je dozvoljeno da koriste podatke bez ograničenja: %d</item>
+        <item quantity="one">1 aplikaciji je dozvoljeno da koristi podatke bez ograničenja</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item quantity="other">Izbrisan je sledeći broj kategorija: %d</item>
+        <item quantity="one">1 kategorija je izbrisana</item>
+    </plurals>
+    <plurals name="dex_timeout_day">
+        <item quantity="other">%d dana</item>
+        <item quantity="one">1 dan</item>
+    </plurals>
+    <plurals name="dex_timeout_hour">
+        <item quantity="other">%d sati</item>
+        <item quantity="one">1 sat</item>
+    </plurals>
+    <plurals name="dex_timeout_minute">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="dex_timeout_second">
+        <item quantity="other">%d sekundi</item>
+        <item quantity="one">1 sekunda</item>
+    </plurals>
+    <plurals name="dex_timeout_week">
+        <item quantity="other">%d nedelj.</item>
+        <item quantity="one">1 nedelja</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Uklonite izabrane jezike</item>
+        <item quantity="one">Uklonite izabrani jezik</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">%d sati</item>
+        <item quantity="one">%d sat</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d sata</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d minuta</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">%d sekundi</item>
+        <item quantity="one">1 sekunda</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Lozinka mora da sadrži najmanje %d slova.</item>
+        <item quantity="one">Lozinka mora da sadrži bar 1 slovo.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Lozinka mora da sadrži najmanje %d malih slova.</item>
+        <item quantity="one">Lozinka mora da sadrži bar jedno malo slovo.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Lozinka mora da sadrži najmanje %d brojeva ili simbola.</item>
+        <item quantity="one">Lozinka mora da sadrži najmanje jedan broj ili simbol.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Lozinka mora da sadrži najmanje %d brojeva.</item>
+        <item quantity="one">Lozinka mora da sadrži bar jedan broj.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Lozinka mora da sadrži najmanje %d simbola.</item>
+        <item quantity="one">Lozinka mora da sadrži bar jedan simbol.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Lozinka mora da sadrži najmanje %d velikih slova.</item>
+        <item quantity="one">Lozinka mora da sadrži bar 1 veliko slovo.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplikacija može da čita obaveštenja.</item>
+        <item quantity="one">%d aplikacija sme da čita obaveštenja.</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">Sledeći broj procesa: %1$d je koristio RAM u poslednjih %2$s</item>
+        <item quantity="one">%1$d proces je koristio RAM u poslednjih %2$s</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item quantity="other">%d ograničenja</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ograničenje</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d ograničenja</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">Isključeno za %d aplikacija</item>
+        <item quantity="one">Isključeno za %d aplikaciju</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item quantity="other">Aktivne aplikacije (%d)</item>
+        <item quantity="one">1 aktivna aplikacija</item>
+    </plurals>
+    <plurals name="remove_language_title_multiple_plurals">
+        <item quantity="other">Želite li da uklonite %d jezika?</item>
+        <item quantity="one">Želite li da uklonite %d jezika?</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">Još %d dozvola</item>
+        <item quantity="one">Još %d dozvola</item>
+    </plurals>
+    <plurals name="sec_datausage_mdo_summary_multiple_apps">
+        <item quantity="other">%d aplikacija je izabrano</item>
+        <item quantity="one">%d aplikacija je izabrana</item>
+    </plurals>
+    <plurals name="sec_plurals_recent_notification_title">
+        <item quantity="other">%d nedavnih obaveštenja</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d nedavno obaveštenje</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d nedavna obaveštenja</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">%d koraka te deli od toga da postaneš projektant.</item>
+        <item quantity="one">1 korak te deli od toga da postaneš projektant.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">Verujte sertifikatima ili ih uklonite</item>
+        <item quantity="one">Verujte sertifikatu ili ga uklonite</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"Osoba %s je instalirala ovlašćene sertifikate za vaš radni profil, što može da joj omogući da nadgleda aktivnost radne mreže, uključujući e-poruke, aplikacije i bezbedne sajtove. Možete da izaberete da li ćete verovati ovim sertifikatima ili ćete ih ukloniti.
+
+Više informacija o ovim sertifikatima zatražite od administratora."</item>
+        <item quantity="one">"Osoba %s je instalirala ovlašćeni sertifikat za vaš radni profil, što može da joj omogući da nadgleda aktivnost radne mreže, uključujući e-poruke, aplikacije i bezbedne sajtove. Možete da izaberete da li ćete verovati ovom sertifikatu ili ćete ga ukloniti.
+
+Više informacija o ovom sertifikatu zatražite od administratora."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"Osoba %s je instalirala CA sertifikate na vašem uređaju, što može da joj omogući da nadgleda aktivnost vašeg uređaja na mreži, uključujući vaše korišćenje e-poruka, aplikacija i bezbednih sajtova.
+
+Za više informacija o ovim sertifikatima, kontaktirajte svog IT administratora."</item>
+        <item quantity="one">"Osoba %s je instalirala CA sertifikat na vašem uređaju, što može da joj omogući da nadgleda aktivnost vašeg uređaja na mreži, uključujući vaše korišćenje e-poruka, aplikacija i bezbednih sajtova.
+
+Za više informacija o ovom sertifikatu, kontaktirajte svog IT administratora."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Proveri sertifikate</item>
+        <item quantity="one">Proveri sertifikat</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">Pristup sledećem broju foldera/fajlova: %d</item>
+        <item quantity="one">Pristup 1 folderu/fajlu</item>
+    </plurals>
+    <plurals name="wifi_ap_instruction_changeable_maxclient_plurals_att_beyond">
+        <item quantity="other">"Pretvorite telefon u Wi-Fi pristupnu tačku. Najviše %d drugih uređaja će moći da pristupe internetu pomoću mobilnih podataka telefona ili Wi-Fi veze.
+
+Korišćenje funkcije Mobilna pristupna tačka povećava korišćenje baterije i upotrebu podataka."</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Pretvorite telefon u Wi-Fi pristupnu tačku. Najviše %d drugi uređaj će moći da pristupi internetu pomoću mobilnih podataka telefona ili Wi-Fi veze.
+
+Korišćenje funkcije Mobilna pristupna tačka povećava korišćenje baterije i upotrebu podataka."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">"Pretvorite telefon u Wi-Fi pristupnu tačku. Najviše %d druga uređaja će moći da pristupe internetu pomoću mobilnih podataka telefona ili Wi-Fi veze.
+
+Korišćenje funkcije Mobilna pristupna tačka povećava korišćenje baterije i upotrebu podataka."</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="wifi_ap_instruction_changeable_maxclient_plurals_att_tablet">
+        <item quantity="other">"Pretvorite tablet u Wi-Fi pristupnu tačku. Najviše %d drugih uređaja će moći da pristupe internetu pomoću mobilnih podataka tableta ili Wi-Fi veze.
+
+Korišćenje funkcije Mobilna pristupna tačka povećava korišćenje baterije i upotrebu podataka."</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Pretvorite tablet u Wi-Fi pristupnu tačku. Najviše %d drugi uređaj će moći da pristupi internetu pomoću mobilnih podataka tableta ili Wi-Fi veze.
+
+Korišćenje funkcije Mobilna pristupna tačka povećava korišćenje baterije i upotrebu podataka."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">"Pretvorite tablet u Wi-Fi pristupnu tačku. Najviše %d druga uređaja će moći da pristupe internetu pomoću mobilnih podataka tableta ili Wi-Fi veze.
+
+Korišćenje funkcije Mobilna pristupna tačka povećava korišćenje baterije i upotrebu podataka."</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="wifi_ap_instruction_changeable_maxclient_plurals_beyond">
+        <item quantity="other">Pretvorite telefon u Wi-Fi pristupnu tačku. Drugi uređaji (najviše %d) će moći da koriste mobilne podatke telefona ili Wi-Fi za pristup internetu.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pretvorite telefon u Wi-Fi pristupnu tačku. Drugi uređaj (najviše %d) će moći da koristi mobilne podatke telefona ili Wi-Fi za pristup internetu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pretvorite telefon u Wi-Fi pristupnu tačku. Drugi uređaji (najviše %d) će moći da koriste mobilne podatke telefona ili Wi-Fi za pristup internetu.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="wifi_ap_instruction_changeable_maxclient_plurals_tablet">
+        <item quantity="other">Pretvorite tablet u Wi-Fi pristupnu tačku. Najviše %d drugih uređaja će moći da pristupe internetu pomoću mobilnih podataka tableta ili Wi-Fi veze.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pretvorite tablet u Wi-Fi pristupnu tačku. Najviše %d drugi uređaj će moći da pristupi internetu pomoću mobilnih podataka tableta ili Wi-Fi veze.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pretvorite tablet u Wi-Fi pristupnu tačku. Najviše %d druga uređaja će moći da pristupe internetu pomoću mobilnih podataka tableta ili Wi-Fi veze.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Повезано је %1$d уређаја</item>
+        <item quantity="one">Повезан је %1$d уређај</item>
+    </plurals>
+</resources>

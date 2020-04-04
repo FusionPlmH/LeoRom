@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="thumbnail_height">360.0dip</dimen>
+    <dimen name="thumbnail_width">360.0dip</dimen>
+    <dimen name="action_bar_content_inset_material">24.0dip</dimen>
+    <dimen name="action_bar_content_inset_with_nav">80.0dip</dimen>
+    <dimen name="action_bar_default_height">56.0dip</dimen>
+    <dimen name="action_bar_default_height_material">64.0dip</dimen>
+    <dimen name="action_bar_default_padding_end_material">8.0dip</dimen>
+    <dimen name="action_bar_default_padding_start_material">8.0dip</dimen>
+    <dimen name="action_bar_icon_vertical_padding">4.0dip</dimen>
+    <dimen name="action_bar_stacked_max_height">48.0dip</dimen>
+    <dimen name="action_bar_subtitle_bottom_margin">9.0dip</dimen>
+    <dimen name="action_bar_subtitle_text_size">14.0dip</dimen>
+    <dimen name="action_bar_subtitle_top_margin">-3.0dip</dimen>
+    <dimen name="action_bar_title_text_size">18.0dip</dimen>
+    <dimen name="action_button_min_width">64.0dip</dimen>
+    <dimen name="config_minScalingSpan">32.0mm</dimen>
+    <dimen name="config_prefDialogWidth">580.0dip</dimen>
+    <item type="dimen" name="dialog_fixed_height_major">60.000004%</item>
+    <item type="dimen" name="dialog_fixed_height_minor">90.0%</item>
+    <item type="dimen" name="dialog_fixed_width_major">60.000004%</item>
+    <item type="dimen" name="dialog_fixed_width_minor">90.0%</item>
+    <dimen name="docked_stack_divider_insets">22.0dip</dimen>
+    <dimen name="face_unlock_height">430.0dip</dimen>
+    <dimen name="floating_toolbar_preferred_width">544.0dip</dimen>
+    <dimen name="immersive_mode_cling_width">380.0dip</dimen>
+    <dimen name="keyguard_lockscreen_outerring_diameter">364.0dip</dimen>
+    <dimen name="keyguard_muliuser_selector_margin">12.0dip</dimen>
+    <dimen name="kg_clock_top_margin">0.0dip</dimen>
+    <dimen name="kg_runway_lights_top_margin">-10.0dip</dimen>
+    <dimen name="kg_status_clock_font_size">141.0dip</dimen>
+    <dimen name="kg_status_date_font_size">25.5dip</dimen>
+    <dimen name="kg_status_line_font_right_margin">50.0dip</dimen>
+    <dimen name="kg_status_line_font_size">16.0sp</dimen>
+    <dimen name="kg_widget_pager_bottom_padding">0.0dip</dimen>
+    <dimen name="kg_widget_pager_horizontal_padding">24.0dip</dimen>
+    <item type="dimen" name="magnifier_height_rate_large">0.36</item>
+    <item type="dimen" name="magnifier_height_rate_medium">0.3</item>
+    <item type="dimen" name="magnifier_height_rate_small">0.26</item>
+    <item type="dimen" name="magnifier_width_rate_large">0.9</item>
+    <item type="dimen" name="magnifier_width_rate_medium">0.8</item>
+    <item type="dimen" name="magnifier_width_rate_small">0.68</item>
+    <dimen name="preference_fragment_padding_side">24.0dip</dimen>
+    <dimen name="preference_screen_header_padding_side">24.0dip</dimen>
+    <dimen name="resolver_max_width">608.0dip</dimen>
+    <dimen name="samsung_decor_task_offset_height">50.0dip</dimen>
+    <dimen name="samsung_decor_task_offset_width">50.0dip</dimen>
+    <dimen name="search_view_preferred_width">364.0dip</dimen>
+    <dimen name="sem_context_menu_title_bottom_padding">12.0dip</dimen>
+    <dimen name="sem_datepicker_dialog_layout_min_width">608.0dip</dimen>
+    <dimen name="sem_preference_dialog_edittext_start_padding">30.0dip</dimen>
+    <dimen name="sem_resolver_direct_share_height">132.0dip</dimen>
+    <dimen name="sem_resolver_grid_horizontal_spacing">36.0dip</dimen>
+    <dimen name="sem_resolver_grid_padding_bottom">12.0dip</dimen>
+    <dimen name="sem_resolver_grid_padding_end">32.0dip</dimen>
+    <dimen name="sem_resolver_grid_padding_start">32.0dip</dimen>
+    <dimen name="sem_resolver_grid_vertical_spacing">12.0dip</dimen>
+    <dimen name="sem_resolver_item_padding_bottom">12.0dip</dimen>
+    <dimen name="sem_resolver_item_padding_top">12.0dip</dimen>
+    <dimen name="sem_resolver_title_padding_left">36.0dip</dimen>
+    <dimen name="sem_resolver_title_padding_right">36.0dip</dimen>
+    <dimen name="sem_tab_text_size">14.0dip</dimen>
+    <dimen name="sem_tab_view_padding">32.0dip</dimen>
+    <dimen name="sem_timepicker_dialog_layout_min_width">608.0dip</dimen>
+    <dimen name="text_size_subtitle_material_toolbar">16.0dip</dimen>
+    <dimen name="text_size_title_material_toolbar">20.0dip</dimen>
+    <dimen name="tw_floating_popup_divider_width">1.0px</dimen>
+    <dimen name="tw_global_actions_item_height">80.0dip</dimen>
+    <dimen name="tw_global_actions_item_portrait_items_divider">22.0dip</dimen>
+    <dimen name="tw_global_actions_item_width">80.0dip</dimen>
+    <dimen name="tw_list_preferred_item_height">68.5dip</dimen>
+    <dimen name="tw_list_preferred_item_height_small">51.5dip</dimen>
+    <dimen name="tw_list_subheader_minheight">24.5dip</dimen>
+    <dimen name="tw_list_subheader_text_size">13.0sp</dimen>
+    <dimen name="tw_menu_popup_max_height">502.0dip</dimen>
+    <dimen name="tw_popup_menu_item_bottom_padding">15.0dip</dimen>
+    <dimen name="tw_popup_menu_item_min_height">48.0dip</dimen>
+    <dimen name="tw_popup_menu_item_top_padding">15.0dip</dimen>
+    <dimen name="tw_preference_dialog_edittext_bottom_padding">32.0dip</dimen>
+    <dimen name="tw_preference_dialog_edittext_top_padding">32.0dip</dimen>
+    <dimen name="tw_preference_item_icon_size">64.0dip</dimen>
+    <dimen name="tw_preference_item_padding_bottom">15.0dip</dimen>
+    <dimen name="tw_preference_item_padding_top">15.0dip</dimen>
+    <dimen name="tw_toolbox_dimen_approach_slop">6.0px</dimen>
+    <dimen name="tw_toolbox_dimen_long_press_panel_btn_bg_height">56.0dip</dimen>
+    <dimen name="tw_toolbox_dimen_long_press_panel_btn_bg_width">400.0dip</dimen>
+    <dimen name="tw_toolbox_dimen_long_press_panel_btn_size">48.0dip</dimen>
+    <dimen name="tw_toolbox_dimen_long_press_panel_height">59.0dip</dimen>
+    <dimen name="tw_toolbox_dimen_long_press_panel_text_size">21.0dip</dimen>
+    <dimen name="tw_toolbox_dimen_long_press_panel_top_empty_space">0.0dip</dimen>
+    <dimen name="tw_toolbox_dimen_main_item_gap">8.0dip</dimen>
+    <dimen name="tw_toolbox_dimen_main_item_size">53.0dip</dimen>
+    <dimen name="tw_toolbox_dimen_shortcut_item_gap">14.0dip</dimen>
+    <dimen name="tw_toolbox_dimen_shortcut_item_size">44.0dip</dimen>
+    <dimen name="tw_toolbox_dimen_start_position_right_padding">17.0dip</dimen>
+    <dimen name="tw_toolbox_dimen_start_position_top_padding">78.0dip</dimen>
+    <dimen name="wifi_alert_dialog_padding_left_right">36.0dip</dimen>
+    <dimen name="glowpadview_target_placement_radius">182.0dip</dimen>
+    <dimen name="keyguard_pattern_unlock_clock_font_size">112.0sp</dimen>
+    <dimen name="keyguard_pattern_unlock_status_line_font_size">14.0sp</dimen>
+    <dimen name="navigation_bar_height_portrait">56.0dip</dimen>
+    <dimen name="tw_list_preferred_listview_item_padding">24.0dip</dimen>
+</resources>

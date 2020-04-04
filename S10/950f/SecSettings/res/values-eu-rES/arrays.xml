@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apn_auth_entries">
+        <item>Bat ere ez</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP or CHAP</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>%0</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>Zehaztu gabe</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>IWLAN</item>
+    </string-array>
+    <string-array name="bearer_entries_dcm_kdi">
+        <item>Zehaztu gabe</item>
+        <item>4G</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>IWLAN</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Oso txikia</item>
+        <item>Txikia</item>
+        <item>Arrunta</item>
+        <item>Handia</item>
+        <item>Oso handia</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Lehenetsia</item>
+        <item>Sans serif</item>
+        <item>Sans serif condensed</item>
+        <item>Sans serif monoespaziatua</item>
+        <item>Serif</item>
+        <item>Serif monoespaziatua</item>
+        <item>Informala</item>
+        <item>Etzana</item>
+        <item>Maiuskula txikiak</item>
+    </string-array>
+    <string-array name="data_usage_billing_cycle_summary">
+        <item>Hilabete bakoitzeko 1. eguna</item>
+        <item>Hilabete bakoitzeko 2. eguna</item>
+        <item>Hilabete bakoitzeko 3. eguna</item>
+        <item>Hilabete bakoitzeko 4. eguna</item>
+        <item>Hilabete bakoitzeko 5. eguna</item>
+        <item>Hilabete bakoitzeko 6. eguna</item>
+        <item>Hilabete bakoitzeko 7. eguna</item>
+        <item>Hilabete bakoitzeko 8. eguna</item>
+        <item>Hilabete bakoitzeko 9. eguna</item>
+        <item>Hilabete bakoitzeko 10. eguna</item>
+        <item>Hilabete bakoitzeko 11. eguna</item>
+        <item>Hilabete bakoitzeko 12. eguna</item>
+        <item>Hilabete bakoitzeko 13. eguna</item>
+        <item>Hilabete bakoitzeko 14. eguna</item>
+        <item>Hilabete bakoitzeko 15. eguna</item>
+        <item>Hilabete bakoitzeko 16. eguna</item>
+        <item>Hilabete bakoitzeko 17. eguna</item>
+        <item>Hilabete bakoitzeko 18. eguna</item>
+        <item>Hilabete bakoitzeko 19. eguna</item>
+        <item>Hilabete bakoitzeko 20. eguna</item>
+        <item>Hilabete bakoitzeko 21. eguna</item>
+        <item>Hilabete bakoitzeko 22. eguna</item>
+        <item>Hilabete bakoitzeko 23. eguna</item>
+        <item>Hilabete bakoitzeko 24. eguna</item>
+        <item>Hilabete bakoitzeko 25. eguna</item>
+        <item>Hilabete bakoitzeko 26. eguna</item>
+        <item>Hilabete bakoitzeko 27. eguna</item>
+        <item>Hilabete bakoitzeko 28. eguna</item>
+        <item>Hilabete bakoitzeko 29. eguna</item>
+        <item>Hilabete bakoitzeko 30. eguna</item>
+        <item>Hilabete bakoitzeko 31. eguna</item>
+    </string-array>
+    <string-array name="dex_timeout_entries">
+        <item>15 segundo</item>
+        <item>30 segundo</item>
+        <item>Minutu 1</item>
+        <item>2 minutu</item>
+        <item>5 minutu</item>
+        <item>10 minutu</item>
+        <item>20 minutu</item>
+        <item>30 minutu</item>
+        <item>60 minutu</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 segundo</item>
+        <item>30 segundo</item>
+        <item>Minutu 1</item>
+        <item>2 minutu</item>
+        <item>5 minutu</item>
+        <item>10 minutu</item>
+        <item>30 minutu</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_summaries">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>Kodek guztiak</item>
+        <item>Kodek lehenetsia</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_titles">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>Kodek guztiak</item>
+        <item>Kodek lehenetsia</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Disconnected</item>
+        <item>Initializing…</item>
+        <item>Connecting…</item>
+        <item>Connected</item>
+        <item>Timeout</item>
+        <item>Okerra</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>Auto</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>Ireki</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>Inoiz ez denboraz kanpo</item>
+        <item>5 minutu</item>
+        <item>10 minutu</item>
+        <item>20 minutu</item>
+        <item>30 minutu</item>
+        <item>60 minutu</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>Aktibatu Wi-Fi partekatzea</item>
+        <item>Desaktibatu Wi-Fi partekatzea</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>Automatikoa</item>
+        <item>Eskuzkoa</item>
+        <item>Galdetu beti</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Estatikoa</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Hauteman automatikoki</item>
+        <item>Hartu neurtutakotzat</item>
+        <item>Hartu neurtu gabekotzat</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Konektatuta</item>
+        <item>Gonbidatuta</item>
+        <item>Konexioak huts egin du</item>
+        <item>Ukitu hemen konektatzeko.</item>
+        <item>Tartetik kanpo</item>
+        <item>Beste gailua batekin konektatuta</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Bat ere ez</item>
+        <item>Eskuzkoa</item>
+        <item>Konfiguratu automatikoki</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Eskaneatzen…</item>
+        <item>Konektatzen…</item>
+        <item>Egiaztatzen…</item>
+        <item>IP helbidea lortzen…</item>
+        <item>Konektatuta</item>
+        <item>Egonean</item>
+        <item>Deskonektatzen</item>
+        <item>Deskonketatuta</item>
+        <item>Okerra</item>
+        <item>Blokeatuta</item>
+        <item>Zure Internet konexioaren kalitatea egiaztatzen…</item>
+    </string-array>
+</resources>

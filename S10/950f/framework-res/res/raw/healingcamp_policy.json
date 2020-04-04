@@ -1,0 +1,136 @@
+{
+     "camp": {
+          "trigger": {
+               "DumpOn": true
+          }
+     },
+     "Watchdog": {
+          "trigger": {
+               "WatchdogEnable": true,
+               "DURATION_CHECK_IFPMIC_VALUE": 10,
+               "DURATION_CHECK_ROUTINE": 30,
+               "MINIMUM_USAGE_TIME": 10,
+               "IFPMIC_CURRENT_STANDARD": 500
+          }
+     },
+     "Gatherers": {
+          "trigger": {
+               "GatherersEnable": true
+          }
+     },
+     "Controllers": {
+          "type": "CPUUSAGE",
+          "trigger": {
+               "KILLING_TIME": 1200000,
+               "CPUabnormal_period": 20000,
+               "CPUabnormal_quota": 10000,
+               "CPUcached_period": 20000,
+               "CPUcached_quota": 10000
+          }
+     },
+     "cpuUsage": {
+          "type": "GathererCpuUsage",
+          "trigger": {
+               "featureEnable": true,
+               "CCHCpuUsagePeriod": 30000
+          },
+          "analyzer": {},
+          "action": "Notify"
+     },
+     "gps": {
+          "type": "Gps",
+          "trigger": {
+               "featureEnable": true
+          },
+          "gatherer": {
+               "interval": 15
+          },
+          "analyzer": {
+               "powerNumber": 60
+          },
+          "action": "Notify"
+     },
+     "top": {
+          "type": "Top",
+          "trigger": {
+               "featureEnable": true
+          },
+          "gatherer": {
+               "interval": 10,
+               "thresholdMargin": 0.8,
+               "abusiveCntForProcess": 6
+          },
+          "analyzer": {
+               "abusiveCntForThread": 6,
+               "maxBinderProcCnt": 5
+          },
+          "action": "Notify"
+     },
+     "memleak": {
+          "type": "Memleak",
+          "trigger": {
+               "featureEnable": true
+          },
+          "gatherer": {
+               "interval_short_sys": 20,
+               "interval_long_sys": 60,
+               "interval_short_3rd": 10,
+               "interval_long_3rd": 20,
+               "arycnt": 60
+          },
+          "analyzer": {
+               "leak_thrd_short_sys": 8192,
+               "leak_thrd_long_sys": 8192,
+               "leak_thrd_short_3rd": 9216,
+               "leak_thrd_long_3rd": 9216,
+               "interval": 60, 
+               "wlist" : "chrome,sbrowser,desktopmode",
+               "arycnt": 60,
+               "dur_kill" : 60
+          },
+          "action": "Notify"
+     },
+     "ble": {
+          "type": "Ble",
+          "trigger": {
+               "featureEnable": true
+          },
+          "analyzer": {
+               "scanCount": 30
+          },
+          "action": "Notify"
+     },
+     "batterystats": {
+          "type": "batterystats",
+          "trigger": {
+               "featureEnable": true
+          },
+          "gatherer": {
+               "interval": 5
+          },
+          "action": "Notify"
+     },
+     "anomaly": {
+          "type": "Anomaly",
+          "trigger": {
+               "featureEnable": true
+          },
+          "gatherer": {
+               "interval": 5
+          },
+          "analyzer": {
+               "GpsUsageThreshold": 30,
+               "CameraUsageThreshold": 30,
+               "WakeupAlarmRequestThreshold": 60,
+               "ExcessiveKillingThreshold": 3,
+               "ContactAccessThreshold": 1000,
+               "MobileActiveThreshold": 5,
+               "MobileActiveDuration": 30,
+               "MobileActiveCnt": 3,
+               "CpuUsageThreshold" : 15,
+               "CpuUsageDuration" : 60,
+               "CpuUsageCnt" : 1
+          },
+          "action": "Notify"
+     }
+}

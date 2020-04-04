@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/date_and_time_settings_title" settings:keywords="@string/keywords_date_and_time"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.settings.widget.SecRestrictedSwitchPreference android:title="@string/date_time_auto" android:key="auto_time" android:summary="@string/date_time_timezone_auto_summary" settings:restrictedSwitchSummary="@string/enabled_by_admin" settings:useAdditionalSummary="true" settings:userRestriction="no_config_date_time" />
+    <com.samsung.android.settings.widget.SecRestrictedPreference android:title="@string/date_time_set_timezone" android:key="timezone" android:summary="@string/summary_placeholder" android:fragment="com.android.settings.datetime.ZonePicker" settings:userRestriction="no_config_date_time" />
+    <com.samsung.android.settings.widget.SecRestrictedPreference android:title="@string/date_time_set_date" android:key="date" android:summary="@string/summary_placeholder" settings:userRestriction="no_config_date_time" />
+    <com.samsung.android.settings.widget.SecRestrictedPreference android:title="@string/date_time_set_time" android:key="time" android:summary="@string/summary_placeholder" settings:userRestriction="no_config_date_time" />
+    <com.samsung.android.settings.widget.SecRestrictedSwitchPreference android:title="@string/zone_auto" android:key="auto_zone" android:summaryOn="@string/zone_auto_summaryOn" android:summaryOff="@string/zone_auto_summaryOff" settings:userRestriction="no_config_date_time" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference />
+    <SecSwitchPreference android:title="@string/date_time_24hour" android:key="24 hour" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference />
+    <SecPreferenceScreen android:title="@string/dualclock_settings_title" android:key="dualclock_settings" android:summary="@string/dualclock_settings_summary" android:fragment="com.samsung.android.settings.lockscreen.DualClockSetting" />
+    <SecPreferenceCategory android:title="@string/international_roaming_time_settings_title" android:key="category_international_roaming_time_settings">
+        <SecPreferenceScreen android:persistent="false" android:title="@string/time_zone_recommend" android:key="time_zone_recommend" />
+        <SecPreferenceScreen android:persistent="false" android:title="@string/time_display_scheme_setting" android:key="time_display_scheme_setting" />
+    </SecPreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d ദിവസം മുൻപ്</item>
+        <item quantity="one">%d ദിവസം മുൻപ്</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d മിനിറ്റ് മുൻപ്</item>
+        <item quantity="one">%d മിനിറ്റ് മുൻപ്</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d വർഷം മുൻപ്</item>
+        <item quantity="one">%d വർഷം മുൻപ്</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d ഉപകരണങ്ങൾ കണക്‌റ്റ് ചെയ്‌തു</item>
+        <item quantity="one">%1$d ഉപകരണം കണക്‌റ്റ് ചെയ്‌തു</item>
+    </plurals>
+</resources>

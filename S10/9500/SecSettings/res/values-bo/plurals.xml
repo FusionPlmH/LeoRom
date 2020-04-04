@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">ནར་འགྱངས་ཐུང་ངུ་བཏང་བ།(ཧོའོ་སྐར་%s)</item>
+        <item quantity="one">ནར་འགྱངས་ཐུང་ངུ་བཏང་བ།(ཧོའོ་སྐར་%s)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">འགོར་འགྱངས་རིང་བ།(ཧོ་སྐར་%s)</item>
+        <item quantity="one">འགོར་འགྱངས་རིང་བ།(ཧོ་སྐར་%s)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">འགོར་འགྱངས་ཐུང་བ།(ཧོ་སྐར་%s)</item>
+        <item quantity="one">འགོར་འགྱངས་ཐུང་བ།(ཧོ་སྐར་%s)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">འགོར་འགྱངས་ཤིན་ཏུ་རིང་བ(ཧོ་སྐར་%s)</item>
+        <item quantity="one">འགོར་འགྱངས་ཤིན་ཏུ་རིང་བ(ཧོ་སྐར་%s)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">འགོར་འགྱངས་ཤིན་ཏུ་ཐུང་བ་(ཧོ་སྐར་%s)</item>
+        <item quantity="one">འགོར་འགྱངས་ཤིན་ཏུ་ཐུང་བ་(ཧོ་སྐར་%s)</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item quantity="other">ཉེར་སྤྱོད་%d་ཚོད་འཛིན་བྱེད་རྒྱུ་ཡིན་ནམ།</item>
+        <item quantity="one">ཉེར་སྤྱོད་ཚོད་འཛིན་བྱེད་རྒྱུ་ཡིན་ནམ།</item>
+    </plurals>
+    <plurals name="bluetooth_restored_count_popup_title">
+        <item quantity="other">སྒྲིག་ཆས་%d་སྐྱེལ་འདྲེན་བྱས་ཟིན།</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">ཉེར་སྤྱོད་བྱ་རིམ་%dགྱིས་རང་དགར་གཞི་གྲངས་བཞུར་ཚད་སྤྱོད་པ།</item>
+        <item quantity="one">ཉེར་སྤྱོད་བྱ་རིམ་1ནས་རང་དགར་གཞི་གྲངས་བཞུར་ཚད་བེད་སྤྱོད་གཏོང་ཆོག།</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item quantity="other">རིགས་སྣ་%d་བསུབས་ཟིན།</item>
+        <item quantity="one">རིགས་སྣ་1་བསུབས་ཟིན།</item>
+    </plurals>
+    <plurals name="dex_timeout_day">
+        <item quantity="other">ཉིན་%d</item>
+        <item quantity="one">ཉིན་1</item>
+    </plurals>
+    <plurals name="dex_timeout_hour">
+        <item quantity="other">ཆུ་ཚོད་%d</item>
+        <item quantity="one">ཆུ་ཚོད་1</item>
+    </plurals>
+    <plurals name="dex_timeout_minute">
+        <item quantity="other">སྐར་མ་%d</item>
+        <item quantity="one">སྐར་མ་1</item>
+    </plurals>
+    <plurals name="dex_timeout_second">
+        <item quantity="other">སྐར་ཆ་%d</item>
+        <item quantity="one">སྐར་ཆ་1</item>
+    </plurals>
+    <plurals name="dex_timeout_week">
+        <item quantity="other">གཟའ་འཁོར་%d</item>
+        <item quantity="one">གཟའ་འཁོར་1</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">འདེམས་ཟིན་པའི་སྐད་རིགས་དོར་བ།</item>
+        <item quantity="one">འདེམས་ཟིན་པའི་སྐད་རིགས་དོར་བ།</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">ཆུ་ཚོད་%d</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">སྐར་མ་%d</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">སྐར་ཆ་%d</item>
+        <item quantity="one">སྐར་ཆ་1</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">གསང་རྟགས་ནང་ཉུང་མཐར་དབྱིན་ཡིག་ཡིག་འབྲུ་%dཚུད་དགོས།</item>
+        <item quantity="one">གསང་རྟགས་ནང་ཉུང་མཐར་དབྱིན་ཡིག་ཡིག་འབྲུ་གཅིག་ཚུད་དགོས།</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">གསང་རྟགས་ནང་ཉུང་མཐར་དབྱིན་ཡིག་ཆུང་བྲིས་ཡིག་འབྲུ་%dཚུད་དགོས།</item>
+        <item quantity="one">གསང་རྟགས་ནང་ཉུང་མཐར་ཆུང་བྲིས་དབྱིན་ཡིག་ཡིག་འབྲུ་གཅིག་ཚུད་དགོས།</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">གསང་རྟགས་ནང་ཉུང་མཐར་ཨང་ཀིའམ་ཡིག་རྟགས་%dཚུད་དགོས།</item>
+        <item quantity="one">གསང་རྟགས་ནང་ཉུང་མཐར་ཨང་ཀིའམ་ཡིག་རྟགས་1ཚུད་དགོས།</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">གསང་རྟགས་ནང་ཉུང་མཐར་ཨང་ཀི་%dཚུད་དགོས།</item>
+        <item quantity="one">གསང་རྟགས་ནང་ཉུང་མཐར་ཨང་ཀི་གཅིག་ཚུད་དགོས།</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">གསང་རྟགས་ནང་ཉུང་མཐར་ཡིག་རྟགས་%dཚུད་དགོས།</item>
+        <item quantity="one">གསང་རྟགས་ནང་ཉུང་མཐར་ཡིག་རྟགས་1ཚུད་དགོས།</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">གསང་རྟགས་ནང་ཉུང་མཐར་དབྱིན་ཡིག་ཆེ་བྲིས་ཡིག་འབྲུ་%dཚུད་དགོས།</item>
+        <item quantity="one">གསང་རྟགས་ནང་ཉུང་མཐར་ཆེ་བྲིས་དབྱིན་ཡིག་ཡིག་འབྲུ་གཅིག་ཚུད་དགོས།</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">ཉེར་སྤྱོད་བྱ་རིམ་%dཡིས་བརྡ་སྦྱོར་ཀློག་ཐུབ།</item>
+        <item quantity="one">ཉེར་སྤྱོད་བྱ་རིམ་%d ཡིས་བརྡ་སྦྱོར་ཀློག་ཆོག་པ།</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%2$sནང་དུ་ཉེར་སྤྱོད་བྱ་རིམ་%1$dགིས་ནང་གསོག་སྤྱོད་ཡོད།</item>
+        <item quantity="one">%2$sནང་དུ་ཉེར་སྤྱོད་བྱ་རིམ་%1$dགིས་ནང་གསོག་སྤྱོད་ཡོད།</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item quantity="other">ཚོད་འཛིན་དྲ་རྒྱ་%d</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">ཉེར་སྤྱོད་%d་ཡི་བརྡ་སྦྱོར་གྱི་སྒོ་སྟེམ།</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item quantity="other">གྲུང་པོའི་ཉེར་སྤྱོད་%d</item>
+        <item quantity="one">འགུལ་སྐྱོད་ཉེར་སྤྱོད་1</item>
+    </plurals>
+    <plurals name="remove_language_title_multiple_plurals">
+        <item quantity="other">སྐད་རིག་%d་སྤོར་འདོར་བྱེད་རྒྱུ་ཡིན་ནམ།</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d བཀའ་འཁྲོལ་དེ་ལས་མང་བ།</item>
+        <item quantity="one">%d བཀའ་འཁྲོལ་མང་བ།</item>
+    </plurals>
+    <plurals name="sec_auto_power_off_dialog_text_plurals">
+        <item quantity="other">སྐར་ཆ་%d་ཡི་རྗེས་སུ་རང་འགུལ་གྱིས་ཁྱེད་ཀྱི་ཁ་པར་གྱི་སྒོ་སྟེམ།གལ་ཏེ་ཁ་པར་གྱི་སྒུལ་བསླངས་པ་རྒྱུན་འཁྱོངས་བྱེད་དགོས་ན་༼འདོར༽ལ་རྡེབ་རོགས།</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sec_datausage_mdo_summary_multiple_apps">
+        <item quantity="other">ཉེར་སྤྱོད་%d་བདམས་ཟིན།</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="sec_plurals_recent_notification_title">
+        <item quantity="other">ཉེ་ཆར་གྱི་བརྡ་སྦྱོར་%d</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">ཁྱེད་ཉིད་གོམ་པ་ %d ནས་གསར་སྤེལ་མཁན་ཞིག་ཆགས་སྲིད།</item>
+        <item quantity="one">ཁྱེད་ད་ལྟ་གསར་སྤེལ་མཁན་དང་གོམ་པ་གང་གི་བར་ཐག་ལས་མེད།</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">དཔང་ཡིག་ལ་ཡིད་རྟོན་བྱེད་པའམ་ཡང་ན་སུབ།</item>
+        <item quantity="one">དཔང་ཡིག་ལ་ཡིད་རྟོན་བྱེད་པའམ་ཡང་ན་སུབ།</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"%s་ཡིས་ཁྱེད་ཀྱི་ལས་ཀའི་སྡེབ་སྒྲིག་ཡིག་ཆར་དཔང་ཡིག་སྡེ་ཁག་སྒྲིག་འཇུག་བྱས།འདི་ལྟར་ན་དེའི་ལྟ་སྐུལ་ལས་ཀའི་དྲ་རྒྱའི་བྱ་འགུལ་ལ་ལྟ་སྐུལ་བྱེད་དུ་འཇུག་ཅིང་་ཆོག་དེར་གློག་རྡུལ་སྦྲག་ཡིག་དང་ཉེར་སྤྱོད་དང་བདེ་འཇགས་དྲ་རྒྱ་འདུས།ཁྱེད་ཀྱིས་དཔང་ཡིག་འདི་དག་ལ་ཡིད་ཆས་བྱེད་པའམ་གསུབ་ཆོག 
+
+དཔང་ཡིག་འདིའི་སྐོར་གྱི་དེ་ལས་མང་བའི་ཆ་འཕྲིན་དགོས་ན་ཁྱེད་ཀྱི་དོ་དམ་པར་འབྲེལ་བ་བྱེད་རོགས།"</item>
+        <item quantity="one">"%s་ཡིས་ཁྱེད་ཀྱི་ལས་ཀའི་སྡེབ་སྒྲིག་ཡིག་ཆར་དཔང་ཡིག་སྡེ་ཁག་སྒྲིག་འཇུག་བྱས།འདི་ལྟར་ན་དེའི་ལྟ་སྐུལ་ལས་ཀའི་དྲ་རྒྱའི་བྱ་འགུལ་ལ་ལྟ་སྐུལ་བྱེད་དུ་འཇུག་ཅིང་ཆོག་དེར་གློག་རྡུལ་སྦྲག་ཡིག་དང་ཉེར་སྤྱོད་དང་བདེ་འཇགས་དྲ་རྒྱ་འདུས།ཁྱེད་ཀྱིས་དཔང་ཡིག་དེར་ཡིད་ཆས་བྱེད་པའམ་གསུབ་ཆོག 
+
+དཔང་ཡིག་འདིའི་སྐོར་གྱི་དེ་ལས་མང་བའི་ཆ་འཕྲིན་དགོས་ན་ཁྱེད་ཀྱི་དོ་དམ་པར་འབྲེལ་བ་བྱེད་རོགས།"</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%sནས་ཁྱེད་ཀྱི་འཕྲུལ་ཆས་ཐོག་CAདཔང་ཡིག་སྒྲིག་འཇུག་བྱས་ཟིན།དེས་འཕྲུལ་ཆས་ཀྱི་དྲ་བ་བྱ་འགུལ་ལ་ལྟ་འཛིན་བྱེད་ཐུབ།དེའི་ནང་འཕྲིན་ཡིག་དང་།ཉེར་སྤྱོད་བྱ་རིམ།བེད་འཇགས་དྲ་ཚིགས་བེད་སྤྱོད་བཏང་བའི་ཆ་འཕྲིན་ཚུད་ཡོད།
+
+དཔང་ཡིག་དེ་དང་འབྲེལ་ཡོད་ཆ་འཕྲིན་གང་མང་མཁོ་ཚེ།ཁྱེད་ཀྱི་ITདོ་དམ་པ་དང་འབྲེལ་གཏུག་གནང་རོགས།"</item>
+        <item quantity="one">"%sནས་ཁྱེད་ཀྱི་འཕྲུལ་ཆས་ཐོག་CAདཔང་ཡིག་1སྒྲིག་འཇུག་བྱས་ཟིན།དེས་འཕྲུལ་ཆས་ཀྱི་དྲ་བ་བྱ་འགུལ་ལ་ལྟ་འཛིན་བྱེད་ཐུབ།དེའི་ནང་འཕྲིན་ཡིག་དང་།ཉེར་སྤྱོད་བྱ་རིམ།བེད་འཇགས་དྲ་ཚིགས་བེད་སྤྱོད་བཏང་བའི་ཆ་འཕྲིན་ཚུད་ཡོད།
+
+དཔང་ཡིག་དེ་དང་འབྲེལ་ཡོད་ཆ་འཕྲིན་གང་མང་ཤེས་དགོས་ཚེ།ཁྱེད་ཀྱི་ITདོ་དམ་པ་དང་འབྲེལ་གཏུག་གནང་རོགས།"</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">དཔང་ཡིག་ལ་ལྟ་རྟོག་བྱེད།</item>
+        <item quantity="one">དཔང་ཡིག་ལ་ལྟ་རྟོག་བྱེད།</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">ཡིག་སྣོད་/ཡིག་ཆ་%dབཅར་ཞུགས་བྱེད་པ།</item>
+        <item quantity="one">ཡིག་སྣོད་/ཡིག་ཆ་1བཅར་ཞུགས་བྱེད་པ།</item>
+    </plurals>
+    <plurals name="wifi_ap_instruction_changeable_maxclient_plurals_att_beyond">
+        <item quantity="other">"ཁྱེད་ཀྱི་ཁ་པར་ནི་Wi-Fi་སྦྲེལ་ཚེག་ཏུ་འགྱུར།མང་མཐར་སྒྲིག་ཆས་གཞན་པ་%d་ཡིས་ཁྱེད་ཀྱི་ཁ་པར་གྱི་གནས་སྤོ་དན་གྲངས་སྤྱད་ནས་སྦྲེལ་རེས་དྲ་རྒྱར་འདྲི་གཏུག་བྱེད་ཐུབ།
+
+གནས་སྤོ་ཚ་གནས་སྤྱད་ན་གློག་གྲོན་དང་བཞུར་འབོར་བེད་སྤྱོད་ཇེ་ཆེར་གཏོང་།"</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="wifi_ap_instruction_changeable_maxclient_plurals_beyond">
+        <item quantity="other">ཁྱེད་ཀྱི་ཁ་པར་ནི་Wi-Fi་སྦྲེལ་ཚེགས་སུ་འགྱུར་ངེས།མང་མཐར་སྒྲིག་ཆས་གཞན་པ་%d་ཡིས་ཁྱེད་ཀྱི་ཁ་པར་གྱི་གནས་སྤོ་དན་གྲངས་སྤྱད་ནས་སྦྲེལ་རེས་དྲ་རྒྱར་འདྲི་གཏུག་བྱེད་ཐུབ།</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+</resources>

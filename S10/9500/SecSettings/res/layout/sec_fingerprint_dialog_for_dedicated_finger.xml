@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_gravity="center" android:id="@id/identify_dialog_background" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:id="@id/identify_animation_box" android:paddingLeft="18.0dip" android:paddingRight="18.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <FrameLayout android:orientation="horizontal" android:id="@id/identify_title_area" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip">
+            <TextView android:textSize="20.0dip" android:textColor="#ff252525" android:gravity="center" android:id="@id/identify_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/fingerprint_plus_verification" android:ems="10" android:singleLine="true" android:fontFamily="sans-serif" />
+        </FrameLayout>
+        <RelativeLayout android:gravity="center_horizontal" android:id="@id/identify_info_box" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_marginBottom="20.0dip" android:layout_below="@id/identify_title_area">
+            <ImageView android:gravity="center" android:id="@id/identify_error_image" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" />
+            <TextView android:textSize="16.0dip" android:textColor="#ff505050" android:id="@id/identify_dialog_info_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:maxLines="5" android:layout_toRightOf="@id/identify_error_image" android:layout_centerVertical="true" android:fontFamily="sans-serif" />
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

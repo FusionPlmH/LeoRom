@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="?listDividerColor" android:layout_width="@dimen/sesl_switch_divider_height" android:layout_height="22.0dip" />
+    <ImageView android:layout_gravity="center" android:id="@id/settings_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/sec_widget_preference_gear_config_icon" android:scaleType="center" android:contentDescription="@string/settings_button" android:paddingStart="?android:listPreferredItemPaddingStart" />
+</LinearLayout>

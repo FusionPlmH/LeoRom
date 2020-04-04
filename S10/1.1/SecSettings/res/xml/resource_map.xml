@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-map>
+    <color>
+        <match overlay="sec_widget_body_text_color">
+            <original>pressure_test_description_color</original>
+        </match>
+        <match overlay="device_info_info_chart_text_color">
+            <original>device_info_info_chart_content_text_color</original>
+        </match>
+    </color>
+</resource-map>

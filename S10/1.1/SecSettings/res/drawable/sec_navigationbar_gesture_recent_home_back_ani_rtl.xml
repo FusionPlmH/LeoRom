@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="500" android:drawable="@drawable/sec_setting_3key_navi_img_seq_01" />
+    <item android:duration="700" android:drawable="@drawable/sec_setting_3key_navi_img_seq_02" />
+    <item android:duration="500" android:drawable="@drawable/sec_setting_3key_navi_img_seq_03" />
+    <item android:duration="700" android:drawable="@drawable/sec_setting_3key_navi_img_seq_04" />
+    <item android:duration="500" android:drawable="@drawable/sec_setting_3key_navi_img_seq_05_rtl" />
+    <item android:duration="700" android:drawable="@drawable/sec_setting_3key_navi_img_seq_06_rtl" />
+</animation-list>

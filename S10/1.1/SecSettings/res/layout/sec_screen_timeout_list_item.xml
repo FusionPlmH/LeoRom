@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.settings.CheckableLinearLayout android:orientation="horizontal" android:id="@id/checkbox" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeightSmall"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckedTextView android:ellipsize="end" android:gravity="center_vertical" android:id="@id/timeout_title" android:paddingTop="@dimen/sec_widget_list_item_padding_top" android:paddingBottom="@dimen/sec_widget_list_item_padding_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checkMark="?android:listChoiceIndicatorSingle" android:layout_weight="1.0" android:paddingStart="@dimen/sec_widget_list_with_checkbox_margin_start" android:paddingEnd="@dimen/sec_widget_list_with_checkbox_margin_end" style="@style/list_title_text_style" />
+</com.android.settings.CheckableLinearLayout>

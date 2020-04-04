@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="0.0px" android:layout_height="fill_parent" android:layout_weight="4.0">
+        <LinearLayout android:id="@id/image_view_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/image_view" android:background="@color/sec_widget_help_image_backgound_color" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/sec_widget_img_margin" android:scaleType="fitXY" android:adjustViewBounds="true" android:contentDescription="@null" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/blackView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:foreground="@color/sec_widget_round_and_bgcolor" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/text_view_container" android:background="@color/sec_widget_round_and_bgcolor" android:paddingTop="@dimen/sec_widget_preference_unclickable_margin_top" android:layout_width="0.0px" android:layout_height="fill_parent" android:layout_weight="6.0" android:paddingStart="@dimen/sec_widget_body_text_padding_start_end" android:paddingEnd="@dimen/sec_widget_body_text_padding_start_end">
+        <TextView android:id="@id/description_view_1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/hdr_setting_text_1" android:singleLine="false" style="@style/description_text" />
+    </LinearLayout>
+</LinearLayout>

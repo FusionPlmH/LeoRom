@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/sec_allow_exceptions" android:key="zen_mode_priority_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res-auto">
+    <SwitchPreference android:title="@string/zen_mode_alarms" android:key="zen_mode_alarms" />
+    <SwitchPreference android:title="@string/zen_mode_media" android:key="zen_mode_media" />
+    <SwitchPreference android:title="@string/zen_mode_system" android:key="zen_mode_system" />
+    <com.samsung.android.settings.widget.SecUnclickablePreference android:key="zen_mode_sound_vibration_footer" />
+    <SecDropDownPreference android:title="@string/sec_zen_mode_calls" android:key="calls" android:summary="%s" />
+    <SecDropDownPreference android:title="@string/sec_zen_mode_messages" android:key="messages" android:summary="%s" />
+    <SecSwitchPreference android:persistent="false" android:title="@string/sec_zen_mode_repeat_callers" android:key="repeat_callers" />
+    <SecSwitchPreference android:persistent="false" android:title="@string/sec_zen_mode_events" android:key="events" android:summary="@string/sec_zen_mode_events_summary" />
+    <SecSwitchPreference android:persistent="false" android:title="@string/sec_zen_mode_reminders" android:key="reminders" android:summary="@string/sec_zen_mode_reminders_summary" />
+    <com.samsung.android.settings.widget.SecUnclickablePreference android:key="zen_mode_settings_footer" />
+</PreferenceScreen>

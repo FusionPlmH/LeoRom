@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/sec_mirror_link_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.samsung.android.settings.widget.SecUnclickablePreference android:title="@string/sec_mirror_link_help" android:selectable="false" android:key="mirror_link_applications" />
+    <SecSwitchPreference android:persistent="false" android:title="@string/sec_mirror_link_ncm_usb_tethering_title" android:key="ncm_usb_tether_settings" />
+</PreferenceScreen>

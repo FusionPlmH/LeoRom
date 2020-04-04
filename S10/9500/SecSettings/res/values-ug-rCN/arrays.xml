@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apn_auth_entries">
+        <item>يوق</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP or CHAP</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>بەلگىلەنمىگەن</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>IWLAN</item>
+    </string-array>
+    <string-array name="bearer_entries_dcm_kdi">
+        <item>بەلگىلەنمىگەن</item>
+        <item>4G</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>IWLAN</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>بەك كىچىك</item>
+        <item>كىچىك</item>
+        <item>نورمال</item>
+        <item>چوڭ</item>
+        <item>بەك چوڭ</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>بارسانالغان</item>
+        <item>ئىلمەكسىز</item>
+        <item>ئىلمەكسىز ئىخچام</item>
+        <item>ئىلمەكسىز تەڭ</item>
+        <item>ئىلمەك</item>
+        <item>ئىلمەك تەڭ كەڭلىك خەت شەكلى</item>
+        <item>ئىختىيارىي</item>
+        <item>ئەگمە</item>
+        <item>كىچىك يېزىلغان ھەرپ</item>
+    </string-array>
+    <string-array name="data_usage_billing_cycle_summary">
+        <item>每个月的第 1 天</item>
+        <item>每个月的第 2 天</item>
+        <item>每个月的第 3 天</item>
+        <item>每个月的第 4 天</item>
+        <item>ھەر ئاينىڭ 5-كۈنى</item>
+        <item>ھەر ئاينىڭ 6-كۈنى</item>
+        <item>ھەر ئاينىڭ 7-كۈنى</item>
+        <item>ھەر ئاينىڭ 8-كۈنى</item>
+        <item>ھەر ئاينىڭ 9-كۈنى</item>
+        <item>ھەر ئاينىڭ 10-كۈنى</item>
+        <item>ھەر ئاينىڭ 11-كۈنى</item>
+        <item>ھەر ئاينىڭ 12-كۈنى</item>
+        <item>ھەر ئاينىڭ 13-كۈنى</item>
+        <item>ھەر ئاينىڭ 14-كۈنى</item>
+        <item>ھەر ئاينىڭ 15-كۈنى</item>
+        <item>ھەر ئاينىڭ 16-كۈنى</item>
+        <item>ھەر ئاينىڭ 17-كۈنى</item>
+        <item>ھەر ئاينىڭ 18-كۈنى</item>
+        <item>ھەر ئاينىڭ 19-كۈنى</item>
+        <item>ھەر ئاينىڭ 20-كۈنى</item>
+        <item>ھەر ئاينىڭ 21-كۈنى</item>
+        <item>ھەر ئاينىڭ 22-كۈنى</item>
+        <item>ھەر ئاينىڭ 23-كۈنى</item>
+        <item>ھەر ئاينىڭ 24-كۈنى</item>
+        <item>ھەر ئاينىڭ 25-كۈنى</item>
+        <item>ھەر ئاينىڭ 26-كۈنى</item>
+        <item>ھەر ئاينىڭ 27-كۈنى</item>
+        <item>ھەر ئاينىڭ 28-كۈنى</item>
+        <item>ھەر ئاينىڭ 29-كۈنى</item>
+        <item>ھەر ئاينىڭ 30-كۈنى</item>
+        <item>ھەر ئاينىڭ 31-كۈنى</item>
+    </string-array>
+    <string-array name="dex_timeout_entries">
+        <item>15 سېكۇنت</item>
+        <item>30 سېكۇنت</item>
+        <item>1 مىنۇت</item>
+        <item>2 مىنۇت</item>
+        <item>5 مىنۇت</item>
+        <item>10 مىنۇت</item>
+        <item>20 مىنۇت</item>
+        <item>30 مىنۇت</item>
+        <item>60 مىنۇت</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>دەرھال</item>
+        <item>5 سېكۇنت</item>
+        <item>15 سېكۇنت</item>
+        <item>30 سېكۇنت</item>
+        <item>1 مىنۇت</item>
+        <item>2 مىنۇت</item>
+        <item>5 مىنۇت</item>
+        <item>10 مىنۇت</item>
+        <item>30 مىنۇت</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 سېكۇنت</item>
+        <item>30 سېكۇنت</item>
+        <item>1 مىنۇت</item>
+        <item>2 مىنۇت</item>
+        <item>5 مىنۇت</item>
+        <item>10 مىنۇت</item>
+        <item>30 مىنۇت</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_summaries">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>所有编解码器</item>
+        <item>默认编解码器</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_titles">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>所有编解码器</item>
+        <item>默认编解码器</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Disconnected</item>
+        <item>Initializing…</item>
+        <item>Connecting…</item>
+        <item>Connected</item>
+        <item>Timeout</item>
+        <item>مەغلۇبىيەتلىك</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>ئۆزلۈكىدىن</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>ئوچۇق</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>ئەسلا ۋاقىت ئاشىمى يوق</item>
+        <item>5 مىنۇت</item>
+        <item>10 مىنۇت</item>
+        <item>20 مىنۇت</item>
+        <item>30 مىنۇت</item>
+        <item>60 مىنۇت</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>打开 Wi-Fi 共享</item>
+        <item>‏Wi-Fi ئورتاقلىشىمىشنى ئېتىش</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>ئۆزلۈكىدىن</item>
+        <item>قولدا</item>
+        <item>ھەمىشە سوراش</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>ستاتىك</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>ئۆزلۈكىدىن بايقاش</item>
+        <item>ھېسابلىق قىلىش</item>
+        <item>ھېسابسىز قىلىش</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>ئۇلاندى</item>
+        <item>تەكلىپ قىلىندى.</item>
+        <item>ئۇلانمىدى</item>
+        <item>بۇ يەرنى بېسىپ ئۇلاڭ.</item>
+        <item>دائىرىدىن چەتنىدى.</item>
+        <item>باشقا ئۈسكۈنە بىلەن ئۇلاندى</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>يوق</item>
+        <item>قولدا</item>
+        <item>ئاپتوماتىك قۇرۇلمىلا</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>تەكشۈرۈۋاتىدۇ…</item>
+        <item>ئۇلىنىۋاتىدۇ…</item>
+        <item>تەستىقلاۋاتىدۇ…</item>
+        <item>‏IP ئادرېسىنى ئېلىۋاتىدۇ…</item>
+        <item>ئۇلاندى</item>
+        <item>توڭلىتىلدى</item>
+        <item>ئۈزۈۋاتىدۇ…</item>
+        <item>ئۈزۈلدى</item>
+        <item>مەغلۇبىيەتلىك</item>
+        <item>توسۇق</item>
+        <item>تور ئۇلىنىشىنىڭ سۈپىتىنى تەكشۈرۈۋاتىدۇ…</item>
+    </string-array>
+</resources>

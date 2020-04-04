@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:id="@id/biometrics_disclaimer_total" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/button_flat_bar">
+        <RelativeLayout android:id="@id/biometrics_disclaimer_total_contents" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/continueButtonContainer" android:layout_alignParentTop="true">
+            <RelativeLayout android:gravity="center" android:id="@id/biometrics_disclaimer_title" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <LinearLayout android:id="@id/biometrics_disclaimer_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+                    <com.airbnb.lottie.LottieAnimationView android:id="@id/biometrics_disclaimer_icon_vi" android:layout_width="@dimen/biometrics_disclaimer_icon_width" android:layout_height="@dimen/biometrics_disclaimer_icon_height" app:lottie_autoPlay="true" app:lottie_colorFilter="@color/biometrics_guide_common_icon_color" app:lottie_fileName="sec_intelligent_scan_ic.json" />
+                    <ImageView android:id="@id/biometrics_disclaimer_icon_image" android:layout_width="@dimen/biometrics_disclaimer_icon_width" android:layout_height="@dimen/biometrics_disclaimer_icon_height" android:tint="@color/biometrics_guide_common_icon_color" />
+                </LinearLayout>
+                <TextView android:gravity="center_horizontal" android:id="@id/biometrics_disclaimer_title_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/biometrics_disclaimer_title_margin_top" android:layout_below="@id/biometrics_disclaimer_icon" style="@style/SecBiometricsGuideCommonTitleStyle" />
+            </RelativeLayout>
+            <ScrollView android:scrollbarStyle="insideInset" android:id="@id/biometrics_disclaimer_body" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/biometrics_disclaimer_title">
+                <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:gravity="start" android:id="@id/biometrics_disclaimer_main_guide_text" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SecBiometricsGuideCommonDescTextStyle" />
+                    <TextView android:textColor="@color/biometrics_guide_common_lock_guide_text_color" android:gravity="start" android:id="@id/biometrics_disclaimer_lock_guide_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/biometrics_disclaimer_lock_guide_margin_top" android:layout_below="@id/biometrics_disclaimer_main_guide_text" style="@style/SecBiometricsGuideCommonDescTextStyle" />
+                    <RelativeLayout android:id="@id/biometrics_disclaimer_more_desc_total" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/biometrics_disclaimer_lock_guide_text">
+                        <include layout="@layout/sec_biometrics_disclaimer_iris_description" />
+                        <include layout="@layout/sec_biometrics_disclaimer_face_description" />
+                    </RelativeLayout>
+                </RelativeLayout>
+            </ScrollView>
+        </RelativeLayout>
+        <include android:id="@id/continueButtonContainer" layout="@layout/sec_biometrics_common_raised_button" />
+    </RelativeLayout>
+    <include android:id="@id/button_flat_bar" layout="@layout/sec_biometrics_common_setupwizard_bottom_bar_button" />
+</RelativeLayout>

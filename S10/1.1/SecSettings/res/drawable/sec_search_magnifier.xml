@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@color/sec_profile_image_ripple_color"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:src="@drawable/sec_ic_ab_search_mtrl" android:tint="@color/sec_search_magnifier_icon_tint_color" />
+    </item>
+</ripple>

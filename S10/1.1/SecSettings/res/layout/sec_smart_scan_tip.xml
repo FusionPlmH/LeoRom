@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:id="@id/guide_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/ok_btn_container">
+        <RelativeLayout android:id="@id/smart_scan_guide_view_container" android:background="@color/sec_widget_help_image_backgound_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_above="@id/guide_text_scroll" android:layout_centerHorizontal="true">
+            <ImageView android:layout_gravity="center" android:id="@id/smartscan_guide_view_pager" android:paddingTop="@dimen/smart_scan_tip_pager_padding_top_bottom" android:paddingBottom="@dimen/smart_scan_tip_pager_padding_top_bottom" android:layout_width="@dimen/smart_scan_tip_pager_width" android:layout_height="@dimen/smart_scan_tip_pager_height" android:paddingStart="@dimen/smart_scan_tip_pager_padding_start_end" android:paddingEnd="@dimen/smart_scan_tip_pager_padding_start_end" />
+        </RelativeLayout>
+        <ScrollView android:id="@id/guide_text_scroll" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <LinearLayout android:orientation="vertical" android:id="@id/guide_text_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <TextView android:textSize="@dimen/smart_scan_tip_header_text_size" android:textColor="@color/smartscan_tip_text_header_color" android:gravity="center" android:id="@id/guide_text_head" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/smart_scan_tip_title_margin_margin" android:text="@string/smartscan_tip_header_text" android:lineSpacingExtra="@dimen/smart_scan_tip_text_line_spacing_extra" android:fontFamily="sec-roboto-light" />
+                <TextView android:textSize="@dimen/smart_scan_tip_text_desc_size" android:textColor="@color/smartscan_tip_text_desc_color" android:gravity="center" android:id="@id/guide_text_desc" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/smart_scan_tip_text_margin_margin" android:text="@string/smartscan_tip_guide" android:lineSpacingExtra="@dimen/smart_scan_tip_text_line_spacing_extra" android:fontFamily="sec-roboto-light" />
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+    <include android:id="@id/ok_btn_container" layout="@layout/sec_biometrics_common_bottom_bar_button" />
+    <include android:id="@id/button_flat_bar" layout="@layout/sec_biometrics_common_setupwizard_bottom_bar_button" />
+</RelativeLayout>

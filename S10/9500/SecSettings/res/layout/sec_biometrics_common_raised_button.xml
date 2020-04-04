@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/biometrics_guide_common_continue_button_height" android:weightSum="3.0" android:layout_alignParentBottom="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <Button android:textSize="@dimen/biometrics_guide_common_continue_button_text_size" android:textStyle="bold" android:textColor="@color/biometrics_guide_common_continue_button_text_color" android:ellipsize="end" android:gravity="center" android:id="@id/continue_button" android:background="@drawable/sec_biometrics_guide_common_continue_button_background" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/biometrics_common_continue_button_text" android:maxLines="1" android:onClick="onClickContinue" android:fontFamily="sec-roboto-light" android:paddingStart="@dimen/biometrics_guide_common_continue_button_padding" android:paddingEnd="@dimen/biometrics_guide_common_continue_button_padding" />
+    <View android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0" />
+</LinearLayout>

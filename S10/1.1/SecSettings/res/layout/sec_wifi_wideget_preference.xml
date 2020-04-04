@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView android:layout_gravity="end|center" android:id="@id/modify_button" android:background="@drawable/sec_bluetooth_preference_list_config_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/bluetooth_device_details" style="@style/WifiManageNetworkIcon"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

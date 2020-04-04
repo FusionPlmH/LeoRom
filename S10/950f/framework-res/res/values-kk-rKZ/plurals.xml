@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d автоматты толтыру ұсынысы</item>
+        <item quantity="one">Бір автоматты толтыру ұсынысы</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">Экранда бір уақытта %d қолданбадан артық көрсету мүмкін емес. Ең ескі қолданба кішірейтілді.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d қолданба тіпті телефоныңыз Wi-Fi желісіне қосулы болса да ұялы деректерді пайдалануда.</item>
+        <item quantity="one">%d қолданба тіпті телефоныңыз Wi-Fi желісіне қосулы болса да ұялы деректерді пайдалануда.</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">Осы қолданбаларды басқару үшін, осы жерді түртіңіз.</item>
+        <item quantity="zero">Осы қолданбаларды басқару үшін, осы жерді түртіңіз.</item>
+        <item quantity="one">Осы қолданбаны басқару үшін, осы жерді түртіңіз.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s сізбен Wi-Fi Direct арқылы бөліскісі келеді. Қабылдау үшін сізде %2$d секунд бар.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s сізбен Wi-Fi Direct арқылы бөліскісі келеді. Қабылдау үшін сізде %2$d секунд бар.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:icon="@drawable/sec_ic_settings_notifications" android:title="@string/configure_notification_settings" android:key="configure_notification_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res-auto">
+    <SecSwitchPreferenceScreen android:title="@string/notification_badge_app_icon_title" android:key="notification_badging" android:fragment="com.samsung.android.settings.notification.BadgeAppIconSettings" settings:controller="com.samsung.android.settings.notification.SecAppIconBadgesOnHomeScreenController" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference />
+    <SecSwitchPreferenceScreen android:title="@string/sec_dnd_mode_settings_title" android:key="zen_mode_dnd" android:fragment="com.samsung.android.settings.notification.SecZenModeDNDSettings" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference />
+    <Preference android:title="@string/sec_status_bar" android:key="key_status_bar" android:fragment="com.samsung.android.settings.display.StatusBar" />
+    <SwitchPreferenceCompat android:title="@string/sec_led_indicator_settings" android:key="key_simple_led_indicator_settings" android:summary="@string/sec_led_indicator_settings_summary" />
+    <PreferenceCategory android:title="@string/recent_notifications" android:key="recent_notifications_category" android:order="21" settings:allowDividerAbove="false">
+        <com.android.settings.applications.LayoutPreference android:layout="@layout/sec_recent_notifications_see_all" android:title="@string/sec_recent_notifications_see_all_title" android:key="all_notifications" android:order="22" android:fragment="com.android.settings.applications.manageapplications.ManageApplications">
+            <extra android:name="classname" android:value="com.android.settings.Settings$NotificationAppListActivity" />
+        </com.android.settings.applications.LayoutPreference>
+    </PreferenceCategory>
+</PreferenceScreen>

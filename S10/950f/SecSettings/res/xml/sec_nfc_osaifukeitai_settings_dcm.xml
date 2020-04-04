@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/nfc_osaifukeitai_title" android:key="nfc_setting_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:layout="@layout/sec_nfcosaifukeitai_explain" android:selectable="false" android:key="nfcosaifukeitai_help" android:summary="@string/nfcosaifukeitai_explained" />
+    <SecPreferenceScreen android:title="@string/nfc_osaifukeitai_lock_title" android:key="toggle_osaifukeitai_lock" android:fragment="com.samsung.android.settings.nfc.osaifu.NfcLock" />
+    <SecSwitchPreference android:persistent="false" android:title="@string/nfc_settings_rwp2p_title" android:key="toggle_nfc" android:summary="@string/readerwriter_p2p_explained" />
+    <com.samsung.android.settings.widget.SecRestrictedSwitchPreferenceScreen android:title="@string/android_beam_settings_title" android:key="toggle_android_beam" android:fragment="com.samsung.android.settings.nfc.AndroidBeam" />
+    <PreferenceScreen android:title="@string/nfc_payment_settings_title" android:key="nfc_payment_settings_jpn" android:summary="@string/nfc_payment_settings_summary" android:fragment="com.samsung.android.settings.nfc.PaymentSettings" />
+</PreferenceScreen>

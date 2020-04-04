@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/wifi_tether_checkbox_text" android:key="wifi_ap_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="empty_general" />
+    <SwitchPreferenceCompat android:key="wifi_sharing" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="empty_general1" />
+    <PreferenceCategory android:title="@string/wifi_ap_qr_code" android:key="wifi_ap_qr_code" />
+    <PreferenceCategory android:title="@string/wifi_ap_data_limit" android:key="wifi_ap_data_limit" />
+    <PreferenceCategory android:key="wifi_ap_connected_devices" />
+</PreferenceScreen>

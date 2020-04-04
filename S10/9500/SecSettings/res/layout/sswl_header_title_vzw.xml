@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/sswl_title_vzw" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/sswl_title_text_size" android:textColor="@color/sswl_title_text_color" android:id="@id/sswl_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/wifi_suw_title_vzw" android:layout_weight="1.0" android:layout_toLeftOf="@id/progress" android:fontFamily="sans-serif-light" />
+    <ProgressBar android:id="@id/progress" android:visibility="gone" android:layout_width="@dimen/sswl_wifi_progress_bar_size" android:layout_height="@dimen/sswl_wifi_progress_bar_size" android:indeterminate="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" android:indeterminateTint="@color/sswl_wifi_progress_bar_color" style="?android:progressBarStyleSmall" />
+</LinearLayout>

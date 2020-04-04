@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hun_background_color">#ff499ebd</color>
+    <color name="hun_button_text_color">#fffafafa</color>
+    <color name="hun_description_text_color">#ffe0e0e0</color>
+    <color name="hun_title_text_color">#fffafafa</color>
+    <color name="show_button_background_stroke_color">#ffffffff</color>
+</resources>

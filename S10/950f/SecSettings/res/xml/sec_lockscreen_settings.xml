@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:icon="@drawable/sec_ic_settings_lockscreen" android:title="@string/lockscreen" android:key="lock_settings_screen"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.samsung.android.settings.widget.SecGearPreference android:title="@string/unlock_set_unlock_launch_picker_title" android:key="unlock_set_or_change" settings:keywords="@string/keywords_lockscreen" />
+    <com.samsung.android.settings.widget.SecRestrictedPreference android:title="Smart Lock" android:key="trust_agent" />
+    <SecPreferenceScreen android:title="@string/lock_screen_secured_lock_settings_title" android:key="secured_lock_settigns" android:summary="@string/lock_screen_secured_lock_settings_summary" android:fragment="com.samsung.android.settings.lockscreen.SecuredLockSettingsMenu" />
+    <com.samsung.android.settings.widget.SecRestrictedSwitchPreferenceScreen android:title="@string/always_on_display_title" android:key="always_on_screen" settings:userRestriction="no_ambient_display" />
+    <SecPreferenceScreen android:title="@string/magazine_lockscreen_title" android:key="magazine_lockscreen" android:summary="@string/magazine_lockscreen_summary" />
+    <PreferenceCategory android:key="sec_info_category">
+        <SecPreference android:title="@string/clock_style" android:key="clock_style_pref" />
+        <SecSwitchPreferenceScreen android:title="@string/roamingclock_settings_title" android:key="lock_screen_dualclock" android:fragment="com.samsung.android.settings.lockscreen.DualClockSetting" />
+        <SecPreferenceScreen android:title="@string/additional_information_title" android:key="lock_screen_additional_info" android:fragment="com.samsung.android.settings.lockscreen.AdditionalInformationSettings" />
+        <com.samsung.android.settings.widget.SecRestrictedPreference android:key="lock_screen_menu_owner_infomation" />
+        <com.samsung.android.settings.widget.SecRestrictedSwitchPreferenceScreen android:title="@string/lockscreen_notifications" android:key="lock_screen_menu_notifications" android:fragment="com.samsung.android.settings.lockscreen.SecLockscreenNotificationApplist" />
+        <SecPreferenceScreen android:title="@string/lock_app_shortcut_title" android:key="lock_app_shortcut" android:summary="@string/lock_screen_app_shortcut_summary" android:fragment="com.samsung.android.settings.lockscreen.LockAppShortcutSettings" />
+    </PreferenceCategory>
+    <PreferenceCategory>
+        <SecPreferenceScreen android:title="@string/about_lock_screen" android:key="about_lockscreen" />
+    </PreferenceCategory>
+</PreferenceScreen>

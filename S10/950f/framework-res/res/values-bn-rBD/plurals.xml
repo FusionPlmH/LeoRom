@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%dটি স্বয়ংক্রিয়-পূরণ পরামর্শ</item>
+        <item quantity="one">স্বয়ংক্রিয়-পূরণ সম্পর্কে একটি পরামর্শ</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">স্ক্রিনে একবারে %dটির বেশি অ্যাপ দেখানো যাবে না৷ সবচেয়ে পুরাতন অ্যাপ মিনিমাইজ হয়েছে৷</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">এমনকি আপনার ফোন ওয়াই-ফাই এর সাথে সংযুক্ত থাকার সময়েও %dটি অ্যাপ মোবাইল ডাটা ব্যবহার করছে৷</item>
+        <item quantity="one">এমনকি আপনার ফোন ওয়াই-ফাই এর সাথে সংযুক্ত থাকার সময়েও %dটি অ্যাপ মোবাইল ডাটা ব্যবহার করছে৷</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">এই অ্যাপগুলো ব্যবস্থাপনা করতে এখানে ট্যাপ করুন৷</item>
+        <item quantity="zero">এই অ্যাপগুলো ব্যবস্থাপনা করতে এখানে ট্যাপ করুন৷</item>
+        <item quantity="one">এই অ্যাপ ব্যবস্থাপনা করতে এখানে ট্যাপ করুন৷</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s Wi-Fi Direct ব্যবহার করে আপনার সাথে কিছু শেয়ার করতে চায়৷ আপনার গ্রহণ করার জন্য %2$d সেকেন্ড সময় আছে৷</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s Wi-Fi Direct ব্যবহার করে আপনার সাথে কিছু শেয়ার করতে চায়৷ আপনার গ্রহণ করার জন্য %2$d সেকেন্ড সময় আছে৷</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

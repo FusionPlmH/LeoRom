@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="second_depth_circle_detail_text_padding_start">40.0dip</dimen>
+    <dimen name="second_depth_circle_normal_margin_start">40.0dip</dimen>
+    <dimen name="second_depth_circle_normal_size">174.0dip</dimen>
+    <dimen name="second_depth_circle_total_text_size">19.0dip</dimen>
+    <dimen name="second_depth_circle_used_text_size">30.0dip</dimen>
+    <dimen name="vertify_traffic_bottom_margin">40.0dip</dimen>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:layout_width="0.0px" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <RelativeLayout android:id="@id/preview_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/point_area" android:layout_alignParentTop="true">
+            <com.samsung.android.settings.WrapContentHeightViewPager android:id="@id/pager" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:adjustViewBounds="true" android:importantForAccessibility="noHideDescendants" />
+        </RelativeLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/point_area" android:background="@color/sec_widget_round_and_bgcolor" android:paddingTop="@dimen/sec_screen_mode_preview_point_area_padding_top" android:paddingBottom="@dimen/sec_screen_mode_preview_point_area_padding_bottom" android:focusable="false" android:layout_width="fill_parent" android:layout_height="@dimen/sec_screen_mode_preview_point_area_height" android:layout_alignParentBottom="true" android:importantForAccessibility="noHideDescendants" android:layoutDirection="ltr" />
+    </RelativeLayout>
+    <View android:background="@color/sec_widget_round_and_bgcolor" android:layout_width="@dimen/sec_widget_inset_category_height" android:layout_height="fill_parent" />
+    <ScrollView android:scrollbarStyle="outsideOverlay" android:layout_width="0.0px" android:layout_height="fill_parent" android:fillViewport="true" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ListView android:id="@id/mode_list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:choiceMode="singleChoice" />
+            <LinearLayout android:orientation="vertical" android:id="@id/vivid_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.samsung.android.settings.display.widget.CategoryTextView android:id="@id/sub_header" android:background="@color/sec_widget_round_and_bgcolor" android:text="@string/sec_screen_mode_white_balance" style="?android:listSeparatorTextViewStyle" />
+                <LinearLayout android:orientation="vertical" android:id="@id/seekbar_area" android:paddingTop="@dimen/sec_screen_mode_color_balance_preset_seekbar_padding_top" android:paddingBottom="@dimen/sec_screen_mode_color_balance_preset_seekbar_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/sec_screen_mode_color_balance_preset_seekbar_side_padding" android:paddingEnd="@dimen/sec_screen_mode_color_balance_preset_seekbar_side_padding">
+                        <TextView android:id="@id/preset_cool" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sec_display_temperature_preset_cool" android:layout_alignParentStart="true" style="@style/seekbar_preference_seekbar_label_text_style" />
+                        <TextView android:id="@id/preset_warm" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sec_display_temperature_preset_warm" android:layout_alignParentEnd="true" style="@style/seekbar_preference_seekbar_label_text_style" />
+                    </RelativeLayout>
+                    <SeekBar android:id="@id/seekbar_white_balance" android:layout_width="fill_parent" android:layout_height="@dimen/sec_screen_mode_color_balance_preset_seekbar_height" android:max="4" android:progressDrawable="@drawable/sec_screen_mode_progress_white_balance" android:thumb="@drawable/sec_screen_mode_progress_white_balance_thumb" android:paddingStart="@dimen/sec_screen_mode_color_balance_preset_seekbar_side_padding" android:paddingEnd="@dimen/sec_screen_mode_color_balance_preset_seekbar_side_padding" android:tickMark="@drawable/sec_screen_mode_progress_white_balance_tick" android:min="0" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:background="@color/sec_widget_round_and_bgcolor" android:paddingTop="@dimen/reset_button_top_margin" android:paddingBottom="@dimen/reset_button_bottom_margin" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <com.samsung.android.settings.widget.RoundButtonView android:gravity="center" android:layout_gravity="center" android:id="@id/advanced_setting_button" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/reset_button_min_height" android:text="@string/sec_screen_mode_advanced_settings" android:paddingStart="@dimen/reset_button_side_padding" android:paddingEnd="@dimen/reset_button_side_padding" style="@style/RoundButtonStyle" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/blackView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:foreground="@color/sec_widget_round_and_bgcolor" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

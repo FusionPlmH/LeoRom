@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sem_decor_caption_button_close">M57.2,23l3.8,3.8L45.8,42L61,57.2L57.2,61L42,45.8L26.8,61L23,57.2L38.2,42L23,26.8l3.8-3.8L42,38.2L57.2,23L57.2,23z</string>
+    <string name="sem_decor_caption_button_maximize">"M59.3,21H24.7c-2,0-3.7,1.7-3.7,3.7v34.6c0,2,1.7,3.7,3.7,3.7h34.6c2,0,3.7-1.7,3.7-3.7V24.7C63,22.7,61.3,21,59.3,21
+\u0009L59.3,21 M57.2,39.2h-4.3v-5.4L34.3,53.2h5.3v4.3H26.8V44.8h4.3v5.4l18.6-19.4h-5.3v-4.3h12.8V39.2L57.2,39.2z"</string>
+    <string name="sem_decor_caption_button_minimize">M61,63.2H23v-6.4h38V63.2L61,63.2L61,63.2z</string>
+</resources>

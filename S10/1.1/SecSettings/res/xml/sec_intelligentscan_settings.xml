@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/bio_smartscan_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:touchwiz="http://schemas.android.com/apk/res/touchwiz">
+    <PreferenceScreen android:layout="@layout/sec_biometrics_preference_registericon" android:title="@string/smartscan_register_face_and_iris" android:key="key_intelligentscan_register" android:widgetLayout="@layout/sec_biometrics_registericon" />
+    <PreferenceScreen android:title="@string/smartscan_remove_face_and_iris" android:key="key_intelligentscan_remove" />
+    <PreferenceScreen android:title="@string/fingerprint_change_reset_password" android:key="key_intelligentscan_password" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference />
+    <com.android.settings.fingerprint.FingerprintSwitchPreference android:title="@string/smartscan_unlock_title" android:key="key_intelligentscan_unlock" android:summary="@string/smartscan_unlock_summary" />
+    <SwitchPreference android:title="@string/smarscan_unlock_when_turns_on_title" android:key="key_intelligentscan_unlock_when_turns_on" android:summary="@string/smarscan_unlock_when_turns_on_summary" />
+    <SwitchPreference android:title="@string/biometrics_common_option_title_stay_on_lock_screen" android:key="key_intelligentscan_stay_on_lock_screen" android:summary="@string/intelligentscan_stay_on_lock_screen_summary" />
+    <SwitchPreference android:title="@string/fingerprint_web" android:key="key_intelligentscan_web_signin" android:summary="@string/smartscan_web_summary" />
+    <PreferenceScreen android:title="@string/iris_use_samsung_pass" android:key="key_intelligentscan_samsung_pass" />
+    <SwitchPreference android:title="@string/fingerprint_samsung_account" android:key="key_intelligentscan_samsung_account" android:summary="@string/smartscan_samsung_account_summary" />
+    <PreferenceScreen android:title="@string/fingerprint_use_samsungpay" android:key="key_intelligentscan_samsung_pay" android:summary="@string/smartscan_samsung_pay_summary" />
+</PreferenceScreen>

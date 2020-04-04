@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen android:persistent="false" android:layout="@layout/sec_divider_preference" android:key="prefc_biometrics_divider" />
+    <com.samsung.android.settings.knox.SpinnerPreference android:title="Text" android:key="key" />
+</PreferenceScreen>

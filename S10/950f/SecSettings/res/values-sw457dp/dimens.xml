@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vswl_bottom_button_inner_padding">32.0dip</dimen>
+    <dimen name="vswl_contents_area_bottom_padding">32.0dip</dimen>
+    <dimen name="vswl_title_area_bottom_margin">20.0dip</dimen>
+    <dimen name="vswl_title_area_end_margin">32.0dip</dimen>
+    <dimen name="vswl_title_area_start_margin">32.0dip</dimen>
+    <dimen name="vswl_title_area_top_margin">60.0dip</dimen>
+    <dimen name="vswl_body_height">672.0dip</dimen>
+    <dimen name="vswl_body_width">560.0dip</dimen>
+    <dimen name="vswl_contents_area_top_padding">60.0dip</dimen>
+</resources>

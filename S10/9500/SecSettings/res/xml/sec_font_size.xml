@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/sec_font_size_style_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <SecPreferenceScreen android:title="@string/sec_font_preview_sylte_subtitle" android:key="sec_font_style" android:fragment="com.samsung.android.settings.display.SecFontStylePreferenceFragment" />
+    <SecSwitchPreference android:title="@string/sec_bold_font_title" android:key="bold_text" />
+</PreferenceScreen>

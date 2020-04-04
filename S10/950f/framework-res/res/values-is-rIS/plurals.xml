@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d tillögur fyrir sjálfvirka útfyllingu</item>
+        <item quantity="one">Ein tillaga fyrir sjálfvirka útfyllingu</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">Ekki er hægt að sýna fleiri en %d forrit á skjánum samtímis. Elsta forritið er smækkað.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d forrit nota farsímagögn, jafnvel þegar síminn er tengdur við Wi-Fi.</item>
+        <item quantity="one">%d forrit notar farsímagögn, jafnvel þegar síminn er tengdur við Wi-Fi.</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">Pikka hér til að stjórna þessum forritum.</item>
+        <item quantity="zero">Pikka hér til að stjórna þessum forritum.</item>
+        <item quantity="one">Pikka hér til að stjórna þessu forriti.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s vill deila einhverju með þér um Wi-Fi Direct. Þú hefur %2$d sekúndur til að samþykkja.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s vill deila einhverju með þér um Wi-Fi Direct. Þú hefur %2$d sekúndu til að samþykkja.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

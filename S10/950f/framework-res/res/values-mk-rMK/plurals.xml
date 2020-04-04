@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d предлози за автоматско пополнување</item>
+        <item quantity="one">Еден предлог за автоматско пополнување</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">Не може да се прикажат повеќе од %d апликации на екранот истовремено. Најстарата апликација е минимизирана.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d апликации користат мобилни податоци дури и кога Вашиот телефон е поврзан со Wi-Fi.</item>
+        <item quantity="one">%d апликација користи мобилни податоци дури и кога Вашиот телефон е поврзан со Wi-Fi.</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">Допрете тука за да управувате со овие апликации.</item>
+        <item quantity="zero">Допрете тука за да управувате со овие апликации.</item>
+        <item quantity="one">Допрете тука за да управувате со оваа апликација.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s сака да споделува нешто со Вас додека користевте Wi-Fi Direct. Имате %2$d секунди за да прифатите.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s сака да споделува нешто со Вас додека користевте Wi-Fi Direct. Имате %2$d секунда за да прифатите.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

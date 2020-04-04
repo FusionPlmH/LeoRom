@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/more_connection_settings_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <SecSwitchPreferenceScreen android:title="@string/sec_nearby_device_scanning_title" android:key="nearby_scanning_setting_category" android:order="100" android:fragment="com.samsung.android.settings.nearbyscan.NearbyScanning" />
+    <SecPreferenceScreen android:title="@string/nfcpayment_quick_toggle_title" android:key="nfc_setting" android:order="200" android:fragment="com.samsung.android.settings.nfc.NfcSettings" />
+    <SecPreferenceScreen android:title="@string/print_settings" android:key="print_settings" android:order="300" android:fragment="com.android.settings.print.PrintSettingsFragment" />
+    <SecDropDownPreference android:entries="@array/hdmi_mode_entry" android:title="@string/hdmi_mode_title" android:key="hdmi_mode" android:order="400" android:entryValues="@array/hdmi_mode_value" />
+    <SecPreferenceScreen android:title="@string/sec_mirror_link_title" android:key="mirror_link_settings" android:summary="@string/sec_mirror_link_summary" android:order="500" android:fragment="com.samsung.android.settings.mirrorlink.MirrorLink" />
+    <SecSwitchPreferenceScreen android:title="@string/smart_bonding" android:key="smart_bonding_settings" android:order="600" android:fragment="com.samsung.android.settings.smartbonding.SmartBondingSettings" />
+    <SecPreferenceScreen android:title="@string/multi_path_title" android:key="multi_path" android:order="700" android:fragment="com.samsung.android.settings.GigaMultiPath" />
+    <SecPreferenceScreen android:title="@string/vpn_settings_title" android:key="vpn_settings" android:summary="@string/vpn_settings_summary" android:order="800" android:fragment="com.android.settings.vpn2.VpnSettings" />
+    <SecPreferenceScreen android:title="@string/vpn_settings_title" android:key="vpn_settings_for_att" android:summary="@string/vpn_settings_summary" android:order="900" android:fragment="com.android.settings.vpn2.VpnSettingsForATT" />
+    <com.android.settings.network.PrivateDnsModeDialogPreference android:title="@string/select_private_dns_configuration_title" android:key="private_dns_settings" android:order="1000" android:dialogTitle="@string/select_private_dns_configuration_dialog_title" android:positiveButtonText="@string/save" android:dialogLayout="@layout/private_dns_mode_dialog" />
+    <SecPreferenceScreen android:title="@string/network_unlock_title" android:key="network_unlock" android:summary="@string/network_unlock_summary" android:order="1100">
+        <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.samsung.android.settings.networklock.NetworkUnlockVZW" />
+    </SecPreferenceScreen>
+    <SecPreferenceScreen android:title="@string/att_emergency_alert_title" android:key="key_vzw_emergency_alert" android:order="1200">
+        <intent android:targetPackage="com.sec.android.app.cmas" android:action="android.intent.action.MAIN" android:targetClass="com.sec.android.app.cmas.CmasListActivity" />
+    </SecPreferenceScreen>
+    <SecPreferenceScreen android:title="@string/att_emergency_alert_title" android:key="key_att_emergency_alert">
+        <intent android:targetPackage="com.sec.android.app.cmas" android:action="android.intent.action.MAIN" android:targetClass="com.sec.android.app.cmas.CmasListActivity" />
+    </SecPreferenceScreen>
+    <SecPreferenceScreen android:title="@string/reset_network_settings" android:key="network_reset" android:order="1300" android:fragment="com.android.settings.ResetNetwork" />
+    <SecPreferenceScreen android:title="@string/sec_eth_radio_ctrl_title" android:key="ethernet_settings" android:order="1400" android:fragment="com.samsung.android.settings.ethernet.EthernetSettings" />
+    <SecSwitchPreferenceScreen android:title="@string/rcs_settings_title" android:key="rcs_settings" android:summary="@string/rcs_description" android:order="1500" />
+    <SecSwitchPreferenceScreen android:title="@string/rcs_settings_title_when_partial_branded" android:key="rcs_settings_partial_branded" android:summary="@string/rcs_description" />
+    <SecSwitchPreferenceScreen android:title="@string/rcs_settings_title_when_partial_branded_for_cpr" android:key="rcs_settings_partial_branded_cpr" android:summary="@string/rcs_description" />
+    <PreferenceCategory android:title="@string/data_plan_category" android:key="data_plan_category" android:order="1600">
+        <SecPreference android:title="@string/cdma_pay_as_you_go" android:key="pay_as_you_go">
+            <intent android:action="com.samsung.vzw.activationagent.intent.action.START_MY_VERIZON_DATA_ACTIVITY" />
+        </SecPreference>
+    </PreferenceCategory>
+</PreferenceScreen>

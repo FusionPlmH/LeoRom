@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.design.internal.SeslTabRoundRectIndicator android:id="@id/indicator" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerVertical="true" />
+    <TextView android:ellipsize="end" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_centerInParent="true" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" />
+    <TextView android:textSize="0.0dip" android:textColor="@color/sesl_badge_text_color" android:id="@id/dot_badge" android:background="@drawable/sesl_dot_badge" android:visibility="gone" android:layout_width="6.0dip" android:layout_height="6.0dip" android:layout_alignTop="@id/title" android:layout_marginStart="@dimen/sesl_tablayout_subtab_dot_badge_xoffset" android:layout_toEndOf="@id/title" />
+    <TextView android:textSize="11.0dip" android:textColor="@color/sesl_badge_text_color" android:gravity="center" android:id="@id/n_badge" android:background="@drawable/sesl_tab_n_badge" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="17.0dip" android:layout_marginTop="-6.0dip" android:minWidth="17.0dip" android:layout_alignTop="@id/title" android:layout_marginStart="-12.0dip" android:layout_toEndOf="@id/title" />
+</RelativeLayout>

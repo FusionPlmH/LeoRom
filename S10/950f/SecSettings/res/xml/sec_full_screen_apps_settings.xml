@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/full_screen_apps_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <SecSwitchPreference android:persistent="false" android:title="@string/full_screen_apps_hide_camera_title" android:key="hide_camera" android:summary="@string/full_screen_apps_hide_camera_summary" />
+    <com.samsung.android.settings.widget.SecUnclickablePreference android:title="@string/full_screen_apps_summary" android:selectable="false" android:key="description" settings:positionMode="first_item" style="@style/description_text" />
+    <com.samsung.android.settings.display.FullScreenAppsShowTypePreference android:title="@string/full_screen_apps_summary" android:key="show_apps_type" />
+    <SecPreferenceCategory android:layout="@layout/preference_category_no_label" android:key="full_screen_apps" settings:roundStroke="top_left|top_right" />
+</PreferenceScreen>

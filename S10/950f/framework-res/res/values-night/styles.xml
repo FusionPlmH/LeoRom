@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="displayChooserStyle" parent="@style/Theme.DeviceDefault.Dialog.Alert">
+        <item name="windowCloseOnTouchOutside">false</item>
+        <item name="windowContentTransitions">false</item>
+        <item name="windowActivityTransitions">false</item>
+    </style>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">ස්වයං පිරවුම් යෝජනා %dක්</item>
+        <item quantity="one">එක ස්වයං පිරවුම් යෝජනාවක්</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">එකවර තිරයෙහි යෙදුම් %dකට වඩා පෙන්විය නොහැක. පැරණිතම යෙදුම අවම කෙරිණි.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">ඔබේ දුරකථනය Wi-Fi වෙත සම්බන්ධ වූ විට පවා යෙදුම් %dක් ජංගම දත්ත භාවිතා කරයි.</item>
+        <item quantity="one">යෙදුම් %dක් ඔබේ දුරකථනය Wi-Fi වෙත සම්බන්ධ වූ විට පවා ජංගම දත්ත භාවිතා කරයි.</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">මෙම යෙදුම් කළමනාකරණයට මෙතැන තට්ටු කරන්න.</item>
+        <item quantity="zero">මෙම යෙදුම් කළමනාකරණයට මෙතැන තට්ටු කරන්න.</item>
+        <item quantity="one">මෙම යෙදුම කළමනාකරණයට මෙතැන තට්ටු කරන්න.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s හට ඔබ සමග Wi-Fi Direct භාවිතයෙන් යමක් බෙදා ගැනීමට අවශ්‍යයි. ඔබට පිළිගැනීමට තත්පර %2$dක් ඇත.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s හට ඔබ සමග Wi-Fi Direct භාවිතයෙන් යමක් බෙදා ගැනීමට අවශ්‍යයි. ඔබට පිළිගැනීමට තත්පර %2$dක් ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

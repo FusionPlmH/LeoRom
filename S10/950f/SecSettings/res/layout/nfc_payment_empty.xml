@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/nfc_payment_vert" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/nfc_payment_vert_layout" android:paddingTop="@dimen/sec_nfc_image_top" android:paddingBottom="@dimen/sec_nfc_image_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/sec_nfc_image_top" android:paddingEnd="@dimen/sec_nfc_image_top">
+            <ImageView android:layout_gravity="center_horizontal" android:id="@id/nfc_payment_tap_image_vert" android:background="@color/sec_widget_help_image_backgound_color" android:layout_width="fill_parent" android:layout_height="wrap_content" android:adjustViewBounds="true" />
+        </LinearLayout>
+        <TextView android:background="@color/sec_widget_round_and_bgcolor" android:paddingTop="@dimen/sec_payment_empty_top" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/nfc_payment_no_apps" android:paddingStart="@dimen/sec_widget_body_text_padding_start_end" android:paddingEnd="@dimen/sec_widget_body_text_padding_start_end" style="@style/body_text_style" />
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="@id/nfc_payment_land" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="4.0">
+            <LinearLayout android:orientation="vertical" android:id="@id/nfc_payment_land_layout" android:paddingTop="@dimen/sec_nfc_image_top" android:paddingBottom="@dimen/sec_nfc_image_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/sec_nfc_image_top" android:paddingEnd="@dimen/sec_nfc_image_top">
+                <ImageView android:layout_gravity="center_horizontal" android:id="@id/nfc_payment_tap_image_land" android:background="@color/sec_widget_help_image_backgound_color" android:layout_width="fill_parent" android:layout_height="wrap_content" android:adjustViewBounds="true" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/blackView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:foreground="@color/sec_widget_round_and_bgcolor" />
+        </LinearLayout>
+        <TextView android:background="@color/sec_widget_round_and_bgcolor" android:paddingTop="@dimen/sec_payment_empty_top" android:focusable="true" android:clickable="true" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/nfc_payment_no_apps" android:layout_weight="6.0" android:paddingStart="@dimen/sec_widget_body_text_padding_start_end" android:paddingEnd="@dimen/sec_widget_body_text_padding_start_end" style="@style/body_text_style" />
+    </LinearLayout>
+</FrameLayout>

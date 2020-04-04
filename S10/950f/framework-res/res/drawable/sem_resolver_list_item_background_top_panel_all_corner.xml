@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetBottom="16.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ripple android:color="?colorControlHighlight">
+        <item android:id="@id/mask">
+            <shape android:shape="rectangle">
+                <corners android:topLeftRadius="26.0dip" android:topRightRadius="26.0dip" android:bottomLeftRadius="26.0dip" android:bottomRightRadius="26.0dip" />
+                <solid android:color="#ffffffff" />
+            </shape>
+        </item>
+        <item>
+            <shape android:shape="rectangle">
+                <corners android:topLeftRadius="26.0dip" android:topRightRadius="26.0dip" android:bottomLeftRadius="26.0dip" android:bottomRightRadius="26.0dip" />
+                <solid android:color="?^attr-private/semResolverBackgroundColor" />
+            </shape>
+        </item>
+    </ripple>
+</inset>

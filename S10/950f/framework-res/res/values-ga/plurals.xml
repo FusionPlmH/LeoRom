@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d moladh uathlíonta</item>
+        <item quantity="one">Moladh uathlíonta amháin</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">Ní féidir níos mó ná %d feidhmchlár a thaispeáint ar an scáileán ag an am céanna. Tá an feidhmchlár is sine íoslaghdaithe.</item>
+        <item quantity="two">Ní féidir níos mó ná %d fheidhmchlár a thaispeáint ar an scáileán ag an am céanna. Tá an feidhmchlár is sine íoslaghdaithe.</item>
+        <item quantity="few">Ní féidir níos mó ná %d fheidhmchlár a thaispeáint ar an scáileán ag an am céanna. Tá an feidhmchlár is sine íoslaghdaithe.</item>
+        <item quantity="many">Ní féidir níos mó ná %d bhfeidhmchlár a thaispeáint ar an scáileán ag an am céanna. Tá an feidhmchlár is sine íoslaghdaithe.</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">"Bíonn sonraí móibíleacha á n-úsáid ag %d feidhmchlár fiú nuair a bhíonn d'fhón nasctha le Wi-Fi."</item>
+        <item quantity="one">"Bíonn sonraí móibíleacha á n-úsáid ag %d fheidhmchlár fiú nuair a bhíonn d'fhón nasctha le Wi-Fi."</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">Tapáil anseo leis na feidhmchláir sin a bhainistiú.</item>
+        <item quantity="zero">Tapáil anseo leis na feidhmchláir sin a bhainistiú.</item>
+        <item quantity="one">Tapáil anseo leis an bhfeidhmchlár sin a bhainistiú.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">Is mian le %1$s rud éigin a chomhroinnt leat le Wi-Fi Direct. Tá %2$d soicind fágtha agat le glacadh leis.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Is mian le %1$s rud éigin a chomhroinnt leat le Wi-Fi Direct. Tá %2$d soicind fágtha agat le glacadh leis.</item>
+        <item quantity="two">Is mian le %1$s rud éigin a chomhroinnt leat le Wi-Fi Direct. Tá %2$d shoicind fágtha agat le glacadh leis.</item>
+        <item quantity="few">Is mian le %1$s rud éigin a chomhroinnt leat le Wi-Fi Direct. Tá %2$d shoicind fágtha agat le glacadh leis.</item>
+        <item quantity="many">Is mian le %1$s rud éigin a chomhroinnt leat le Wi-Fi Direct. Tá %2$d soicind fágtha agat le glacadh leis.</item>
+    </plurals>
+</resources>

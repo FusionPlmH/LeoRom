@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d ຄຳແນະນຳຕື່ມໃສ່ອັດຕະໂນມັດ</item>
+        <item quantity="one">ໜຶ່ງຄຳແນະນຳຕື່ມໃສ່ອັດຕະໂນມັດ</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">ບໍ່ສາມາດສະແດງໄດ້ຫຼາຍກວ່າ %d ແອັບໃນໜ້າຈໍໃນເວລາດຽວກັນ. ແອັບທີ່ເກົ່າສຸດຖືກຫຍໍ້ລົງແລ້ວ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d ແອັບກຳລັງໃຊ້ຂໍ້ມູນມືຖື ເຖິງແມ່ນວ່າເວລາທີ່ໂທລະສັບຂອງທ່ານຖືກເຊື່ອມຕໍ່ກັບ Wi-Fi.</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">ແຕະທີ່ນີ້ເພື່ອຈັດການແອັບເຫຼົ່ານີ້.</item>
+        <item quantity="zero">ແຕະທີ່ນີ້ເພື່ອຈັດການແອັບເຫຼົ່ານີ້.</item>
+        <item quantity="one">ແຕະທີ່ນີ້ເພື່ອຈັດການແອັບນີ້.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s ຕ້ອງການແຊຣ໌ບາງສິ່ງໃຫ້ກັບທ່ານໂດຍໃຊ້ Wi-Fi Direct. ທ່ານມີເວລາ %2$d ວິນາທີເພື່ອຍອມຮັບ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

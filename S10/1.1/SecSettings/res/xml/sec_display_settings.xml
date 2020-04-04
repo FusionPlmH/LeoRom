@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:icon="@drawable/ic_settings_display" android:title="@string/display_settings" android:key="display_settings_screen" settings:keywords="@string/keywords_display"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.settings.display.BrightnessSeekBarPreference android:icon="@drawable/sec_ic_settings_brightness" android:persistent="false" android:title="@string/brightness_title" android:key="secbrightness" settings:SettingsMode="UPSM" />
+    <com.samsung.android.settings.widget.SecRestrictedSwitchPreferenceScreen android:title="@string/auto_adjust_brightness" android:key="auto_brightness" android:summary="@string/auto_adjust_brightness_summary" android:fragment="com.samsung.android.settings.display.AutoBrightness" />
+    <SecSwitchPreference android:title="@string/auto_adjust_brightness" android:key="outdoor_mode" android:summary="@string/auto_adjust_brightness_summary_nopac" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference />
+    <com.samsung.android.settings.display.DisplayDisabledAppearanceSwitchPreference android:title="@string/sec_blue_light_filter_title" android:key="blue_light_filter" android:summary="@string/sec_blue_light_filter_summary_off" android:fragment="com.samsung.android.settings.bluelightfilter.BlueLightFilterSettings" />
+    <com.samsung.android.settings.display.DisplayDisabledAppearanceSwitchPreference android:title="@string/sec_night_theme_title" android:key="night_theme" android:summary="@string/sec_night_theme_summary_off">
+        <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.android.settings.Settings$NightThemeSettingsInnerActivity" />
+    </com.samsung.android.settings.display.DisplayDisabledAppearanceSwitchPreference>
+    <com.samsung.android.settings.display.DisplayDisabledAppearancePreference android:title="@string/sec_screen_mode_setting" android:key="screen_mode" android:summary="@string/sec_screen_mode_summary" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference />
+    <SecSwitchPreference android:title="@string/display_auto_rotate_title" android:key="auto_rotate" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference />
+    <Preference android:title="@string/sec_font_size_style_title" android:key="sec_font_size" android:fragment="com.samsung.android.settings.display.SecFontSizePreferenceFragment" settings:keywords="@string/keywords_display_font_size" />
+    <com.samsung.android.settings.display.DisplayDisabledAppearancePreference android:title="@string/sec_screen_zoom_title" android:key="sec_screen_size" settings:keywords="@string/screen_zoom_keywords" />
+    <com.samsung.android.settings.display.DisplayDisabledAppearancePreference android:title="@string/screen_resolution_title" android:key="screen_resolution" />
+    <SecPreferenceScreen android:title="@string/full_screen_apps_title" android:key="full_screen_apps" android:summary="@string/full_screen_apps_summary" android:fragment="com.samsung.android.settings.display.FullScreenAppsSettings" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference />
+    <com.samsung.android.settings.widget.SecRestrictedPreference android:title="@string/screen_timeout" android:key="screen_timeout" android:summary="@string/screen_timeout_summary" settings:keywords="@string/keywords_screen_timeout" />
+    <com.samsung.android.settings.widget.SecRestrictedPreference android:persistent="false" android:title="@string/screen_timeout_for_connected_display_title" android:key="screen_timeout_for_dex" android:summary="@string/screen_timeout_summary" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference />
+    <SecPreferenceScreen android:title="@string/home_screen_settings_title" android:key="homescreen" />
+    <SecPreferenceScreen android:title="@string/wallpaper" android:key="wallpaper">
+        <intent android:targetPackage="com.sec.android.app.wallpaperchooser" android:action="android.intent.action.MAIN" android:targetClass="com.sec.android.app.wallpaperchooser.WallpaperPickerActivity" />
+    </SecPreferenceScreen>
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference />
+    <SecPreferenceScreen android:title="@string/edge_screen" android:key="edge_screen" android:summary="@string/edge_screen_summary">
+        <intent android:action="com.samsung.app.cocktailbarservice.settings.SETTINGSMAIN" />
+    </SecPreferenceScreen>
+    <com.samsung.android.settings.display.DisplayDisabledAppearancePreference android:title="@string/easy_mode" android:key="easy_mode" />
+    <SecPreferenceScreen android:title="@string/icon_backgrounds_title" android:key="icon_backgrounds">
+        <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.samsung.android.settings.display.IconBackgrounds" />
+    </SecPreferenceScreen>
+    <SecPreferenceScreen android:title="@string/navigationbar_title" android:key="navigation_Bar" android:summary="@string/navigationbar_summary" android:fragment="com.samsung.android.settings.navigationbar.NavigationBarSettings" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference />
+    <SwitchPreference android:persistent="false" android:title="@string/sec_block_accidental_touches_title" android:key="screen_off_pocket" android:summary="@string/sec_block_accidental_touches_summary" />
+    <SecSwitchPreference android:title="@string/increase_touch_sensetivity_title" android:key="increse_touch_sensetivity" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference />
+    <android.support.v14.preference.SecSwitchPreferenceScreen android:title="@string/screensaver_settings_title" android:key="screensaver" android:fragment="com.samsung.android.settings.display.SecDreamSettings" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference />
+</PreferenceScreen>

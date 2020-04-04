@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/sec_default_app_title"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res-auto">
+    <SecPreferenceCategory android:layout="@layout/sec_app_subheader_divider_layout" android:title="@string/sec_app_default_app_subheader_text" settings:roundStroke="none" />
+    <com.android.settings.applications.ClearDefaultsPreference android:persistent="false" android:key="app_launch_clear_defaults" />
+    <SecPreferenceCategory android:layout="@layout/sec_app_subheader_divider_layout" android:title="@string/app_launch_domain_links_title" android:key="app_launch_domain_links" settings:roundStroke="none">
+        <com.samsung.android.settings.widget.SecUnclickablePreference android:clickable="false" android:title="@string/sec_domain_urls_description" android:key="desc_under_subheader" style="@style/description_text" />
+    </SecPreferenceCategory>
+    <SecDropDownPreference android:persistent="false" android:title="@string/app_launch_open_domain_urls_title" android:key="app_link_state" />
+    <SecPreference android:persistent="false" android:title="@string/app_launch_supported_domain_urls_title" android:key="app_launch_supported_domain_urls" android:dependency="app_link_state" />
+</PreferenceScreen>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView android:id="@id/suggestion_card" android:layout_width="fill_parent" android:layout_height="wrap_content" app:cardCornerRadius="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/sec_suggestion_tile_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/sec_suggestion_card_with_icon_padding_start" android:paddingEnd="@dimen/sec_suggestion_card_padding_start_end">
+        <FrameLayout android:layout_width="@dimen/sec_suggestion_card_icon_frame_size" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/sec_suggestion_tile_icon_background" />
+            <ImageView android:layout_gravity="center" android:id="@android:id/icon" android:layout_width="@dimen/sec_suggestion_card_icon_size" android:layout_height="fill_parent" style="@style/SuggestionCardIcon" />
+        </FrameLayout>
+        <TextView android:textAppearance="@style/TextAppearance.SuggestionTitle" android:id="@android:id/title" android:fadingEdge="horizontal" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sec_suggestion_card_margin_top_bottom" android:layout_marginBottom="@dimen/sec_suggestion_card_margin_top_bottom" android:singleLine="true" android:layout_weight="1.0" android:layout_marginStart="@dimen/sec_suggestion_card_with_icon_title_padding_start" style="@style/SuggestionCardText" />
+        <FrameLayout android:layout_gravity="end|center|top" android:orientation="horizontal" android:id="@id/close_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sec_suggestion_card_close_button_margin_top" android:contentDescription="@string/dlg_close">
+            <ImageView android:layout_gravity="center" android:layout_width="@dimen/sec_suggestion_card_close_button_size" android:layout_height="@dimen/sec_suggestion_card_close_button_size" android:src="@drawable/sec_help_ic_close" android:tint="@color/sec_suggestion_card_close_button_color" />
+        </FrameLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen settings:roundStroke="none"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.samsung.android.settings.wifi.WipsUnclickablePreference android:layout="@layout/wips_widget_preference_unclickable_no_history" android:title="@string/wifi_mobile_wips_detail" android:key="wips_desc" settings:positionMode="first_item" settings:roundStroke="none" />
+    <SecPreferenceCategory android:key="wips_exception_up" settings:roundStroke="top_left|top_right" />
+    <SecPreferenceCategory android:key="wips_exception_down" settings:roundStroke="bottom_left|bottom_right" />
+</PreferenceScreen>

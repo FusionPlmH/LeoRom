@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_usage_limit_body">Tap to enable.</string>
+    <string name="data_usage_mobile_limit_title">Mobile data is off</string>
+    <string name="data_usage_warning_title">Data usage alert</string>
+    <string name="prohibit_manual_network_selection_in_gobal_mode">true</string>
+</resources>

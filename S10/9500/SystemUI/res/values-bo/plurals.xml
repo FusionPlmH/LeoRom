@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">གོ་སྐབས་ལྷག་མ་%dཡོད།</item>
+        <item quantity="one">ད་དུང་ཚོད་ལྟ་%dབྱས་ཆོག</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(ད་དུང་ཚོད་ལྟ་ཐེངས་%dབྱས་ཆོག)</item>
+        <item quantity="one">(ད་དུང་ཚོད་ལྟ་ཐེངས་1བྱས་ཆོག)</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">སྐར་ཆ་%d་ཡི་རྗེས་སུ་སླར་སྐྱེ་དངོས་ངོས་འཛིན་སྒྲོག་སེལ་གྱི་ཚོད་ལྟ་བྱེད་རོགས།</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">སྐར་ཆ་%d་ཡི་རྗེས་སུ་སླར་མཛུབ་རིས་སྒྲོག་སེལ་གྱི་ཚོད་ལྟ་བྱེད་རོགས།</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">སྐར་མ%dབསྐྱར་དུ་ཚོད་ལྟ་བྱེད།</item>
+        <item quantity="one">སྐར་མ་%dརྗེས་སུ་བསྐྱར་ཚོད་བྱེད་དགོས།</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">སྐར་ཆ%dནང་དུ་བསྐྱར་དུ་ཚོད་ལྟ་བྱེད།</item>
+        <item quantity="one">སྐར་ཆ་%dརྗེས་སུ་བསྐྱར་ཚོད་བྱེད་དགོས།</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">སྐྱེ་དངོས་ཚོར་རྟོགས་ངོས་འཛིན་ནོར་འཁྲུལ་ཐེངས་%1$dཐོན་ཟིན།སྐར་ཆ་%2$dརྗེས་བསྐྱར་དུ་ཚོད་ལྟ་བྱེད་དགོས།</item>
+        <item quantity="one">སྐྱེ་དངོས་ཚོར་རྟོགས་ངོས་འཛིན་ཐེངས་%1$dམ་ཐུབ།སྐར་ཆ་%2$dརྗེས་སུ་བསྐྱར་ཚོད་བྱེད་དགོས།</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">མཛུབ་རིས་ངོས་འཛིན་ནོར་འཁྲུལ་ཐེངས་%1$dཐོན་ཟིན།སྐར་ཆ་%2$dརྗེས་བསྐྱར་དུ་ཚོད་ལྟ་བྱེད་དགོས།</item>
+        <item quantity="one">མཛུབ་རིས་ངོས་འཛིན་ཐེངས་%1$dམ་ཐུབ།སྐར་ཆ་%2$dརྗེས་སུ་བསྐྱར་ཚོད་བྱེད་དགོས།</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">ཆུ་ཚོད་%d</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">ཆུ་ཚོད་%d</item>
+        <item quantity="few">ཆུ་ཚོད་%d</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">སྐར་མ། %d</item>
+        <item quantity="one">N/A</item>
+        <item quantity="few">སྐར་མ། %d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/accessory"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
+  xmlns:touchwiz="http://schemas.android.com/apk/res/touchwiz">
+    <SecPreferenceCategory android:title="@string/cover" android:key="cover" android:order="100" />
+    <SecSwitchPreference android:persistent="false" android:title="@string/automatic_unlock" android:key="automatic_unlock" android:summary="@string/automatic_unlock_summary" android:order="200" settings:dbMatchingName="automatic_unlock" settings:dbMatchingTable="system" />
+    <SecCheckBoxPreference android:title="@string/cover_note" android:key="cover_note" android:summary="@string/cover_note_summary" android:order="300" settings:dbMatchingName="cover_note" settings:dbMatchingTable="system" />
+    <SecListPreference android:entries="@array/cover_note_weather_unit_entries" android:title="@string/cover_note_weather_unit" android:key="cover_note_weather_unit" android:order="400" android:widgetLayout="@layout/sec_round_more_icon" android:entryValues="@array/cover_note_weather_unit_values" settings:dbMatchingName="cover_note_weather_unit" settings:dbMatchingTable="system" />
+    <SecPreferenceScreen android:title="@string/sec_clock_and_facewidgets" android:key="cover_info_and_app_shortcut" android:summary="@string/sec_lock_screen_sview_show_information_summary_aod" android:order="500" android:fragment="com.samsung.android.settings.accessories.ShowInfomationMenu">
+        <extra android:name="coversetting" android:value="true" />
+    </SecPreferenceScreen>
+    <SecPreferenceScreen android:title="@string/sec_dualclock_settings_title" android:key="cover_lock_screen_dualclock" android:order="600" android:fragment="com.samsung.android.settings.lockscreen.DualClockSetting" />
+    <SecPreferenceScreen android:title="@string/sec_lockscreen_notifications" android:key="cover_show_sec_notifications" android:order="800" />
+    <SecPreferenceScreen android:title="@string/sview_wallpaper" android:key="sview_wallpaper" android:order="900" />
+    <SecPreferenceScreen android:title="@string/sview_led_cover_icon_editor" android:key="led_icon_editor" android:summary="@string/sview_led_cover_icon_editor_summary" android:order="1200" />
+    <SecPreferenceScreen android:title="@string/about_led_view_cover" android:key="about_led_view_cover" android:order="1300" />
+    <SecPreferenceScreen android:title="@string/led_back_cover_title" android:key="led_back_cover" android:summary="@string/led_back_cover_summary" android:order="1350" />
+    <SecPreferenceCategory android:title="@string/sec_fast_wireless_charger" android:key="fast_charing_category" android:order="1400" />
+    <SecSwitchPreference android:persistent="false" android:title="@string/sec_fast_wireless_charging" android:key="fast_wireless_charging" android:summary="@string/sec_fast_wireless_charging_summary" android:order="1500" />
+    <SecPreferenceCategory android:title="@string/smart_accessory" android:key="smart_accessory" android:order="1600" />
+    <SecPreferenceScreen android:title="@string/smart_accessory_settings" android:key="smart_accessory_settings" android:order="1700" />
+</PreferenceScreen>

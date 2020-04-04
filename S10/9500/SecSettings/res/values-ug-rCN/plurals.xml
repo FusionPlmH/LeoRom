@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">بەك قىسقا كېچىكىش (%s سېكۇنت)</item>
+        <item quantity="one">بەك قىسقا كېچىكىش (%s سېكۇنت)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">ئۇزۇن كېچىكىش (%sms)</item>
+        <item quantity="one">ئۇزۇن كېچىكىش (%sms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">قىسقا كېچىكىش (%s ms)</item>
+        <item quantity="one">قىسقا كېچىكىش (%s ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">بەك ئۇزۇن كېچىكىش (%s ms)</item>
+        <item quantity="one">بەك ئۇزۇن كېچىكىش (%s ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">بەك قىسقا كېچىكىش (%s ms)</item>
+        <item quantity="one">بەك قىسقا كېچىكىش (%s ms)</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item quantity="other">%d ئەپنى چەكلەمسىز؟</item>
+        <item quantity="one">ئەپ چەكلەمسىز؟</item>
+    </plurals>
+    <plurals name="bluetooth_restored_count_popup_title">
+        <item quantity="other">%d ئۈسكۈنە يوللاندى</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ئۈسكۈنە يوللاندى</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">‏%d ئەپ بەرمىلەرنى چەكلىمىسىز قوللىنىشقا رۇخسەت قىلىندى</item>
+        <item quantity="one">1 ئەپ بەرمىلەرنى چەكلىمىسىز قوللىنىشقا رۇخسەت قىلىندى</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item quantity="other">%d كاتېگورىيە ئۆچۈرۈلدى</item>
+        <item quantity="one">1 كاتېگورىيە ئۆچۈرۈلدى</item>
+    </plurals>
+    <plurals name="dex_timeout_day">
+        <item quantity="other">%d كۈن</item>
+        <item quantity="one">1 كۈن</item>
+    </plurals>
+    <plurals name="dex_timeout_hour">
+        <item quantity="other">%d سائەت</item>
+        <item quantity="one">1 سائەت</item>
+    </plurals>
+    <plurals name="dex_timeout_minute">
+        <item quantity="other">%d مىنۇت</item>
+        <item quantity="one">1 مىنۇت</item>
+    </plurals>
+    <plurals name="dex_timeout_second">
+        <item quantity="other">%d سېكۇنت</item>
+        <item quantity="one">1 سېكۇنت</item>
+    </plurals>
+    <plurals name="dex_timeout_week">
+        <item quantity="other">%d ھەپتە</item>
+        <item quantity="one">1 ھەپتە</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">تاللانغان تىللارنى چىقىرۋېتىش</item>
+        <item quantity="one">تاللانغان تىلنى چىقىرۋېتىش</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">%d سائەت</item>
+        <item quantity="one">%d سائەت</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">%d مىنۇت</item>
+        <item quantity="one">%d مىنۇت</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">%d سېكۇنت</item>
+        <item quantity="one">1 سېكۇنت</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">پارول ئاز دېگەندە %d ھەرپنى ئىچىگە ئالىشى كېرەك.</item>
+        <item quantity="one">پارول ئاز دېگەندە 1ھەرپنى ئىچىگە ئالىشى كېرەك.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">پارول ئاز دېگەندە %d كىچىك ھەرپنى ئىچىگە ئالىشى كېرەك.</item>
+        <item quantity="one">پارول ئاز دېگەندە 1 كىچىك ھەرپنى ئىچىگە ئالىشى كېرەك.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">پارول ئاز دېگەندە %d سان ياكى بەلگەنى ئىچىگە ئالىشى كېرەك.</item>
+        <item quantity="one">پارول ئاز دېگەندە 1 سان ياكى بەلگەنى ئىچىگە ئالىشى كېرەك.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">پارول ئاز دېگەندە %d ساننى ئىچىگە ئالىشى كېرەك.</item>
+        <item quantity="one">پارول ئاز دېگەندە 1 ساننى ئىچىگە ئالىشى كېرەك.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">پارول ئاز دېگەندە %d بەلگىنى ئىچىگە ئالىشى كېرەك.</item>
+        <item quantity="one">پارول ئاز دېگەندە 1بەلگەنى ئىچىگە ئالىشى كېرەك.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">پارول ئاز دېگەندە %d چوڭ ھەرپنى ئىچىگە ئالىشى كېرەك.</item>
+        <item quantity="one">پارول ئاز دېگەندە 1 چوڭ ھەرپنى ئىچىگە ئالىشى كېرەك.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">‏%d ئەپ ئۇقتۇرۇش ئوقۇيالايدۇ.</item>
+        <item quantity="one">‏%d ئەپ بىلدۈرۈملەرنى ئوقۇشقا رۇخسەت قىلىندى.</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">ئاخىرقى %2$s دە %1$d جەريان RAM ئىشلەتكەن</item>
+        <item quantity="one">ئاخىرقى %2$s دە %1$d جەريان RAM ئىشلەتكەن</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item quantity="other">‏%d چەكلىمە</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d چەكلىمە</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">‏%d ئەپ ئۈچۈن ئېتىك</item>
+        <item quantity="one">‏%d ئەپ ئۈچۈن ئېتىك</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item quantity="other">‏%d ئاكتىپ ئەپ</item>
+        <item quantity="one">1 ئاكتىپ ئەپ</item>
+    </plurals>
+    <plurals name="remove_language_title_multiple_plurals">
+        <item quantity="other">‏%d تىلنى چىقىرىۋېتەمسىز؟</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d تېخىمۇ كۆپ ئىجازەتلەر</item>
+        <item quantity="one">%d تېخىمۇ كۆپ ئىجازەتلەر</item>
+    </plurals>
+    <plurals name="sec_auto_power_off_dialog_text_plurals">
+        <item quantity="other">تېلېفونىڭىز %d سېكۇنتتىن كېيىن ئۆزلۈكىدىن ئېتىلىدۇ. تېلېفوننى بۇ ۋاقىتتا ئوچۇق تۇرغۇزۇش ئۈچۈن بىكار قىلىشنى چېكىڭ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">تېلېفونىڭىز %d سېكۇنتتىن كېيىن ئۆزلۈكىدىن ئېتىلىدۇ. تېلېفوننى بۇ ۋاقىتتا ئوچۇق تۇرغۇزۇش ئۈچۈن بىكار قىلىشنى چېكىڭ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sec_datausage_mdo_summary_multiple_apps">
+        <item quantity="other">%d ئەپ تاللاندى</item>
+        <item quantity="one">%d ئەپ تاللاندى</item>
+    </plurals>
+    <plurals name="sec_plurals_recent_notification_title">
+        <item quantity="other">%d يېقىنقى ئۇقتۇرۇش</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d يېقىنقى ئۇقتۇرۇش</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">سىز بىر راۋاجلاندۇرغۇچى بولۇشتىن ھازىر %d قەدەم ئۇزاقلىقتا.</item>
+        <item quantity="one">سىز بىر راۋاجلاندۇرغۇچى بولۇشتىن ھازىر 1 قەدەم ئۇزاقلىقتا.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">گۇۋاھنامىلەرگە ئىشىنىڭ ياكى چىقىرىۋېتىڭ</item>
+        <item quantity="one">گۇۋاھنامىگە ئىشىنىڭ ياكى چىقىرىۋېتىڭ</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"‏%s خىزمەت پروفىلىڭىز ئۈچۈن گۇۋاھنامە ھوقۇقلىرى قاچىلىدى، بۇ ئۇلارغا خىزمەت تور پائالىيىتىنى، جۈملىدىن ئېخەتلەر، ئەپلەر، ۋە بىخەتەر تور پونكىتلىرىنى كۆزىتىشىگە ئىمكان بېرىدۇ. سىز بۇ گۇۋاھنامىلەرگە يا ئىشىنىشنى يا چىقىرۋېتىشنى تاللىيالايسىز.
+
+بۇ گۇۋاھنامىلەر ھەققىدە تېخىمۇ كۆپ مەلۇمات ئۈچۈن، باشقۇرغۇچىڭىز بىلەن ئالاقىلىشىڭ."</item>
+        <item quantity="one">"‏%s خىزمەت پروفىلىڭىز ئۈچۈن بىر گۇۋاھنامە ھوقۇقى قاچىلىدى، بۇ ئۇلارغا خىزمەت تور پائالىيىتىنى، جۈملىدىن ئېخەتلەر، ئەپلەر، ۋە بىخەتەر تور پونكىتلىرىنى كۆزىتىشىگە ئىمكان يارىتىپ بېرىدۇ. سىز بۇ گۇۋاھنامىگە يا ئىشىنىشنى يا چىقىرۋېتىشنى تاللىيالايسىز.
+
+بۇ گۇۋاھنامە ھەققىدە تېخىمۇ كۆپ مەلۇمات ئۈچۈن، باشقۇرغۇچىڭىز بىلەن ئالاقىلىشىڭ."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"‏%s ئۈسكۈنىڭىزگە CA گۇۋاھنامىسى قاچىلىدى، بۇ گۇۋاھنامە ئارقىلىق ئۈسكۈنىڭىزنىڭ تور پائالىيىتى، جۈملىدىن تورخەت، ئەپ ۋە بىخەتەر توربەت ئىشلىتىشىڭىزنى كۆزىتىشى مۇمكىن.
+
+بۇ گۇۋاھنامىلەر ھەققىدىكى تېخىمۇ كۆپ ئۇچۇرغا ئېرىشىش ئۈچۈن ئۇچۇر-تېخنىكا باشقۇرغۇچىڭىز بىلەن ئالاقىلىشىڭ."</item>
+        <item quantity="one">"‏%s ئۈسكۈنىڭىزگە CA گۇۋاھنامىسى قاچىلىدى، بۇ گۇۋاھنامە ئارقىلىق ئۈسكۈنىڭىزنىڭ تور پائالىيىتى، جۈملىدىن تورخەت، ئەپ ۋە بىخەتەر توربەت ئىشلىتىشىڭىزنى كۆزىتىشى مۇمكىن.
+
+بۇ گۇۋاھنامە ھەققىدىكى تېخىمۇ كۆپ ئۇچۇرغا ئېرىشىش ئۈچۈن ئۇچۇر-تېخنىكا باشقۇرغۇچىڭىز بىلەن ئالاقىلىشىڭ."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">گۇۋاھنامىلەرنى تەكشۈرۈڭ</item>
+        <item quantity="one">گۇۋاھنامىنى تەكشۈرۈڭ</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">‏%d پاپكا/ھۆججەت كە ئېرىشىش</item>
+        <item quantity="one">1 پاپكا/ھۆججەت كە ئېرىشىش</item>
+    </plurals>
+    <plurals name="wifi_ap_instruction_changeable_maxclient_plurals_att_beyond">
+        <item quantity="other">"تېلېفوننى Wi-Fi تور نۇقتىسى قىلىڭ. كۆپىدە %d ئۈسكۈنە تېلېفونىڭىزنىڭ كۆچمە ئېقىمى ئارقىلىق تورغا چىقالايدۇ.
+
+كۆچمە تور نۇقتىسى ئىشلەتكەندە توك ۋە ئېقىم ئىشلىتىش ئاشىدۇ."</item>
+        <item quantity="one">"تېلېفوننى Wi-Fi تور نۇقتىسى قىلىڭ. كۆپىدە %d ئۈسكۈنە تېلېفونىڭىزنىڭ كۆچمە ئېقىمى ئارقىلىق تورغا چىقالايدۇ.
+
+كۆچمە تور نۇقتىسى ئىشلەتكەندە توك ۋە ئېقىم ئىشلىتىش ئاشىدۇ."</item>
+    </plurals>
+    <plurals name="wifi_ap_instruction_changeable_maxclient_plurals_beyond">
+        <item quantity="other">تېلېفوننى Wi-Fi تور نۇقتىسىغا ئايلاندۇرۇڭ. كۆپىدە %d ئۈسكۈنە تېلېفونىڭىزنىڭ كۆچمە ئېقىمى ئارقىلىق تورغا چىقالايدۇ.</item>
+        <item quantity="one">تېلېفوننى Wi-Fi تور نۇقتىسىغا ئايلاندۇرۇڭ. كۆپىدە %d ئۈسكۈنە تېلېفونىڭىزنىڭ كۆچمە ئېقىمى ئارقىلىق تورغا چىقالايدۇ.</item>
+    </plurals>
+</resources>

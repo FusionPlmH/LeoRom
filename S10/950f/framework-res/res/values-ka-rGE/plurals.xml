@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">ავტომატური შევსების %d შეთავაზებაა</item>
+        <item quantity="one">ავტომატური შევსების ერთი შეთავაზება</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">ერთდროულად %d-ზე მეტი აპლიკაცია ვერ გამონდება ეკრანზე. ყველაზე ძველი აპლიკაცია ჩაიკეცება.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d აპლიკაცია იყენებს მობილურ მონაცემებს, მაშინაც კი, როდესაც ტელეფონი დაკავშირებულია Wi-Fi-სთან.</item>
+        <item quantity="one">%d აპლიკაცია იყენებს მობილურ მონაცემებს, მაშინაც კი, როდესაც ტელეფონი დაკავშირებულია Wi-Fi-სთან.</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">ამ აპლიკაციების სამართავად, შეეხეთ აქ.</item>
+        <item quantity="zero">ამ აპლიკაციების სამართავად, შეეხეთ აქ.</item>
+        <item quantity="one">ამ აპლიკაციის სამართავად, შეეხეთ აქ.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s გამოთქვამს სურვილს, თქვენთან რაღაცის გასაზიარებლად გამოიყენოს Wi-Fi Direct. დასათანხმებლად გაქვთ %2$d წამი.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s გამოთქვამს სურვილს, თქვენთან რაღაცის გასაზიარებლად გამოიყენოს Wi-Fi Direct. დასათანხმებლად გაქვთ %2$d წამი.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

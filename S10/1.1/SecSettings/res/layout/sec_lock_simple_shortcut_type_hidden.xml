@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.settings.CheckableLinearLayout android:orientation="horizontal" android:id="@id/type_checkbox" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeightSmall"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckedTextView android:gravity="center_vertical" android:id="@id/type_box" android:paddingTop="@dimen/sec_widget_list_item_padding_top" android:paddingBottom="@dimen/sec_widget_list_item_padding_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checkMark="?android:listChoiceIndicatorSingle" android:contentDescription=" " android:paddingStart="@dimen/sec_widget_list_with_checkbox_margin_start" style="@style/list_title_text_style" />
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:ellipsize="end" android:id="@id/type_title" android:paddingTop="@dimen/sec_widget_list_item_padding_top" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/lock_app_shortcut_layout_floating_button" android:paddingEnd="@dimen/sec_widget_list_with_checkbox_margin_end" style="@style/list_title_text_style" />
+        <TextView android:textAppearance="?android:textAppearanceListItemSecondary" android:textColor="?android:textColorSecondary" android:id="@id/type_summary" android:paddingBottom="@dimen/sec_widget_list_item_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/lock_app_shortcut_layout_touch_and_hold_to_show" android:paddingEnd="@dimen/sec_widget_list_with_checkbox_margin_end" />
+    </LinearLayout>
+</com.android.settings.CheckableLinearLayout>

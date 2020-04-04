@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/sec_sound_mode" android:key="sound_mode_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.settings.widget.SecMultiButtonPreference android:key="sound_mode" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="dummy_category" />
+    <SecSwitchPreference android:persistent="false" android:title="@string/sec_sound_temporary_mute" android:key="temporary_mute" />
+    <com.samsung.android.settings.notification.SoundModeDropDownPreference android:persistent="false" android:title="@string/sec_sound_mute_duration" android:key="mute_duration" />
+    <com.samsung.android.settings.widget.SecUnclickablePreference android:layout="@layout/sec_counter_widget_preference" android:title="@string/sec_dnd_enabled" android:selectable="false" android:key="dnd_enabled" />
+</PreferenceScreen>

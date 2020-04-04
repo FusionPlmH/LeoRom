@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/notification_channel_title" android:key="channel_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="no_stroke" settings:height="1.0px" settings:roundStroke="none" />
+    <com.android.settings.applications.LayoutPreference android:layout="@layout/sec_settings_entity_header" android:selectable="false" android:key="pref_app_header" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="no_stroke" settings:height="1.0px" settings:roundStroke="top_left|top_right" />
+    <com.android.settings.applications.LayoutPreference android:layout="@layout/styled_switch_bar" android:key="block" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="block_sec_inset_category" />
+    <com.samsung.android.settings.UnclickablePreference android:key="desc" />
+    <com.samsung.android.settings.UnclickablePreference android:key="block_desc" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="sec_inset_category_1" />
+    <com.android.settingslib.RestrictedSwitchPreference android:title="@string/allow_interruption" android:key="allow_sound" android:summary="@string/allow_interruption_summary" />
+    <SecDropDownPreference android:title="@string/sec_notification_importance_title" android:key="importance" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="sec_inset_category_2" />
+    <com.android.settings.notification.NotificationSoundPreference android:title="@string/notification_channel_sound_title" android:key="ringtone" android:dialogTitle="@string/notification_channel_sound_title" android:ringtoneType="notification" android:showDefault="true" android:showSilent="true" />
+    <com.android.settingslib.RestrictedSwitchPreference android:title="@string/notification_vibrate_title" android:key="vibrate" settings:useAdditionalSummary="true" />
+    <com.android.settingslib.RestrictedSwitchPreference android:title="@string/notification_show_lights_title" android:key="lights" settings:useAdditionalSummary="true" />
+    <com.android.settingslib.RestrictedSwitchPreference android:title="@string/notification_badge_app_icon_title" android:key="badge" settings:restrictedSwitchSummary="@string/enabled_by_admin" settings:useAdditionalSummary="true" />
+    <com.android.settings.RestrictedListPreference android:title="@string/sec_app_notification_visibility_override_title" android:key="visibility_override" />
+    <com.android.settingslib.RestrictedSwitchPreference android:title="@string/sec_app_notification_override_dnd_title" android:key="bypass_dnd" android:summary="@string/sec_app_notification_override_dnd_summary" settings:useAdditionalSummary="true" />
+    <Preference android:title="@string/app_settings_link" android:key="app_link" settings:allowDividerAbove="true" />
+</PreferenceScreen>

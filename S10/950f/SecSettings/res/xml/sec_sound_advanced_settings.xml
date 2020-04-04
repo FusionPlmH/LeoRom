@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/sec_sound_advanced_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <SecPreferenceScreen android:persistent="false" android:title="@string/sec_sound_effect_title" android:key="sound_effect" android:summary="@string/sec_sound_effect_title_summary" settings:controller="com.samsung.android.settings.notification.SecSoundEffectSoundController" />
+    <SecPreferenceScreen android:title="@string/sec_multi_sound_title" android:key="multi_sound" android:summary="@string/sec_multi_sound_summary" settings:controller="com.samsung.android.settings.notification.SecSoundMultiSoundController" />
+</PreferenceScreen>

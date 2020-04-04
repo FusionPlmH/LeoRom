@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/main_layout" android:background="@color/sec_widget_round_and_bgcolor" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:minHeight="?android:listPreferredItemHeightSmall"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@color/sec_widget_round_and_bgcolor" android:paddingTop="@dimen/sec_list_item_top_padding" android:paddingBottom="@dimen/sec_list_item_bottom_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/sec_list_item_start_padding" android:paddingEnd="@dimen/sec_list_item_end_padding">
+        <TextView android:textSize="@dimen/sec_motions_description_card_summary_text_size" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/wifi_mobile_wips_detail" android:singleLine="false" android:lineSpacingExtra="4.0dip" android:fontFamily="sec-roboto-light" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:background="@color/sec_widget_round_and_bgcolor" android:layout_width="wrap_content" android:text="@string/wifi_mobile_wips_exception" android:paddingEnd="0.0dip" style="?android:listSeparatorTextViewStyle" />
+        <LinearLayout android:background="@color/sec_widget_round_and_bgcolor" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <View android:background="@drawable/sec_subheader_divider" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="7.0dip" android:layout_marginStart="16.0dip" android:layout_marginEnd="@dimen/sesl_list_divider_inset" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:background="@color/sec_widget_round_and_bgcolor" android:paddingBottom="@dimen/sec_list_item_bottom_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/sec_list_item_start_padding" android:paddingEnd="@dimen/sec_list_item_end_padding">
+        <TextView android:textSize="@dimen/sec_motions_description_card_summary_text_size" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/wifi_mobile_wips_exception_summary" android:singleLine="false" android:lineSpacingExtra="4.0dip" android:fontFamily="sec-roboto-light" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/wips_no_network" android:background="@color/sec_widget_round_and_bgcolor" android:paddingTop="@dimen/sec_list_item_top_padding" android:paddingBottom="@dimen/sec_list_item_bottom_padding" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/sec_list_item_start_padding" android:paddingEnd="@dimen/sec_list_item_end_padding">
+        <TextView android:textSize="@dimen/sec_motions_description_card_summary_text_size" android:gravity="center" android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/wifi_smart_network_switch_excluded_noitem" style="@style/no_item_text_style" />
+    </LinearLayout>
+</LinearLayout>

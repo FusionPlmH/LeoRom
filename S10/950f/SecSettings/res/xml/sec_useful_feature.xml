@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:icon="@drawable/sec_ic_settings_advanced_feature" android:title="@string/useful_feature_title" android:key="display_settings_screen" settings:keywords="@string/useful_feature_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <SecSwitchPreferenceScreen android:title="@string/samsung_dex_title" android:key="key_dex" android:order="100">
+        <intent android:targetPackage="com.sec.android.app.desktoplauncher" android:action="android.intent.action.MAIN" android:targetClass="com.android.launcher3.settings.DesktopSettingsActivity" />
+    </SecSwitchPreferenceScreen>
+    <SecPreference android:title="@string/active_key_title" android:key="active_key_settings" android:order="200" android:fragment="com.samsung.android.settings.activekey.ActiveKeySettings" />
+    <SecPreference android:title="@string/accessory" android:key="dock_settings" android:order="300" android:fragment="com.samsung.android.settings.accessories.DockSettings" />
+    <SecSwitchPreferenceScreen android:title="@string/sec_daily_board_setting_title" android:key="daily_board_setting" android:summary="@string/sec_daily_board_setting_summary" android:order="400">
+        <intent android:targetPackage="com.samsung.android.homemode" android:targetClass="com.samsung.android.homemode.settings.HomeModeSettingsActivity" />
+    </SecSwitchPreferenceScreen>
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:order="450" />
+    <SecPreferenceScreen android:title="@string/multi_window_screen_title" android:key="multi_window_setting" android:summary="@string/multi_window_screen_summary" android:order="500" android:fragment="com.samsung.android.settings.usefulfeature.MultiWindowSettings" />
+    <SecSwitchPreferenceScreen android:title="@string/smart_capture_title" android:key="smart_capture" android:order="600" android:fragment="com.samsung.android.settings.usefulfeature.UsefulFeatureHub">
+        <extra android:name="type" android:value="smart_capture" />
+    </SecSwitchPreferenceScreen>
+    <SecSwitchPreferenceScreen android:title="@string/direct_share_title" android:key="direct_share" android:order="700" android:fragment="com.samsung.android.settings.usefulfeature.UsefulFeatureHub">
+        <extra android:name="type" android:value="direct_share" />
+    </SecSwitchPreferenceScreen>
+    <com.samsung.android.settings.usefulfeature.DisabledAppearanceSecSwitchPreference android:title="@string/reduce_animations_title" android:key="reduce_animations" android:summary="@string/reduce_animations_summary" android:order="725" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:order="750" />
+    <SecPreference android:title="@string/motion_and_gesture_title" android:key="motion_and_gesture" android:summary="@string/motion_and_gesture_summary" android:order="800" android:fragment="com.samsung.android.settings.usefulfeature.MotionAndGestureSettings" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:order="850" />
+    <SecPreferenceScreen android:title="@string/dual_app_title" android:key="dual_app" android:summary="@string/dual_app_summary" android:order="1000" />
+    <com.samsung.android.settings.usefulfeature.DisabledAppearanceSecSettingsSwitchPreference android:title="@string/hdr_setting" android:key="hdr_settings" android:order="1100" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:order="1150" />
+    <SecPreference android:title="@string/safetycare_send_emergency_message_title" android:key="key_safety_assistance" android:order="1200">
+        <intent android:targetPackage="com.sec.android.app.safetyassurance" android:action="android.intent.action.MAIN" android:targetClass="com.sec.android.app.safetyassurance.settings.SafetyAssuranceSetting" />
+    </SecPreference>
+    <SecPreferenceScreen android:title="@string/emergency_mode_title" android:key="safetycare_help" android:summary="@string/switch_off_text" android:order="1300" android:fragment="com.samsung.android.settings.usefulfeature.SafetyCareEmergencyMode" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:order="1350" />
+    <SecSwitchPreferenceScreen android:title="@string/airmessage_settings_title" android:key="display_airmessage" android:order="1400" />
+    <SecPreferenceScreen android:title="@string/festival_effect_settings_title" android:key="key_festival_effect" android:order="1500">
+        <intent android:action="com.samsung.android.myeventcenter.MY_EVENT" />
+    </SecPreferenceScreen>
+    <SecPreferenceScreen android:title="@string/applock_app_name" android:key="key_applock" android:order="1600" />
+    <SecPreferenceScreen android:title="@string/call_message_spam_filter_title" android:key="call_message_spam_filter" android:order="1700" />
+    <SecSwitchPreferenceScreen android:title="@string/hongbao_assistant_title" android:key="hongbao_assistant_switch" android:order="1800" />
+    <SecPreferenceScreen android:title="@string/hongbao_assistant_title" android:key="hongbao_assistant" android:summary="@string/hongbao_assistant_summary" android:order="1825" />
+    <SecPreferenceScreen android:title="@string/screen_recorder_title" android:key="screen_recorder" android:summary="@string/screen_recorder_summary" android:order="1900" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:order="1950" />
+    <SecPreference android:title="@string/galaxy_labs_title" android:key="galaxy_labs" android:summary="@string/galaxy_labs_summary" android:order="2000" />
+    <SecSwitchPreference android:title="@string/quick_dial_title" android:key="quick_dial" android:summary="@string/quick_dial_summary" android:order="2100" />
+    <SecPreference android:title="@string/panic_mode_settings_title" android:key="key_panic_mode" android:order="2200" android:fragment="com.samsung.android.settings.usefulfeature.PanicModeSettings" />
+</PreferenceScreen>

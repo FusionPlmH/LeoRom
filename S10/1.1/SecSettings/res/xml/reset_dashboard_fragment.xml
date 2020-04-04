@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/reset"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <SecPreferenceScreen android:title="@string/sec_settings_reset_title" android:key="settings_reset" android:summary="@string/sec_settings_reset_list_summary" android:order="100" android:fragment="com.samsung.android.settings.general.ResetSettings" />
+    <com.samsung.android.settings.widget.SecRestrictedPreference android:title="@string/sec_reset_network_settings" android:key="network_reset_settings" android:summary="@string/sec_reset_network_settings_list_summary" android:order="200" android:fragment="com.android.settings.ResetNetwork" settings:keywords="@string/keywords_network_reset" settings:userRestriction="no_network_reset" />
+    <SecPreferenceScreen android:title="@string/sec_reset_accessibility_title" android:key="settings_accreset" android:summary="@string/sec_reset_accessibility_summary" android:order="300" android:fragment="com.samsung.android.settings.general.ResetAccSettings" />
+    <com.samsung.android.settings.widget.SecRestrictedPreference android:title="@string/sec_master_clear_title" android:key="factory_reset" android:summary="@string/sec_master_clear_list_summary" android:order="400" android:fragment="com.android.settings.MasterClear" settings:keywords="@string/keywords_factory_data_reset" settings:userRestriction="no_factory_reset" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="category_reset_settings" android:order="450" />
+    <SecPreferenceScreen android:title="@string/sec_collect_diagnostics_title" android:key="collect_diagnostics" android:summary="@string/sec_collect_diagnostics_summary" android:order="500" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="category_reset_collect_diagnostics" android:order="550" />
+    <SecPreferenceScreen android:title="@string/sec_auto_power_on_off_title" android:key="pref_auto_power_on_off" android:order="600" android:fragment="com.samsung.android.settings.autopoweronoff.AutoPowerOnOffSettings" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="category_reset_auto_restart" android:order="650" />
+</PreferenceScreen>

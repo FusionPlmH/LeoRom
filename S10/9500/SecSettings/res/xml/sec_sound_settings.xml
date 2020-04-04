@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:icon="@drawable/ic_settings_sound" android:title="@string/sound_and_vibrations_title" android:key="notification_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <SecPreferenceScreen android:title="@string/sec_sound_mode" android:key="interval_sound_mode" android:fragment="com.samsung.android.settings.notification.SecSoundModeSettings" settings:controller="com.samsung.android.settings.notification.SecSoundIntervalSoundModeController" />
+    <SecSwitchPreference android:title="@string/sec_vibrate_on_ring_title" android:key="vibrate_when_ringing" />
+    <SecSwitchPreference android:persistent="false" android:title="@string/sec_stereo_sound_title" android:key="stereo_sound" android:summary="@string/sec_stereo_sound_summary" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="category_sound_mode" />
+    <SecPreferenceScreen android:title="@string/sec_download_ringtones" android:key="download_ringtone" android:summary="" settings:controller="com.samsung.android.settings.notification.SecSoundDownloadRingtoneController">
+        <intent android:action="android.intent.action.VIEW" android:data="http://waprd.telstra.com/redirect?target=3glatesttones" />
+    </SecPreferenceScreen>
+    <com.android.settings.DefaultRingtonePreference android:title="@string/incoming_call_volume_title" android:key="ringtone" android:dialogTitle="@string/ringtone_title" android:ringtoneType="ringtone" />
+    <SecPreferenceScreen android:persistent="false" android:title="@string/incoming_call_volume_title" android:key="ds_ring_tone" android:summary="@string/sec_ringtone_summary_ds" settings:controller="com.samsung.android.settings.notification.SecSoundDSRingtoneController" />
+    <SecPreferenceScreen android:title="@string/sec_tcoloring" android:key="tcoloring" android:summary="@string/sec_operator_ringtone_link_summary" settings:controller="com.samsung.android.settings.notification.SecSoundTColoringController" />
+    <SecPreferenceScreen android:title="@string/sec_ringtoyou" android:key="ringtoyou" android:summary="@string/sec_operator_ringtone_link_summary" settings:controller="com.samsung.android.settings.notification.SecSoundRingToYouController" />
+    <SecPreferenceScreen android:title="@string/sec_feelring" android:key="feelring" android:summary="@string/sec_operator_ringtone_link_summary" settings:controller="com.samsung.android.settings.notification.SecSoundFeelRingController" />
+    <SecPreferenceScreen android:title="@string/sec_phone_vibration_title" android:key="phone_vibration" settings:controller="com.samsung.android.settings.notification.SecSoundDeviceVibrationController">
+        <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.samsung.android.settings.personalvibration.SelectPatternDialog" />
+    </SecPreferenceScreen>
+    <com.android.settings.DefaultRingtonePreference android:persistent="false" android:title="@string/sec_notification_sound_category_title" android:key="notification_sound" android:dialogTitle="@string/notification_sound_title" android:ringtoneType="notification" />
+    <SecPreferenceScreen android:persistent="false" android:title="@string/sec_notification_sound_category_title" android:key="ds_notification_sound" android:summary="@string/sec_ringtone_summary_ds" settings:controller="com.samsung.android.settings.notification.SecSoundDSNotificationController" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="category_sound_ringtone" />
+    <com.samsung.android.settings.widget.SecRestrictedPreference android:title="@string/all_volume_title" android:key="volume_setting" android:fragment="com.samsung.android.settings.notification.SecVolumeSettings" settings:SettingsMode="UPSM" />
+    <SecPreferenceScreen android:title="@string/sec_vibration_intensity" android:key="vibration_feedback_intensity" android:fragment="com.samsung.android.settings.notification.SecVibrationIntensitySettings" settings:SettingsMode="UPSM" settings:controller="com.samsung.android.settings.notification.SecSoundVibrationFeedbackController" />
+    <SecSwitchPreference android:persistent="false" android:title="@string/sec_volume_key_control_title" android:key="volume_key_control" android:summary="@string/sec_volume_key_control_summary" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="category_sound_volume" />
+    <SecPreferenceScreen android:title="@string/sec_sound_system_feedback_title" android:key="sound_system_feedback" android:summary="@string/sec_sound_system_feedback_summary" android:fragment="com.samsung.android.settings.notification.SecSoundSystemFeedbackSettings" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="category_sound_system_feedback" />
+    <SecPreferenceScreen android:title="@string/sec_sound_advanced_title" android:key="sound_advanced" android:fragment="com.samsung.android.settings.notification.SecSoundAdvancedSettings" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="category_sound_advanced" />
+</PreferenceScreen>

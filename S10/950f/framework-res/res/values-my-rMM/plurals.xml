@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">အော်တိုဖြည့် အကြံပြုချက် %d ခု</item>
+        <item quantity="one">အော်တိုဖြည့် အကြံပြုချက်တစ်ခု</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">ဖန်သားပြင်ပေါ်၌ အက်ပ် %d ခုထက် ပိုပြီး တစ်ပြိုင်နက် ပြသ၍မရပါ။ အဟောင်းဆုံးအက်ပ်ကို ချုံ့ထားသည်။</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">သင်ဖုန်းကို Wi-Fi ဖြင့် ချိတ်ဆက်ထားသည့် အချိန်မျိုးတွင်ပင် အက်ပ် %d ခုက မိုဘိုင်းဒေတာကို အသုံးပြုနေပါသည်။</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">ဤအက်ပ်များကို စီမံရန် ဒီနေရာကို နှိပ်ပါ။</item>
+        <item quantity="zero">ဤအက်ပ်များကို စီမံရန် ဒီနေရာကို နှိပ်ပါ။</item>
+        <item quantity="one">ဤအက်ပ်ကို စီမံရန် ဒီနေရာကို နှိပ်ပါ။</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s က Wi-Fi Direct သုံး၍ သင်ဖြင့် တစ်စုံတစ်ခု မျှဝေလိုပါသည်။ သင် လက်ခံရန် %2$d စက္ကန့် အချိန်ရှိပါသည်။</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

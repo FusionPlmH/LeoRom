@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="sem_decor_caption_button_disabled_alpha">0.5</item>
+    <dimen name="sem_decor_caption_icon_size">28.0dip</dimen>
+    <dimen name="status_bar_height">24.0dip</dimen>
+</resources>

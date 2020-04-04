@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:title="@string/operator_set" android:key="operator_set" />
+    <SwitchPreference android:title="@string/data_usage_reminder_title" android:key="data_usage_reminder" android:summary="@string/data_usage_reminder_item_summary" />
+</PreferenceScreen>

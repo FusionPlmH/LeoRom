@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="battery_labels">
+        <item>0</item>
+        <item>0.5</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_summaries">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>རྩོམ་སྒྲིག་ཆས་མཐའ་དག</item>
+        <item>རང་ལེན་རྩོམ་སྒྲིག་ཆས།</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_titles">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>རྩོམ་སྒྲིག་ཆས་མཐའ་དག</item>
+        <item>རང་ལེན་རྩོམ་སྒྲིག་ཆས།</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>བཤེར་འཚོལ་བྱེད་བཞིན་པ།</item>
+        <item>དྲ་བར་འབྲེལ་མཐུད་བྱེད་བཞིན་པ།</item>
+        <item>ཚོད་དཔྱད་བྱེད་བཞིན་པ།</item>
+        <item>ད་ལྟ་IP ས་གནས་ཐོབ་ལེན་བྱེད་བཞིན་པ།</item>
+        <item>འབྲེལ་མཐུད་ཟིན།</item>
+        <item>བར་མཚམས་བཞག</item>
+        <item>ད་ལྟ་བཅད་བཞིན་པ།</item>
+        <item>བཅད་ཟིན།</item>
+        <item>མ་ཐུབ།</item>
+        <item>བཀག་ཟིན།</item>
+        <item>ཁྱེད་ཀྱི་མུ་འབྲེལ་དྲ་རྒྱའི་འབྲེལ་མཐུད་སྤུས་ཚད་ལ་རྟོགས་དཔྱད་བྱ་བཞིན་པ།</item>
+    </string-array>
+</resources>

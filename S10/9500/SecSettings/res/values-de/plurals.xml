@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">vor %d Tagen</item>
+        <item quantity="one">vor %d Tag</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">vor %d Min.</item>
+        <item quantity="one">vor %d Min.</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">vor %d Jahren</item>
+        <item quantity="one">vor %d Jahr</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Extrem kurze Verzögerung (%s ms)</item>
+        <item quantity="one">Extrem kurze Verzögerung (%s ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Lange Verzögerung (%s ms)</item>
+        <item quantity="one">Lange Verzögerung (%s ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Kurze Verzögerung (%s ms)</item>
+        <item quantity="one">Kurze Verzögerung (%s ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Sehr lange Verzögerung (%s ms)</item>
+        <item quantity="one">Sehr lange Verzögerung (%s ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Sehr kurze Verzögerung (%s ms)</item>
+        <item quantity="one">Sehr kurze Verzögerung (%s ms)</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item quantity="other">%d Apps einschränken?</item>
+        <item quantity="one">App einschränken?</item>
+    </plurals>
+    <plurals name="bluetooth_restored_count_popup_title">
+        <item quantity="other">%d Geräte übertragen</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d Gerät übertragen</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">%d Apps dürfen Daten ohne Beschränkungen verwenden.</item>
+        <item quantity="one">1 App darf Daten ohne Beschränkungen verwenden</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item quantity="other">%d Kategorien gelöscht</item>
+        <item quantity="one">1 Kategorie gelöscht</item>
+    </plurals>
+    <plurals name="dex_timeout_day">
+        <item quantity="other">%d Tage</item>
+        <item quantity="one">1 Tag</item>
+    </plurals>
+    <plurals name="dex_timeout_hour">
+        <item quantity="other">%d Stunden</item>
+        <item quantity="one">1 Stunde</item>
+    </plurals>
+    <plurals name="dex_timeout_minute">
+        <item quantity="other">%d Minuten</item>
+        <item quantity="one">1 Minute</item>
+    </plurals>
+    <plurals name="dex_timeout_second">
+        <item quantity="other">%d Sekunden</item>
+        <item quantity="one">1 Sekunde</item>
+    </plurals>
+    <plurals name="dex_timeout_week">
+        <item quantity="other">%d Wochen</item>
+        <item quantity="one">1 Woche</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Entfernen von ausgewählten Sprachen</item>
+        <item quantity="one">Entfernen der ausgewählten Sprache</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">%d Stunden</item>
+        <item quantity="one">%d Stunde</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">%d Minuten</item>
+        <item quantity="one">%d Minute</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">%d Sekunden</item>
+        <item quantity="one">1 Sekunde</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Passwort muss mind. %d Buchstaben enthalten.</item>
+        <item quantity="one">Passwort muss mind. einen Buchstaben enthalten.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Passwort muss mind. %d Kleinbuchstaben enthalten.</item>
+        <item quantity="one">Passwort muss mind. einen Kleinbuchstaben enthalten.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Passwort muss mindestens %d Ziffern oder Symbole enthalten.</item>
+        <item quantity="one">Passwort muss mindestens 1 Ziffer oder Symbol enthalten.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Passwort muss mindestens %d Ziffern enthalten.</item>
+        <item quantity="one">Passwort muss mindestens eine Ziffer enthalten.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Passwort muss mindestens %d Symbole enthalten.</item>
+        <item quantity="one">Passwort muss mindestens 1 Symbol enthalten.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Passwort muss mind. %d Großbuchstaben enthalten.</item>
+        <item quantity="one">Passwort muss mind. einen Großbuchstaben enthalten.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d Anwendungen können Benachrichtigungen lesen.</item>
+        <item quantity="one">Anwendung „%d“ darf Benachrichtigungen lesen.</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d Prozesse haben in der/den letzten %2$s RAM verwendet.</item>
+        <item quantity="one">%1$d Prozess hat in der/den letzten %2$s RAM verwendet.</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item quantity="other">%d Einschränkungen</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d Einschränkung</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">Aus für %d Apps</item>
+        <item quantity="one">Aus für %d App</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item quantity="other">%d aktive Apps</item>
+        <item quantity="one">1 aktive App</item>
+    </plurals>
+    <plurals name="remove_language_title_multiple_plurals">
+        <item quantity="other">%d Sprachen entfernen?</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d weitere Berechtigungen</item>
+        <item quantity="one">%d weitere Berechtigung</item>
+    </plurals>
+    <plurals name="sec_auto_power_off_dialog_text_plurals">
+        <item quantity="other">Ihr Telefon wird in %d Sekunden automatisch ausgeschaltet. Damit das Telefon diesmal eingeschaltet bleibt, auf „Abbrechen“ tippen.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ihr Telefon wird in %d Sekunde automatisch ausgeschaltet. Damit das Telefon diesmal eingeschaltet bleibt, auf „Abbrechen“ tippen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sec_datausage_mdo_summary_multiple_apps">
+        <item quantity="other">%d Apps ausgewählt</item>
+        <item quantity="one">%d App ausgewählt</item>
+    </plurals>
+    <plurals name="sec_plurals_recent_notification_title">
+        <item quantity="other">%d aktuelle Benachrichtigungen</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aktuelle Benachrichtigung</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Sie sind nun in %d Schritten ein Entwickler.</item>
+        <item quantity="one">Noch 1 Schritt, und Sie sind Entwickler.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">Vertrauen oder Entfernen von Zertifikaten</item>
+        <item quantity="one">Vertrauen oder Entfernen des Zertifikats</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"%s hat Zertifikate eines autorisierten Zertifikatsausstellers für Ihr Arbeitsprofil installiert. Dadurch kann möglicherweise die Arbeitsnetzwerkaktivität, einschließlich Ihrer Nutzung von E-Mails, Apps und sicheren Webseiten, überwacht werden. Sie können wählen, ob Sie den Zertifikaten vertrauen oder sie entfernen möchten.
+
+Weitere Informationen zu diesen Zertifikaten erhalten Sie von Ihrem Administrator."</item>
+        <item quantity="one">"%s hat ein Zertifikat eines autorisierten Zertifikatsausstellers für Ihr Arbeitsprofil installiert. Dadurch kann möglicherweise die Arbeitsnetzwerkaktivität, einschließlich Ihrer Nutzung von E-Mails, Apps und sicheren Webseiten, überwacht werden. Sie können wählen, ob Sie diesem Zertifikat vertrauen oder es entfernen möchten.
+
+Weitere Informationen zu diesem Zertifikat erhalten Sie von Ihrem Administrator."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%s hat CA-Zertifikate auf Ihrem Gerät installiert. Dadurch kann möglicherweise die Netzwerkaktivität, einschließlich Ihrer Nutzung von E-Mails, Apps und sicheren Webseiten, überwacht werden.
+
+Weitere Informationen zu diesen Zertifikaten erhalten Sie von Ihrem IT-Administrator."</item>
+        <item quantity="one">"%s hat ein CA-Zertifikat auf Ihrem Gerät installiert. Dadurch kann möglicherweise die Netzwerkaktivität, einschließlich Ihrer Nutzung von E-Mails, Apps und sicheren Webseiten, überwacht werden.
+
+Weitere Informationen zu diesem Zertifikat erhalten Sie von Ihrem IT-Administrator."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Zertifikate überprüfen</item>
+        <item quantity="one">Zertifikat überprüfen</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">Zugriff auf %d Ordner/Dateien</item>
+        <item quantity="one">Zugriff auf 1 Ordner/Datei</item>
+    </plurals>
+    <plurals name="wifi_ap_instruction_changeable_maxclient_plurals_att_beyond">
+        <item quantity="other">"Verwenden Sie Ihr Telefon mit als WLAN-Access Point. Bis zu %d andere Geräte können die mobilen Daten Ihres Telefons verwenden, um auf das Internet zuzugreifen.
+
+Die Verwendung von Mobile Hotspot verbraucht mehr Akkuladung und erhöht Ihre Datennutzung."</item>
+        <item quantity="one">"Verwenden Sie Ihr Telefon mit als WLAN-Access Point. Bis zu %d anderes Gerät kann die mobilen Daten Ihres Telefons verwenden, um auf das Internet zuzugreifen.
+
+Die Verwendung von Mobile Hotspot verbraucht mehr Akkuladung und erhöht Ihre Datennutzung."</item>
+    </plurals>
+    <plurals name="wifi_ap_instruction_changeable_maxclient_plurals_beyond">
+        <item quantity="other">Aktivieren Sie Ihr Telefon als WLAN-Access Point. Bis zu %d weitere Geräte können über die Mobildaten Ihres Telefons auf das Internet zugreifen.</item>
+        <item quantity="one">Aktivieren Sie Ihr Telefon als WLAN-Access Point. Bis zu %d weiteres Gerät kann über die Mobildaten Ihres Telefons auf das Internet zugreifen.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d Geräte verbunden</item>
+        <item quantity="one">%1$d Gerät verbunden</item>
+    </plurals>
+</resources>

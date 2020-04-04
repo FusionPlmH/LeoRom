@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/lock_app_shortcut_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.android.settings.applications.LayoutPreference android:layout="@layout/sec_lock_simple_shortcut_preview" android:key="shortcut_preview" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="shortcut_inset_category" settings:height="0.0dip" settings:roundStroke="top_left|top_right" />
+    <DropDownPreference android:title="@string/lock_app_shortcut_layout" android:key="shortcut_view_type" />
+    <SecPreferenceScreen android:title="@string/lock_simple_shortcut_left" android:key="left_shortcut" android:fragment="com.samsung.android.settings.lockscreen.AppShortcutList">
+        <extra android:name="pressed_type" android:value="left" />
+    </SecPreferenceScreen>
+    <SecPreferenceScreen android:title="@string/lock_simple_shortcut_right" android:key="right_shortcut" android:fragment="com.samsung.android.settings.lockscreen.AppShortcutList">
+        <extra android:name="pressed_type" android:value="right" />
+    </SecPreferenceScreen>
+</PreferenceScreen>

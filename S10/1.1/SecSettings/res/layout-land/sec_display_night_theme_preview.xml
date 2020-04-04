@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@color/sec_widget_round_and_bgcolor" android:paddingBottom="@dimen/sec_widget_body_text_padding_start_end" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.airbnb.lottie.LottieAnimationView android:layout_gravity="center" android:id="@id/preview_image" android:layout_width="wrap_content" android:layout_height="0.0dip" app:lottie_autoPlay="true" app:lottie_fileName="sec_display_night_theme_preview.json" />
+    <TextView android:id="@id/sec_night_theme_desc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sec_night_theme_desc" android:layout_marginHorizontal="@dimen/sec_widget_body_text_padding_start_end" style="@style/body_text_style" />
+</LinearLayout>

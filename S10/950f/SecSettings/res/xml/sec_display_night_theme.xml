@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference settings:height="1.0px" settings:roundStroke="none" />
+    <com.android.settings.applications.LayoutPreference android:layout="@layout/sec_display_night_theme_preview" android:selectable="false" android:key="sec_night_theme_preview" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="sec_night_theme_inset_category" settings:height="0.0dip" settings:roundStroke="top_left|top_right" />
+    <SecSwitchPreference android:title="@string/sec_blue_light_filter_enable_now" android:key="sec_night_theme_turn_on_now" />
+    <SecSwitchPreference android:title="@string/sec_blue_light_filter_enable_as_scheduled" android:key="sec_night_theme_turn_on_as_scheduled" android:summary="@string/sec_night_theme_turn_on_as_scheduled_summary" />
+    <com.samsung.android.settings.widget.SecRadioButtonPreference android:title="@string/sec_blue_light_filter_auto_schedule_title" android:key="sec_night_theme_auto_schedule" />
+    <com.samsung.android.settings.widget.SecRadioButtonPreference android:title="@string/sec_blue_light_filter_user_schedule_title" android:key="sec_night_theme_user_schedule" />
+    <SecPreferenceScreen android:title="@string/sec_blue_light_filter_on_time" android:key="sec_night_theme_on_time" />
+    <SecPreferenceScreen android:title="@string/sec_blue_light_filter_off_time" android:key="sec_night_theme_off_time" />
+</PreferenceScreen>

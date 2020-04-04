@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d वटा स्वतःभरणका सुझावहरू छन्</item>
+        <item quantity="one">एउटा स्वतःभरणको सुझाव छ</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">एकै समयमा स्क्रीनमा %d भन्दा बढी एपहरू देखाउन सकिँदैन। सबैभन्दा पुरानो एप सानो बनाइयो।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">तपाईको फोन Wi-Fi मा जडान हुँदा पनि %d एपहरूले मोबाइल डाटा प्रयोग गरिरहेका छन्।</item>
+        <item quantity="one">तपाईको फोन Wi-Fi मा जडान हुँदा पनि %d एपले मोबाइल डाटा प्रयोग गरिरहेको छ।</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">यी एपहरू व्यवस्थापन गर्न यहाँ ट्याप गर्नुहोस्।</item>
+        <item quantity="zero">यी एपहरू व्यवस्थापन गर्न यहाँ ट्याप गर्नुहोस्।</item>
+        <item quantity="one">यो एप व्यवस्थापन गर्न यहाँ ट्याप गर्नुहोस्।</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s नामक यन्त्र Wi-Fi Direct प्रयोग गरी तपाईसँग केही कुरा साझा गर्न चाहन्छ। स्वीकार गर्न तपाईसँग %2$d सेकेन्ड बाँकी छ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s नामक यन्त्र Wi-Fi Direct प्रयोग गरी तपाईसँग केही कुरा साझा गर्न चाहन्छ। स्वीकार गर्न तपाईसँग %2$d सेकेन्ड बाँकी छ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/motion_and_gesture_title" android:key="motion_and_gesture_screen" settings:keywords="@string/motion_and_gesture_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <SecSwitchPreference android:title="@string/motion_and_gesture_lift_to_wake_title" android:key="lift_to_wake" android:summary="@string/motion_and_gesture_lift_to_wake_summary" />
+    <SecSwitchPreference android:persistent="false" android:title="@string/sec_double_tab_to_wake_up_title" android:key="double_tab_to_wake_up" android:summary="@string/sec_double_tab_to_wake_up_summary" />
+    <SecSwitchPreferenceScreen android:title="@string/intelligent_sleep_title" android:key="smart_stay" android:fragment="com.samsung.android.settings.usefulfeature.SmartStaySettings" />
+    <SecSwitchPreferenceScreen android:title="@string/pick_up_title" android:key="smart_alert" android:fragment="com.samsung.android.settings.usefulfeature.UsefulFeatureHub">
+        <extra android:name="type" android:value="smart_alert" />
+    </SecSwitchPreferenceScreen>
+    <SecSwitchPreferenceScreen android:title="@string/mute_title" android:key="easy_mute" android:fragment="com.samsung.android.settings.usefulfeature.UsefulFeatureHub">
+        <extra android:name="type" android:value="easy_mute" />
+    </SecSwitchPreferenceScreen>
+    <SecSwitchPreferenceScreen android:title="@string/pick_up_to_call_out_title" android:key="direct_call" android:fragment="com.samsung.android.settings.usefulfeature.UsefulFeatureHub">
+        <extra android:name="type" android:value="direct_call" />
+    </SecSwitchPreferenceScreen>
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference />
+    <SecSwitchPreferenceScreen android:title="@string/onehand_settings_title" android:key="onehand_operation_settings" android:fragment="com.samsung.android.settings.usefulfeature.NewOneHandOperationSettings" />
+    <SecSwitchPreferenceScreen android:title="@string/finger_sensor_gesture_title" android:key="finger_sensor_gesture" android:fragment="com.samsung.android.settings.usefulfeature.FingerSensorGestureSettings" />
+    <SecSwitchPreferenceScreen android:title="@string/palm_swipe_title" android:key="palm_swipe_to_capture" android:fragment="com.samsung.android.settings.usefulfeature.UsefulFeatureHub">
+        <extra android:name="type" android:value="palm_swipe_to_capture" />
+    </SecSwitchPreferenceScreen>
+    <SecSwitchPreferenceScreen android:title="@string/swipe_to_call_title" android:key="swipe_to_call_or_send_messages" android:fragment="com.samsung.android.settings.usefulfeature.UsefulFeatureHub">
+        <extra android:name="type" android:value="swipe_to_call_or_send_messages" />
+    </SecSwitchPreferenceScreen>
+</PreferenceScreen>

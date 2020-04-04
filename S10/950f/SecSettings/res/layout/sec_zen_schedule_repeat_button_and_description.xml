@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.settings.notification.SecZenScheduleRepeatPreference android:orientation="vertical" android:id="@id/sec_schedule_repeat" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.settings.notification.SecZenScheduleRepeatButton android:layout_gravity="center_horizontal" android:id="@id/custom_repeat_btn" android:layout_width="fill_parent" android:layout_height="@dimen/sec_zen_mode_schedule_repeat_layout_height" />
+    <View android:background="@color/section_divider_bg_color" android:layout_width="fill_parent" android:layout_height="@dimen/sec_widget_section_divider_height" android:layout_marginStart="@dimen/sec_widget_section_divider_padding" android:layout_marginEnd="@dimen/sec_widget_section_divider_padding" />
+</com.samsung.android.settings.notification.SecZenScheduleRepeatPreference>

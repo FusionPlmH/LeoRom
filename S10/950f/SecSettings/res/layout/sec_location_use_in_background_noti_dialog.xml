@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/linear_layout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:paddingTop="@dimen/sec_widget_list_dialog_padding_top" android:paddingBottom="@dimen/sec_widget_list_dialog_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/background_location_dialog_description" android:paddingStart="@dimen/sec_widget_alert_dialog_padding_start_end" android:paddingEnd="@dimen/sec_widget_alert_dialog_padding_start_end" style="@style/dialog_body_text_style" />
+        <com.android.settings.CheckableLinearLayout android:orientation="vertical" android:id="@id/location_use_in_background_on" android:background="?android:selectableItemBackground" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/sec_widget_list_dialog_padding_start_end" android:layout_marginRight="@dimen/sec_widget_list_dialog_padding_start_end">
+            <CheckedTextView android:textColor="?android:textColorAlertDialogListItem" android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:checkMark="?android:listChoiceIndicatorSingle" android:minHeight="?android:listPreferredItemHeightSmall" android:text="@string/background_location_on" style="?android:textAppearanceMedium" />
+        </com.android.settings.CheckableLinearLayout>
+        <com.android.settings.CheckableLinearLayout android:orientation="vertical" android:id="@id/location_use_in_background_off" android:background="?android:selectableItemBackground" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/sec_widget_list_dialog_padding_start_end" android:layout_marginRight="@dimen/sec_widget_list_dialog_padding_start_end">
+            <CheckedTextView android:textColor="?android:textColorAlertDialogListItem" android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:checkMark="?android:listChoiceIndicatorSingle" android:minHeight="?android:listPreferredItemHeightSmall" android:text="@string/background_location_off" style="?android:textAppearanceMedium" />
+        </com.android.settings.CheckableLinearLayout>
+    </LinearLayout>
+</ScrollView>

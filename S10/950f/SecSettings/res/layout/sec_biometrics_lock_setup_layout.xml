@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/biometrics_lock_setup_total" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/button_flat_bar">
+        <RelativeLayout android:id="@id/biometrics_lock_setup_total_contents" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/continueButtonContainer" android:layout_alignParentTop="true" android:paddingStart="@dimen/biometrics_lock_setup_padding" android:paddingEnd="@dimen/biometrics_lock_setup_padding">
+            <RelativeLayout android:gravity="center" android:id="@id/biometrics_lock_setup_title" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:id="@id/biometrics_lock_setup_icon_image" android:layout_width="@dimen/biometrics_lock_setup_icon_width" android:layout_height="@dimen/biometrics_lock_setup_icon_height" android:layout_marginTop="@dimen/biometrics_lock_setup_icon_margin_top" android:tint="@color/biometrics_guide_common_icon_color" android:layout_centerHorizontal="true" />
+                <TextView android:gravity="center_horizontal" android:id="@id/biometrics_lock_setup_title_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/biometrics_lock_setup_title_margin_top" android:layout_marginBottom="@dimen/biometrics_lock_setup_title_margin_bottom" android:layout_below="@id/biometrics_lock_setup_icon_image" style="@style/SecBiometricsGuideCommonTitleStyle" />
+            </RelativeLayout>
+            <ScrollView android:id="@id/biometrics_lock_setup_body" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/biometrics_lock_setup_scroll_margin_top" android:layout_below="@id/biometrics_lock_setup_title">
+                <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:gravity="start" android:id="@id/biometrics_lock_setup_main_guide_text" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SecBiometricsGuideCommonDescTextStyle" />
+                    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/biometrics_lock_setup_sub_desc_margin_top" android:layout_below="@id/biometrics_lock_setup_main_guide_text" android:paddingStart="@dimen/biometrics_lock_setup_sub_desc_padding">
+                        <LinearLayout android:orientation="horizontal" android:id="@id/biometrics_lock_setup_sub_desc_1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                            <TextView android:id="@id/biometrics_lock_setup_desc_number_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/biometrics_lock_setup_desc_number_1" style="@style/SecBiometricsGuideCommonInfoTextStyle" />
+                            <TextView android:gravity="start" android:id="@id/biometrics_lock_setup_desc_text_1" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SecBiometricsGuideCommonInfoTextStyle" />
+                        </LinearLayout>
+                        <LinearLayout android:orientation="horizontal" android:id="@id/biometrics_lock_setup_sub_desc_2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/biometrics_lock_setup_sub_desc_1">
+                            <TextView android:id="@id/biometrics_lock_setup_desc_number_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/biometrics_lock_setup_desc_number_2" style="@style/SecBiometricsGuideCommonInfoTextStyle" />
+                            <TextView android:gravity="start" android:id="@id/biometrics_lock_setup_desc_text_2" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SecBiometricsGuideCommonInfoTextStyle" />
+                        </LinearLayout>
+                    </RelativeLayout>
+                </RelativeLayout>
+            </ScrollView>
+        </RelativeLayout>
+        <include android:id="@id/continueButtonContainer" layout="@layout/sec_biometrics_common_raised_button" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/button_flat_bar" android:background="@color/bottom_bar_bg_color" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <View android:id="@id/bottom_divider" android:layout_width="fill_parent" style="@style/bottom_bar_divider_style" />
+        <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/prev_button_area" android:background="@drawable/sec_ripple_bottom_bar_button_wifi" android:focusable="true" android:layout_width="wrap_content" android:layout_height="@dimen/biometrics_lock_setup_suw_button_height" android:layout_marginStart="@dimen/biometrics_lock_setup_suw_button_margin">
+            <ImageView android:gravity="center" android:id="@id/prev_btn_arrow" android:layout_width="@dimen/biometrics_lock_setup_suw_button_image_size" android:layout_height="@dimen/biometrics_lock_setup_suw_button_image_size" android:src="@drawable/sec_setupwizard_prev_arrow_auto_mirrored" android:layout_marginEnd="@dimen/biometrics_lock_setup_suw_button_padding" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/next_button_area" android:background="@drawable/sec_ripple_bottom_bar_button_wifi" android:focusable="true" android:layout_width="wrap_content" android:layout_height="@dimen/biometrics_lock_setup_suw_button_height" android:layout_marginEnd="@dimen/biometrics_lock_setup_suw_button_margin" android:layout_alignParentEnd="true">
+            <TextView android:gravity="end|center" android:id="@id/next_text_btn" android:text="@string/biometrics_common_continue_button_text" android:textAllCaps="true" android:paddingStart="6.0dip" style="@style/WifiPreferenceButtonBar" />
+            <ImageView android:gravity="center" android:id="@id/next_btn_arrow" android:layout_width="@dimen/biometrics_lock_setup_suw_button_image_size" android:layout_height="@dimen/biometrics_lock_setup_suw_button_image_size" android:src="@drawable/sec_setupwizard_next_arrow_auto_mirrored" android:layout_marginStart="@dimen/biometrics_lock_setup_suw_button_padding" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_brightness_detail_button">يورۇقلۇق تەڭشەكلىرى پانېلى</string>
+    <string name="accessibility_button">كۇنۇپكا</string>
+    <string name="accessibility_page_indicator">%1$d/%2$d-بەت</string>
+    <string name="accessibility_phone_four_bars">تۆت تال تېلېفون سىگنال بالدىقى</string>
+    <string name="accessibility_quick_settings_finder">تاپقۇچ</string>
+    <string name="accessibility_quick_settings_more_option">باشقا تاللانمىلار</string>
+    <string name="agree">قوشۇلۇش</string>
+    <string name="airplane_mode_plmn">ئۇچۇش ھالىتى</string>
+    <string name="airplane_mode_show_popup_message">ئۇچۇش ھالىتى ئېچىلسا، چاقىرىق، ئۇچۇر، كۆچمە ئېقىم، Wi-Fi ۋە كۆكچىش قاتارلىق بارلىق تور ئىقتىدارى ئېتىلىدۇ. Wi-Fi ۋە كۆكچىشنى ئېچىش ئۈچۈن تەڭشەك ياكى تېز سۇپىدىن قوزغاتسىڭىز بولىدۇ.</string>
+    <string name="airplane_mode_show_popup_message_cmcc">ئۇچۇش مودى چاقىرما قىلىش، ئۇچۇر قىلىش ۋە بەرمىلەر تور ئىقتىدارلىرىنى ئېتىشىڭىزگە ئىمكان بېرىدۇ. ئۇ يەنە Wi-Fi ۋە كۆكچىش دېگەندەك ئۇلىنىشچانلىق ئىقتىدارلىرىنىمۇ ئېتىۋېتىدۇ. Wi-Fi ۋە كۆكچىش نى قوللىنىش ئۈچۈن، ئۇلارنى \"تەڭشەكلەر\" دە ياكى بىلدۈرۈم پانېلىدا ئېچىڭ.</string>
+    <string name="airplane_mode_show_popup_message_vzw">"‏Wi-Fi ئىشلەتمىسىڭىز تور، تورخەت ۋە باشقا ئېقىم ئۇلىنىشى تەلەپ قىلىدىغان ئەپلەرنى ئىشلىتەلمەيسىز.
+ئۇچۇش ھالىتىنى ئاچامسىز؟"</string>
+    <string name="airplane_mode_show_popup_message_wifi">"‏Wi-Fi ۋە كۆكچىش نى ئېتىڭ.
+
+سىز ئۇلارنى تەڭشەكلەر دە ياكى تېز تەڭشەكلەر پانېلىدا قايتا ئاچالايسىز."</string>
+    <string name="airplane_mode_show_popup_safelock">【阻止锁定时关机】启用期间无法启用【飞行模式】。请在解锁屏幕后重试。</string>
+    <string name="airplane_mode_show_popup_summary">ئۇچۇش ھالىتى ئېچىلسا، چاقىرىق، ئۇچۇر، كۆچمە ئېقىم، Wi-Fi ۋە كۆكچىش قاتارلىق بارلىق تور ئىقتىدارى ئېتىلىدۇ. Wi-Fi ۋە كۆكچىشنى ئېچىش ئۈچۈن تەڭشەك ياكى تېز سۇپىدىن قوزغاتسىڭىز بولىدۇ.</string>
+    <string name="airplane_mode_show_popup_title">ئۇچۇش مودىنى ئاچامسىز؟</string>
+    <string name="airplane_mode_show_popup_title_vzw">ئۇچۇش ھالىتىنى ئېچىش</string>
+    <string name="airplane_mode_show_toast_turn_on_wifi_for_wificalling">‏Wi-Fi چاقىرىقى قىلىش ئۈچۈن Wi-Fi نى ئېچىڭ.</string>
+    <string name="airplane_mode_toast_impossible_during_call">چاقىرىق جەريانىدا ئۇچۇش ھالىتى ئېچىلمايدۇ.</string>
+    <string name="allow_notifications_guide_text">بۇ كاتېگورىيەدىن بىلدۈرۈملەرگە رۇخسەت قىلىڭ.</string>
+    <string name="app_label">系统 UI</string>
+    <string name="assistance_app_setting_alert_dialog_title">باش كۇنۇپكىنى بېسىپ تۇرغاندا ئاچىدىغان ئەپ تاللاڭ. تاللىغان ئەپنى كېيىن ئۆزگەرتىش ئۈچۈن تەڭشەكتىن ئۈسكۈنە ياردەمچىسى ئەپىگە كىرىڭ.</string>
+    <string name="assistance_app_setting_item_none">يوق</string>
+    <string name="battery_cable_charging_from_wireless_to_cable_text">سىمسىز توكلاشتىن سىملىق توكلاشقا ئالماشتۇرۇش</string>
+    <string name="battery_cable_charging_title">سىملىق توكلاش</string>
+    <string name="battery_charging_level_and_time_text">"توكلاش: %1$d%%
+(تولۇق توكلىنىشقا تەخمىنەن %2$s)"</string>
+    <string name="battery_charging_level_text">توكلاپ: %d%%</string>
+    <string name="battery_charging_time_text">(تولۇق توكلىنىشقا %s قالدى)</string>
+    <string name="battery_charging_title">توكلاۋاتىدۇ</string>
+    <string name="battery_fast_charging_title">تېز زەرەتلەش</string>
+    <string name="battery_fast_charging_title_chn">ئالىي توكلاش</string>
+    <string name="battery_fast_wireless_charging_title">تېز سىمسىز زەرەتلەش</string>
+    <string name="battery_fast_wireless_charging_title_chn">ئالىي سىمسىز توكلاش</string>
+    <string name="battery_health_interruption_by_limit_high_temperature_text_phone">"توكلاش توختىدى. تېلېفون بەك قىزىپ كەتتى. توكلىغۇچنى ئاجراتقاندا ئېھتىيات قىلىڭ. ئۇ بەك قىزىپ كەتكەن بولۇشى مۇمكىن.
+
+توكلىغۇچنى ئۈزۈپ قايتا چاتسىڭىز، نورمال توكلىنىشى مۇمكىن. يەنە داۋاملىق قىزىپ كەتسە، خېرىدارلار مۇلازىمەت مەركىزى بىلەن ئالاقىلىشىڭ، قىزىشنىڭ ئوت كېتىش ياكى يارىلىنىشنى كەلتۈرۈپ چىقىرىش خەتىرى بار."</string>
+    <string name="battery_health_interruption_by_limit_high_temperature_text_tablet">"توكلاش توختىدى. تاختا كومپيۇتېر بەك قىزىپ كەتتى. توكلىغۇچنى ئاجراتقاندا ئېھتىيات قىلىڭ. ئۇ بەك قىزىپ كەتكەن بولۇشى مۇمكىن.
+
+توكلىغۇچنى ئۈزۈپ قايتا چاتسىڭىز، نورمال توكلىنىشى مۇمكىن. يەنە داۋاملىق قىزىپ كەتسە، خېرىدارلار مۇلازىمەت مەركىزى بىلەن ئالاقىلىشىڭ، قىزىشنىڭ ئوت كېتىش ياكى يارىلىنىشنى كەلتۈرۈپ چىقىرىش خەتىرى بار."</string>
+    <string name="battery_health_interruption_by_limit_high_temperature_title">توكلىغۇچنى ئاجرىتىڭ</string>
+    <string name="battery_health_interruption_by_terminal_open_galaxy_text">ئۈسكۈنىڭىزنى توكلىيالمىدى. Galaxy ماسلىشىشچان باتارېيەسى ۋە توكلىغۇچى ئىشلەتكەنلىڭىزنى، ئۈسكۈنىڭىزنىڭ توكلىغۇچقا توغرا چېتىلغانلىقىنى جەزملەشتۈرۈڭ.</string>
+    <string name="battery_health_interruption_by_terminal_open_text">ئۈسكۈنىڭىز توكلانمىدى. Samsung تەمىنلىگەن ياكى قوللايدىغان توكلىغۇچ ۋە باتارېيە ئىشلەتكەنلىكىڭىزنى جەزملەڭ، شۇنداقلا ئۈسكۈنە ياخشى چېتىلدىمۇ تەكشۈرۈڭ.</string>
+    <string name="battery_health_interruption_by_too_high_temperature_text_phone">تېلېفونىڭىز بەك قىزىپ كەتتى. تېمېپراتۇرىسى نورماللاشقاندا توكلاش داۋاملىشىدۇ.</string>
+    <string name="battery_health_interruption_by_too_high_temperature_text_tablet">تاختا كومپيۇتېرىڭىز بەك قىزىپ كەتتى. تېمېپراتۇرىسى نورماللاشقاندا توكلاش داۋاملىشىدۇ.</string>
+    <string name="battery_health_interruption_by_too_low_temperature_text_phone">تېلېفونىڭىزنىڭ تېمپېراتۇرىسى بەك تۆۋەن. تېمېپراتۇرىسى نورماللاشقاندا توكلاش داۋاملىشىدۇ.</string>
+    <string name="battery_health_interruption_by_too_low_temperature_text_tablet">تاختا كومپيۇتېرىڭىزنىڭ تېمپېراتۇرىسى بەك تۆۋەن. تېمېپراتۇرىسى نورماللاشقاندا توكلاش داۋاملىشىدۇ.</string>
+    <string name="battery_health_interruption_title">توكلاش توختىدى</string>
+    <string name="battery_info_status_charging">زەرەتلىنىۋاتىدۇ</string>
+    <string name="battery_info_status_discharging">زەرەتلەنمەيۋاتىدۇ</string>
+    <string name="battery_info_status_full">تولۇق</string>
+    <string name="battery_low_sec_app_name">ئۈسكۈنە ئاسراش</string>
+    <string name="battery_low_sec_body_phone">تېلېفونىڭىزنى زەرەتلەڭ ياكى قۇۋۋەت تېجەش مودى نى ئاچماق ئۈچۈن بۇيەرنى چېكىڭ.</string>
+    <string name="battery_low_sec_body_phone_psm">تېلېفونىڭىزنى زەرەتلەڭ.</string>
+    <string name="battery_low_sec_body_tablet">تابلېتىڭىزنى زەرەتلەڭ ياكى قۇۋۋەت تېجەش مودى نى ئاچماق ئۈچۈن بۇيەرنى چېكىڭ.</string>
+    <string name="battery_low_sec_body_tablet_psm">تابلېتىڭىزنى زەرەتلەڭ.</string>
+    <string name="battery_low_sec_noti_channel">تۆۋەن باتارېيە</string>
+    <string name="battery_low_sec_title">باتارېيە توكى %d%%</string>
+    <string name="battery_not_fully_connected_charging_popup_text_charger">تېلېفون بىلەن بىللە كەلگەن توكلىغۇچنى ئىشلىتىڭ.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_charger_tablet">تاختا كومپيۇتېر بىلەن بىللە كەلگەن توكلىغۇچنى ئىشلىتىڭ.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_connection">توكلىغۇچ بىلەن سىم ياخشى ئۇلانسۇن.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_cover">قاپ ئىشلەتكەن بولسىڭىز، ئېلىۋېتىپ تۇرۇڭ.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_damage">سىم بۇزۇلمىغان بولسۇن.</string>
+    <string name="battery_not_fully_connected_charging_popup_text_faster">تېز توكلاش ئۈچۈن:</string>
+    <string name="battery_not_fully_connected_charging_popup_title">توكلىغۇچنىڭ ئۇلىنىشىنى تەكشۈرۈڭ</string>
+    <string name="battery_not_fully_connected_charging_text">تېخىمۇ تېز توكلاش ئۈچۈن ئۈسكۈنىنىڭ ئەسلىدىكى توكلىغۇچى بىلەن توكلاڭ ۋە توغرا چېتىڭ.</string>
+    <string name="battery_not_fully_connected_charging_text_chn">تېخىمۇ تېز توكلاش ئۈچۈن تېلېفوننىڭ ئەسلىدىكى توكلىغۇچى بىلەن توكلاڭ ۋە توغرا چېتىڭ.</string>
+    <string name="battery_not_fully_connected_charging_text_jpn">زەرەتلىگۈڭىزنىڭ ئوبدان چېتىلغىنىدىن ئەمىن بولۇڭ.</string>
+    <string name="battery_not_fully_connected_charging_text_tablet_chn">تېخىمۇ تېز توكلاش ئۈچۈن تاختا كومپيۇتېرنىڭ ئەسلىدىكى توكلىغۇچى بىلەن توكلاڭ ۋە توغرا چېتىڭ.</string>
+    <string name="battery_not_fully_connected_charging_text_vzw">توكلىغۇچ ياخشى چېتىلدىمۇ جەزملەڭ.</string>
+    <string name="battery_not_fully_connected_charging_title">توكلىغۇچنىڭ ئۇلىنىشىنى تەكشۈرۈڭ</string>
+    <string name="battery_not_fully_connected_charging_title_vzw">تولۇق ئۇلانمىدى</string>
+    <string name="battery_slow_charging_text">تېز توكلاش ئۈچۈن ئەسلىدىكى توكلىغۇچنى ئىشلىتىڭ.</string>
+    <string name="battery_slow_charging_title">ئۈسكۈنە ئاستا توكلاۋاتىدۇ</string>
+    <string name="battery_slow_charging_toast_text">تېزراق توكلاش ئۈچۈن بۇ تېلېفون بىلەن بىللە كەلگەن توكلىغۇچ ۋە سىمنى ئىشلىتىڭ</string>
+    <string name="battery_slow_charging_toast_text_for_tablet">تېزراق توكلاش ئۈچۈن بۇ تاختا كومپيۇتېر بىلەن بىللە كەلگەن توكلىغۇچ ۋە سىمنى ئىشلىتىڭ.</string>
+    <string name="battery_swelling_mode_high_temp_noti_text_phone">تېلېفون بەك قىزىق، تولۇق توكلانمايدۇ. سەل سوغۇقراق يەردە توكلاشنى تەۋسىيە قىلىمىز.</string>
+    <string name="battery_swelling_mode_high_temp_noti_text_tablet">تاختا كومپيۇتېر بەك قىزىق، تولۇق توكلانمايدۇ. سەل سوغۇقراق يەردە توكلاشنى تەۋسىيە قىلىمىز.</string>
+    <string name="battery_swelling_mode_low_temp_noti_text_phone">تېلېفون بەك سوغۇق، تولۇق توكلانمايدۇ. سەل ئىسسىقراق يەردە توكلاشنى تەۋسىيە قىلىمىز.</string>
+    <string name="battery_swelling_mode_low_temp_noti_text_tablet">تاختا كومپيۇتېر بەك سوغۇق، تولۇق توكلانمايدۇ. سەل ئىسسىقراق يەردە توكلاشنى تەۋسىيە قىلىمىز.</string>
+    <string name="battery_swelling_mode_noti_title">توكلاش چەكلەندى</string>
+    <string name="battery_wireless_charger_fod_text">سىمسىز توكلاش تورمۇزلاندى. توكلىغۇچ بىلەن تېلېفون ئارىسىدا قېلىن قاپ ياكى باشقا نەرسە بولسا ئېلىۋېتىڭ.</string>
+    <string name="battery_wireless_charger_fod_title">无线充电已暂停</string>
+    <string name="battery_wireless_charging_disconnect_by_high_temperature_text">سىمسىز توكلاش تورمۇزلاندى، تېلېفونىڭىز بەك قىزىپ كەتتى. سوۋۇغاندا قايتا سىناڭ.</string>
+    <string name="battery_wireless_charging_disconnect_by_high_temperature_text_tablet">سىمسىز توكلاش تورمۇزلاندى، تاختا كومپيۇتېرىڭىز بەك قىزىپ كەتتى. سوۋۇغاندا قايتا سىناڭ.</string>
+    <string name="battery_wireless_charging_disconnect_text">سىمسىز توكلاش تورمۇزلاندى.</string>
+    <string name="battery_wireless_charging_from_cable_to_wireless_text">سىملىق توكلاشتىن سىمسىز توكلاشقا ئالماشتۇرۇش</string>
+    <string name="battery_wireless_charging_title">سىمسىز زەرەتلەش</string>
+    <string name="blue_light_disable_reason">‏%2$s نى ئىشلەتمەك ئۈچۈن، %1$s نى ئېتىڭ.</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">ئاۋازغا ئۇلاندى</string>
+    <string name="bluetooth_a2dp_profile_summary_connected_battery">ئاۋازغا ئۇلاندى، %d%% توك قالدى</string>
+    <string name="bluetooth_connected">ئۇلاندى</string>
+    <string name="bluetooth_connected_battery">ئۇلاندى، %d%% توك قالدى</string>
+    <string name="bluetooth_connecting">ئۇلىنىۋاتىدۇ…</string>
+    <string name="bluetooth_connecting_error_message">%s گە ئۇلانمىدى.</string>
+    <string name="bluetooth_disconnect_message">%s بىلەن بولغان Bluetooth ئۇلىنىشى ئاخىرلاشتى.</string>
+    <string name="bluetooth_disconnecting">ئۈزۈۋاتىدۇ…</string>
+    <string name="bluetooth_display_remote_device_name_after_pair">بۇ ئۈسكۈنە ئۇلانغاندا ئۈسكۈنە نامى كۆرۈنىدۇ.</string>
+    <string name="bluetooth_getting_remote_device_name">ئۈسكۈنە نامىنى ئېلىۋاتىدۇ…</string>
+    <string name="bluetooth_headset_profile_summary_connected">چاقىرىققا ئۇلاندى</string>
+    <string name="bluetooth_headset_profile_summary_connected_battery">چاقىرىققا ئۇلاندى، %d%% توك قالدى</string>
+    <string name="bluetooth_hid_connecting_error_summury">ئۇلانمىدى. %s دىن ئۇلاپ بېقىڭ.</string>
+    <string name="bluetooth_hid_profile_summary_connected">كىرگۈزمە ئۈسكۈنىسى بولۇپ ئۇلاندى</string>
+    <string name="bluetooth_pairing">جۈپلەشتۈرۋاتىدۇ…</string>
+    <string name="bluetooth_pairing_device_down_black_list_error_message">‏%1$s گە ئۇلىنالمايۋاتىدۇ. %2$s دىكى تەڭشەكلىرىڭىزنى تەكشۈرۈپ قايتا سىناڭ.</string>
+    <string name="bluetooth_pairing_device_down_error_message">%s گە ئۇلانمىدى.</string>
+    <string name="bluetooth_pairing_error_message">‏%s بىلەن جۈپلىنەلمىدى. ئۇنىڭ جۈپلىنىشكە ھازىر ئىكەنلىكىدىن ئەمىن بولۇڭ.</string>
+    <string name="bluetooth_pairing_fail_restored">كۆكچىش ئۈسكۈنىسىنى تېلېفونغا يېقىن قويۇڭ ياكى ئۇلارنىڭ جۈپلەش ھالىتىدە ئىكەنلىكىنى تەكشۈرۈڭ.</string>
+    <string name="bluetooth_pairing_fail_restored_tablet">كۆكچىش ئۈسكۈنىسىنى تاختا كومپيۇتېرغا يېقىن قويۇڭ ياكى ئۇلارنىڭ جۈپلەش ھالىتىدە ئىكەنلىكىنى تەكشۈرۈڭ.</string>
+    <string name="bluetooth_pairing_pin_error_message">‏%s بىلەن جۈپلىنەلمىدى. ئۇنىڭ جۈپلىنىشكە ھازىر ئىكەنلىكىدىن ئەمىن بولۇڭ.</string>
+    <string name="bluetooth_pairing_rejected_error_message">%s جۈپلەشنى رەت قىلدى.</string>
+    <string name="bluetooth_pan_connecting_error_summury">ئۇلانمىدى. %s دە كۆكچىش باغلاشنى ئېچىڭ.</string>
+    <string name="bluetooth_pan_nap_connected">تور تەمىنلەش ئۈچۈن ئۇلاندى</string>
+    <string name="bluetooth_pan_nap_connecting_error_summury">ئۇلانمىدى</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">ئۈسكۈنە بىلەن ئورتاق يەرلىك تور ئۇلىنىشى</string>
+    <string name="bluetooth_pan_panu_connected">تورغا ئۇلىنىش ئۈچۈن ئۇلاندى</string>
+    <string name="bluetooth_pan_profile_summary_use_for">بۇ تېلېفون ئارقىلىق تور ئىشلىتىش ئۈچۈن جۈپلىگەن ئۈسكۈنىدە كۆكچىش ئارقىلىق باغلاشنى ئېچىڭ.</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">تورغا كىرىش ئۈچۈن ئۈسكۈنىگە ئۇلاندى.</string>
+    <string name="bluetooth_pbap_multiple_property">كۆپ PBAP خاسلىقى</string>
+    <string name="bluetooth_pbap_multiple_property_summary">ئالاقىداشلارنىڭ ھەر خىل خاسلىقىنى ماسقەدەملەشكە رۇخسەت.</string>
+    <string name="bluetooth_profile_a2dp">音频</string>
+    <string name="bluetooth_profile_headset">چاقىرىق</string>
+    <string name="bluetooth_profile_hid">كىرگۈزمە ئۈسكۈنىسى</string>
+    <string name="bluetooth_profile_map">ئۇچۇر كۆرۈش</string>
+    <string name="bluetooth_profile_map_summary">بۇ جۈپلەنگەن ئۈسكۈنىنىڭ ئۇچۇرلىرىڭىزغا ئېرىشىشىگە رۇخسەت قىلىڭ.</string>
+    <string name="bluetooth_profile_pan">تورغا كىرىش</string>
+    <string name="bluetooth_profile_pan_nap">تور ئورتاقلىشىش</string>
+    <string name="bluetooth_profile_pbap">ئالاقىداش ئىجازىتى</string>
+    <string name="bluetooth_profile_pbap_tts">ئالاقىداش ۋە تېلېفون خاتىرىسى</string>
+    <string name="bluetooth_profile_sap_summary">بۇ جۈپلەنگەن ئۈسكۈنىنىڭ SIM كارتىڭىزغا ئېرىشىشىگە رۇخسەت قىلىڭ.</string>
+    <string name="bluetooth_profile_textinput">تېكىست كىرگۈزمە</string>
+    <string name="bluetooth_spp_profile_summary_connected">زەنجىرسىمان ئېغىز ئارخىپتا ئۇلانغان</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset">چاقىرىق ۋە ئاۋازغا ئۇلاندى</string>
+    <string name="bluetooth_summary_connected_to_a2dp_headset_battery">چاقىرىق ۋە ئاۋازغا ئۇلاندى، %d%% توك قالدى</string>
+    <string name="bluetooth_summary_restored_device">بۇرۇنقى تېلېفوندا جۈپلەك</string>
+    <string name="bluetooth_tethering_cannot_connect_while_connected_to_wifi">‏Wi-Fi غا ئۇلىغاندا كۆكچىش ئارقىلىق باغلانمايدۇ.</string>
+    <string name="bluetooth_tethering_error_with_wifi_phone_summary">كۆكچىش باغلاش ئىقتىدارىنى ئىشلىتىش ئۈچۈن بۇ تېلېفوندا Wi-Fi نى ئېچىڭ.</string>
+    <string name="bluetooth_tethering_error_with_wifi_tablet_summary">كۆكچىش باغلاش ئىقتىدارىنى ئىشلىتىش ئۈچۈن بۇ تاختا كومپيۇتېردا Wi-Fi نى ئېچىڭ.</string>
+    <string name="button_close">تاقاش</string>
+    <string name="button_yes">تامام</string>
+    <string name="byteShort">B</string>
+    <string name="cancel">ياق</string>
+    <string name="cant_open_image_viewer_app">رەسىم كۆرگۈچ ئېچىلمايدۇ.</string>
+    <string name="cant_open_image_viewer_app_in_emergency_mode">جىددىي ھالەتتە رەسىم كۆرگۈچ ئېچىلمايدۇ.</string>
+    <string name="cant_open_image_viewer_app_in_mpsm">ئەڭ يۇقىرى توك تېجەش ھالىتىدە رەسىم كۆرگۈچ ئېچىلمايدۇ.</string>
+    <string name="cant_open_image_viewer_app_in_ps">%s دە رەسىم كۆرگۈچ ئېچىلمايدۇ.</string>
+    <string name="cant_open_photo_editor_in_ps">‏Photo Editor نى %s دا ئاچالمايدۇ.</string>
+    <string name="cant_open_ps">%s نى ئاچالمايدۇ.</string>
+    <string name="cant_screenshot_in_ps">%sدە ئېكران كۆرۈنۈشى ئېلىنمايدۇ.</string>
+    <string name="card_crash">‏SIM كارتا يۈرمىدى</string>
+    <string name="clear_all_text">تازىلاش</string>
+    <string name="colour_adjustment_title">رەڭ تەڭشەش</string>
+    <string name="colour_lens_title">رەڭلىك لېنزا</string>
+    <string name="cooling_body">"ئۈسكۈنىڭىز قىزىپ كەتتى. ئۇنى سوۋۇتۇش چارىسى قوللىنىلىدۇ.
+
+ئۈسكۈنىنى ئىشلىتىۋەرسىڭىز بولىدۇ، ئەمما:
+- ئېكران يورۇقلۇقى تۆۋەنلىشى مۇمكىن.
+- ئۈسكۈنە ئاستىلاپ كېتىشى مۇمكىن.
+- توكلاش تورمۇزلىنىشى مۇمكىن.
+
+ئۈسكۈنە سوۋۇغاندىن كېيىن يۈرۈش ئۆزلۈكىدىن نورماللىشىدۇ."</string>
+    <string name="cooling_body_tablet_vzw">"تاختا كومپيۇتېرىڭىز بەك قىزىپ كەتتى، ئۆزىنى سوۋۇتماقچى.
+
+داۋاملىق ئىشلىتەلەيسىز، بىراق:
+- ئېكران قاراڭغۇلىشىشى مۇمكىن.
+تاختا كومپيۇتېر ئاستىلاپ كېتىشى مۇمكىن.
+توكلاش تورمۇزلىنىشى مۇمكىن.
+
+تاختا كومپيۇتېر سوۋۇپ بولغاندا يۈرۈشئۆزلۈكىدىن ئەسلىگە كېلىدۇ."</string>
+    <string name="cooling_body_vzw">"تېلېفونىڭىز قىزىۋاتىدۇ، ئۆزىنى سوۋۇتماقچى.
+
+داۋاملىق ئىشلىتەلەيسىز، بىراق بۇلارغا دىققەت قىلىڭ:
+- ئېكران تۇتۇق بولۇشى مۇمكىن.
+- تېلېفون ئاستىلىشى مۇمكىن.
+- توكلاش تورمۇزلىنىشى مۇمكىن.
+
+سوۋۇغاندا تېلېفونىڭىز نورمال ھالىتىگە قايتىدۇ."</string>
+    <string name="cooling_noti_text">بۇ يەرنى چېكىپ تەپسىلاتىنى كۆرۈڭ.</string>
+    <string name="cooling_noti_text_vzw">بۇ يەرنى چېكىپ تەپسىلاتىنى بىلىڭ.</string>
+    <string name="cooling_popup_title">ئۈسكۈنە سوۋۇتۇش</string>
+    <string name="cooling_title">ئۈسكۈنە قىزىپ كەتتى</string>
+    <string name="cooling_title_vzw">سوۋۇتۇش</string>
+    <string name="data_connection_error_data_roaming_off_body">بىر Wi-Fi تورىغا ئۇلىنىڭ ياكى بەرمىلەر كېزىمى نى ئېچىڭ.</string>
+    <string name="data_connection_error_flight_mode_on_body">تېلېفونىڭىز بىر Wi-Fi تورىغا ئۇلانمىدى. ئورنىغا بىر كۆچمە تور قوللانماق ئۈچۈن، تەڭشەكلەر دە ئۇچۇش مودى نى ئېتىڭ.</string>
+    <string name="data_connection_error_flight_mode_on_body_tablet">تابلېتىڭىز بىر Wi-Fi تورىغا ئۇلانمىدى. ئورنىغا بىر كۆچمە تور قوللانماق ئۈچۈن، تەڭشەكلەر دە ئۇچۇش مودى نى ئېتىڭ.</string>
+    <string name="data_connection_error_flight_mode_on_title">ئۇچۇش مودىنى ئېتىش</string>
+    <string name="data_connection_error_mobile_data_off">كۆچمە ئېقىم ئېتىك. Wi-Fi غا ئۇلاڭ ياكى كۆچمە ئېقىمنى ئېچىپ، قايتا سىناڭ.</string>
+    <string name="data_connection_error_mobile_data_off_body">بىر Wi-Fi تورىغا ئۇلىنىڭ ياكى كۆچمە بەرمىلەرنى ئېتىڭ.</string>
+    <string name="data_connection_error_mobile_data_off_title">كۆچمە بەرمىلەرنى ئاچامسىز؟</string>
+    <string name="data_connection_error_no_network_connection">تور ئۇلانمىدى</string>
+    <string name="data_connection_error_no_signal_body">ئىشلەيدىغان تور تېپىلمىدى.</string>
+    <string name="data_connection_error_toast_notification">‏Wi-Fi ئۇلىنىشى تەلەپ قىلىندى. Wi-Fi تورىغا ئۇلىنىڭ ۋە قايتا سىناڭ.</string>
+    <string name="dcm_lockscreen_active_help_text">请点击锁定图标来打开</string>
+    <string name="dcm_lockscreen_active_help_text_biometrics">请使用生物识别或点击锁定图标来打开</string>
+    <string name="dcm_lockscreen_active_help_text_biometrics_voice_assistant">请使用生物识别或双击锁定图标来打开</string>
+    <string name="dcm_lockscreen_active_help_text_face">请使用面部识别或点击锁定图标来打开</string>
+    <string name="dcm_lockscreen_active_help_text_face_voice_assistant">请使用面部识别或双击锁定图标来打开</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints">请使用指纹或点击锁定图标来打开</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_face">请使用指纹打开，或点击锁定图标改为使用面部识别</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_face_voice_assistant">请使用指纹打开，或双击锁定图标改为使用面部识别</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_intelligent">请使用指纹打开，或点击锁定图标改为使用【智能扫描】</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_intelligent_voice_assistant">请使用指纹打开，或双击锁定图标改为使用【智能扫描】</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_iris">请使用指纹打开，或点击锁定图标改为使用虹膜</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_2nd_iris_voice_assistant">请使用指纹打开，或双击锁定图标改为使用虹膜</string>
+    <string name="dcm_lockscreen_active_help_text_fingerprints_voice_assistant">请使用指纹或双击锁定图标来打开</string>
+    <string name="dcm_lockscreen_active_help_text_intelligent">请使用【智能扫描】或点击锁定图标来打开</string>
+    <string name="dcm_lockscreen_active_help_text_intelligent_voice_assistant">请使用【智能扫描】或双击锁定图标来打开</string>
+    <string name="dcm_lockscreen_active_help_text_iris">请使用虹膜或点击锁定图标来打开</string>
+    <string name="dcm_lockscreen_active_help_text_iris_voice_assistant">请使用虹膜或双击锁定图标来打开</string>
+    <string name="dcm_lockscreen_active_help_text_voice_assistant">双击锁定图标来打开</string>
+    <string name="dcm_lockscreen_unlock_help_text">请点击锁定图标来解锁</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_face">请点击锁定图标来通过面部识别解锁</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_face_voice_assistant">请双击锁定图标通过面部识别解锁</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_intelligent">请点击锁定图标来通过【智能扫描】解锁</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_intelligent_voice_assistant">请双击锁定图标来使用【智能扫描】解锁</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_iris">若要使用虹膜解锁，请点击锁定图标</string>
+    <string name="dcm_lockscreen_unlock_help_text_2nd_iris_voice_assistant">请双击锁定图标来使用虹膜解锁</string>
+    <string name="dcm_lockscreen_unlock_help_text_biometrics">请使用生物识别或点击锁定图标来解锁</string>
+    <string name="dcm_lockscreen_unlock_help_text_biometrics_voice_assistant">请使用生物识别或双击锁定图标来解锁</string>
+    <string name="dcm_lockscreen_unlock_help_text_face">请使用面部识别或点击锁定图标来解锁</string>
+    <string name="dcm_lockscreen_unlock_help_text_face_voice_assistant">请使用面部识别或双击锁定图标来解锁</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints">请使用指纹或点击锁定图标来解锁</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_face">请使用指纹解锁，或点击锁定图标改为使用面部识别</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_face_voice_assistant">请使用指纹解锁，或双击锁定图标改为使用面部识别</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_intelligent">请使用指纹解锁，或点击锁定图标改为使用【智能扫描】</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_intelligent_voice_assistant">请使用指纹解锁，或双击锁定图标改为使用【智能扫描】</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_iris">ئۈسكۈنىنى قۇلۇپسىزلىماق ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى ئورنىغا قارىچۇقلارنى قوللانماق ئۈچۈن قۇلۇپ ئايكونىنى چېكىڭ</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_2nd_iris_voice_assistant">请使用指纹解锁，或双击锁定图标改为使用虹膜</string>
+    <string name="dcm_lockscreen_unlock_help_text_fingerprints_voice_assistant">请使用指纹或双击锁定图标来解锁</string>
+    <string name="dcm_lockscreen_unlock_help_text_intelligent">请使用【智能扫描】或点击锁定图标来解锁</string>
+    <string name="dcm_lockscreen_unlock_help_text_intelligent_voice_assistant">请使用【智能扫描】或双击锁定图标来解锁</string>
+    <string name="dcm_lockscreen_unlock_help_text_iris">请使用虹膜或点击锁定图标来解锁</string>
+    <string name="dcm_lockscreen_unlock_help_text_iris_voice_assistant">请使用虹膜或双击锁定图标来解锁</string>
+    <string name="dcm_lockscreen_unlock_help_text_voice_assistant">双击锁定图标来解锁</string>
+    <string name="dcm_lockscreen_voice_assistant_active_instructions">تېلېفوننى قۇلۇپسىزلاشقا قۇلۇپ تۈگمىسىنى قوش چېكىڭ</string>
+    <string name="default_carrier_text_searching">ئىزدەۋاتىدۇ</string>
+    <string name="default_volume_control_summary">ئاۋاز مىقدارى كۇنۇپكىلىرىنى باسقىنىڭىزدا بارسانالغان ھالدا مېدىيا ئاۋاز مىقدارىنى كونتروللاڭ.</string>
+    <string name="default_volume_control_title">ئاۋازمقدارى كۇنۇ پكىسى ئارقىلىق ئاۋازنى كونترول قلىش</string>
+    <string name="development_settings_title">ئىجادچى تاللانمىلىرى</string>
+    <string name="device_disabled">بىخەتەرلىك تۈزۈمى ئىككى باسقۇچلۇق تەستىقلاشتا بىيوئۆلچەم ئىشلىتىشىڭىزنى چەكلەيدۇ. تېلېفوننىڭ قۇلۇپىنى ئېچىش ئۈچۈن ئۇچۇر-تېخنىكا باشقۇرغۇچى بىلەن ئالاقىلىشىڭ.</string>
+    <string name="direction_lock_too_many_failed_attempts_countdown">‏%d سېكۇنت تۇرۇپ قايتىلاڭ</string>
+    <string name="disagree">قوشۇلمايمەن</string>
+    <string name="dnd_noti_action_disable">ئېتىش</string>
+    <string name="dnd_noti_message">ئەسكەرتمە ئۈنسىزلەندى</string>
+    <string name="dnd_noti_title">ئاۋارە قىلماسلىق ئوچۇق</string>
+    <string name="dock_non_resizeble_failed_to_dock_text">该应用程序不支持分屏视图</string>
+    <string name="dont_support_mulit_window">بۇ ئەپ كۆپ كۆزنەك قوللىمايدۇ.</string>
+    <string name="dont_support_split_screen">该应用程序不支持分屏视图</string>
+    <string name="download_popup_button_cancel">بىكار قىل</string>
+    <string name="download_popup_button_download">چۈشۈرۈش</string>
+    <string name="download_ps">%s چۈشۈرەمسىز؟</string>
+    <string name="dream_cant_use_this_app_in_multi_window_view_tpop">كۆپ كۆزنەكلىك كۆرۈنۈشتە بۇ ئەپ ئىشلىمەيدۇ.</string>
+    <string name="durationMinutes">%d مىنۇت</string>
+    <string name="emergency_mode">جىددىي ھالەت</string>
+    <string name="fingerprint_verification_description_default_text">بارماق ئىزى سايىلەڭ.</string>
+    <string name="flash_light_disabled_by_low_battery">چىراغنى ئاچالمىدى. توك بەك ئاز.</string>
+    <string name="flash_light_notification_button">ئېتىش</string>
+    <string name="flash_light_notification_title">قولچىراغ ئېچىلدى</string>
+    <string name="flash_light_turn_off_by_low_battery">توك ئاز. قولچىراغ ئۆچىدۇ.</string>
+    <string name="flight_mode_enabled_dialog_body">ئۇچۇش ھالىتى ئوچۇق. ‏Wi-Fi ئىشلەتمىسىڭىز تور، تورخەت ۋە باشقا ئېقىم ئۇلىنىشى تەلەپ قىلىدىغان ئەپلەرنى ئىشلىتەلمەيسىز.</string>
+    <string name="flight_mode_enabled_dialog_body_volte_and_vowifi">ئۇچۇش ھالىتى ئوچۇق. ‏Wi-Fi ئىشلەتمىسىڭىز تور، تورخەت، Wi-Fi چاقىرىقى ۋە باشقا ئېقىم ئۇلىنىشى تەلەپ قىلىدىغان ئەپلەرنى ئىشلىتەلمەيسىز.</string>
+    <string name="flight_mode_enabled_dialog_title">ئۇچۇش مودى</string>
+    <string name="force_immersive_guide_dialog_guide_path">بۇ كۇنۇپكىنى يوشۇرۇش ئۈچۈن تەڭشەك > كۆرسىتىش > يولچى بالداق دېگەن ئورۇنغا كىرىڭ.</string>
+    <string name="force_immersive_guide_dialog_message1">يۆنەلدۈرۈم ئىستونىنى يوشۇرماق ئۈچۈن بۇ تۈگمىنى قوش چېكىڭ.</string>
+    <string name="force_immersive_guide_dialog_message2">يۆنەلدۈرۈم ئىستونىنى كۆرسەتمەك ئۈچۈن، زەرەتلەش پورتىغا يېقىن ئېكران قىرىدىن ئىچىگە سىيرىڭ.</string>
+    <string name="force_immersive_guide_dialog_message3">يۆنەلدۈرۈم ئىستونىنى جايىغا قۇلۇپلىماق ئۈچۈن بۇ تۈگمىنى قايتا قوش چېكىڭ.</string>
+    <string name="force_immersive_guide_dialog_message4">باش ئېكرانغا ئوخشاش بەزى ئېكرانلاردا يولچى بالداق ئىزچىل كۆرۈنىدۇ.</string>
+    <string name="force_immersive_guide_dialog_ok">ماقۇل</string>
+    <string name="force_immersive_guide_dialog_setting">تەڭشەك</string>
+    <string name="force_immersive_guide_dialog_title">يولچى بالداقنى يوشۇرۇش:</string>
+    <string name="force_immersive_guide_toast_hide">يۆنەلدۈرۈم ئىستونىنى يوشۇرۇشقا قوش چېكىڭ.</string>
+    <string name="force_immersive_guide_toast_show">يۆنەلدۈرۈم ئىستونىنى قۇلۇپلاشقا قوش چېكىڭ.</string>
+    <string name="freeform_forced_resizable">بۇ ئەپ كۆپ كۆزنەك كۆرۈنۈمىدە ئوبدان ئىشلىمەسلىكى مۇمكىن.</string>
+    <string name="full_battery_noti_channel">باتارېيە توشۇق</string>
+    <string name="full_battery_noti_text">باتارېيە تولۇق توكلاندى.</string>
+    <string name="full_battery_title">ئۇچۇر</string>
+    <string name="gesture_recents_device_assistance_onboarding">ئۈستىگە سىيرىپ تۇتۇپ تۇرۇپ ئۈسكۈنە ياردەمچىسى ئەپىنى ئېچىڭ.</string>
+    <string name="gesture_recents_quick_scrub_onboarding">ئوڭغا سىيرىپ تېز ئەپ ئالماشتۇرۇڭ.</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="greyscale_mode_title">رەڭسىز</string>
+    <string name="hotspot_disable_wifi_sharing">‏Wi-Fi ئورتاقلىشىمىشنى ئېتىش</string>
+    <string name="hotspot_enable_wifi_sharing">‏Wi-Fi ئورتاقلىشىشنى ئېچىش</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off">كۆچمە قىززىقنۇقتا ۋە Smart View بىرلا ۋاقىتتا ئاكتىپلىنالمايدۇ. Smart View ئاكتىپسىزلىنىدۇ.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_chn">‏WLAN تور نۇقتىسى بىلەن Smart View بىرلا ۋاقىتتا ئېچىلمايدۇ. Smart View ئېتىلىدۇ.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_spr">‏كۆچمە قىززىقنۇقتىنى قوللانماق ئۈچۈن، Smart View ئېتىلگەن بولۇشى كېرەك.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_tmo">‏كۆچمە قىززىقنۇقتىنى قوللانماق ئۈچۈن، Smart View ئېتىلگەن بولۇشى كېرەك.</string>
+    <string name="hotspot_warning_dialog_msg_smartview_off_vzw">كۆچمە قىززىقنۇقتا ۋە Smart View بىرلا ۋاقىتتا ئاكتىپلىنالمايدۇ. Smart View ئاكتىپسىزلىنىدۇ.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off">‏كۆچمە قىززىقنۇقتا نى قوللانماق ئۈچۈن، Wi-Fi ئېتىلگەن بولۇشى كېرەك.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_att">كۆچمە Wi-Fi نۇقتىسى ئېچىلسا، Wi-Fi نى ئېتىلىدۇ.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_chn">‏كۆچمە قىززىقنۇقتا نى قوللانماق ئۈچۈن، Wi-Fi ئېتىلگەن بولۇشى كېرەك.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_jpn">如果启用【Wi-Fi 网络共享】，Wi-Fi 将被关闭。</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_mtr">‏كۆچمە قىززىقنۇقتا نى قوللانماق ئۈچۈن، Wi-Fi ئېتىلگەن بولۇشى كېرەك.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_spr">‏كۆچمە قىززىقنۇقتا نى قوللانماق ئۈچۈن، Wi-Fi ئېتىلگەن بولۇشى كېرەك.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_tmo">‏USB لىق باغلاش ياكى كۆچمە تور نۇقتىسى ئوچۇق چاغدا Wi-Fi ئېتىلىدۇ. Wi-Fi ئېچىلسا، ‏USB لىق باغلاش ياكى كۆچمە تور نۇقتىسى ئېتىلىدۇ.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_vzw">كۆچمە تور نۇقتىسى كۆچمە ئېقىم ئىشلىتىدۇ. Wi-Fi ئۇلىنىشى ئېتىلىدۇ.</string>
+    <string name="hotspot_warning_dialog_msg_wifi_off_wifisharing_lite">نۆۋەتتىكى Wi-Fi تورىنى كۆچمە تور نۇقتىسى ئارقىلىق ئورتاقلاشقىلى بولمايدۇ. كۆچمە ئېقىم ئىشلىتىلىدۇ.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off">كۆچمە قىززىقنۇقتىنى قوللانماق ئۈچۈن، Wi-Fi Direct ئارقىلىق نۆۋەتتە ئۇلانغان ھەرقانداق ئۈسكۈنە ئۇلىنىشتىن ئۈزۈلىشى كېرەك.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_chn">كۆچمە WLAN نۇقتىسى ئېچىلسا، WLAN Direct كە ئۇلانغان ئۈسكۈنە ئۈزۈلىدۇ.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_spr">كۆچمە قىززىقنۇقتىنى قوللانماق ئۈچۈن، Wi-Fi Direct ئارقىلىق نۆۋەتتە ئۇلانغان ھەرقانداق ئۈسكۈنە ئۇلىنىشتىن ئۈزۈلىشى كېرەك.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_tmo">كۆچمە قىززىقنۇقتىنى قوللانماق ئۈچۈن، Wi-Fi Direct ئارقىلىق نۆۋەتتە ئۇلانغان ھەرقانداق ئۈسكۈنە ئۇلىنىشتىن ئۈزۈلىشى كېرەك.</string>
+    <string name="hotspot_warning_dialog_msg_wifidirect_off_vzw">كۆچمە قىززىقنۇقتىنى قوللانماق ئۈچۈن، Wi-Fi Direct ئارقىلىق نۆۋەتتە ئۇلانغان ھەرقانداق ئۈسكۈنە ئۇلىنىشتىن ئۈزۈلىشى كېرەك.</string>
+    <string name="hotspot_warning_dialog_title_smartview_off">كۆچمە قىززىقنۇقتا نى ئاچامسىز؟</string>
+    <string name="hotspot_warning_dialog_title_wifi_off">‏Wi-Fi نى ئېتەمسىز؟</string>
+    <string name="hotspot_warning_dialog_title_wifi_off_tmo">دىققەت</string>
+    <string name="hotspot_warning_dialog_title_wifi_off_vzw">كۆچمە تور نۇقتىسى ۋە Wi-Fi</string>
+    <string name="hotspot_warning_dialog_title_wifi_off_wifisharing_lite">‏Wi-Fi تورىدىن ئۈزەمسىز؟</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off">كۆچمە قىززىقنۇقتا نى ئاچامسىز؟</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off_tmo">دىققەت</string>
+    <string name="hotspot_warning_dialog_title_wifidirect_off_vzw">كۆچمە تور نۇقتىسى ۋە Wi-Fi</string>
+    <string name="image_viewer">رەسىم كۆرگۈچ</string>
+    <string name="ime_security_warning">‏%s سىز يازغان بارلىق تېكىستنى، جۈملىدىن پاروللار ۋە كرېدىت كارتا نومۇرلىرى دېگەندەك شەخسىي بەرمىلەرنى توپلىيالىشى مۇمكىن.</string>
+    <string name="incompatible_charger_dialog_text">ئۇلانغان توكلىغۇچ بۇ تېلېفونغا ماس كەلمەيدۇ. تېلېفونىڭىزنىڭ زىيانغا ئۇچرىشىدىن ساقلىنىش ئۈچۈن توكلاش توختىدى. داۋاملىق توكلاش ئۈچۈن تېلېفون بىلەن بىللە كەلگەن ئەسلى زاۋۇتنىڭ توكلىغۇچى ۋە سىمىنى ئىشلىتىڭ.</string>
+    <string name="incompatible_charger_notification_text">توكلانمىدى. ئەسلى توكلىغۇچ ئىشلىتىڭ.</string>
+    <string name="incompatible_charger_ticker">توكلانمىدى.</string>
+    <string name="incompatible_charger_title">توكلانمىدى.</string>
+    <string name="insert_sim_card">‏SIM كارتىسىنى قىستۇرۇش</string>
+    <string name="insert_sim_card_message">تور مۇلازىمىتىنى ئىشلىتىش ئۈچۈن SIM چېتىڭ.</string>
+    <string name="iris_guide_str_enable_toggle">چېكىپ كۆز سەزگۈچنى ئىشلىتىڭ</string>
+    <string name="iris_guide_str_for_text_preview">بۇيەرگە قاراڭ</string>
+    <string name="it_policy_not_allow_wifi">بىخەتەرلىك سىياسىتى Wi-Fi نىڭ قوللىنىلىشىنى چەكلەيدۇ.</string>
+    <string name="keyboard_shortcut_group_applications">ئەپ قىسقايوللىرى</string>
+    <string name="keyboard_shortcut_group_applications_bixby">Bixby</string>
+    <string name="keyboard_shortcut_group_applications_browser">كۆزئاتقۇ</string>
+    <string name="keyboard_shortcut_group_applications_calendar">كالېندار</string>
+    <string name="keyboard_shortcut_group_applications_contacts">ئالاقىداش</string>
+    <string name="keyboard_shortcut_group_applications_email">ئېخەت</string>
+    <string name="keyboard_shortcut_group_applications_messages">ئۇچۇرلار</string>
+    <string name="keyboard_shortcut_group_applications_music">مۇزىكا</string>
+    <string name="keyboard_shortcut_group_system">سىستېما تېزلەتمىلىرى</string>
+    <string name="keyboard_shortcut_group_system_all_apps">ئەپ</string>
+    <string name="keyboard_shortcut_group_system_back">كەينىگە</string>
+    <string name="keyboard_shortcut_group_system_home">باشبەت</string>
+    <string name="keyboard_shortcut_group_system_lock_screen">قۇلۇپ ئېكرانى</string>
+    <string name="keyboard_shortcut_group_system_notifications">ئۇقتۇرۇش</string>
+    <string name="keyboard_shortcut_group_system_recents">يېقىنقىلار</string>
+    <string name="keyboard_shortcut_group_system_running_apps">يۈرۈۋاتقان ئەپلەر</string>
+    <string name="keyboard_shortcut_group_system_shortcuts_helper">كۇنۇپكاتاختا قىسقا يوللىرى</string>
+    <string name="keyboard_shortcut_group_system_switch_languages">تىل ئالماشتۇرۇش</string>
+    <string name="keyboard_shortcut_popup_help">تۈپ كۇنۇپكا: Windows، بۇيرۇق (Command) ياكى باشقا مەشغۇلات سىستېمىلىرىنىڭ بەلگە كۇنۇپكىسى.</string>
+    <string name="keyguard_accessibility_call">چاقىرما</string>
+    <string name="keyguard_accessibility_direction_lock_unlock">يۆنىلىش قۇلۇپى</string>
+    <string name="keyguard_accessibility_dot">چېكىت</string>
+    <string name="keyguard_accessibility_pattern_area">شەكىل رايونى</string>
+    <string name="keyguard_accessibility_pattern_unlock">سىزما بىلەن ئېچىش</string>
+    <string name="keyguard_cmas_text">جىددىيەت ئەسكەرتمىسى</string>
+    <string name="keyguard_dualclock_locale_view_home">باشبەت</string>
+    <string name="keyguard_dualclock_locale_view_home_skt">سېئۇل</string>
+    <string name="keyguard_dualclock_locale_view_roaming">يەرلىك</string>
+    <string name="keyguard_dualclock_locale_view_roaming_skt">كېزىم ۋاقتى</string>
+    <string name="keyguard_fmm_owner_phone">ئىگىسىنىڭ نومۇرى</string>
+    <string name="keyguard_fmm_phone_locked_title">تېلېفون قۇلۇپلاندى.</string>
+    <string name="keyguard_missing_sim_message">‏USIM كارتىنى سېلىڭ، ئاندىن ئۈسكۈنىنى قايتا قوزغىتىڭ</string>
+    <string name="keyguard_progress_erasing_all">بارلىق ئۇچۇرنى ئۆچۈرۈۋاتىدۇ…</string>
+    <string name="keyguard_skt_usim_unregistered">‏USIM كارتىنى ئىشلىتەلمىدى. USIM كارتا ئۇچۇرىنى چۈشۈرۈڭ.</string>
+    <string name="keyguard_usim_not_used">‏USIM كارتا ئىشلىمىدى. PIN قۇلۇپى ئاچقۇچ (PUK) كودى %d قېتىم خاتا كىرگۈزۈلدى. يېڭى USIM كارتا سېتىۋېلىڭ.</string>
+    <string name="kg_1_attempt_remaining">(1 قېتىملىق پۇرسىتىڭىز قالدى)</string>
+    <string name="kg_accessibility_password_unlock">پارول قۇلۇپسىزلىمىسى</string>
+    <string name="kg_accessibility_pin_edit_box">تەھرىرلەش رامكىسى</string>
+    <string name="kg_accessibility_pin_unlock">‏PIN قۇلۇپسىزلىمىسى</string>
+    <string name="kg_background_auth_face_instruction_text">يۈز تونۇما بىلەن قۇلۇپسىزلاڭ.</string>
+    <string name="kg_background_auth_fingerprint_unlock_successed_text">تېلېفون بارماق ئىزى بىلەن قۇلۇپسىزلاندى.</string>
+    <string name="kg_background_auth_iris_instruction_text">قارىچۇقلار بىلەن قۇلۇپسىزلاڭ.</string>
+    <string name="kg_background_auth_tablet_fingerprint_unlock_successed_text">تابلېت بارماق ئىزى بىلەن قۇلۇپسىزلاندى.</string>
+    <string name="kg_background_auth_tablet_unlock_failed_text">无法解锁平板电脑</string>
+    <string name="kg_background_auth_tablet_unlock_successed_text">تابلېت قۇلۇپسىزلاندى.</string>
+    <string name="kg_background_auth_unlock_failed_text">تېلېفوننى قۇلۇپسىزلىيالمىدى.</string>
+    <string name="kg_background_auth_unlock_instruction_text">بىيوئۆلچەم بىلەن قۇلۇپسىزلاڭ.</string>
+    <string name="kg_background_auth_unlock_successed_text">تېلېفون قۇلۇپسىزلاندى.</string>
+    <string name="kg_biometric_temporary_error_text">يۈز ياكى قارىچۇق تونۇمىسىنى قوللىنالمايۋاتىدۇ. ئەگەر بۇ داۋاملىق يۈزبېرىۋەرسە، تېلېفونىڭىزنى قايتا قوزغىتىڭ.</string>
+    <string name="kg_biometrics_has_confirmed">生物识别已确认。</string>
+    <string name="kg_biometrics_swipe_active_instructions">بىيوئۆلچەم ئارقىلىق ئېچىش</string>
+    <string name="kg_biometrics_swipe_active_voice_assistant_instructions">ئاچماق ئۈچۈن بىيوئۆلچەم قوللىنىڭ ياكى ئېكراننى ئىككى بارماق بىلەن سىيرىڭ</string>
+    <string name="kg_biometrics_swipe_unlock_instructions">بىيوئۆلچەم ئارقىلىق قۇلۇپ ئېچىش</string>
+    <string name="kg_biometrics_swipe_unlock_voice_assistant_instructions">قۇلۇپسىزلاش ئۈچۈن بىيوئۆلچەم قوللىنىڭ ياكى ئېكراننى ئىككى بارماق بىلەن سىيرىڭ</string>
+    <string name="kg_carrier_lock_call_owner">مەرھەمەت مېنى چاقىرىڭ</string>
+    <string name="kg_carrier_lock_findlostphone">بۇ تېلېفون يۈتتى ياكى ئوغرىلاندى.</string>
+    <string name="kg_carrier_lock_too_many_failed_attempts">5 قېتىم خاتا پارول كىرگۈزۈلدى.10 مىنۇتتىن كېيىن قايتا سىناڭ.</string>
+    <string name="kg_carrier_lock_unlock">پارول كىرگۈزۈش</string>
+    <string name="kg_carrier_lock_wrong_password">خاتا مەخپىي نومۇر كىرگۈزۈلدى.</string>
+    <string name="kg_ctc_enter_confirm_pin_hint">يېڭى UIM/SIM كارتىنىڭ قۇلۇپ ئاچىدىغان PIN نومۇرىنى قايتا كىرگۈزۈپ جەزملەشتۈرۈڭ</string>
+    <string name="kg_ctc_password_wrong_pin_code_one">‏UIM/SIM نىڭ PIN نومۇرى خاتا. 1 قېتىم پۇرسەت قالدى.</string>
+    <string name="kg_ctc_password_wrong_pin_code_other">‏UIM/SIM نىڭ PIN نومۇرى خاتا. %d قېتىم پۇرسەت قالدى.</string>
+    <string name="kg_ctc_puk_enter_pin_hint">يېڭى UIM/SIM كارتىنىڭ قۇلۇپ ئاچىدىغان PIN نومۇرىنى كىرگۈزۈڭ</string>
+    <string name="kg_ctc_sim_puk_instructions">‏UIM/SIM كارتا قۇلۇپلاندى. PUK كىرگۈزۈڭ. تەپسىلاتىنى مۇلازىمەت يۈرۈتكۈچىدىن سۈرۈشتۈرۈڭ.</string>
+    <string name="kg_ctc_sim_puk_remaining_1_attempt">كىرگۈزگەن PUK خاتا. PUK يەنە 1 قېتىم خاتا كىرگۈزۈلسە، UIM/SIM قۇلۇپلىنىدۇ.</string>
+    <string name="kg_ctc_sim_puk_remaining_attempts">خاتا PUK كىرگۈزۈلدى. ئەگەر خاتا PUK سانى %d قېتىمدىن كۆپ كىرگۈزۈلسە، UIM/SIM كارتا مەڭگۈلۈككە قۇلۇپلىنىدۇ.</string>
+    <string name="kg_ctc_sim_unlock_progress_dialog_message">‏UIM/SIM كارتا قۇلۇپىنى ئېچىۋاتىدۇ…</string>
+    <string name="kg_ctc_unlock_sim_pin_instructions">‏UIM/SIM كارتىنىڭ قۇلۇپ ئاچىدىغان PIN نومۇرىنى كىرگۈزۈڭ</string>
+    <string name="kg_dcm_sim_puk_instructions">‏PIN توسۇق. PUK كىرگۈزۈپ داۋاملاشتۇرۇڭ.</string>
+    <string name="kg_default_carrier_text_searching">ئىزدەۋاتىدۇ</string>
+    <string name="kg_dex_emergency_text">بىر جىددىيەت چاقىرمىسى قىلماق ئۈچۈن، تېلېفوننى DeX Station دىن چىقىرۋېتىڭ.</string>
+    <string name="kg_direction_lock_instructions_normal_mode">يۆنىلىش سىزىپ ئېكراننى ئېچىش</string>
+    <string name="kg_empty_sim_perso_hint">پارول كىرگۈزۈلمىدى. پارول كىرگۈزۈلدى (PIN).</string>
+    <string name="kg_face_1st_active_instructions">يۈز تونۇش ئارقىلىق ئېچىش</string>
+    <string name="kg_face_1st_unlock_instructions">يۈز تونۇش ئارقىلىق قۇلۇپ ئېچىش</string>
+    <string name="kg_face_authentication_error_camera_unavailable_retry_text">يۈز تونۇمىدا بىر مەسىلە كۆرۈلدى. قايتا سىنىماق ئۈچۈن چېكىڭ</string>
+    <string name="kg_face_authentication_error_camera_unavailable_video_call_text">ۋىدېيو چاقىرمىلىرى جەريانىدا يۈز تونۇمىنى قوللىنالمايسىز</string>
+    <string name="kg_face_authentication_error_retry_text">يۈز بايقالمىدى. يۈز تونۇمىسىنى قايتا سىناش ئۈچۈن ئايكوننى چېكىڭ</string>
+    <string name="kg_face_authentication_failed_retry_text">ماس ئەمەس. يۈز تونۇمىنى قوللانماق ئۈچۈن ئايكوننى چېكىڭ</string>
+    <string name="kg_face_cancel_for_dex">يۈز تونۇمىسىنى بىكار قىلىش</string>
+    <string name="kg_face_cover_clear_view_toast_for_dex">سۈزۈك كۆرۈنمە قاپ چېتىق چاغدا يۈز تونۇغۇچ ئىشلىمەيدۇ.</string>
+    <string name="kg_face_cover_led_view_toast_for_dex">‏LED كۆرۈنمە قاپ چېتىق چاغدا يۈز تونۇغۇچ ئىشلىمەيدۇ.</string>
+    <string name="kg_face_cover_s_view_toast_for_dex">‏S كۆرۈنمە قاپ چېتىق چاغدا يۈز تونۇغۇچ ئىشلىمەيدۇ.</string>
+    <string name="kg_face_cover_toast_for_dex">مۇقاۋا چېتىقلىق چاغدا يۈز تونۇما قوللىنىملىق ئەمەس.</string>
+    <string name="kg_face_direction_active_instructions">يۈز تونۇغۇچ ئىشلىتىڭ ياكى يۈرۈشلۈك يۆنىلىش سىزىپ ئېچىڭ</string>
+    <string name="kg_face_direction_none_instructions">يۈز تونۇغۇچ ئىشلىتىڭ ياكى يۈرۈشلۈك يۆنىلىش سىزىڭ</string>
+    <string name="kg_face_guide_text_for_enable_toggle">بۇ يەرنى چېكىپ كۆز تونۇغۇچ ئىشلىتىڭ</string>
+    <string name="kg_face_not_supported_at_180_degree">يۈز تونۇغۇچ ئىشلەتكەندە تاختا كومپيۇتېرنى چۆرۈڭ، كامېرا ئاستىغا كېلىپ قالمىسۇن</string>
+    <string name="kg_face_or_fingerprint_active_voice_assistant_instructions">ئاچماق ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى يۈز تونۇما قوللانماق ئۈچۈن ئېكراننى ئىككى بارماق بىلەن سىيرىڭ.</string>
+    <string name="kg_face_password_active_instructions">ئاچماق ئۈچۈن يۈز تونۇمىنى قوللىنىڭ ياكى پارول كىرگۈزۈڭ</string>
+    <string name="kg_face_password_none_instructions">يۈز تونۇمىنى قوللىنىڭ ياكى پارول كىرگۈزۈڭ</string>
+    <string name="kg_face_pattern_active_instructions">ئاچماق ئۈچۈن يۈز تونۇمىنى قوللىنىڭ ياكى سىزما سىزىڭ</string>
+    <string name="kg_face_pattern_none_instructions">يۈز تونۇمىنى قوللىنىڭ ياكى سىزما سىزىڭ</string>
+    <string name="kg_face_pin_active_instructions">ئاچماق ئۈچۈن يۈز تونۇمىنى قوللىنىڭ ياكى PIN كىرگۈزۈڭ</string>
+    <string name="kg_face_pin_none_instructions">يۈز تونۇمىنى قوللىنىڭ ياكى PIN كىرگۈزۈڭ</string>
+    <string name="kg_face_retry_content_description">يۈز تونۇمىنى قوللانماق ئۈچۈن قوش چېكىڭ.</string>
+    <string name="kg_face_retry_text">بەلگىنى چېكىپ يۈز تونۇغۇچنى قايتا سىناڭ</string>
+    <string name="kg_face_start_for_dex">تېلېفونىڭىزدا يۈز تونۇمسىنى قوللىنڭ</string>
+    <string name="kg_face_stop">يۈز تونۇشنى توختىتىش</string>
+    <string name="kg_face_toast_preview_for_dex">تېلېفوندىكى يۈز تونۇش ئىقتىدارى ئارقىلىق كىملىك دەلىللەڭ.</string>
+    <string name="kg_fbe_notification_header">تېلېفون قايتا قوزغالدى</string>
+    <string name="kg_fbe_notification_message">تېلېفون قۇلۇپىنى ئېچىپ ئەپ ئۇقتۇرۇشى ئېلىڭ.</string>
+    <string name="kg_finger_print_bad_quality_error_message">بارماق ئىزى سېنزورى كىر بولۇشى مۇمكىن. ئۇنى پاكىزلاپ قايتا سىناڭ.</string>
+    <string name="kg_finger_print_database_error_message">بارماق ئىزى ئۇچۇرى بۇزۇلدى. بارماق ئىزىنى ئېكران قۇلۇپى قىلىپ قايتا بېكىتىپ ئاندىن بارماق ئىزىڭىزنى قوشۇڭ ياكى ئېكران قۇلۇپ تىپىنى ئۆزگەرتىڭ.</string>
+    <string name="kg_finger_print_not_responding_error_message">بارماق ئىزى سەزگۈچتە ئىنكاس يوق. كېيىنرەك قايتا سىناڭ.</string>
+    <string name="kg_finger_print_sensor_changed_error_message">بارماق سەزگۈچ مۇۋاپىق ئۆزگەرمىدى. خېرىدارلار مۇلازىمەت مەركىزى بىلەن ئالاقىلىشىڭ.</string>
+    <string name="kg_finger_print_sensor_error_message">بارماق ئىزى سەزگۈچتە خاتالىق كۆرۈلدى. بۇ ئۇچۇر داۋاملىق كۆرۈلسە، ئۈسكۈنىنى قايتا قوزغىتىڭ.</string>
+    <string name="kg_finger_print_sensor_with_recalibration_error_message">باشبەت كۇنۇپكىسىنىڭ پاكىزە ۋە قۇرۇقلۇقىنى جەزملەشتۈرۈپ، قايتا سىناڭ.</string>
+    <string name="kg_fingerprint_acquired_image_dirty">بارماق سەزگۈچنى سۈرتۈپ، قايتا سىناڭ</string>
+    <string name="kg_fingerprint_acquired_light">چىڭراق بېسىڭ</string>
+    <string name="kg_fingerprint_acquired_partial">بارماق سەزگۈچنى تولۇق قاپلاڭ</string>
+    <string name="kg_fingerprint_acquired_too_fast">بارماقنى سەزگۈچتە ئۇزۇنراق تۇتۇڭ</string>
+    <string name="kg_fingerprint_acquired_too_wet">بارماق قۇرۇق بولسۇن</string>
+    <string name="kg_fingerprint_direction_active_instructions">ئاچماق ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى يۆنىلىشلەر قاتارى سىزىڭ</string>
+    <string name="kg_fingerprint_direction_none_instructions">بارماق ئىزى ئىشلىتىش ياكى يۆنىلىش سىزىش</string>
+    <string name="kg_fingerprint_no_match">ماس ئەمەس</string>
+    <string name="kg_fingerprint_or_swipe_active_instructions">بارماق ئىزى ئارقىلىق ئېچىش</string>
+    <string name="kg_fingerprint_or_swipe_active_voice_assistant_instructions">ئاچماق ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى ئېكراننى ئىككى بارماق بىلەن سىيرىڭ</string>
+    <string name="kg_fingerprint_or_swipe_unlock_instructions">بارماق ئىزى ئارقىلىق قۇلۇپ ئېچىش</string>
+    <string name="kg_fingerprint_password_active_instructions">ئاچماق ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى پارول كىرگۈزۈڭ</string>
+    <string name="kg_fingerprint_password_none_instructions">بارماق ئىزى ئىشلىتىش ياكى پارول كىرگۈزۈش</string>
+    <string name="kg_fingerprint_pattern_active_instructions">ئاچماق ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى سىزما سىزىڭ</string>
+    <string name="kg_fingerprint_pattern_none_instructions">使用指纹或画出图案</string>
+    <string name="kg_fingerprint_pin_active_instructions">ئاچماق ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى PIN كىرگۈزۈڭ</string>
+    <string name="kg_fingerprint_pin_none_instructions">بارماق ئىزى ئىشلىتىش ياكى PIN كىرگۈزۈش</string>
+    <string name="kg_fingerprints_direction_bouncer_instructions">ئاچماق ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى يۆنىلىشلەر قاتارى سىزىڭ</string>
+    <string name="kg_fingerprints_direction_instructions">بارماق ئىزى ئىشلىتىش ياكى يۆنىلىش سىزىش</string>
+    <string name="kg_fingerprints_direction_unabled_instructions">ئۈسكۈنە قايتا قوزغالدى، يۈرۈشلۈك يۆنىلىش ئارقىلىق قۇلۇپ ئېچىش كېرەك. كېيىنكى قېتىم ئۈسكۈنە قۇلۇپىنى بارماق ئارقىلىق ئاچسىڭىز بولىدۇ.</string>
+    <string name="kg_fingerprints_password_bouncer_instructions">ئاچماق ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى پارول كىرگۈزۈڭ</string>
+    <string name="kg_fingerprints_password_instructions">بارماق ئىزى ئىشلىتىش ياكى پارول كىرگۈزۈش</string>
+    <string name="kg_fingerprints_password_unabled_instructions">ئۈسكۈنە قايتا قوزغالدى، پارول ئارقىلىق قۇلۇپ ئېچىش كېرەك. كېيىنكى قېتىم ئۈسكۈنە قۇلۇپىنى بارماق ئارقىلىق ئاچسىڭىز بولىدۇ.</string>
+    <string name="kg_fingerprints_pattern_bouncer_instructions">ئاچماق ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى سىزما سىزىڭ</string>
+    <string name="kg_fingerprints_pattern_instructions">بارماق ئىزى ياكى ئېچىش سىزمىسى ئىشلىتىش</string>
+    <string name="kg_fingerprints_pattern_unabled_instructions">ئۈسكۈنە قايتا قوزغالدى، شەكىل ئارقىلىق قۇلۇپ ئېچىش كېرەك. كېيىنكى قېتىم ئۈسكۈنە قۇلۇپىنى بارماق ئارقىلىق ئاچسىڭىز بولىدۇ.</string>
+    <string name="kg_fingerprints_pin_bouncer_instructions">ئاچماق ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى PIN كىرگۈزۈڭ</string>
+    <string name="kg_fingerprints_pin_instructions">بارماق ئىزى ئىشلىتىش ياكى PIN كىرگۈزۈش</string>
+    <string name="kg_fingerprints_pin_unabled_instructions">ئۈسكۈنىڭىز قايتا قوزغىتىلدى ۋە PIN ئارقىلىق ئېچىش كېرەك. ئۈسكۈنىڭىزنى كېيىنكى قېتىم بارماق ئىزىڭىز بىلەن ئاچالايسىز.</string>
+    <string name="kg_flight_mode">ئۇچۇش ھالىتى</string>
+    <string name="kg_forgot_spass_button_text">‏Samsung ھېسابى</string>
+    <string name="kg_hide_password_accessibility">پارولنى يوشۇرۇش</string>
+    <string name="kg_ib_cancel_for_dex">ئاڭلىق تەكشۈرۈشنى بىكار قىلىش</string>
+    <string name="kg_ib_cancel_text">ئاڭلىق تەكشۈرۈشنى بىكار قىلىش</string>
+    <string name="kg_ib_cover_toast_for_dex">كىرگۈزگۈچ قېپى چېتىق چاغدا ئاڭلىق تەكشۈرۈش ئىشلىمەيدۇ.</string>
+    <string name="kg_ib_not_supported_at_180_degree">ئاڭلىق تەكشۈرگۈچ ئىشلەتكەندە تاختا كومپيۇتېرنى چۆرۈڭ، ئاندىن كامېرا ئاستىغا كېلىپ قالمايدۇ</string>
+    <string name="kg_ib_retry_text">بەلگىنى چېكىپ ئاڭلىق تەكشۈرگۈچنى قايتا سىناڭ</string>
+    <string name="kg_ib_start_for_dex">تېلېفوندا ئاڭلىق تەكشۈرگۈچ ئىشلىتىش</string>
+    <string name="kg_ib_stop">ئاڭلىق تەكشۈرۈشنى توختىتىش</string>
+    <string name="kg_ib_toast_preview_for_dex">تېلېفوندا ئاڭلىق تەكشۈرگۈچ ئىشلىتىش</string>
+    <string name="kg_incorrect_password">كىرگۈزگەن پارول خاتا</string>
+    <string name="kg_incorrect_pattern">شەكىل خاتا سىزىلدى</string>
+    <string name="kg_incorrect_pin">كىرگۈزگەن PIN خاتا</string>
+    <string name="kg_infinity_wallpaper_description">چەكسىز تام قەغەز بىرلا ۋاقىتتا Always On Display، باش ئېكران ۋە قۇلۇپ ئېكرانىغا قوللىنىلىدۇ.</string>
+    <string name="kg_infinity_wallpaper_description_without_aod">چەكسىزلىك تامقەغىزى بىرلا ۋاقىتتا سىزنىڭ باش ۋە قۇلۇپ ئېكرانىڭىزغا تەدبىقلىنىدۇ.</string>
+    <string name="kg_intelligent_1st_active_instructions">ئاڭلىق تەكشۈرۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_intelligent_1st_unlock_instructions">ئاڭلىق تەكشۈرۈش ئارقىلىق قۇلۇپ ئېچىش</string>
+    <string name="kg_intelligent_direction_active_instructions">ئاڭلق تەكشۈرۈش ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_intelligent_direction_none_instructions">ئاڭلق تەكشۈرۈش ئىشلىتىش ياكى يۈرۈشلۈك يۆنىلىش سىزىش</string>
+    <string name="kg_intelligent_or_fingerprint_active_voice_assistant_instructions">بارماق ئىزى ياكى 2 بارماقتا سىيرىش ئارقىلىق ئېچىپ، ئاڭلىق تەكشۈرگۈچ ئىشلىتىڭ</string>
+    <string name="kg_intelligent_password_active_instructions">ئاڭلىق تەكشۈرگۈچ ياكى پارول ئارقىلىق ئېچىش</string>
+    <string name="kg_intelligent_password_none_instructions">ئاڭلىق تەكشۈرگۈچ ئىشلىتىش ياكى پارول كىرگۈزۈش</string>
+    <string name="kg_intelligent_pattern_active_instructions">ئاڭلىق تەكشۈرگۈچ ياكى شەكىل سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_intelligent_pattern_none_instructions">ئاڭلىق تەكشۈرگۈچ ئىشلىتىش ياكى شەكىل سىزىش</string>
+    <string name="kg_intelligent_pin_active_instructions">ئاڭلىق تەكشۈرگۈچ ياكى PIN ئارقىلىق ئېچىش</string>
+    <string name="kg_intelligent_pin_none_instructions">ئاڭلىق تەكشۈرگۈچ ئىشلىتىش ياكى PIN كىرگۈزۈش</string>
+    <string name="kg_intelligent_retry_content_description">قوش چېكىپ، ئاڭلىق تەكشۈرۈشنى ئىشلىتىڭ.</string>
+    <string name="kg_intelligent_scan_proximity_guide_text">قولىڭىز سەزگۈچنى توسۇۋالدىمۇ؟ ئاڭلىق تەكشۈرگۈچنى توسماي ئىشلىتىڭ</string>
+    <string name="kg_iris_1st_active_instructions">كۆز تونۇش ئارقىلىق ئېچىش</string>
+    <string name="kg_iris_1st_unlock_instructions">كۆز تونۇش ئارقىلىق قۇلۇپ ئېچىش</string>
+    <string name="kg_iris_cancel">كۆز تونۇشنى بىكار قىلىش</string>
+    <string name="kg_iris_cancel_for_dex">كۆز تونۇشنى بىكار قىلىش</string>
+    <string name="kg_iris_cover_clear_view_toast_for_dex">سۈزۈك كۆرۈنمە قاپ چېتىق چاغدا كۆز تونۇغۇچ ئىشلىمەيدۇ.</string>
+    <string name="kg_iris_cover_led_view_toast_for_dex">‏LED كۆرۈنمە قاپ چېتىق چاغدا كۆز تونۇغۇچ ئىشلىمەيدۇ.</string>
+    <string name="kg_iris_cover_s_view_toast_for_dex">‏S كۆرۈنمە قاپ چېتىق چاغدا كۆز تونۇغۇچ ئىشلىمەيدۇ.</string>
+    <string name="kg_iris_cover_toast_for_dex">قاپ چېتىق چاغدا كۆز تونۇغۇچ ئىشلىمەيدۇ.</string>
+    <string name="kg_iris_direction_active_instructions">ئاچماق ئۈچۈن قارىچۇقلارنى قوللىنىڭ ياكى يۆنىلىشلەر قاتارى سىزىڭ</string>
+    <string name="kg_iris_direction_instructions">قارىچۇقلارنى قوللىنىڭ ياكى يۆنىلىشلەر قاتارى سىزىڭ</string>
+    <string name="kg_iris_direction_none_instructions">قارىچۇقلارنى قوللىنىڭ ياكى يۆنىلىشلەر قاتارى سىزىڭ</string>
+    <string name="kg_iris_no_match">ماسلىق يوق</string>
+    <string name="kg_iris_not_supported_at_180_degree">كۆز تونۇغۇچ ئىشلەتكەندە تاختا كومپيۇتېرنى چۆرۈڭ، ئاندىن سەزگۈچ ئاستىغا كېلىپ قالمايدۇ</string>
+    <string name="kg_iris_or_fingerprint_active_voice_assistant_instructions">ئاچماق ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى قارىچۇقلارنى قوللانماق ئۈچۈن ئېكراننى ئىككى بارماق بىلەن سىيرىڭ</string>
+    <string name="kg_iris_password_active_instructions">ئاچماق ئۈچۈن قارىچۇقلارنى قوللىنىڭ ياكى پارول كىرگۈزۈڭ</string>
+    <string name="kg_iris_password_none_instructions">كۆز ئىشلىتىش ياكى پارول كىرگۈزۈش</string>
+    <string name="kg_iris_pattern_active_instructions">ئاچماق ئۈچۈن قارىچۇقلارنى قوللىنىڭ ياكى سىزما سىزىڭ</string>
+    <string name="kg_iris_pattern_none_instructions">كۆز ئىشلىتىش ياكى سىزما سىزىش</string>
+    <string name="kg_iris_pattern_text_for_mkeyboard">سىزما سىزماق ئۈچۈن بۇيەرنى چېكىڭ</string>
+    <string name="kg_iris_pin_active_instructions">ئاچماق ئۈچۈن قارىچۇقلارنى قوللىنىڭ ياكى PIN كىرگۈزۈڭ</string>
+    <string name="kg_iris_pin_none_instructions">كۆز ئىشلىتىش ياكى PIN كىرگۈزۈش</string>
+    <string name="kg_iris_proximity_guide_text">قولىڭىز سەزگۈچنى توسۇۋالدىمۇ؟ كۆز تونۇغۇچنى توسماي ئىشلىتىڭ</string>
+    <string name="kg_iris_retry_content_description">قوش چېكىپ، كۆز سايىلەڭ.</string>
+    <string name="kg_iris_retry_text">قارىچۇق تونۇمىسىنى قايتا سىناش ئۈچۈن ئايكوننى چېكىڭ</string>
+    <string name="kg_iris_start_for_dex">تېلېفوندا كۆز ئىشلىتىش</string>
+    <string name="kg_iris_stop">كۆز تەكشۈرۈشنى توختىتىش</string>
+    <string name="kg_iris_strong_auth_prompt_reason_24_timeout_universal_lock">بىخەتەرلىك ئۈچۈن تېلېفوننىڭ قۇلۇپىنى يۈرۈشلۈك يۆنىلىش ئارقىلىق ئېچىڭ. كېيىنكى قېتىم بىيوئۆلچەم ئىشلەتسىڭىز بولىدۇ.</string>
+    <string name="kg_iris_strong_auth_prompt_reason_restarting_universal_lock">ئۈسكۈنە قايتا قوزغالدى، يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق قۇلۇپ ئېچىش كېرەك. كېيىنكى قېتىم ئۈسكۈنە قۇلۇپىنى كۆز ئارقىلىق ئاچسىڭىز بولىدۇ.</string>
+    <string name="kg_iris_strong_auth_prompt_reason_universal_lock_security_policy">بىخەتەرلىك تۈزۈمى سەۋەبلىك كۆز تونۇشنى ئىشلەتمەي يۆنىلىش ئىشلىتىڭ</string>
+    <string name="kg_iris_toast_preview_for_dex">تېلېفوندا كۆز كىملىك ئارقىلىق كىملىك دەلىللەڭ.</string>
+    <string name="kg_iris_too_many_timeout_error_text">بەك قىزىپ كەتتى، كۆز تونۇغۇچ ئىشلىمەيدۇ. تېلېفون سوۋۇغاندا قايتا سىناڭ.</string>
+    <string name="kg_iris_too_many_timeout_error_toast_text">كۆز تونۇيدىغان LED قىزىپ كەتتى. كېيىنرەك قايتا سىناڭ.</string>
+    <string name="kg_keycode_delete">ئۆچۈرۈش</string>
+    <string name="kg_keycode_ok">ماقۇل</string>
+    <string name="kg_kor_empty_sim_puk_hint">‏PIN قۇلۇپسىزلاش (PUK) كودى كىرگۈزۈلمىدى. قايتا سىناڭ.</string>
+    <string name="kg_kor_enter_confirm_pin_hint">‏USIM كارتىغا PIN كىرگۈزۈپ، جەزملەشتۈرۈڭ.</string>
+    <string name="kg_kor_invalid_confirm_pin_hint">يېڭى PIN لار ماس ئەمەس.</string>
+    <string name="kg_kor_invalid_sim_puk_hint">‏8 خانە PIN ئېچىش (PUK) كودىنى كىرگۈزۈش</string>
+    <string name="kg_kor_password_wrong_pin_code">خاتا PIN كىرگۈزۈلدى. %d قېتىملىق پۇرسىتىڭىز قالدى. خېرىدارلار مۇلازىمەت مەركىزى بىلەن ئالاقىلىشىڭ.</string>
+    <string name="kg_kor_puk_enter_pin_hint">"يېڭى USIM كارتا PIN نى قۇرۇڭ.
+PIN چوقۇم 4 خانىدىن 8 خانىغىچە بولۇشى كېرەك."</string>
+    <string name="kg_kor_sim_pin_instructions">‏USIM كارتا قۇلۇپسىزلاش PIN ىنى كىرگۈزۈڭ (4-8 رەقەم)</string>
+    <string name="kg_kor_sim_puk_instructions">‏PUK كىرگۈزۈڭ.</string>
+    <string name="kg_kor_sim_puk_remaining_attempts">"خاتا PUK %1$d قېتىم خاتا كىرگۈزۈلدى. خاتا PUK %2$d قېتىمدىن ئارتۇق كىرگۈزۈلسە USIM كارتا مەڭگۈلۈك توسۇلىدۇ.
+
+ئەگەر PUK نى بىلمىسىڭىز خېرىدارلار مۇلازىمەت مەركىزى بىلەن ئالاقىلىشىڭ."</string>
+    <string name="kg_kor_sim_unlock_progress_dialog_message">‏SIM كارتا قۇلۇپىنى ئېچىش</string>
+    <string name="kg_kor_success_pin_message">يېڭى پارول (PIN) ساقلاندى.</string>
+    <string name="kg_kor_wrong_puk_code">قۇلۇپسىزلاش كودىنى كىرگۈزمە خاتاسى</string>
+    <string name="kg_ktt_sim_perso_instructions">4-8 خانىغىچە بولغان پارولنى كىرگۈزۈش (PIN)</string>
+    <string name="kg_lockscreen_emergency_call_button_text">جىددىي چاقىرىق</string>
+    <string name="kg_login_checking_password">ھېسابنى تەكشۈرۈۋاتىدۇ…</string>
+    <string name="kg_login_invalid_input">ئىشلەتكۈچى نامى ياكى پارول خاتا.</string>
+    <string name="kg_login_password_hint">پارول</string>
+    <string name="kg_login_submit_button">تىزىملاپ كىرىش</string>
+    <string name="kg_login_username_hint">ئىشلەتكۈچى نامى (تورخەت)</string>
+    <string name="kg_missing_sim_message_short">‏SIM كارتا يوق</string>
+    <string name="kg_multi_biometrics_direction_instructions">بىيوئۆلچەم ئىشلىتىش ياكى يۈرۈشلۈك يۆنىلىش سىزىش</string>
+    <string name="kg_multi_biometrics_prompt_reason_timeout_universal_lock_strong_auth">بىيوئۆلچەمڭىزنى قوللىنىشنىڭ ئورنىغا، بىخەتەرلىك سىياسىتى تەلەپ قىلغىنىدەك يۆنىلىشلەر قاتارى سىزىڭ</string>
+    <string name="kg_multi_biometrics_strong_auth_prompt_reason_24_timeout_universal_lock">بىخەتەرلىك ئۈچۈن تېلېفوننىڭ قۇلۇپىنى يۈرۈشلۈك يۆنىلىش ئارقىلىق ئېچىڭ. كېيىنكى قېتىم بىيوئۆلچەم ئىشلەتسىڭىز بولىدۇ.</string>
+    <string name="kg_multi_biometrics_strong_auth_prompt_reason_restarting_universal_lock">ئۈسكۈنە قايتا قوزغالدى، يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق قۇلۇپ ئېچىش كېرەك. كېيىنكى قېتىم ئۈسكۈنە قۇلۇپىنى بىيوئۆلچەم ئارقىلىق ئاچسىڭىز بولىدۇ.</string>
+    <string name="kg_multi_direction_active_instructions">بىيوئۆلچەم ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_multi_direction_none_instructions">بىيوئۆلچەم ئىشلىتىش ياكى يۈرۈشلۈك يۆنىلىش سىزىش</string>
+    <string name="kg_multi_password_active_instructions">ئاچماق ئۈچۈن بىيوئۆلچەم قوللىنىڭ ياكى پارول كىرگۈزۈڭ</string>
+    <string name="kg_multi_password_none_instructions">بىيومېترىيە قوللىنىڭ ياكى پارول كىرگۈزۈڭ</string>
+    <string name="kg_multi_pattern_active_instructions">ئاچماق ئۈچۈن بىيوئۆلچەم قوللىنىڭ ياكى سىزما سىزىڭ</string>
+    <string name="kg_multi_pattern_none_instructions">بىيومېترىيە قوللىنىڭ ياكى سىزما سىزىڭ</string>
+    <string name="kg_multi_pin_active_instructions">ئاچماق ئۈچۈن بىيوئۆلچەم قوللىنىڭ ياكى PIN كىرگۈزۈڭ</string>
+    <string name="kg_multi_pin_none_instructions">بىيومېترىيە قوللىنىڭ ياكى PIN كىرگۈزۈڭ</string>
+    <string name="kg_n_attempts_remaining">(%d قېتىملىق پۇرسىتىڭىز قالدى)</string>
+    <string name="kg_no_match">ماسلىق يوق</string>
+    <string name="kg_none_direction_1_frp">"ئەگەر كېيىنكى ئۇرۇنۇشتا توغرا يۆنىلىشلەر قاتارى سىزمىسىڭىز، تېلېفونىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تېلېفوندىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تېلېفونىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تېلېفون بىلەن باغلانغان Google ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_none_direction_1_reactivation">"ئەگەر كېيىنكى ئۇرۇنۇشتا توغرا يۆنىلىشلەر قاتارى كىرگۈزمىسىڭىز، تېلېفونىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تېلېفوندىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تېلېفونىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تېلېفون بىلەن باغلانغان Samsung ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_none_direction_active_instructions">يۆنىلىش سىزىپ ئېچىش</string>
+    <string name="kg_none_direction_none_frp">"ئەگەر كېيىنكى %d ئۇرۇنۇشتا توغرا يۆنىلىشلەر قاتارى سىزمىسىڭىز، تېلېفونىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تېلېفوندىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تېلېفونىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تېلېفون بىلەن باغلانغان Google ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_none_direction_none_instructions">يۆنىلىش سىزىپ ئېكراننى ئېچىش</string>
+    <string name="kg_none_direction_none_reactivation">"ئەگەر كېيىنكى %d ئۇرۇنۇشتا توغرا يۆنىلىشلەر قاتارى كىرگۈزمىسىڭىز، تېلېفونىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تېلېفوندىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تېلېفونىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تېلېفون بىلەن باغلانغان Samsung ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_none_face_direction_deviceadmin_instructions">بىخەتەرلىك ئۈچۈن يۈرۈشلۈك يۆنىلىش سىزىڭ.</string>
+    <string name="kg_none_face_direction_emergencymodeoff_instructions">جىددىي ھالەتنى يۈز تونۇش ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_face_direction_emergencymodeon_instructions">جىددىي ھالەتنى يۈز تونۇش ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_face_direction_restart_instructions">قايتا قوزغالغاندىن كېيىن يۈرۈشلۈك يۆنىلىش ئىشلىتىڭ.</string>
+    <string name="kg_none_face_direction_shutdown_instructions">تېلېفوننى ئەتمەك ئۈچۈن يۈز تونۇمىنى قوللىنىڭ ياكى يۆنىلىشلەر قاتارى سىزىڭ</string>
+    <string name="kg_none_face_direction_timeout_instructions">بىخەتەرلىك ئۈچۈن يۈرۈشلۈك يۆنىلىش سىزىڭ.</string>
+    <string name="kg_none_face_password_deviceadmin_instructions">يۈز تونۇغۇچ ئىشلەتمەي بىخەتەرلىك تۈزۈمى بويىچە پارول كىرگۈزۈڭ</string>
+    <string name="kg_none_face_password_emergencymodeoff_instructions">جىددىي ھالەتنى يۈز تونۇش ياكى پارول كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_face_password_emergencymodeon_instructions">جىددىي ھالەتنى يۈز تونۇش ياكى پارول كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_face_password_restart_instructions">قايتا قوزغالغاندىن كېيىن پارول ئىشلىتىڭ.</string>
+    <string name="kg_none_face_password_shutdown_instructions">تېلېفوننى ئەتمەك ئۈچۈن يۈز تونۇمىنى قوللىنىڭ ياكى پارول كىرگۈزۈڭ</string>
+    <string name="kg_none_face_password_timeout_instructions">بىخەتەرلىك ئۈچۈن پارول ئىشلىتىڭ.</string>
+    <string name="kg_none_face_pattern_deviceadmin_instructions">يۈز تونۇغۇچ ئىشلەتمەي بىخەتەرلىك تۈزۈمى بويىچە شەكىل سىزىڭ</string>
+    <string name="kg_none_face_pattern_emergencymodeoff_instructions">جىددىي ھالەتنى يۈز تونۇش ياكى شەكىل سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_face_pattern_emergencymodeon_instructions">جىددىي ھالەتنى يۈز تونۇش ياكى شەكىل سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_face_pattern_restart_instructions">قايتا قوزغالغاندىن كېيىن شەكىل سىزىڭ.</string>
+    <string name="kg_none_face_pattern_shutdown_instructions">تېلېفوننى ئەتمەك ئۈچۈن يۈز تونۇمىنى قوللىنىڭ ياكى سىزما سىزىڭ</string>
+    <string name="kg_none_face_pattern_timeout_instructions">بىخەتەرلىك ئۈچۈن شەكىل سىزىڭ.</string>
+    <string name="kg_none_face_pin_deviceadmin_instructions">يۈز تونۇغۇچ ئىشلەتمەي بىخەتەرلىك تۈزۈمى بويىچە PIN كىرگۈزۈڭ</string>
+    <string name="kg_none_face_pin_emergencymodeoff_instructions">جىددىي ھالەتنى يۈز تونۇش ياكى PIN كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_face_pin_emergencymodeon_instructions">جىددىي ھالەتنى يۈز تونۇش ياكى PIN كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_face_pin_restart_instructions">قايتا قوزغالغاندىن كېيىن PIN ئىشلىتىڭ.</string>
+    <string name="kg_none_face_pin_shutdown_instructions">تېلېفوننى ئەتمەك ئۈچۈن يۈز تونۇمىنى قوللىنىڭ ياكى PIN كىرگۈزۈڭ</string>
+    <string name="kg_none_face_pin_timeout_instructions">بىخەتەرلىك ئۈچۈن PIN ئىشلىتىڭ.</string>
+    <string name="kg_none_facefingerprint_direction_itpolicy_instructions">بىخەتەرلىك ئۈچۈن يۈرۈشلۈك يۆنىلىش سىزىڭ.</string>
+    <string name="kg_none_facefingerprint_password_itpolicy_instructions">يۈز تونۇمىنى قوللىنىشنىڭ ئورنىغا، بىخەتەرلىك سىياسىتى تەلەپ قىلغىنىدەك بارماق ئىزىڭىزنى قوللىنىڭ ياكى پارولىڭىزنى كىرگۈزۈڭ</string>
+    <string name="kg_none_facefingerprint_pattern_itpolicy_instructions">يۈز تونۇمىنى قوللىنىشنىڭ ئورنىغا، بىخەتەرلىك سىياسىتى تەلەپ قىلغىنىدەك بارماق ئىزىڭىزنى قوللىنىڭ ياكى سىزما سىزىڭ</string>
+    <string name="kg_none_facefingerprint_pin_itpolicy_instructions">يۈز تونۇمىنى قوللىنىشنىڭ ئورنىغا، بىخەتەرلىك سىياسىتى تەلەپ قىلغىنىدەك بارماق ئىزىڭىزنى قوللىنىڭ ياكى PIN ىڭىزنى كىرگۈزۈڭ</string>
+    <string name="kg_none_fingerprint_direction_deviceadmin_instructions">بىخەتەرلىك ئۈچۈن يۈرۈشلۈك يۆنىلىش سىزىڭ.</string>
+    <string name="kg_none_fingerprint_direction_emergencymodeoff_instructions">جىددىي ھالەتنى بارماق ئىزى ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_fingerprint_direction_emergencymodeon_instructions">جىددىي ھالەتنى بارماق ئىزى ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_fingerprint_direction_restart_instructions">قايتا قوزغالغاندىن كېيىن يۈرۈشلۈك يۆنىلىش ئىشلىتىڭ.</string>
+    <string name="kg_none_fingerprint_direction_shutdown_instructions">تېلېفوننى ئەتمەك ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى يۆنىلىشلەر قاتارى سىزىڭ</string>
+    <string name="kg_none_fingerprint_direction_timeout_instructions">بىخەتەرلىك ئۈچۈن يۈرۈشلۈك يۆنىلىش سىزىڭ.</string>
+    <string name="kg_none_fingerprint_password_deviceadmin_instructions">بىخەتەرلىك ئۈچۈن پارول ئىشلىتىڭ.</string>
+    <string name="kg_none_fingerprint_password_emergencymodeoff_instructions">جىددىي ھالەتنى بارماق ئىزى ياكى پارول كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_fingerprint_password_emergencymodeon_instructions">جىددىي ھالەتنى بارماق ئىزى ياكى پارول كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_fingerprint_password_restart_instructions">قايتا قوزغالغاندىن كېيىن پارول ئىشلىتىڭ.</string>
+    <string name="kg_none_fingerprint_password_shutdown_instructions">تېلېفوننى ئەتمەك ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى پارول كىرگۈزۈڭ</string>
+    <string name="kg_none_fingerprint_password_timeout_instructions">بىخەتەرلىك ئۈچۈن پارول ئىشلىتىڭ.</string>
+    <string name="kg_none_fingerprint_pattern_deviceadmin_instructions">بىخەتەرلىك ئۈچۈن شەكىل سىزىڭ.</string>
+    <string name="kg_none_fingerprint_pattern_emergencymodeoff_instructions">جىددىي ھالەتنى بارماق ئىزى ياكى شەكىل سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_fingerprint_pattern_emergencymodeon_instructions">جىددىي ھالەتنى بارماق ئىزى ياكى شەكىل سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_fingerprint_pattern_restart_instructions">قايتا قوزغالغاندىن كېيىن شەكىل سىزىڭ.</string>
+    <string name="kg_none_fingerprint_pattern_shutdown_instructions">تېلېفوننى ئەتمەك ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى سىزما سىزىڭ</string>
+    <string name="kg_none_fingerprint_pattern_timeout_instructions">بىخەتەرلىك ئۈچۈن شەكىل سىزىڭ.</string>
+    <string name="kg_none_fingerprint_pin_deviceadmin_instructions">بىخەتەرلىك ئۈچۈن PIN ئىشلىتىڭ.</string>
+    <string name="kg_none_fingerprint_pin_emergencymodeoff_instructions">جىددىي ھالەتنى بارماق ئىزى ياكى PIN كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_fingerprint_pin_emergencymodeon_instructions">جىددىي ھالەتنى بارماق ئىزى ياكى PIN كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_fingerprint_pin_restart_instructions">قايتا قوزغالغاندىن كېيىن PIN ئىشلىتىڭ.</string>
+    <string name="kg_none_fingerprint_pin_shutdown_instructions">تېلېفوننى ئەتمەك ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى PIN كىرگۈزۈڭ</string>
+    <string name="kg_none_fingerprint_pin_timeout_instructions">بىخەتەرلىك ئۈچۈن PIN ئىشلىتىڭ.</string>
+    <string name="kg_none_intelligent_direction_deviceadmin_instructions">بىخەتەرلىك ئۈچۈن يۈرۈشلۈك يۆنىلىش سىزىڭ.</string>
+    <string name="kg_none_intelligent_direction_emergencymodeoff_instructions">جىددىي ھالەتنى ئاڭلىق تەكشۈرگۈچ ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_intelligent_direction_emergencymodeon_instructions">جىددىي ھالەتنى ئاڭلىق تەكشۈرگۈچ ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_intelligent_direction_restart_instructions">قايتا قوزغالغاندىن كېيىن يۈرۈشلۈك يۆنىلىش ئىشلىتىڭ.</string>
+    <string name="kg_none_intelligent_direction_shutdown_instructions">تېلېفوننى ئاڭلىق تەكشۈرگۈچ ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_intelligent_direction_timeout_instructions">بىخەتەرلىك ئۈچۈن يۈرۈشلۈك يۆنىلىش سىزىڭ.</string>
+    <string name="kg_none_intelligent_password_deviceadmin_instructions">بىخەتەرلىك ئۈچۈن پارول ئىشلىتىڭ.</string>
+    <string name="kg_none_intelligent_password_emergencymodeoff_instructions">جىددىي ھالەتنى ئاڭلىق تەكشۈرگۈچ ياكى پارول كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_intelligent_password_emergencymodeon_instructions">جىددىي ھالەتنى ئاڭلىق تەكشۈرگۈچ ياكى پارول كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_intelligent_password_restart_instructions">قايتا قوزغالغاندىن كېيىن پارول ئىشلىتىڭ.</string>
+    <string name="kg_none_intelligent_password_shutdown_instructions">ئاڭلىق تەكشۈرگۈچ ياكى پارول ئارقىلىق تېلېفوننى ئېتىش</string>
+    <string name="kg_none_intelligent_password_timeout_instructions">بىخەتەرلىك ئۈچۈن پارول ئىشلىتىڭ.</string>
+    <string name="kg_none_intelligent_pattern_deviceadmin_instructions">بىخەتەرلىك ئۈچۈن شەكىل سىزىڭ.</string>
+    <string name="kg_none_intelligent_pattern_emergencymodeoff_instructions">جىددىي ھالەتنى ئاڭلىق تەكشۈرگۈچ ياكى شەكىل سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_intelligent_pattern_emergencymodeon_instructions">جىددىي ھالەتنى ئاڭلىق تەكشۈرگۈچ ياكى شەكىل سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_intelligent_pattern_restart_instructions">قايتا قوزغالغاندىن كېيىن شەكىل سىزىڭ.</string>
+    <string name="kg_none_intelligent_pattern_shutdown_instructions">ئاڭلىق تەكشۈرگۈچ ياكى شەكىل سىزىش ئارقىلىق تېلېفوننى ئېتىش</string>
+    <string name="kg_none_intelligent_pattern_timeout_instructions">بىخەتەرلىك ئۈچۈن شەكىل سىزىڭ.</string>
+    <string name="kg_none_intelligent_pin_deviceadmin_instructions">بىخەتەرلىك ئۈچۈن PIN ئىشلىتىڭ.</string>
+    <string name="kg_none_intelligent_pin_emergencymodeoff_instructions">جىددىي ھالەتنى ئاڭلىق تەكشۈرگۈچ ياكى PIN كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_intelligent_pin_emergencymodeon_instructions">جىددىي ھالەتنى ئاڭلىق تەكشۈرگۈچ ياكى PIN كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_intelligent_pin_restart_instructions">قايتا قوزغالغاندىن كېيىن PIN ئىشلىتىڭ.</string>
+    <string name="kg_none_intelligent_pin_shutdown_instructions">ئاڭلىق تەكشۈرگۈچ ياكى PIN ئارقىلىق تېلېفوننى ئېتىش</string>
+    <string name="kg_none_intelligent_pin_timeout_instructions">بىخەتەرلىك ئۈچۈن PIN ئىشلىتىڭ.</string>
+    <string name="kg_none_iris_direction_deviceadmin_instructions">بىخەتەرلىك ئۈچۈن يۈرۈشلۈك يۆنىلىش سىزىڭ.</string>
+    <string name="kg_none_iris_direction_emergencymodeoff_instructions">جىددىي ھالەتنى كۆز ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_iris_direction_emergencymodeon_instructions">جىددىي ھالەتنى كۆز ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_iris_direction_restart_instructions">قايتا قوزغالغاندىن كېيىن يۈرۈشلۈك يۆنىلىش ئىشلىتىڭ.</string>
+    <string name="kg_none_iris_direction_shutdown_instructions">كۆز ئارقىلىق ياكى يۈرۈشلۈك يۆنىلىش سىزىپ تېلېفوننى ئېتىڭ</string>
+    <string name="kg_none_iris_direction_timeout_instructions">بىخەتەرلىك ئۈچۈن يۈرۈشلۈك يۆنىلىش سىزىڭ.</string>
+    <string name="kg_none_iris_password_deviceadmin_instructions">بىخەتەرلىك ئۈچۈن پارول ئىشلىتىڭ.</string>
+    <string name="kg_none_iris_password_emergencymodeoff_instructions">جىددىي ھالەتنى كۆز ياكى پارول كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_iris_password_emergencymodeon_instructions">جىددىي ھالەتنى كۆز ياكى پارول كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_iris_password_restart_instructions">قايتا قوزغالغاندىن كېيىن پارول ئىشلىتىڭ.</string>
+    <string name="kg_none_iris_password_shutdown_instructions">كۆز ئارقىلىق ياكى پارول كىرگۈزۈپ تېلېفوننى ئېتىڭ</string>
+    <string name="kg_none_iris_password_timeout_instructions">بىخەتەرلىك ئۈچۈن پارول ئىشلىتىڭ.</string>
+    <string name="kg_none_iris_pattern_deviceadmin_instructions">بىخەتەرلىك ئۈچۈن شەكىل سىزىڭ.</string>
+    <string name="kg_none_iris_pattern_emergencymodeoff_instructions">جىددىي ھالەتنى كۆز ياكى شەكىل سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_iris_pattern_emergencymodeon_instructions">جىددىي ھالەتنى كۆز ياكى شەكىل سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_iris_pattern_restart_instructions">قايتا قوزغالغاندىن كېيىن شەكىل سىزىڭ.</string>
+    <string name="kg_none_iris_pattern_shutdown_instructions">كۆز ئارقىلىق ياكى شەكىل سىزىپ تېلېفوننى ئېتىڭ</string>
+    <string name="kg_none_iris_pattern_timeout_instructions">بىخەتەرلىك ئۈچۈن شەكىل سىزىڭ.</string>
+    <string name="kg_none_iris_pin_deviceadmin_instructions">بىخەتەرلىك ئۈچۈن PIN ئىشلىتىڭ.</string>
+    <string name="kg_none_iris_pin_emergencymodeoff_instructions">جىددىي ھالەتنى كۆز ياكى PIN كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_iris_pin_emergencymodeon_instructions">جىددىي ھالەتنى كۆز ياكى PIN كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_iris_pin_restart_instructions">قايتا قوزغالغاندىن كېيىن PIN ئىشلىتىڭ.</string>
+    <string name="kg_none_iris_pin_shutdown_instructions">كۆز ئارقىلىق ياكى PIN كىرگۈزۈپ تېلېفوننى ئېتىڭ</string>
+    <string name="kg_none_iris_pin_timeout_instructions">بىخەتەرلىك ئۈچۈن PIN ئىشلىتىڭ.</string>
+    <string name="kg_none_multi_direction_deviceadmin_instructions">بىخەتەرلىك ئۈچۈن يۈرۈشلۈك يۆنىلىش سىزىڭ.</string>
+    <string name="kg_none_multi_direction_emergencymodeoff_instructions">جىددىي ھالەتنى بىيوئۆلچەم ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_multi_direction_emergencymodeon_instructions">جىددىي ھالەتنى بىيوئۆلچەم ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_multi_direction_restart_instructions">قايتا قوزغالغاندىن كېيىن يۈرۈشلۈك يۆنىلىش ئىشلىتىڭ.</string>
+    <string name="kg_none_multi_direction_shutdown_instructions">تېلېفوننى ئەتمەك ئۈچۈن بىيوئۆلچەم قوللىنىڭ ياكى يۆنىلىشلەر قاتارى سىزىڭ</string>
+    <string name="kg_none_multi_direction_timeout_instructions">بىخەتەرلىك ئۈچۈن يۈرۈشلۈك يۆنىلىش سىزىڭ.</string>
+    <string name="kg_none_multi_password_deviceadmin_instructions">بىخەتەرلىك ئۈچۈن پارول ئىشلىتىڭ.</string>
+    <string name="kg_none_multi_password_emergencymodeoff_instructions">جىددىي ھالەتنى بىيوئۆلچەم ياكى پارول كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_multi_password_emergencymodeon_instructions">جىددىي ھالەتنى بىيوئۆلچەم ياكى پارول كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_multi_password_restart_instructions">قايتا قوزغالغاندىن كېيىن پارول ئىشلىتىڭ.</string>
+    <string name="kg_none_multi_password_shutdown_instructions">تېلېفوننى ئەتمەك ئۈچۈن بىيوئۆلچەم قوللىنىڭ ياكى پارول كىرگۈزۈڭ</string>
+    <string name="kg_none_multi_password_timeout_instructions">بىخەتەرلىك ئۈچۈن پارول ئىشلىتىڭ.</string>
+    <string name="kg_none_multi_pattern_deviceadmin_instructions">بىخەتەرلىك ئۈچۈن شەكىل سىزىڭ.</string>
+    <string name="kg_none_multi_pattern_emergencymodeoff_instructions">جىددىي ھالەتنى بىيوئۆلچەم ياكى شەكىل سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_multi_pattern_emergencymodeon_instructions">جىددىي ھالەتنى بىيوئۆلچەم ياكى شەكىل سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_multi_pattern_restart_instructions">قايتا قوزغالغاندىن كېيىن شەكىل سىزىڭ.</string>
+    <string name="kg_none_multi_pattern_shutdown_instructions">تېلېفوننى ئەتمەك ئۈچۈن بىيوئۆلچەم قوللىنىڭ ياكى سىزما سىزىڭ</string>
+    <string name="kg_none_multi_pattern_timeout_instructions">بىخەتەرلىك ئۈچۈن شەكىل سىزىڭ.</string>
+    <string name="kg_none_multi_pin_deviceadmin_instructions">بىخەتەرلىك ئۈچۈن PIN ئىشلىتىڭ.</string>
+    <string name="kg_none_multi_pin_emergencymodeoff_instructions">جىددىي ھالەتنى بىيوئۆلچەم ياكى PIN كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_none_multi_pin_emergencymodeon_instructions">جىددىي ھالەتنى بىيوئۆلچەم ياكى PIN كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_none_multi_pin_restart_instructions">قايتا قوزغالغاندىن كېيىن PIN ئىشلىتىڭ.</string>
+    <string name="kg_none_multi_pin_shutdown_instructions">تېلېفوننى ئەتمەك ئۈچۈن بىيوئۆلچەم قوللىنىڭ ياكى PIN كىرگۈزۈڭ</string>
+    <string name="kg_none_multi_pin_timeout_instructions">بىخەتەرلىك ئۈچۈن PIN ئىشلىتىڭ.</string>
+    <string name="kg_none_none_direction_emergencymodeoff_instructions">جىددىي ھالەتنى يۈرۈشلۈك يۆنىلىش سىزىپ ئېتىش</string>
+    <string name="kg_none_none_direction_emergencymodeon_instructions">جىددىي ھالەتنى يۈرۈشلۈك يۆنىلىش سىزىپ ئېچىش</string>
+    <string name="kg_none_none_direction_shutdown_instructions">تېلېفوننى ئەتمەك ئۈچۈن يۆنىلىش قاتارى سىزىڭ</string>
+    <string name="kg_none_none_password_emergencymodeoff_instructions">جىددىي ھالەتنى پارول كىرگۈزۈپ ئېتىش</string>
+    <string name="kg_none_none_password_emergencymodeon_instructions">جىددىي ھالەتنى پارول كىرگۈزۈپ ئېچىش</string>
+    <string name="kg_none_none_password_shutdown_instructions">تېلېفوننى ئەتمەك ئۈچۈن پارول كىرگۈزۈڭ</string>
+    <string name="kg_none_none_pattern_emergencymodeoff_instructions">جىددىي ھالەتنى شەكىل سىزىپ ئېتىش</string>
+    <string name="kg_none_none_pattern_emergencymodeon_instructions">جىددىي ھالەتنى شەكىل سىزىپ ئېچىش</string>
+    <string name="kg_none_none_pattern_shutdown_instructions">تېلېفوننى ئەتمەك ئۈچۈن سىزما سىزىڭ</string>
+    <string name="kg_none_none_pin_emergencymodeoff_instructions">جىددىي ھالەتنى PIN كىرگۈزۈپ ئېتىش</string>
+    <string name="kg_none_none_pin_emergencymodeon_instructions">جىددىي ھالەتنى PIN كىرگۈزۈپ ئېچىش</string>
+    <string name="kg_none_none_pin_shutdown_instructions">تېلېفوننى ئەتمەك ئۈچۈن PIN كىرگۈزۈڭ</string>
+    <string name="kg_none_password_1_frp">"كېيىنكى قېتىم پارولنى توغرا كىرگۈزمىسىڭىز، تېلېفونىڭىز ئۆزلۈكىدىن زاۋۇت ھالىتىگە قايتىپ، تېلېفوندىكى بارلىق ئۇچۇر ئۆچۈرۈلىدۇ.
+
+تېلېفون قايتا بەلگىلەنسە، ئۇنى قايتا ئىشلىتىش ئۈچۈن ئۇنىڭغا باغلانغان Google ھېسابىنىڭ ئۇچۇرى (تورخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشكە توغرا كېلىشى مۇمكىن."</string>
+    <string name="kg_none_password_1_reactivation">"ئەگەر كېيىنكى %d ئۇرۇنۇشتا توغرا پارول كىرگۈزمىسىڭىز، تابلېتىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تابلېتتىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تابلېتىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تابلېت بىلەن باغلانغان Samsung ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_none_password_active_instructions">پارول كىرگۈزۈپ ئېچىش</string>
+    <string name="kg_none_password_none_frp">"كېيىنكى %d قېتىمدا پارولنى توغرا كىرگۈزمىسىڭىز، تېلېفونىڭىز ئۆزلۈكىدىن زاۋۇت ھالىتىگە قايتىپ، تېلېفوندىكى بارلىق ئۇچۇر ئۆچۈرۈلىدۇ.
+
+تېلېفون قايتا بەلگىلەنسە، ئۇنى قايتا ئىشلىتىش ئۈچۈن ئۇنىڭغا باغلانغان Google ھېسابىنىڭ ئۇچۇرى (تورخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشكە توغرا كېلىشى مۇمكىن."</string>
+    <string name="kg_none_password_none_instructions">پارول كىرگۈزۈش</string>
+    <string name="kg_none_password_none_reactivation">"ئەگەر كېيىنكى ئۇرۇنۇشتا توغرا پارول كىرگۈزمىسىڭىز، تابلېتىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تابلېتتىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تابلېتىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تابلېت بىلەن باغلانغان Samsung ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_none_pattern_1_frp">"كېيىنكى قېتىمدا شەكىلنى توغرا كىرگۈزمىسىڭىز، تېلېفونىڭىز ئۆزلۈكىدىن زاۋۇت ھالىتىگە قايتىپ، تېلېفوندىكى بارلىق ئۇچۇر ئۆچۈرۈلىدۇ.
+
+تېلېفون قايتا بەلگىلەنسە، ئۇنى قايتا ئىشلىتىش ئۈچۈن ئۇنىڭغا باغلانغان Google ھېسابىنىڭ ئۇچۇرى (تورخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشكە توغرا كېلىشى مۇمكىن."</string>
+    <string name="kg_none_pattern_1_reactivation">"ئەگەر كېيىنكى ئۇرۇنۇشتا توغرا سىزما كىرگۈزمىسىڭىز، تېلېفونىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تېلېفوندىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تېلېفونىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تېلېفون بىلەن باغلانغان Samsung ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_none_pattern_active_instructions">ئېچىش سىزمىسىنى سىزىپ ئېچىش</string>
+    <string name="kg_none_pattern_none_frp">"كېيىنكى %d قېتىمدا شەكىلنى توغرا كىرگۈزمىسىڭىز، تېلېفونىڭىز ئۆزلۈكىدىن زاۋۇت ھالىتىگە قايتىپ، تېلېفوندىكى بارلىق ئۇچۇر ئۆچۈرۈلىدۇ.
+
+تېلېفون قايتا بەلگىلەنسە، ئۇنى قايتا ئىشلىتىش ئۈچۈن ئۇنىڭغا باغلانغان Google ھېسابىنىڭ ئۇچۇرى (تورخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشكە توغرا كېلىشى مۇمكىن."</string>
+    <string name="kg_none_pattern_none_instructions">ئېچىش شەكلىنى سىزىش</string>
+    <string name="kg_none_pattern_none_reactivation">"ئەگەر كېيىنكى %d ئۇرۇنۇشتا توغرا سىزما كىرگۈزمىسىڭىز، تېلېفونىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تېلېفوندىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تېلېفونىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تېلېفون بىلەن باغلانغان Samsung ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_none_pin_1_frp">"كېيىنكى قېتىمدا PIN نى توغرا كىرگۈزمىسىڭىز، تېلېفونىڭىز ئۆزلۈكىدىن زاۋۇت ھالىتىگە قايتىپ، تېلېفوندىكى بارلىق ئۇچۇر ئۆچۈرۈلىدۇ.
+
+تېلېفون قايتا بەلگىلەنسە، ئۇنى قايتا ئىشلىتىش ئۈچۈن ئۇنىڭغا باغلانغان Google ھېسابىنىڭ ئۇچۇرى (تورخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشكە توغرا كېلىشى مۇمكىن."</string>
+    <string name="kg_none_pin_1_reactivation">"ئەگەر كېيىنكى ئۇرۇنۇشتا توغرا PIN كىرگۈزمىسىڭىز، تېلېفونىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تېلېفوندىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تېلېفونىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تېلېفون بىلەن باغلانغان Samsung ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_none_pin_active_instructions">‏PIN كىرگۈزۈپ ئېچىش</string>
+    <string name="kg_none_pin_none_frp">"كېيىنكى %d قېتىمدا PIN نى توغرا كىرگۈزمىسىڭىز، تېلېفونىڭىز ئۆزلۈكىدىن زاۋۇت ھالىتىگە قايتىپ، تېلېفوندىكى بارلىق ئۇچۇر ئۆچۈرۈلىدۇ.
+
+تېلېفون قايتا بەلگىلەنسە، ئۇنى قايتا ئىشلىتىش ئۈچۈن ئۇنىڭغا باغلانغان Google ھېسابىنىڭ ئۇچۇرى (تورخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشكە توغرا كېلىشى مۇمكىن."</string>
+    <string name="kg_none_pin_none_instructions">‏PIN نى كىرگۈزۈش</string>
+    <string name="kg_none_pin_none_reactivation">"ئەگەر كېيىنكى %d ئۇرۇنۇشتا توغرا PIN كىرگۈزمىسىڭىز، تېلېفونىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تېلېفوندىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تېلېفونىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تېلېفون بىلەن باغلانغان Samsung ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_none_recovery_none_instructions">ئەسلىگە كەلتۈرۈش پارولىنى كىرگۈزۈپ قۇلۇپ ئېچىڭ.</string>
+    <string name="kg_password_hint">كۆرسەتمە</string>
+    <string name="kg_password_hint_show">كۆرسەتمە: %s</string>
+    <string name="kg_password_perso_failed">‏PIN خاتا. PIN نى تەكشۈرۈپ قايتا سىناڭ.</string>
+    <string name="kg_password_perso_max_failed">‏USIM كارتا قۇلۇپىنىڭ خاتا PIN نى كىرگۈزۈلدى. قايتا سىناش چەككە يەتتى. ئۈسكۈنىنى قايتا قوزغىتىڭ ياكى خېرىدارلار مۇلازىمەت مەركىزىنى زىيارەت قىلىڭ.</string>
+    <string name="kg_password_sub_instructions">پارولىڭىزدا ئاز دېگەندە 1 ھەرپنى ئىچىگە ئالغان ھالدا، ئاز دېگەندە %d كاراكتېر بولىدۇ.</string>
+    <string name="kg_password_sub_instructions_vzw">پارولىڭىز ھەرپلەرنى ئىچىگە ئالىدۇ ۋە ئاز دېگەندە %d كاراكتېر ئۇزۇنلۇقىدا بولىدۇ.</string>
+    <string name="kg_password_wrong_pin_code_one">كىرگۈزگەن SIM كارتا PIN نى خاتا. 1 قېتىملىق پۇرسىتىڭىز قالدى.</string>
+    <string name="kg_password_wrong_pin_code_other">كىرگۈزگەن SIM كارتا PIN نى خاتا. %d قېتىملىق پۇرسىتىڭىز قالدى.</string>
+    <string name="kg_perso_locked_message">باشقا USIM نى توسۇش</string>
+    <string name="kg_phone_unlocked">手机已解锁</string>
+    <string name="kg_pin_locked_message">‏PIN كىرگۈزۈش</string>
+    <string name="kg_pin_sub_instructions">‏PIN ىڭىزدا ئاز دېگەندە 4 رەقەم بولىدۇ.</string>
+    <string name="kg_pin_sub_instructions_vzw">‏PIN ىڭىز %d ياكى كۆپ رەقەمدىن تۈزۈلىدۇ.</string>
+    <string name="kg_power_charging">توكلاپ: %d%%</string>
+    <string name="kg_power_charging_remaining_time">تولۇق توكلاشقا مۆلچەرەن %s قالدى</string>
+    <string name="kg_power_charging_wirelessly">سىمسىز توكلاۋاتىدۇ: %d%%</string>
+    <string name="kg_power_connect_charger">توكلىغۇچ چېتىش</string>
+    <string name="kg_power_fast_charging">تېز توكلاۋاتىدۇ: %d%%</string>
+    <string name="kg_power_fast_charging_chn">ئالىي توكلاۋاتىدۇ: %d%%</string>
+    <string name="kg_power_fast_charging_wirelessly">تېز سىمسىز توكلاۋاتىدۇ: %d%%</string>
+    <string name="kg_power_fast_charging_wirelessly_chn">ئالىي سىمسىز توكلاۋاتىدۇ: %d%%</string>
+    <string name="kg_power_fully_charged">تولۇق توكلاندى</string>
+    <string name="kg_power_time_format_hour">%d سائەت</string>
+    <string name="kg_power_time_format_hour_minute">%1$d سائەت %2$d مىنۇت</string>
+    <string name="kg_power_time_format_minute">%d مىنۇت</string>
+    <string name="kg_prompt_reason_timeout_password_strong_auth">بىخەتەرلىك تۈزۈمى سەۋەبلىك بارماق ئىزى تونۇشنى ئىشلەتمەي پارول كىرگۈزۈڭ</string>
+    <string name="kg_prompt_reason_timeout_pattern_strong_auth">بىخەتەرلىك تۈزۈمى سەۋەبلىك بارماق ئىزى تونۇشنى ئىشلەتمەي سىزما سىزىڭ</string>
+    <string name="kg_prompt_reason_timeout_pin_strong_auth">بىخەتەرلىك تۈزۈمى سەۋەبلىك بارماق ئىزى تونۇشنى ئىشلەتمەي PIN كىرگۈزۈڭ</string>
+    <string name="kg_prompt_reason_timeout_universal_lock_strong_auth">بىخەتەرلىك تۈزۈمى سەۋەبلىك بارماق ئىزى تونۇشنى ئىشلەتمەي يۆنىلىش ئىشلىتىڭ</string>
+    <string name="kg_puk_locked_message">‏PUK كىرگۈزۈش</string>
+    <string name="kg_remained_1_attempt_countdown_1_min_with_auto_wipe">"ئۈسكۈنە قۇلۇپىنى ئېچىش ئۈچۈن %d قېتىم سىنىدىڭىز. ئۈسكۈنىڭىز زاۋۇتتىكى سۈكۈت تەڭشىكىگە قايتىش ۋە بارلىق ئۇچۇر ئۆچۈرۈلىشتىن بۇرۇن يەنە 1 قېتىم پۇرسىتىڭىز بار.
+
+1 مىنۇتتىن كېيىن قايتا سىناڭ"</string>
+    <string name="kg_remained_1_attempt_countdown_1_sec_with_auto_wipe">"ئۈسكۈنە قۇلۇپىنى ئېچىش ئۈچۈن %d قېتىم سىنىدىڭىز. ئۈسكۈنىڭىز زاۋۇتتىكى سۈكۈت تەڭشىكىگە قايتىش ۋە بارلىق ئۇچۇر ئۆچۈرۈلىشتىن بۇرۇن يەنە 1 قېتىم پۇرسىتىڭىز بار.
+
+1 سېكۇنتتىن كېيىن قايتا سىناڭ"</string>
+    <string name="kg_remained_1_attempt_countdown_mins_with_auto_wipe">"ئۈسكۈنە قۇلۇپىنى ئېچىش ئۈچۈن %1$d قېتىم سىنىدىڭىز. ئۈسكۈنىڭىز زاۋۇتتىكى سۈكۈت تەڭشىكىگە قايتىش ۋە بارلىق ئۇچۇر ئۆچۈرۈلىشتىن بۇرۇن يەنە 1 قېتىم پۇرسىتىڭىز بار.
+
+%2$d مىنۇتتىن كېيىن قايتا سىناڭ"</string>
+    <string name="kg_remained_1_attempt_countdown_secs_with_auto_wipe">"ئۈسكۈنە قۇلۇپىنى ئېچىش ئۈچۈن %1$d قېتىم سىنىدىڭىز. ئۈسكۈنىڭىز زاۋۇتتىكى سۈكۈت تەڭشىكىگە قايتىش ۋە بارلىق ئۇچۇر ئۆچۈرۈلىشتىن بۇرۇن يەنە 1 قېتىم پۇرسىتىڭىز بار.
+
+%2$d سېكۇنتتىن كېيىن قايتا سىناڭ"</string>
+    <string name="kg_rmm_lock_instructions">‏%s دىن PIN نى كىرگۈزۈڭ</string>
+    <string name="kg_samsung_account_button_text">‏Samsung ھېسابى</string>
+    <string name="kg_sec_1_failed_attempt_almost_at_wipe">بۇ ئۈسكۈنىنى ئېچىش ئۈچۈن بىر قېتىم سىنىدىڭىز. ئۈسكۈنىدىكى بارلىق ھۆججەت، چۈشۈرۈلگەن ئەپ ۋە باشقا ئۇچۇر ئۆچۈرۈلۈپ سۈكۈتتىكى زاۋۇت تەڭشىكىگە قايتىشىدىن بۇرۇن يەنە %d قېتىملىق پۇرسىتىڭىز قالدى.</string>
+    <string name="kg_sec_1_remaining_count_almost_at_wipe">بۇ ئۈسكۈنىنى ئېچىش ئۈچۈن %d قېتىم سىنىدىڭىز. ئۈسكۈنىدىكى بارلىق ھۆججەت، چۈشۈرۈلگەن ئەپ ۋە باشقا ئۇچۇر ئۆچۈرۈلۈپ سۈكۈتتىكى زاۋۇت تەڭشىكىگە قايتىشىدىن بۇرۇن يەنە 1 قېتىملىق پۇرسىتىڭىز قالدى.</string>
+    <string name="kg_sec_failed_attempts_almost_at_wipe">بۇ ئۈسكۈنىنى ئېچىش ئۈچۈن %1$d قېتىم سىنىدىڭىز. ئۈسكۈنىدىكى بارلىق ھۆججەت، چۈشۈرۈلگەن ئەپ ۋە باشقا ئۇچۇر ئۆچۈرۈلۈپ سۈكۈتتىكى زاۋۇت تەڭشىكىگە قايتىشىدىن بۇرۇن يەنە %2$d قېتىملىق پۇرسىتىڭىز قالدى.</string>
+    <string name="kg_sec_puk_enter_confirm_pin_hint">يېڭى SIM كارتىنىڭ PIN نومۇرىنى قايتا كىرگۈزۈپ جەزملەشتۈرۈڭ.</string>
+    <string name="kg_sec_puk_enter_pin_hint">يېڭى SIM كارتىنىڭ PIN نومۇرىنى كىرگۈزۈڭ.</string>
+    <string name="kg_sec_sim_unlock_progress_dialog_message">‏SIM كارتا قۇلۇپىنى ئېچىۋاتىدۇ…</string>
+    <string name="kg_secure_password">ئارىلاش پەرول</string>
+    <string name="kg_secure_pattern">ئەندىزە</string>
+    <string name="kg_secure_pin">سان پارول</string>
+    <string name="kg_secure_using_ppp_instead_of_fingerprints">بۇ تېلېفوننى %1$d قېتىم بارماق ئىزى ئارقىلىق ئاچماقچى بولدى. %2$s ئىشلىتىڭ.</string>
+    <string name="kg_secure_using_swipe_instead_of_fingerprints">已尝试使用指纹解锁此手机 %d 次。请改为使用滑动解锁。</string>
+    <string name="kg_show_password_accessibility">پارولنى كۆرسىتىش</string>
+    <string name="kg_sim_lock_accepted">PIN 码解锁</string>
+    <string name="kg_sim_lock_verified">كود قوبۇللاندى.</string>
+    <string name="kg_sim_locked_message">‏SIM كارتا قۇلۇپلاقلىق</string>
+    <string name="kg_sim_pin_remaining_1_attempt">يەنە 1 قېتىم پۇرسەت قالدى.</string>
+    <string name="kg_sim_pin_remaining_attempts">يەنە %d قېتىملىق پۇرسىتىڭىز قالدى.</string>
+    <string name="kg_sim_puk_instructions">‏SIM كارتا قۇلۇپلاندى. PUK كىرگۈزۈڭ. تەپسىلاتىنى مۇلازىمەت يۈرۈتكۈچىدىن سۈرۈشتۈرۈڭ.</string>
+    <string name="kg_sim_puk_remaining_1_attempt">‏PUK نى يەنە 1 قېتىم خاتا كىرگۈزسىڭىز SIM قۇلۇپلىنىدۇ.</string>
+    <string name="kg_sim_puk_remaining_attempts">‏PUK نى يەنە %d قېتىم خاتا كىرگۈزسىڭىز SIM قۇلۇپلىنىدۇ.</string>
+    <string name="kg_sim_puk_tmo_help_contact_service_provider">‏PIN توسۇلدى. ئۈسكۈنىڭىزنى ئېچىش ئۈچۈن مۇلازىمەت تەمىنلىگۈچى بىلەن ئالاقىلىشىڭ.</string>
+    <string name="kg_sim_puk_tmo_sos_call">SOS</string>
+    <string name="kg_skt_sim_perso_instructions">‏USIM كارتا قۇلۇپسىزلاش PIN ىنى كىرگۈزۈڭ (4 رەقەم)</string>
+    <string name="kg_smart_lock_content_description">قوش چېكىپ ۋە تارتىپ ئۈسكۈنىنى قۇلۇپلاڭ.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_direction_lock">ئۈسكۈنە 24 سائەتتىن ئارتۇق ئىشلىتىلمىدى، يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق قۇلۇپ ئېچىش كېرەك. كېيىنكى قېتىم بارماق ئارقىلىق قۇلۇپ ئاچسىڭىز بولىدۇ.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_password">ئۈسكۈنە 24 سائەتتىن ئارتۇق ئىشلىتىلمىدى، پارول ئارقىلىق قۇلۇپ ئېچىش كېرەك. كېيىنكى قېتىم بارماق ئارقىلىق قۇلۇپ ئاچسىڭىز بولىدۇ.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pattern">ئۈسكۈنە 24 سائەتتىن ئارتۇق ئىشلىتىلمىدى، شەكىل ئارقىلىق قۇلۇپ ئېچىش كېرەك. كېيىنكى قېتىم بارماق ئارقىلىق قۇلۇپ ئاچسىڭىز بولىدۇ.</string>
+    <string name="kg_strong_auth_prompt_reason_timeout_pin">ئۈسكۈنىڭىز 24 سائەتتىن كۆپ ئىشلىتىلمىگەن ۋە PIN ئارقىلىق ئېچىش كېرەك. ئۈسكۈنىڭىزنى كېيىنكى قېتىم بارماق ئىزىڭىز بىلەن ئاچالايسىز.</string>
+    <string name="kg_swipe_active_instructions">سىيرىپ ئېچىڭ</string>
+    <string name="kg_swipe_to_continue">سىيرىپ داۋاملاشتۇرۇڭ</string>
+    <string name="kg_swipe_to_continue_using_this_app">سىيرىپ بۇ ئەپ ئارقىلىق داۋاملاشتۇرۇڭ.</string>
+    <string name="kg_swipe_unlock_instructions">滑动来解锁</string>
+    <string name="kg_swipe_unlock_smart_lock_instructions">تېلېفون Smart Lock ئارقىلىق ئېچىلدى</string>
+    <string name="kg_swipe_unlock_strong_auth_instructions">滑动来解锁</string>
+    <string name="kg_tablet_direction_1_frp">"ئەگەر كېيىنكى ئۇرۇنۇشتا توغرا يۆنىلىشلەر قاتارى سىزمىسىڭىز، تابلېتىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تابلېتتىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تابلېتىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تابلېت بىلەن باغلانغان Google ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_tablet_direction_1_reactivation">"ئەگەر كېيىنكى ئۇرۇنۇشتا توغرا يۆنىلىشلەر قاتارى كىرگۈزمىسىڭىز، تابلېتىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تابلېتتىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تابلېتىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تابلېت بىلەن باغلانغان Samsung ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_tablet_direction_none_frp">"ئەگەر كېيىنكى %d ئۇرۇنۇشتا توغرا يۆنىلىشلەر قاتارى سىزمىسىڭىز، تابلېتىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تابلېتتىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تابلېتىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تابلېت بىلەن باغلانغان Google ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_tablet_direction_none_reactivation">"ئەگەر كېيىنكى %d ئۇرۇنۇشتا توغرا يۆنىلىشلەر قاتارى كىرگۈزمىسىڭىز، تابلېتىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تابلېتتىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تابلېتىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تابلېت بىلەن باغلانغان Samsung ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_tablet_face_direction_emergencymodeoff_instructions">جىددىي ھالەتنى يۈز تونۇش ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_face_direction_emergencymodeon_instructions">جىددىي ھالەتنى يۈز تونۇش ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_face_direction_restart_instructions">قايتا قوزغالغاندىن كېيىن يۈرۈشلۈك يۆنىلىش ئىشلىتىڭ.</string>
+    <string name="kg_tablet_face_direction_shutdown_instructions">تابلېتىڭىز قايتا قوزغىتىلدى ۋە يۆنىلىشلەر قاتارىڭىز ئارقىلىق قۇلۇپسىزلىنىشى كېرەك. تابلېتىڭىزنى قۇلۇپسىزلىماق ئۈچۈن كېيىنكى قېتىم بارماق ئىزلىرىڭىزنى قوللىنالايسىز.</string>
+    <string name="kg_tablet_face_direction_timeout_instructions">بىخەتەرلىك ئۈچۈن يۈرۈشلۈك يۆنىلىش سىزىڭ.</string>
+    <string name="kg_tablet_face_password_emergencymodeoff_instructions">جىددىي ھالەتنى يۈز تونۇش ياكى پارول كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_face_password_emergencymodeon_instructions">جىددىي ھالەتنى يۈز تونۇش ياكى پارول كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_face_password_restart_instructions">قايتا قوزغالغاندىن كېيىن پارول ئىشلىتىڭ.</string>
+    <string name="kg_tablet_face_password_shutdown_instructions">تاختا كومپيۇتېرنى يۈز تونۇغۇچ ياكى پارول كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_face_password_timeout_instructions">بىخەتەرلىك ئۈچۈن پارول ئىشلىتىڭ.</string>
+    <string name="kg_tablet_face_pattern_emergencymodeoff_instructions">جىددىي ھالەتنى يۈز تونۇش ياكى شەكىل سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_face_pattern_emergencymodeon_instructions">جىددىي ھالەتنى يۈز تونۇش ياكى شەكىل سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_face_pattern_restart_instructions">قايتا قوزغالغاندىن كېيىن شەكىل سىزىڭ.</string>
+    <string name="kg_tablet_face_pattern_shutdown_instructions">تاختا كومپيۇتېرنى يۈز تونۇغۇچ ياكى شەكىل سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_face_pattern_timeout_instructions">بىخەتەرلىك ئۈچۈن شەكىل سىزىڭ.</string>
+    <string name="kg_tablet_face_pin_emergencymodeoff_instructions">جىددىي ھالەتنى يۈز تونۇش ياكى PIN كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_face_pin_emergencymodeon_instructions">جىددىي ھالەتنى يۈز تونۇش ياكى PIN كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_face_pin_restart_instructions">قايتا قوزغالغاندىن كېيىن PIN ئىشلىتىڭ.</string>
+    <string name="kg_tablet_face_pin_shutdown_instructions">تاختا كومپيۇتېرنى يۈز تونۇغۇچ ياكى PIN كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_face_pin_timeout_instructions">بىخەتەرلىك ئۈچۈن PIN ئىشلىتىڭ.</string>
+    <string name="kg_tablet_fingerprint_direction_emergencymodeoff_instructions">جىددىي ھالەتنى بارماق ئىزى ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_fingerprint_direction_emergencymodeon_instructions">جىددىي ھالەتنى بارماق ئىزى ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_fingerprint_direction_restart_instructions">قايتا قوزغالغاندىن كېيىن يۈرۈشلۈك يۆنىلىش ئىشلىتىڭ.</string>
+    <string name="kg_tablet_fingerprint_direction_shutdown_instructions">تابلېتنى ئەتمەك ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى يۆنىلىشلەر قاتارى سىزىڭ</string>
+    <string name="kg_tablet_fingerprint_direction_timeout_instructions">بىخەتەرلىك ئۈچۈن يۈرۈشلۈك يۆنىلىش سىزىڭ.</string>
+    <string name="kg_tablet_fingerprint_password_emergencymodeoff_instructions">جىددىي ھالەتنى بارماق ئىزى ياكى پارول كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_fingerprint_password_emergencymodeon_instructions">جىددىي ھالەتنى بارماق ئىزى ياكى پارول كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_fingerprint_password_restart_instructions">قايتا قوزغالغاندىن كېيىن پارول ئىشلىتىڭ.</string>
+    <string name="kg_tablet_fingerprint_password_shutdown_instructions">تابلېتنى ئەتمەك ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى پارول كىرگۈزۈڭ</string>
+    <string name="kg_tablet_fingerprint_password_timeout_instructions">بىخەتەرلىك ئۈچۈن پارول ئىشلىتىڭ.</string>
+    <string name="kg_tablet_fingerprint_pattern_emergencymodeoff_instructions">جىددىي ھالەتنى بارماق ئىزى ياكى شەكىل سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_fingerprint_pattern_emergencymodeon_instructions">جىددىي ھالەتنى بارماق ئىزى ياكى شەكىل سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_fingerprint_pattern_restart_instructions">قايتا قوزغالغاندىن كېيىن شەكىل سىزىڭ.</string>
+    <string name="kg_tablet_fingerprint_pattern_shutdown_instructions">تابلېتنى ئەتمەك ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى سىزما سىزىڭ</string>
+    <string name="kg_tablet_fingerprint_pattern_timeout_instructions">بىخەتەرلىك ئۈچۈن شەكىل سىزىڭ.</string>
+    <string name="kg_tablet_fingerprint_pin_emergencymodeoff_instructions">جىددىي ھالەتنى بارماق ئىزى ياكى PIN كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_fingerprint_pin_emergencymodeon_instructions">جىددىي ھالەتنى بارماق ئىزى ياكى PIN كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_fingerprint_pin_restart_instructions">قايتا قوزغالغاندىن كېيىن PIN ئىشلىتىڭ.</string>
+    <string name="kg_tablet_fingerprint_pin_shutdown_instructions">تابلېتنى ئەتمەك ئۈچۈن بارماق ئىزى قوللىنىڭ ياكى PIN كىرگۈزۈڭ</string>
+    <string name="kg_tablet_fingerprint_pin_timeout_instructions">بىخەتەرلىك ئۈچۈن PIN ئىشلىتىڭ.</string>
+    <string name="kg_tablet_fingerprints_direction_unabled_instructions">ئۈسكۈنە قايتا قوزغالدى، يۈرۈشلۈك يۆنىلىش ئارقىلىق قۇلۇپ ئېچىش كېرەك. كېيىنكى قېتىم ئۈسكۈنە قۇلۇپىنى بارماق ئارقىلىق ئاچسىڭىز بولىدۇ.</string>
+    <string name="kg_tablet_fingerprints_password_unabled_instructions">ئۈسكۈنە قايتا قوزغالدى، پارول ئارقىلىق قۇلۇپ ئېچىش كېرەك. كېيىنكى قېتىم ئۈسكۈنە قۇلۇپىنى بارماق ئارقىلىق ئاچسىڭىز بولىدۇ.</string>
+    <string name="kg_tablet_fingerprints_pattern_unabled_instructions">ئۈسكۈنە قايتا قوزغالدى، شەكىل ئارقىلىق قۇلۇپ ئېچىش كېرەك. كېيىنكى قېتىم ئۈسكۈنە قۇلۇپىنى بارماق ئارقىلىق ئاچسىڭىز بولىدۇ.</string>
+    <string name="kg_tablet_fingerprints_pin_unabled_instructions">ئۈسكۈنىڭىز قايتا قوزغىتىلدى ۋە PIN ئارقىلىق ئېچىش كېرەك. ئۈسكۈنىڭىزنى كېيىنكى قېتىم بارماق ئىزىڭىز بىلەن ئاچالايسىز.</string>
+    <string name="kg_tablet_intelligent_direction_emergencymodeoff_instructions">جىددىي ھالەتنى ئاڭلىق تەكشۈرگۈچ ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_intelligent_direction_emergencymodeon_instructions">جىددىي ھالەتنى ئاڭلىق تەكشۈرگۈچ ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_intelligent_direction_restart_instructions">قايتا قوزغالغاندىن كېيىن يۈرۈشلۈك يۆنىلىش ئىشلىتىڭ.</string>
+    <string name="kg_tablet_intelligent_direction_shutdown_instructions">تاختا كومپيۇتېرنى ئاڭلىق تەكشۈرگۈچ ياكى يۈرۈشلۈك شەكىل سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_intelligent_direction_timeout_instructions">بىخەتەرلىك ئۈچۈن يۈرۈشلۈك يۆنىلىش سىزىڭ.</string>
+    <string name="kg_tablet_intelligent_password_emergencymodeoff_instructions">جىددىي ھالەتنى ئاڭلىق تەكشۈرگۈچ ياكى پارول كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_intelligent_password_emergencymodeon_instructions">جىددىي ھالەتنى ئاڭلىق تەكشۈرگۈچ ياكى پارول كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_intelligent_password_restart_instructions">قايتا قوزغالغاندىن كېيىن پارول ئىشلىتىڭ.</string>
+    <string name="kg_tablet_intelligent_password_shutdown_instructions">تاختا كومپيۇتېرنى ئاڭلىق تەكشۈرگۈچ ياكى پارول كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_intelligent_password_timeout_instructions">بىخەتەرلىك ئۈچۈن پارول ئىشلىتىڭ.</string>
+    <string name="kg_tablet_intelligent_pattern_emergencymodeoff_instructions">جىددىي ھالەتنى ئاڭلىق تەكشۈرگۈچ ياكى شەكىل سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_intelligent_pattern_emergencymodeon_instructions">جىددىي ھالەتنى ئاڭلىق تەكشۈرگۈچ ياكى شەكىل سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_intelligent_pattern_restart_instructions">قايتا قوزغالغاندىن كېيىن شەكىل سىزىڭ.</string>
+    <string name="kg_tablet_intelligent_pattern_shutdown_instructions">تاختا كومپيۇتېرنى ئاڭلىق تەكشۈرگۈچ ياكى شەكىل سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_intelligent_pattern_timeout_instructions">بىخەتەرلىك ئۈچۈن شەكىل سىزىڭ.</string>
+    <string name="kg_tablet_intelligent_pin_emergencymodeoff_instructions">جىددىي ھالەتنى ئاڭلىق تەكشۈرگۈچ ياكى PIN كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_intelligent_pin_emergencymodeon_instructions">جىددىي ھالەتنى ئاڭلىق تەكشۈرگۈچ ياكى PIN كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_intelligent_pin_restart_instructions">قايتا قوزغالغاندىن كېيىن PIN ئىشلىتىڭ.</string>
+    <string name="kg_tablet_intelligent_pin_shutdown_instructions">تاختا كومپيۇتېرنى ئاڭلىق تەكشۈرگۈچ ياكى PIN كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_intelligent_pin_timeout_instructions">بىخەتەرلىك ئۈچۈن PIN ئىشلىتىڭ.</string>
+    <string name="kg_tablet_iris_direction_emergencymodeoff_instructions">جىددىي ھالەتنى كۆز ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_iris_direction_emergencymodeon_instructions">جىددىي ھالەتنى كۆز ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_iris_direction_restart_instructions">قايتا قوزغالغاندىن كېيىن يۈرۈشلۈك يۆنىلىش ئىشلىتىڭ.</string>
+    <string name="kg_tablet_iris_direction_shutdown_instructions">كۆز ئارقىلىق ياكى يۈرۈشلۈك يۆنىلىش سىزىپ تاختا كومپيۇتېرنى ئېتىڭ</string>
+    <string name="kg_tablet_iris_direction_timeout_instructions">بىخەتەرلىك ئۈچۈن يۈرۈشلۈك يۆنىلىش سىزىڭ.</string>
+    <string name="kg_tablet_iris_password_emergencymodeoff_instructions">جىددىي ھالەتنى كۆز ياكى پارول كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_iris_password_emergencymodeon_instructions">جىددىي ھالەتنى كۆز ياكى پارول كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_iris_password_restart_instructions">قايتا قوزغالغاندىن كېيىن پارول ئىشلىتىڭ.</string>
+    <string name="kg_tablet_iris_password_shutdown_instructions">كۆز ئارقىلىق ياكى پارول كىرگۈزۈپ تاختا كومپيۇتېرنى ئېتىڭ</string>
+    <string name="kg_tablet_iris_password_timeout_instructions">بىخەتەرلىك ئۈچۈن پارول ئىشلىتىڭ.</string>
+    <string name="kg_tablet_iris_pattern_emergencymodeoff_instructions">جىددىي ھالەتنى كۆز ياكى شەكىل سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_iris_pattern_emergencymodeon_instructions">جىددىي ھالەتنى كۆز ياكى شەكىل سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_iris_pattern_restart_instructions">قايتا قوزغالغاندىن كېيىن شەكىل سىزىڭ.</string>
+    <string name="kg_tablet_iris_pattern_shutdown_instructions">كۆز ئارقىلىق ياكى شەكىل سىزىپ تاختا كومپيۇتېرنى ئېتىڭ</string>
+    <string name="kg_tablet_iris_pattern_timeout_instructions">بىخەتەرلىك ئۈچۈن شەكىل سىزىڭ.</string>
+    <string name="kg_tablet_iris_pin_emergencymodeoff_instructions">جىددىي ھالەتنى كۆز ياكى PIN كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_iris_pin_emergencymodeon_instructions">جىددىي ھالەتنى كۆز ياكى PIN كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_iris_pin_restart_instructions">قايتا قوزغالغاندىن كېيىن PIN ئىشلىتىڭ.</string>
+    <string name="kg_tablet_iris_pin_shutdown_instructions">كۆز ئارقىلىق ياكى PIN كىرگۈزۈپ تاختا كومپيۇتېرنى ئېتىڭ</string>
+    <string name="kg_tablet_iris_pin_timeout_instructions">بىخەتەرلىك ئۈچۈن PIN ئىشلىتىڭ.</string>
+    <string name="kg_tablet_multi_direction_emergencymodeoff_instructions">جىددىي ھالەتنى بىيوئۆلچەم ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_multi_direction_emergencymodeon_instructions">جىددىي ھالەتنى بىيوئۆلچەم ياكى يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_multi_direction_restart_instructions">قايتا قوزغالغاندىن كېيىن يۈرۈشلۈك يۆنىلىش ئىشلىتىڭ.</string>
+    <string name="kg_tablet_multi_direction_shutdown_instructions">تابلېتنى ئەتمەك ئۈچۈن بىيوئۆلچەم قوللىنىڭ ياكى يۆنىلىشلەر قاتارى سىزىڭ</string>
+    <string name="kg_tablet_multi_direction_timeout_instructions">بىخەتەرلىك ئۈچۈن يۈرۈشلۈك يۆنىلىش سىزىڭ.</string>
+    <string name="kg_tablet_multi_password_emergencymodeoff_instructions">جىددىي ھالەتنى بىيوئۆلچەم ياكى پارول كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_multi_password_emergencymodeon_instructions">جىددىي ھالەتنى بىيوئۆلچەم ياكى پارول كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_multi_password_restart_instructions">قايتا قوزغالغاندىن كېيىن پارول ئىشلىتىڭ.</string>
+    <string name="kg_tablet_multi_password_shutdown_instructions">تابلېتنى ئەتمەك ئۈچۈن بىيوئۆلچەم قوللىنىڭ ياكى پارول كىرگۈزۈڭ</string>
+    <string name="kg_tablet_multi_password_timeout_instructions">بىخەتەرلىك ئۈچۈن پارول ئىشلىتىڭ.</string>
+    <string name="kg_tablet_multi_pattern_emergencymodeoff_instructions">جىددىي ھالەتنى بىيوئۆلچەم ياكى شەكىل سىزىش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_multi_pattern_emergencymodeon_instructions">جىددىي ھالەتنى بىيوئۆلچەم ياكى شەكىل سىزىش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_multi_pattern_restart_instructions">قايتا قوزغالغاندىن كېيىن شەكىل سىزىڭ.</string>
+    <string name="kg_tablet_multi_pattern_shutdown_instructions">تابلېتنى ئەتمەك ئۈچۈن بىيوئۆلچەم قوللىنىڭ ياكى سىزما سىزىڭ</string>
+    <string name="kg_tablet_multi_pattern_timeout_instructions">بىخەتەرلىك ئۈچۈن شەكىل سىزىڭ.</string>
+    <string name="kg_tablet_multi_pin_emergencymodeoff_instructions">جىددىي ھالەتنى بىيوئۆلچەم ياكى PIN كىرگۈزۈش ئارقىلىق ئېتىش</string>
+    <string name="kg_tablet_multi_pin_emergencymodeon_instructions">جىددىي ھالەتنى بىيوئۆلچەم ياكى PIN كىرگۈزۈش ئارقىلىق ئېچىش</string>
+    <string name="kg_tablet_multi_pin_restart_instructions">قايتا قوزغالغاندىن كېيىن PIN ئىشلىتىڭ.</string>
+    <string name="kg_tablet_multi_pin_shutdown_instructions">تابلېتنى ئەتمەك ئۈچۈن بىيوئۆلچەم قوللىنىڭ ياكى PIN كىرگۈزۈڭ</string>
+    <string name="kg_tablet_multi_pin_timeout_instructions">بىخەتەرلىك ئۈچۈن PIN ئىشلىتىڭ.</string>
+    <string name="kg_tablet_none_direction_emergencymodeoff_instructions">جىددىي ھالەتنى يۈرۈشلۈك يۆنىلىش سىزىپ ئېتىش</string>
+    <string name="kg_tablet_none_direction_emergencymodeon_instructions">جىددىي ھالەتنى يۈرۈشلۈك يۆنىلىش سىزىپ ئېچىش</string>
+    <string name="kg_tablet_none_direction_shutdown_instructions">تابلېتنى ئەتمەك ئۈچۈن يۆنىلىش قاتارى سىزىڭ</string>
+    <string name="kg_tablet_none_password_emergencymodeoff_instructions">جىددىي ھالەتنى پارول كىرگۈزۈپ ئېتىش</string>
+    <string name="kg_tablet_none_password_emergencymodeon_instructions">جىددىي ھالەتنى پارول كىرگۈزۈپ ئېچىش</string>
+    <string name="kg_tablet_none_password_shutdown_instructions">تابلېتنى ئەتمەك ئۈچۈن پارول كىرگۈزۈڭ</string>
+    <string name="kg_tablet_none_pattern_emergencymodeoff_instructions">جىددىي ھالەتنى شەكىل سىزىپ ئېتىش</string>
+    <string name="kg_tablet_none_pattern_emergencymodeon_instructions">جىددىي ھالەتنى شەكىل سىزىپ ئېچىش</string>
+    <string name="kg_tablet_none_pattern_shutdown_instructions">تابلېتنى ئەتمەك ئۈچۈن سىزما سىزىڭ</string>
+    <string name="kg_tablet_none_pin_emergencymodeoff_instructions">جىددىي ھالەتنى PIN كىرگۈزۈپ ئېتىش</string>
+    <string name="kg_tablet_none_pin_emergencymodeon_instructions">جىددىي ھالەتنى PIN كىرگۈزۈپ ئېچىش</string>
+    <string name="kg_tablet_none_pin_shutdown_instructions">تابلېتنى ئەتمەك ئۈچۈن PIN كىرگۈزۈڭ</string>
+    <string name="kg_tablet_password_1_frp">"ئەگەر كېيىنكى ئۇرۇنۇشتا توغرا پارول كىرگۈزمىسىڭىز، تابلېتىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تابلېتتىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تابلېتىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تابلېت بىلەن باغلانغان Google ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_tablet_password_1_reactivation">"ئەگەر كېيىنكى %d ئۇرۇنۇشتا توغرا پارول كىرگۈزمىسىڭىز، تېلېفونىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تېلېفوندىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تېلېفونىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تېلېفون بىلەن باغلانغان Samsung ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_tablet_password_none_frp">"ئەگەر كېيىنكى %d ئۇرۇنۇشتا توغرا پارول كىرگۈزمىسىڭىز، تابلېتىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تابلېتتىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تابلېتىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تابلېت بىلەن باغلانغان Google ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_tablet_password_none_reactivation">"ئەگەر كېيىنكى ئۇرۇنۇشتا توغرا پارول كىرگۈزمىسىڭىز، تېلېفونىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تېلېفوندىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تېلېفونىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تېلېفون بىلەن باغلانغان Samsung ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_tablet_pattern_1_frp">"ئەگەر كېيىنكى ئۇرۇنۇشتا توغرا سزىما سىزمىسىڭىز، تابلېتىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تابلېتتىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تابلېتىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تابلېت بىلەن باغلانغان Google ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_tablet_pattern_1_reactivation">"ئەگەر كېيىنكى ئۇرۇنۇشتا توغرا سزىما كىرگۈزمىسىڭىز، تابلېتىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تابلېتتىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تابلېتىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تابلېت بىلەن باغلانغان Samsung ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_tablet_pattern_none_frp">"ئەگەر كېيىنكى %d ئۇرۇنۇشتا توغرا سزىما سىزمىسىڭىز، تابلېتىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تابلېتتىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تابلېتىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تابلېت بىلەن باغلانغان Google ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_tablet_pattern_none_reactivation">"ئەگەر كېيىنكى %d ئۇرۇنۇشتا توغرا سىزما كىرگۈزمىسىڭىز، تابلېتىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تابلېتتىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تابلېتىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تابلېت بىلەن باغلانغان Samsung ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_tablet_pin_1_frp">"ئەگەر كېيىنكى ئۇرۇنۇشتا توغرا PIN كىرگۈزمىسىڭىز، تابلېتىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تابلېتتىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تابلېتىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تابلېت بىلەن باغلانغان Google ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_tablet_pin_1_reactivation">"ئەگەر كېيىنكى ئۇرۇنۇشتا توغرا PIN كىرگۈزمىسىڭىز، تابلېتىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تابلېتتىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تابلېتىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تابلېت بىلەن باغلانغان Samsung ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_tablet_pin_none_frp">"ئەگەر كېيىنكى %d ئۇرۇنۇشتا توغرا PIN كىرگۈزمىسىڭىز، تابلېتىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تابلېتتىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تابلېتىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تابلېت بىلەن باغلانغان Google ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_tablet_pin_none_reactivation">"ئەگەر كېيىنكى %d ئۇرۇنۇشتا توغرا PIN كىرگۈزمىسىڭىز، تابلېتىڭىز ئاپتوماتىك ھالدا زاۋۇت تەڭشەكلىرىگە قايتا قۇرۇلىدۇ ۋە تابلېتتىكى بارلىق مەلۇماتلار ئۆچۈرۋېتىلىدۇ.
+
+ئەگەر تابلېتىڭىز قايتا قۇرۇلسا، ئۇنى قايتا ئىشلىتەلەيدىغان بولۇش ئۈچۈن بۇ تابلېت بىلەن باغلانغان Samsung ھېسابى مەلۇماتلىرى (ئېخەت ئادرېسى ۋە پارول) نى كىرگۈزۈشىڭىز كېرەك."</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_direction_lock">ئۈسكۈنە 24 سائەتتىن ئارتۇق ئىشلىتىلمىدى، يۈرۈشلۈك يۆنىلىش سىزىش ئارقىلىق قۇلۇپ ئېچىش كېرەك. كېيىنكى قېتىم بارماق ئارقىلىق قۇلۇپ ئاچسىڭىز بولىدۇ.</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_password">ئۈسكۈنە 24 سائەتتىن ئارتۇق ئىشلىتىلمىدى، پارول ئارقىلىق قۇلۇپ ئېچىش كېرەك. كېيىنكى قېتىم بارماق ئارقىلىق قۇلۇپ ئاچسىڭىز بولىدۇ.</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_pattern">ئۈسكۈنە 24 سائەتتىن ئارتۇق ئىشلىتىلمىدى، شەكىل ئارقىلىق قۇلۇپ ئېچىش كېرەك. كېيىنكى قېتىم بارماق ئارقىلىق قۇلۇپ ئاچسىڭىز بولىدۇ.</string>
+    <string name="kg_tablet_strong_auth_prompt_reason_timeout_pin">ئۈسكۈنىڭىز 24 سائەتتىن كۆپ ئىشلىتىلمىگەن ۋە PIN ئارقىلىق ئېچىش كېرەك. ئۈسكۈنىڭىزنى كېيىنكى قېتىم بارماق ئىزىڭىز بىلەن ئاچالايسىز.</string>
+    <string name="kg_too_many_failed_attempt_countdown">1 سېكۇنت ئىچىدە قايتا سىناڭ</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_min_with_auto_wipe">"ئۈسكۈنە قۇلۇپىنى ئېچىش ئۈچۈن %1$d قېتىم سىنىدىڭىز. ئۈسكۈنىڭىز زاۋۇتتىكى سۈكۈت تەڭشىكىگە قايتىش ۋە بارلىق ئۇچۇر ئۆچۈرۈلىشتىن بۇرۇن يەنە %2$d قېتىم پۇرسىتىڭىز بار.
+
+1 مىنۇتتىن كېيىن قايتا سىناڭ"</string>
+    <string name="kg_too_many_failed_attempts_countdown_1_sec_with_auto_wipe">"ئۈسكۈنە قۇلۇپىنى ئېچىش ئۈچۈن %1$d قېتىم سىنىدىڭىز. ئۈسكۈنىڭىز زاۋۇتتىكى سۈكۈت تەڭشىكىگە قايتىش ۋە بارلىق ئۇچۇر ئۆچۈرۈلۈشتىن بۇرۇن يەنە %2$d قېتىم پۇرسىتىڭىز بار.
+
+1 سېكۇنتتىن كېيىن قايتا سىناڭ"</string>
+    <string name="kg_too_many_failed_attempts_countdown_mins_with_auto_wipe">"ئۈسكۈنە قۇلۇپىنى ئېچىش ئۈچۈن %1$d قېتىم سىنىدىڭىز. ئۈسكۈنىڭىز زاۋۇتتىكى سۈكۈت تەڭشىكىگە قايتىش ۋە بارلىق ئۇچۇر ئۆچۈرۈلىشتىن بۇرۇن يەنە %2$d قېتىم پۇرسىتىڭىز بار.
+
+%3$d مىنۇتتىن كېيىن قايتا سىناڭ"</string>
+    <string name="kg_too_many_failed_attempts_countdown_secs_with_auto_wipe">"ئۈسكۈنە قۇلۇپىنى ئېچىش ئۈچۈن %1$d قېتىم سىنىدىڭىز. ئۈسكۈنىڭىز زاۋۇتتىكى سۈكۈت تەڭشىكىگە قايتىش ۋە بارلىق ئۇچۇر ئۆچۈرۈلۈشتىن بۇرۇن يەنە %2$d قېتىم پۇرسىتىڭىز بار.
+
+%3$d سېكۇنتتىن كېيىن قايتا سىناڭ"</string>
+    <string name="kg_too_many_failed_countdown_1_sec_with_auto_wipe">1 سېكۇنت ئىچىدە قايتا سىناڭ</string>
+    <string name="kg_touch_lockscreen_game_guide">بۇ ئەپنى ئالدى ئېكراندا ئىشلىتىش ئۈچۈن ئۇ قايتا قوزغىلىشى كېرەك. تېلېفوننى ئېچىپ قايتا قوزغاتمايلا بۇ ئەپنى باش ئېكراندا ئىشلىتەلەيسىز.</string>
+    <string name="kg_tts_shortcut_app">‏%s نى ئاچماق ئۈچۈن قوش چېكىڭ ۋە سۆرەڭ.</string>
+    <string name="kg_ucm_enter_confirm_pin_hint">‏PIN نى يەنە كىرگۈزۈپ جەزىملەشتۈرۈڭ</string>
+    <string name="kg_ucm_invalid_confirm_pin_hint">‏PIN لار بىردەك ئەمەس</string>
+    <string name="kg_ucm_loading">يۈكلىنىۋاتىدۇ…</string>
+    <string name="kg_ucm_password_not_matching">ئەقىللىق كارتا دىكى پارول تېلېفوندا ساقلانغان پارول بىلەن ماس ئەمەس</string>
+    <string name="kg_ucm_password_wrong_puk_code">كىرگۈزگەن PUK خاتا</string>
+    <string name="kg_ucm_puk_enter_pin_hint">يېڭى PIN كىرگۈزۈش</string>
+    <string name="kg_ucm_unknown_error_occurred">نامەلۇم خاتالىق كۆرۈلدى.</string>
+    <string name="kg_ucm_unlocking">قۇلۇپنى ئېچىۋاتىدۇ…</string>
+    <string name="kg_unlock_progress">قۇلۇپنى ئېچىۋاتىدۇ…</string>
+    <string name="kg_unlock_sim_pin_instructions">‏SIM كارتا ئېچىش PIN نى كىرگۈزۈڭ.</string>
+    <string name="kg_unlock_sim_pin_remaining_1_attempt">‏SIM كارتىنى سېلىپ PIN نى ئېچىڭ. 1 قېتىملىق پۇرسەت قالدى.</string>
+    <string name="kg_unlock_sim_pin_remaining_attempts">‏SIM كارتىنى سېلىپ PIN نى ئېچىڭ. %d قېتىملىق پۇرسەت قالدى.</string>
+    <string name="kg_use_biometrics_first">ئاۋۋال بىيوئۆلچەمنى قوللىنىش</string>
+    <string name="kg_use_fingerprint_first">ئاۋۋال بارماق ئىزى ئىشلىتىش</string>
+    <string name="kg_use_irises_first">ئاۋۋال قارىچۇقلارنى قوللىنىش</string>
+    <string name="kg_voice_assistant_active_instructions">2 بارماقتا سىيرىپ ئېچىڭ</string>
+    <string name="kg_voice_assistant_unlock_instructions">2 بارماقتا سىيرىپ قۇلۇپ ئېچىڭ</string>
+    <string name="kg_voice_assistant_unlock_strong_auth_instructions">ئىككى بارماقتا سىيرىپ ئېكران قۇلۇپىنى ئېچىڭ.</string>
+    <string name="kg_wallpaper_applied_toast">تام قەغەز قۇلۇپ ئېكرانىغا قوللىنىلدى.</string>
+    <string name="kg_wallpaper_applied_toast_infinity">چەكسىز تام قەغەز Always On Display، باش ئېكران ۋە قۇلۇپ ئېكرانىغا قوللىنىلدى.</string>
+    <string name="kg_wallpaper_applied_toast_infinity_without_aod">چەكسىز تام قەغەز باش ئېكران ۋە قۇلۇپ ئېكرانىغا قوللىنىلدى.</string>
+    <string name="kg_wallpaper_change_wallpaper_when_infinity_applied">بۇ تام قەغەزنى ئىشلەتسىڭىز، چەكسىز ئۈنۈم ئېتىلىدۇ.</string>
+    <string name="kg_wallpaper_changes_restrict_toast">بىخەتەرلىك تۈزۈمى تام قەغەز ئۆزگەرتىشكە چەك قويىدۇ.</string>
+    <string name="kg_wallpaper_confirm_dialog_apply">قوللىنىش</string>
+    <string name="kg_wallpaper_confirm_dialog_message">بۇ تام قەغەزنى ئىشلەتسىڭىز، چەكسىز ئۈنۈم ئېتىلىدۇ.</string>
+    <string name="kg_wallpaper_download_guide_popup_phone_body">بۇ ئىقتىدارنى ئىشلىتىش ئۈچۈن %s نى چۈشۈرۈڭ.</string>
+    <string name="kg_wallpaper_download_guide_popup_title">%s چۈشۈرەمسىز؟</string>
+    <string name="kg_wallpaper_preview_button">تامقەغەز قىلىپ بېكىتىش</string>
+    <string name="kg_wallpaper_preview_gif_converting_popup_body">بۇ GIF نى تام قەغەز قىلىش ئۈچۈن سىنغا ئايلاندۇرۇش كېرەك.</string>
+    <string name="kg_wallpaper_preview_gif_converting_popup_title">ئايلاندۇرۇۋاتىدۇ…</string>
+    <string name="kg_wallpaper_preview_infinity_motion_effect">باش ئېكراندىكى ھەرىكەت ئۈنۈمى</string>
+    <string name="kg_wallpaper_preview_title">قۇلۇپ ئېكرانى</string>
+    <string name="kg_wallpaper_preview_title_infinity">چەكسىز تام قەغەز</string>
+    <string name="kg_wallpaper_preview_video_big_size_info">سىز تاللىغان سىن بەك چوڭ. تۆۋەندىكى كۇنۇپكىنى چېكىپ ئۇنى 100MB غا كىچىكلىتىڭ.</string>
+    <string name="kg_wallpaper_preview_video_info">ۋىدېيونىڭ 15 سېكۇنتقىچە بولغان قىسمى قۇلۇپ ئېكرانىدا تامقەغەز سۈپىتىدە كۆرسىتىلىدۇ.</string>
+    <string name="kg_wallpaper_preview_video_long_info">سىز تاللىغان سىن بەك ئۇزۇن. تۆۋەندىكى كۇنۇپكىنى بېسىپ، سىننى كېسىپ، 15 سېكۇنتقا ئازايتىڭ.</string>
+    <string name="kg_wallpaper_preview_video_wallpaper">ۋىدېيو تامقەغىزى</string>
+    <string name="kg_wallpaper_preview_video_wallpaper_original_video_error_toast">سىنلىق تام قەغەز تەھرىرلەنمەيدۇ. سىن ئېنىقلىقى بەك تۆۋەن.</string>
+    <string name="kg_wallpaper_preview_video_wallpaper_trimmer_error_toast">يۇقىرى سۈپەتلىك سىن قويۇۋاتقاندا سىنلىق تام قەغەز تەھرىرلەنمەيدۇ.</string>
+    <string name="kg_wallpaper_video_trimmer">سىن كەسكۈچ</string>
+    <string name="kg_warning_none_1_none_auto_wipe">بۇ تېلېفوننى قۇلۇپسىزلىماق ئۈچۈن 1 قېتىم ئۇرۇنۇش قىلىنغان. تېلېفون زاۋۇت بارسانالغان تەڭشەكلىرىگە قايتا قۇرۇلۇش ۋە بارلىق بەرمىلەر، جۈملىدىن ھۆججەتلەر ۋە چۈشۈرۈلگەن ئەپلەر ئۆچۈرۋېتىلىشتىن بۇرۇن %d قېتىم ئۇرۇنىشىڭىز قالدى.</string>
+    <string name="kg_warning_none_none_1_auto_wipe">بۇ تېلېفوننى قۇلۇپسىزلىماق ئۈچۈن %d قېتىم ئۇرۇنۇش قىلىنغان. تېلېفون زاۋۇت بارسانالغان تەڭشەكلىرىگە قايتا قۇرۇلۇش ۋە بارلىق بەرمىلەر، جۈملىدىن ھۆججەتلەر ۋە چۈشۈرۈلگەن ئەپلەر ئۆچۈرۋېتىلىشتىن بۇرۇن 1 قېتىم ئۇرۇنىشىڭىز قالدى.</string>
+    <string name="kg_warning_none_none_none_auto_wipe">بۇ تېلېفوننى قۇلۇپسىزلىماق ئۈچۈن %1$d ئۇرۇنۇش قىلىنغان. تېلېفون زاۋۇت بارسانالغان تەڭشەكلىرىگە قايتا قۇرۇلۇش ۋە بارلىق بەرمىلەر، جۈملىدىن ھۆججەتلەر ۋە چۈشۈرۈلگەن ئەپلەر ئۆچۈرۋېتىلىشتىن بۇرۇن %2$d ئۇرۇنىشىڭىز قالدى.</string>
+    <string name="kg_warning_tablet_1_none_auto_wipe">بۇ تابلېتنى قۇلۇپسىزلىماق ئۈچۈن 1 قېتىم ئۇرۇنۇش قىلىنغان. تابلېت زاۋۇت بارسانالغان تەڭشەكلىرىگە قايتا قۇرۇلۇش ۋە بارلىق بەرمىلەر، جۈملىدىن ھۆججەتلەر ۋە چۈشۈرۈلگەن ئەپلەر ئۆچۈرۋېتىلىشتىن بۇرۇن %d قېتىم ئۇرۇنىشىڭىز قالدى.</string>
+    <string name="kg_warning_tablet_none_1_auto_wipe">بۇ تابلېتنى قۇلۇپسىزلىماق ئۈچۈن %d قېتىم ئۇرۇنۇش قىلىنغان. تابلېت زاۋۇت بارسانالغان تەڭشەكلىرىگە قايتا قۇرۇلۇش ۋە بارلىق بەرمىلەر، جۈملىدىن ھۆججەتلەر ۋە چۈشۈرۈلگەن ئەپلەر ئۆچۈرۋېتىلىشتىن بۇرۇن 1 قېتىم ئۇرۇنىشىڭىز قالدى.</string>
+    <string name="kg_warning_tablet_none_none_auto_wipe">بۇ تابلېتنى قۇلۇپسىزلىماق ئۈچۈن %1$d ئۇرۇنۇش قىلىنغان. تابلېت زاۋۇت بارسانالغان تەڭشەكلىرىگە قايتا قۇرۇلۇش ۋە بارلىق بەرمىلەر، جۈملىدىن ھۆججەتلەر ۋە چۈشۈرۈلگەن ئەپلەر ئۆچۈرۋېتىلىشتىن بۇرۇن %2$d ئۇرۇنىشىڭىز قالدى.</string>
+    <string name="kg_wrong_direction_lock">يۆنىلىش خاتا سىزىلدى</string>
+    <string name="kg_wrong_direction_lock_vzw">يۆنىلىش خاتا (%d قېتىم پۇرسەت قالدى)</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="later">كېيىنچە</string>
+    <string name="lock_to_app_desc">بۇ، سىز ئەپنى مىخسىزلىغانغا قەدەر ئۇنى كۆرۈنۈمدە تۇتىدۇ.</string>
+    <string name="lock_to_app_dex_desc">‏Samsung DeX ھالىتىدە بۇ ئىقتىدار ئىشلىمەيدۇ.</string>
+    <string name="lock_to_app_dex_title">كۆزنەك مىخلانمىدى</string>
+    <string name="lock_to_app_negative">بىكار قىلىش</string>
+    <string name="lock_to_app_positive">ماقۇل</string>
+    <string name="lock_to_app_recent_and_back">بۇ ئەپنى ئاجرىتىش ئۈچۈن بىرلا ۋاقىتتا «يېقىنقىلار» ۋە «قايتىش» كۇنۇپكىلىرىنى تۇتۇپ تۇرۇڭ.</string>
+    <string name="lock_to_app_recent_and_back_accessibility">ئەپنى ئاجرىتىش ئۈچۈن يېقىنقىلار كۇنۇپكىسىنى بېسىپ تۇرۇڭ.</string>
+    <string name="lock_to_app_recent_and_back_softkey">بۇ ئەپنى ئاجرىتىش ئۈچۈن بىرلا ۋاقىتتا «يېقىنقىلار» ۋە «قايتىش» كۇنۇپكىلىرىنى تۇتۇپ تۇرۇڭ.</string>
+    <string name="lock_to_app_recent_and_back_softkey_accessibility">ئەپ ئاجرىتىش ئۈچۈن بىرلا ۋاقىتتا «يېقىنقىلار» كۇنۇپكىسىنى تۇتۇپ تۇرۇڭ.</string>
+    <string name="lock_to_app_title">ئەپ مىخلاندى</string>
+    <string name="lock_to_app_unable_to_pin_desc">بۇ ئەپ كۆزنەك مىخلاشنى قوللىمايدۇ.</string>
+    <string name="lock_to_app_unable_to_pin_title">%s مىخلانمىدى</string>
+    <string name="lock_to_app_unable_to_pin_toast">ئەپ مىخلانمىدى. %s يېپىلدى. ئېنىقسىز خاتالىق كۆرۈلدى.</string>
+    <string name="lockscreen_nosim_text_kor_only">"‏USIM كارتا بايقالمىدى
+پەقەت جىددىي تېلېفونغا رۇخسەت"</string>
+    <string name="managed_profile_foreground_toast">بۇ ئەپنى %s دە ئىشلىتىۋاتىسىز.</string>
+    <string name="maximum_power_saving_mode">ماكسىمۇم قۇۋۋەت تېجەش مودى</string>
+    <string name="megabyteShort">MB</string>
+    <string name="memory_full_dialog_msg">ئىچكى ساقلىمىڭىزدا يېتەرلىك بوشلۇق يوق. بەزى ھۆججەتلەرنى ئۆچۈرۈپ، قايتا سىناڭ.</string>
+    <string name="memory_full_dialog_title">ئېكرانتارتىمى تارتالمايسىز</string>
+    <string name="mobile_data_roaming_disable_toast_lgt">ئېقىم كېزىش ئېتىلدى.</string>
+    <string name="mobile_data_roaming_title">كەزمە ئېقىم تەڭشەكلىرى</string>
+    <string name="mobile_data_show_popup_disable">‏Wi-Fi ئىشلەتمىسىڭىز، تورغا ئۇلىنىدىغان ھېچقانداق ئەپنى ئىشلىتەلمەيسىز.</string>
+    <string name="mobile_data_show_popup_disable_att">كۆچمە ئېقىم ئېتىك بولسا AT&amp;T سىنلىق چاقىرىق ئىشلىمەيدۇ. يەنە Wi-Fi غا ئۇلانمىغان ئەھۋالدا تور، تورخەت ياكى ئېقىم ئۇلىنىشى ئىشلىتىدىغان باشقا ئەپلەرمۇ ئىشلىمەيدۇ.</string>
+    <string name="mobile_data_show_popup_disable_dcm">"كۆچمە ئېقىم ئېتىك ھالەتتە تور مۇلازىمەتلىرىنى ئىشلىتىش ئۈچۈن ئۈسكۈنىنى Wi-Fi غا ئۇلاش كېرەك.
+
+كۆچمە ئېقىم ئېتىلىدۇ."</string>
+    <string name="mobile_data_show_popup_disable_kor">"‏Wi-Fi ئىشلەتمىسىڭىز تور، تورخەت ۋە باشقا ئېقىم ئۇلىنىشى تەلەپ قىلىدىغان ئەپلەرنى ئىشلىتەلمەيسىز.
+
+كۆچمە ئېقىم ئېتىلىدۇ."</string>
+    <string name="mobile_data_show_popup_disable_kor_kt">كۆچمە ئېقىم (WCDMA/LTE) ئېتىلىدۇ. Wi-Fi ئىشلەتمىسىڭىز تور تەلەپ قىلىدىغان باشقا ئەپلەرنى ئىشلىتەلمەيسىز. رەڭلىك ئۇچۇر يوللىيالايسىز ۋە قوبۇل قىلالايسىز.</string>
+    <string name="mobile_data_show_popup_disable_kor_lgt">"‏Wi-Fi ئىشلەتمىسىڭىز تور، تورخەت ۋە باشقا ئېقىم ئۇلىنىشى تەلەپ قىلىدىغان ئەپلەرنى ئىشلىتەلمەيسىز.
+
+كۆچمە ئېقىم ئېتىلىدۇ."</string>
+    <string name="mobile_data_show_popup_disable_vzw">"‏Wi-Fi ئىشلەتمىسىڭىز تور، تورخەت ۋە باشقا ئېقىم ئۇلىنىشى تەلەپ قىلىدىغان ئەپلەرنى ئىشلىتەلمەيسىز.
+
+كۆچمە ئېقىملىق ئۇلىنىشنى ئېتەمسىز؟"</string>
+    <string name="mobile_data_show_popup_disable_vzw_volte">"كۆچمە ئېقىم ئېتىك ھالەتتە تېلېفونىڭىزنىڭ سىنلىق چاقىرىق ئىقتىدارى ئىشلىمەيدۇ. Wi-Fi غا ئۇلىمىسىڭىز، تور، تورخەت ياكى ئۇلىنىش كېرەك قىلىدىغان باشقا ئەپلەرمۇ ئىشلىمەيدۇ.
+
+كۆچمە ئېقىمنى ئېتەمسىز؟"</string>
+    <string name="mobile_data_show_popup_disable_vzw_volte_tablet">"كۆچمە ئېقىم ئېتىك ھالەتتە تاختا كومپيۇتېرىڭىزنىڭ سىنلىق چاقىرىق ئىقتىدارى ئىشلىمەيدۇ. Wi-Fi غا ئۇلىمىسىڭىز، تور، تورخەت ياكى ئۇلىنىش كېرەك قىلىدىغان باشقا ئەپلەرمۇ ئىشلىمەيدۇ.
+
+كۆچمە ئېقىمنى ئېتەمسىز؟"</string>
+    <string name="mobile_data_show_popup_enable_kor">كۆچمە ئېقىم ئېچىلىدۇ. كۆچمە تورغا ئۇلىسىڭىز، مۇلازىمەت پىلانىڭىز بويىچە ھەق كېلىشى مۇمكىن.</string>
+    <string name="mobile_data_show_popup_enable_kor_kt">كۆچمە ئېقىم ئېچىلىدۇ. كۆچمە تورغا ئۇلىسىڭىز، مۇلازىمەت پىلانىڭىز بويىچە ھەق كېلىشى مۇمكىن.</string>
+    <string name="mobile_data_show_popup_enable_kor_lgt">كۆچمە ئېقىم ئېچىلىدۇ. كۆچمە تورغا ئۇلىسىڭىز، مۇلازىمەت پىلانىڭىز بويىچە ھەق كېلىشى مۇمكىن.</string>
+    <string name="mobile_data_show_popup_enable_kor_skt_kt">كۆچمە ئېقىم ئېچىلىدۇ. كۆچمە تورغا ئۇلىسىڭىز، مۇلازىمەت پىلانىڭىز بويىچە ھەق كېلىشى مۇمكىن.</string>
+    <string name="mobile_data_show_popup_roaming_enable">كەزمە ئېقىم ئېچىلىدۇ. كەزگەندە كۆچمە ئېقىم ئىشلەتسىڭىز، مۇلازىمەت پىلانىڭىز بويىچە قوشۇمچە ھەق كېلىشى مۇمكىن.</string>
+    <string name="mobile_data_show_toast_airplane_mode">ئۇچۇش ھالىتى ئوچۇق بولسا كۆچمە تورغا ئۇلانمايدۇ. ئۇچۇش ھالىتىنى ئېتىپ، قايتا سىناڭ.</string>
+    <string name="mobile_data_show_toast_not_disable_during_voltecall">ئالىي چاقىرىق ئوچۇق چاغدا كۆچمە ئېقىم ئېچىلمايدۇ ياكى ئېتىلمەيدۇ.</string>
+    <string name="mobile_data_title">كۆچمە ئېقىم</string>
+    <string name="mobile_device_warning_toast_notification">يول ماڭغان ياكى ماشىنا ھەيدىگەندە كۆچمە ئۈسكۈنە ئىشلەتكەندە ھادىسە كېلىپ چىقىشى مۇمكىن.</string>
+    <string name="mobile_hotspot_detail_connected_device">ئۇلانغان ئۈسكۈنە</string>
+    <string name="mobile_hotspot_detail_connected_devices">ئۇلانغان ئۈسكۈنىلەر</string>
+    <string name="mobile_hotspot_detail_connection_mode_allow_all">بارلىق ئۈسكۈنىلەرنىڭ ئۇلىنىشىغا رۇخسەت</string>
+    <string name="mobile_hotspot_detail_connection_mode_allowed_device">پەقەت رۇخسەتلىك ئۈسكۈنە</string>
+    <string name="mobile_hotspot_detail_password">مەخپىى شىفىر</string>
+    <string name="mobile_hotspot_detail_title">كۆچمە تور نۇقتىسى</string>
+    <string name="mobile_hotspot_detail_title_jpn">‏Wi-Fi باغلاش</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_message">كۆچمە قىززىقنۇقتا ۋە باشقا تور ئورتاقلىشىمى تاللاملىرىنى قوللانماق ئۈچۈن بىر SIM كارتا سېلىڭ.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_message_jpn">‏Wi-Fi تور نۇقتىسىنى ئىشلىتىش ئۈچۈن SIM كارتا سېلىڭ.</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title">‏SIM كارتا يوق</string>
+    <string name="mobile_hotspot_dialog_nosim_warning_title_jpn">‏Wi-Fi تور نۇقتىسىنى ئاچالمىدى</string>
+    <string name="mobile_hotspot_dialog_nousim_or_nosim_warning">‏كۆچمە تور نۇقتىسى ۋە باشقا تور نۇقتىسى ئىقتىدارىنى ئىشلىتىش ئۈچۈن UIM/SIM كارتا سېلىڭ.</string>
+    <string name="mobile_hotspot_dialog_smartview_off_warn">‏كۆچمە نۇقتا ۋە Smart View بىرلا ۋاقىتتا ئېچىلمايدۇ. Smart View ئېتىلىدۇ.</string>
+    <string name="mobile_hotspot_dialog_smartview_off_warn_chn">‏WLAN تور نۇقتىسى بىلەن Smart View بىرلا ۋاقىتتا ئېچىلمايدۇ. Smart View ئېتىلىدۇ.</string>
+    <string name="mobile_hotspot_dialog_smartview_off_warn_jpn">‏Wi-Fi تور ئورتاقلىشىمى ۋە Smart View بىرلا ۋاقىتتا ئېچىلالمايدۇ. Smart View ئېتىلىدۇ.</string>
+    <string name="mobile_hotspot_dialog_wifi_sharing_enable_text">تور ئورتاقلىشىشتىن بۇرۇن Wi-Fi تەمىنلىگۈچى ئىجازەت بەرگەنمۇ يوق تەكشۈرۈڭ.</string>
+    <string name="mobile_hotspot_dialog_wifi_sharing_enable_title">‏Wi-Fi ئورتاقلىشىمىنى ئاچامسىز؟</string>
+    <string name="mobile_hotspot_dialog_wifi_sharing_lite_enable_text">بەزى Wi-Fi تورى Wi-Fi ئورتاقلىشىش ئوچۇق چاغدا ئىشلىمەسلىكى مۇمكىن.</string>
+    <string name="mobile_hotspot_toast_disable_airplne_mode">ئۇچۇش ھالىتى ئوچۇق بولسا كۆچمە تورغا ئۇلانمايدۇ. ئۇچۇش ھالىتىنى ئېتىپ، قايتا سىناڭ.</string>
+    <string name="mobile_hotspot_toast_internet_sharing">تور ئورتاقلىشىش</string>
+    <string name="mobile_hotspot_wifi_sharing">‏Wi-Fi ئورتاقلىشىش</string>
+    <string name="mobile_hotspot_wifi_sharing_Status_disabled">ئېتىك</string>
+    <string name="mobile_hotspot_wifi_sharing_Status_enabled">ئوچۇق</string>
+    <string name="mobileap">كۆچمە تور نۇقتىسى</string>
+    <string name="mw_divider_button_close">ئەپنى يېپىش</string>
+    <string name="negative_color_title">مەنپى</string>
+    <string name="no">ياق</string>
+    <string name="no_app_can_perform_this_action">بۇ مەشغۇلاتنى قوللايدىغان ئەپنى تاپالمىدى.</string>
+    <string name="no_network_connection">تور يوق</string>
+    <string name="no_sim_notification_text">‏SIM كارتا سېلىڭ.</string>
+    <string name="no_sim_notification_text_cct">‏Xfinity Mobile SIM سېلىڭ. تەپسىلاتىنى xfinitymobile.com/activate دىن ياكى 888-936-4968 گە تېلېفون قىلىپ سۈرۈشتۈرۈڭ.</string>
+    <string name="no_sim_notification_text_vzw">چېكىپ تەپسىلاتىنى كۆرۈڭ.</string>
+    <string name="no_sim_notification_title">‏SIM يوق</string>
+    <string name="no_sim_notification_title_cct">‏SIM كارتا بايقالمىدى</string>
+    <string name="no_sim_notification_title_tmo">‏SIM كارتا سېلىنمىدى</string>
+    <string name="no_sim_notification_title_vzw">‏SIM تېپىلمىدى</string>
+    <string name="no_such_item">رەسىم تېپىلمىدى.</string>
+    <string name="noti_direct_reply_exceed_text_limit_toast">ئەمدى تېكىست كىرگۈزەلمەيسىز.</string>
+    <string name="noti_setting_text">بىلدۈرۈم تەڭشەكلىرى</string>
+    <string name="noti_toast_wifi_is_not_available">‏WLAN مەۋجۇت ئەمەس. يانفون تورلىرىغا ئۇلىنىش سىزنىڭ تۆلىمە پىلانىڭىزغا باغلىق ھالدا قوشۇلما ھەقلەرنى كەلتۈرۈپ چىقىرىشى مۇمكىن.</string>
+    <string name="notification_cancel">بىكار قىل</string>
+    <string name="notification_channel_blocked">ئۇقتۇرۇش ۋە بەلگە تامغىسى توسۇلدى</string>
+    <string name="notification_channel_general">ئادەتتىكى ئۇقتۇرۇشلار</string>
+    <string name="notification_channel_ongoing">بولۇۋاتقان</string>
+    <string name="notification_done">تامام</string>
+    <string name="notification_info_details">تەپسىلاتى</string>
+    <string name="notification_save">ساقلاش</string>
+    <string name="notification_settings_icon_description">ئەپ ئۇقتۇرۇشى تەڭشەكلىرى</string>
+    <string name="ok">تامام</string>
+    <string name="one_item_will_be_deleted">بۇ ئېكران تارتىمىنى ئۆچۈرەمسىز؟</string>
+    <string name="overheat_poweroff_notice_text">"ئۈسكۈنىڭىز قىزىپ كەتتى. بۇزۇلۇشتىن ساقلىنىش ئۈچۈن ئېتىلدى.
+
+قىزىپ كېتىشنىڭ سەۋەبى:
+- گىرافىك زىچ ئەپلەرنى ئىشلىتىش، مەسىلەن ئويۇن ۋە يولچى ئەپلىرىنى ئۇزۇن ئىشلىتىش.
+- چوڭ ھۆججەت يوللاش.
+- ئۈسكۈنىڭىزنى ئىسسىق مۇھىتتا ئىشلىتىش."</string>
+    <string name="overheat_poweroff_notice_title">ئۈسكۈنە ئاپتوماتىك ئېتىلدى</string>
+    <string name="overheat_poweroff_warning_text_append">ئۈسكۈنە سوۋۇپ بولمىغۇچە قايتا ئېچىلمايدۇ.</string>
+    <string name="overheat_poweroff_warning_text_new">ئۈسكۈنىڭىز قىزىپ كەتتى. سوۋۇتۇش ئۈچۈن %d سېكۇنت ئىچىدە ئېتىلىدۇ.</string>
+    <string name="overheat_poweroff_warning_title">ئۈسكۈنىنى ئېتىش</string>
+    <string name="overheat_shutdown_notice_text">"تېلېفونىڭىز قىزىپ كەتتى. بۇزۇلۇشتىن ساقلىنىش ئۈچۈن ئېتىلدى.
+
+قىزىپ كېتىشنىڭ سەۋەبى:
+گىرافىك زىچ ئەپلەرنى ئىشلىتىش، مەسىلەن سىنلىق ئويۇن ۋە يولچى ئەپلىرىنى قىسقا ۋاقىت ئىشلىتىش.
+چوڭ ھۆججەت چۈشۈرۈش ۋە يۈكلەش.
+تېلېفونىڭىزنى بەك ئىسسىق ئورۇندا ئىشلىتىش."</string>
+    <string name="overheat_shutdown_notice_text_tablet">"تاختا كومپيۇتېرىڭىز قىزىپ كەتتى. بۇزۇلۇشتىن ساقلىنىش ئۈچۈن ئېتىلدى.
+
+قىزىپ كېتىشنىڭ سەۋەبى بۇلار بولۇشى مۇمكىن:
+سىنلىق ئويۇن ۋە يولچى دېگەندەك گىرافىك زىچ ئەپلەرنى ئۇزۇن ۋاقىت ئىشلىتىش.
+چوڭ ھۆججەت چۈشۈرۈش ۋە يۈكلەش.
+تاختا كومپيۇتېرنى بەك ئىسسىق ئورۇندا ئىشلىتىش."</string>
+    <string name="overheat_shutdown_notice_title">تېلېفون نېمىشقا ئۆزلۈكىدىن ئېتىلدى؟</string>
+    <string name="overheat_shutdown_notice_title_tablet">تاختا كومپيۇتېر نېمىشقا ئۆزلۈكىدىن ئېتىلدى؟</string>
+    <string name="overheat_shutdown_warning_text">"تېلېفونىڭىز قىزىۋاتىدۇ.
+ھازىر ئېتىلىپ سوۋۇتۇلىدۇ."</string>
+    <string name="overheat_shutdown_warning_text_tablet">تاختا كومپيۇتېر بەك قىزىپ كەتتى. ئەمدى ئېتىلىپ سوۋۇتۇلىدۇ.</string>
+    <string name="overheat_shutdown_warning_title">‏ئېتىش</string>
+    <string name="petabyteShort">چاقىرغۇ</string>
+    <string name="photo_editor">سۈرەت تەھرىرى</string>
+    <string name="popupui_dialog_turn_on_button">ئېچىش</string>
+    <string name="power_supplying_low_battery_alert_body">‏USB OTG كابېلى ئۇلاقلىق ۋاقىتتا تېلېفونىڭىزنىڭ باتارېيەسى ئىستىماللىنىدۇ. باتارېيەڭىزنى تېجىمەك ئۈچۈن USB OTG كابېلىنى چىقىرۋېتىڭ.</string>
+    <string name="power_supplying_low_battery_alert_body_tablet">‏USB OTG كابېلى ئۇلاقلىق ۋاقىتتا تابلېتىڭىزنىڭ باتارېيەسى ئىستىماللىنىدۇ. باتارېيەڭىزنى تېجىمەك ئۈچۈن USB OTG كابېلىنى چىقىرۋېتىڭ.</string>
+    <string name="power_supplying_low_battery_alert_title">توك ئاز</string>
+    <string name="powerui_power_sharing_alert_dialog_body">"ئورتاقلاشقان توك مىقدارىنى تىزگىنلەش ئۈچۈن ئەپنى چۈشۈرۈش كېرەك. ئۈسكۈنىڭىزنى توك ئورتاقلىشىش سىمى EP-SG900 ئارقىلىق بۇ ئەپنى ئىشلەتمەي تۇرۇپ باشقا ئۈسكۈنىگە ئۇلىسىڭىز، باتارېيەدىكى بارلىق توك يەنە بىر ئۈسكۈنىگە يوللىنىدۇ. 
+Samsung Apps كە ئۇلاپ، ئەپنى چۈشۈرۈڭ."</string>
+    <string name="private_dns_mode_off">ئېتىك</string>
+    <string name="private_dns_mode_opportunistic">ئۆزلۈكىدىن</string>
+    <string name="private_dns_mode_provider">شەخسىي DNS يۈرۈتكۈچىنىڭ باقار نامى</string>
+    <string name="private_dns_mode_provider_hostname_hint">‏DNS يۈرۈتكۈچىنىڭ باقار نامىنى كىرگۈزۈڭ</string>
+    <string name="proximity_sensor_tip_body">ئېكراندىكى ئارىلىق سەزگۈچ ئېھتىياتسىزلىقتىن تۇتۇشنى توسۇپ نورمال ئىشلەۋاتىدۇ.</string>
+    <string name="proximity_sensor_tip_button">بىلدىم</string>
+    <string name="proximity_sensor_tip_title">نېمىشقا چاقنايدۇ؟</string>
+    <string name="qs_contact_us">بىز بىلەن ئالاقىلىشىڭ</string>
+    <string name="qs_detail_capture_mode">ئېكران تۇتۇش ھالىتى</string>
+    <string name="qs_detail_capture_mode_text">تېز تەڭشەك تاختىسىغا قوشماقچى بولغان ئىقتىدارنى تاللاڭ.</string>
+    <string name="qs_detail_capture_screen">ئېكراننى تارتىش</string>
+    <string name="qs_detail_flashlight_title">قولچىراق</string>
+    <string name="qs_detail_palm_capture_description">بىر ئېكران تارتىمى تارتماق ئۈچۈن، قولىڭىزنىڭ قىرىنى ئېكراننىڭ توغرىسىغا سىيرىڭ.</string>
+    <string name="qs_detail_palm_capture_title">ئالقاندا سىيرىپ تۇتۇش</string>
+    <string name="qs_detail_recorder_screen">ئېكران خاتىرىلەش</string>
+    <string name="qs_detail_smart_capture_description">ئېكراننىڭ يوشۇرۇن دائىرىلىرىنى ئېكران تارتىملىرىڭىزنىڭ ئىچىگە ئالىڭ. ئېكران تارتىملىرىنى تارتقاندىن كېيىن ئۇلارنى يەنە تەھرىرلىيەلەيسىز ياكى ئورتاقلىشالايسىز.</string>
+    <string name="qs_detail_smart_capture_title">ئاڭلىق تارتىم</string>
+    <string name="qs_edit_panel_badge_text">ي</string>
+    <string name="qs_edit_setting_active_area_tapped">تېز تەڭشەك تاختىسىدا.</string>
+    <string name="qs_edit_setting_available_area_tapped">تېز تەڭشەك تاختىسىدا ئەمەس.</string>
+    <string name="qs_edit_summary">سۆرەپ كۇنۇپكا قوشۇڭ</string>
+    <string name="qs_location_consent_dialog_body_message_dcm">‏GPS ئورۇنلاندۇرما ۋە ئورۇن بەرمىلىرىڭىزنىڭ ئىشلىتىلىشى سىز ئىشلىتىدىغان ئەپلەر تەرىپىدىن كونتروللىنىدۇ.</string>
+    <string name="qs_location_consent_dialog_body_message_vzw">"تېلېفونىڭىز ئۆزىنىڭ مۆلچەر ئورنىنى خەرىتە، مال سېتىش ۋە ھاۋارايى دېگەندەك ئەپ ۋە مۇلازىمەتلەر بىلەن ئورتاقلىشالايدۇ.
+
+ئورنىڭىزنى ئىشلىتىدىغان ئەپ ۋە مۇلازىمەتلەر سىزگە ئۇقتۇرۇش قىلىدۇ. ئورنىڭىزنى ئىشلىتىدىغان ئەپ ۋە مۇلازىمەتلەرنى ئىشلىتىشتىن بۇرۇن ئۇلارنىڭ مەخپىيەتلىك تۈزۈمىنى ئوقۇپ، ئورۇن ئۇچۇرىڭىزنى قانداق ئالىدىغان، توپلايدىغان ۋە ئىشلىتىدىغانلىقىنى چۈشىنىڭ.
+
+ئورنىڭىزنى ئېنىقلىغاندا كۆچمە ئېقىم ئىشلىتىلىدۇ. ئېقىم خورايدۇ."</string>
+    <string name="qs_location_consent_dialog_body_message_vzw_tablet">"تاختا كومپيۇتېرىڭىز ئۆزىنىڭ مۆلچەر ئورنىنى خەرىتە، مال سېتىش ۋە ھاۋارايى دېگەندەك ئەپ ۋە مۇلازىمەتلەر بىلەن ئورتاقلىشالايدۇ.
+
+ئورنىڭىزنى ئىشلىتىدىغان ئەپ ۋە مۇلازىمەتلەر سىزگە ئۇقتۇرۇش قىلىدۇ. ئورنىڭىزنى ئىشلىتىدىغان ئەپ ۋە مۇلازىمەتلەرنى ئىشلىتىشتىن بۇرۇن ئۇلارنىڭ مەخپىيەتلىك تۈزۈمىنى ئوقۇپ، ئورۇن ئۇچۇرىڭىزنى قانداق ئالىدىغان، توپلايدىغان ۋە ئىشلىتىدىغانلىقىنى چۈشىنىڭ.
+
+ئورنىڭىزنى ئېنىقلىغاندا كۆچمە ئېقىم ئىشلىتىلىدۇ. ئېقىم خورايدۇ."</string>
+    <string name="qs_location_consent_dialog_title_dcm">ئىشلەتكۈچى ماقۇللۇقى</string>
+    <string name="qs_location_consent_dialog_title_vzw">ئورۇنغا قوشۇلۇش</string>
+    <string name="qs_location_detail_default_title">ئورۇن</string>
+    <string name="qs_location_detail_gps_title">GPS</string>
+    <string name="qs_location_detail_mode_battery_saving">توك تېجەش</string>
+    <string name="qs_location_detail_mode_battery_saving_description">ئورنىڭىزنى مۆلچەرلىمەك ئۈچۈن Wi-Fi ۋە كۆچمە تورلارنى قوللىنىدۇ.</string>
+    <string name="qs_location_detail_mode_high_accuracy">يۈكسەك توغرىلىق</string>
+    <string name="qs_location_detail_mode_high_accuracy_description">ئورنىڭىزنى مۆلچەرلىمەك ئۈچۈن GPS، Wi-Fi، ۋە كۆچمە تورلارنى قوللىنىدۇ.</string>
+    <string name="qs_location_detail_mode_sensors_only_description">ئورنىڭىزنى مۆلچەرلىمەك ئۈچۈن GPS قوللىنىدۇ.</string>
+    <string name="qs_location_detail_mode_sensors_only_phone">پەقەت تېلېفون</string>
+    <string name="qs_location_detail_mode_sensors_only_tablet">پەقەت تاختا</string>
+    <string name="qs_location_detail_mode_summary_title">تېپىش ئۇسۇلى</string>
+    <string name="qs_location_detail_summary_default">ئورنىڭىزنى مۆلچەرلىمەك ئۈچۈن GPS، Wi-Fi، ۋە كۆچمە تورلارنى قوللىنىدۇ.</string>
+    <string name="qs_multisim_data_preffered_btn_title">كۆچمە ئېقىم</string>
+    <string name="qs_multisim_data_switching">"تېخى SIM كارتا ئالماشتۇرۇۋاتىدۇ…
+كېيىنرەك قايتا سىناڭ."</string>
+    <string name="qs_multisim_data_turned_off">‏ئېتىلدى</string>
+    <string name="qs_multisim_sim_card_manager">SIM 卡管理器</string>
+    <string name="qs_multisim_sms_preffered_btn_title">قىسقا ئۇچۇر</string>
+    <string name="qs_multisim_voice_ask_always">ئىزچىل سوراش</string>
+    <string name="qs_multisim_voice_others">باشقىلار</string>
+    <string name="qs_multisim_voice_preffered_btn_title">چاقىرىق</string>
+    <string name="qs_navigation_bar_detail_description">يولچى بالداقنى يوشۇرۇپ سىيرىش ئىشارىسى ئارقىلق قايتسىڭىز بولىدۇ، تولۇق ئېكرانلىق ئىشارە تاللىغاندا باش ئېكرانغا قايتىش ياكى يېقىنقى ئەپلەرنى كۆرۈشكە بولىدۇ.</string>
+    <string name="qs_navigation_bar_detail_full_screen_gestures_options">تولۇق ئېكرانلىق ئىشارە</string>
+    <string name="qs_navigation_bar_detail_navigation_buttons_options">يولچى كۇنۇپكا</string>
+    <string name="qs_navigation_bar_detail_title">يېتەكلەش بالدىقى</string>
+    <string name="qs_navigation_bar_detail_title_option">يولچى تۈرى تاللاڭ.</string>
+    <string name="qs_navigation_bar_exclusive_function_turn_off_onehand_mode_desc">تولۇق ئېكرانلىق ئىشارە ئىشلىتىش ئۈچۈن بىر قوللۇق ھالەت تەڭشىكى ئىشارىگە ئۆزگەرتىلىشى كېرەك.</string>
+    <string name="qs_navigation_bar_label">"يولچى
+بالداق"</string>
+    <string name="qs_navigation_bar_setting_button">تەڭشەكلەر</string>
+    <string name="qs_navigation_bar_toast_acceesibility">توسالغۇسىزلىق كۇنۇپكىسى كۆرۈنگەن چاغدا يولچى بالداق ئېتىلمەيدۇ.</string>
+    <string name="qs_navigation_bar_toast_voice_assistant_enabled">ئاۋازلىق ياردەمچى ئوچۇق چاغدا يولچى بالداق ئېتىلمەيدۇ.</string>
+    <string name="qs_noti_settings">ھالەت ئستونى</string>
+    <string name="qspanel_brightness_auto_brightness_summary">يورۇقلۇق تەڭشىمىلىرىڭىزنىڭ پېشىدە بولۇڭ ۋە ئۇلارنى ئاپتوماتىك ھالدا ئوخشاش يورۇتما شارائىتلىرىدا تەدبىقلاڭ.</string>
+    <string name="qspanel_brightness_auto_brightness_summary_nopac">ئېكران يورۇقلۇقىنى نۆۋەتتىكى يورۇتۇش شارائىتلىرىغا ئاساسەن ئاپتوماتىك ھالدا تەڭشەڭ.</string>
+    <string name="qspanel_brightness_auto_brightness_title">ماسلاشما يورۇقلۇق</string>
+    <string name="qspanel_brightness_control_on_the_top_summary">يورۇقلۇق كونترولىنى بىلدۈرۈم پانېلىنىڭ يۇقىرىسىدا كۆرسىتىڭ.</string>
+    <string name="qspanel_brightness_control_on_the_top_title">كونترولنى تۆپىدە كۆرسىتىش</string>
+    <string name="qspanel_brightness_detail_level">دەرىجە</string>
+    <string name="qspanel_brightness_detail_title">يورۇقلۇق</string>
+    <string name="qspanel_brightness_eye_strain_dialog_message">ئۇزاققىچە بەك يورۇق ئىشلەتكەندە توك سەرپىياتى ئاشىدۇ.</string>
+    <string name="qspanel_brightness_outdoor_mode_summary">تالادا كۆرۈش ئۈچۈن ئېكراننى تېخىمۇ يورۇق قىلىڭ. 15 مىنۇتتىن كېيىن، ئېكراننى ھالا ئىشلەتمەيۋاتقان بولسىڭىزلا تالا مودى ئېتىلىدۇ.</string>
+    <string name="qspanel_brightness_outdoor_mode_title">تالا مودى</string>
+    <string name="qspanel_brightness_slider_hbm_text">يورۇق مۇھىتتا كۆرۈشكە ئۇيغۇن</string>
+    <string name="qspanel_screen_grid_content_description">‏%1$d نى %2$dگە كۆپەيتىش</string>
+    <string name="qspanel_screen_grid_ok_button">OK</string>
+    <string name="qspanel_screen_grid_title">تۈگمە كاتەكچىسى</string>
+    <string name="quick_panel_data_usage">ئىشلەتكەن ئېقىم</string>
+    <string name="quick_settings_airplane_mode_label">"ئۇچۇش
+ھالىتى"</string>
+    <string name="quick_settings_allow">رۇخسەت</string>
+    <string name="quick_settings_blf_detail_seekbar">تۇتۇقلۇق</string>
+    <string name="quick_settings_blf_detail_summary">ئېكران چىقارغان كۆك نۇر ئارقىلىق كۆزنىڭ جىددىيلىشىشىنى تۆۋەنلىتىڭ.</string>
+    <string name="quick_settings_block">阻止</string>
+    <string name="quick_settings_bluelightfilter_detail_title">كۆك نۇر سۈزگۈچ</string>
+    <string name="quick_settings_bluelightfilter_label">"ئاچ كۆك
+سۈزگۈچ"</string>
+    <string name="quick_settings_bluetooth_connected_devices">"‏%d ئۈسكۈنە
+ئۇلاندى"</string>
+    <string name="quick_settings_bluetooth_detail_available_devices_title">بار ئۈسكۈنە</string>
+    <string name="quick_settings_bluetooth_detail_empty_text_available">يېقىن ئەتراپتىكى كۆكچىش ئۈسكۈنىسى تېپىلمىدى</string>
+    <string name="quick_settings_bluetooth_detail_off_text">سىز جۈپلەشتۈرەلەيدىغان ياكى ئاللىبۇرۇن جۈپلەشتۈرگەن ئۈسكۈنىلەرنىڭ تىزىمىنى كۆرمەك ئۈچۈن كۆكچىشنى ئېچىڭ.</string>
+    <string name="quick_settings_bluetooth_detail_paired_devices_title">جۈپلەك ئۈسكۈنە</string>
+    <string name="quick_settings_bluetooth_label">كۆكچىش</string>
+    <string name="quick_settings_bluetooth_scanning">كۆكچىش ئۈسكۈنىلىرى ئىزدەۋاتىدۇ…</string>
+    <string name="quick_settings_cancel">بىكار قىل</string>
+    <string name="quick_settings_data_roaming_detail_title">كەزمە ئېقىم</string>
+    <string name="quick_settings_data_roaming_label">"كەزمە
+ئېقىم"</string>
+    <string name="quick_settings_dnd_detail_title">ئاۋارە قىلماڭ</string>
+    <string name="quick_settings_dnd_summary">بارلىق چاقىرمىلار، ئەسكەرتمىلەر، ۋە مېدىيانى جىمىتىڭ، تاللىغان مۇستەسنالىرىڭىزدىن باشقا.</string>
+    <string name="quick_settings_done">پۈتتى</string>
+    <string name="quick_settings_dual_label_content_description">%s، كۇنۇپكا بەلگىسى، قوش چېكىپ مۇناسىۋەتلىك تېز تەڭشەكنى كۆرۈڭ.</string>
+    <string name="quick_settings_enable">ئاكتىپلاشتۇر</string>
+    <string name="quick_settings_flashlight_detail_level">دەرىجە</string>
+    <string name="quick_settings_flashlight_detail_title">يورۇقلۇق</string>
+    <string name="quick_settings_flight_mode_detail_off_summary_non_volte_vzw">"ئۇچۇش ھالىتى ئوچۇق بولسا، ‏Wi-Fi ئىشلەتمىسىڭىز تور، تورخەت ۋە باشقا ئېقىم ئۇلىنىشى تەلەپ قىلىدىغان ئەپلەرنى ئىشلىتەلمەيسىز.
+
+ئۇچۇش ھالىتىنى ئاچامسىز؟"</string>
+    <string name="quick_settings_flight_mode_detail_off_summary_volte_vzw">"ئۇچۇش ھالىتى ئوچۇق بولسا، ‏Wi-Fi ئىشلەتمىسىڭىز تور، تورخەت، Wi-Fi چاقىرىقى ۋە باشقا ئېقىم ئۇلىنىشى تەلەپ قىلىدىغان ئەپلەرنى ئىشلىتەلمەيسىز.
+
+ئۇچۇش ھالىتىنى ئاچامسىز؟"</string>
+    <string name="quick_settings_flight_mode_detail_on_summary_non_volte_vzw">‏Wi-Fi ئىشلەتمىسىڭىز، تور، تورخەت ياكى ئېقىملىق ئۇلىنىدىغان باشقا ئەپلەرنى ئىشلىتەلمەيسىز.</string>
+    <string name="quick_settings_flight_mode_detail_on_summary_volte_vzw">‏Wi-Fi ئىشلەتمىسىڭىز، تور، تورخەت ياكى ئېقىملىق ئۇلىنىدىغان باشقا ئەپلەرنى ئىشلىتەلمەيسىز. ئۇچۇش ھالىتى ئوچۇق بولسا تېلېفوندا سىنلىق چاقىرىق ئىشلىمەيدۇ.</string>
+    <string name="quick_settings_flight_mode_detail_summary">"تېلېفون، ئۇچۇر، تور، Wi-Fi ۋە كۆكچىش قاتارلىق بارلىق ئۇلىنىش ئېتىلىدۇ.
+
+ئۇچۇش ھالىتى ئوچۇق چاغدا تەڭشەك ياكى تېز تەڭشەك سۇپىسىدىن Wi-Fi بىلەن كۆكچىشنى قايتا ئاچسىڭىز بولىدۇ."</string>
+    <string name="quick_settings_flight_mode_detail_title">ئۇچۇش ھالىتى</string>
+    <string name="quick_settings_it_policy_prevents">بىخەتەرلىك سىياسىتى %s نىڭ ئىشلىتىلىشنى چەكلەيدۇ.</string>
+    <string name="quick_settings_manual_rotation_button_on_navigation_bar_summary">تېلېفوننىڭ يۆنىلىشى ئۆزگەرگەندە قولدا ئېكران چۆرۈشكە رۇخسەت.</string>
+    <string name="quick_settings_manual_rotation_button_on_navigation_bar_title">يولچى بالداقتىكى چۆرۈش كۇنۇپكىسى</string>
+    <string name="quick_settings_manual_rotation_category">قولدا چۆرۈش</string>
+    <string name="quick_settings_mobile_data_detail_summary">ئىنتېرنېتكە كۆچمە تورىڭىز ئارقىلىق ئېرىشىڭ.</string>
+    <string name="quick_settings_mobile_data_detail_title">كۆچمە بەرمىلەر</string>
+    <string name="quick_settings_mobile_data_label">"كۆچمە
+ئېقىم"</string>
+    <string name="quick_settings_mobile_hotspot_label">"كۆچمە
+تور نۇقتىسى"</string>
+    <string name="quick_settings_mobile_hotspot_label_jpn">"‏Wi-Fi
+تورنۇقتا"</string>
+    <string name="quick_settings_phone_visibility_label">"تېلېفون
+كۆرۈنۈشى"</string>
+    <string name="quick_settings_reading_mode_detail_title">ئوقۇش مودى</string>
+    <string name="quick_settings_reading_mode_label">"ئوقۇش
+ھالىتى"</string>
+    <string name="quick_settings_reading_mode_summary">ئېكران ئوقۇش ئۈچۈن ياخشىلاندى. بۇ ھالەت تاللىغان ئەپلەردىلا ئىشلەيدۇ.</string>
+    <string name="quick_settings_reset">قايتا بەلگىلەش</string>
+    <string name="quick_settings_rotation_category">تۈزبوي ھالەتكە چۆرۈش</string>
+    <string name="quick_settings_rotation_detail_call_screen">ئاۋازلىق چاقىرىق ئېكرانى</string>
+    <string name="quick_settings_rotation_detail_home_screen">باش ئېكران</string>
+    <string name="quick_settings_rotation_detail_lock_screen">قۇلۇپ ئېكرانى</string>
+    <string name="quick_settings_rotation_lock_auto_rotate">ئاپتوماتىك چۆرۈش</string>
+    <string name="quick_settings_rotation_lock_two_toggle_detail_summary">تېلېفونىڭىزنىڭ يۆنىلىشى ئۆزگەرگەندە ئېكراننى ئاپتوماتىك چۆرگىلىتىڭ.</string>
+    <string name="quick_settings_rotation_lock_two_toggle_detail_summary_for_tablet">تابلېتىڭىزنىڭ يۆنىلىشى ئۆزگەرگەندە ئېكراننى ئاپتوماتىك چۆرگىلىتىڭ.</string>
+    <string name="quick_settings_screen_capture_label">"ئېكران
+تۇتۇش"</string>
+    <string name="quick_settings_sec_dnd_label">"ئاۋارە
+قىلماڭ"</string>
+    <string name="quick_settings_sec_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_sound_mode_detail_label">ئاۋاز ئەندىزە</string>
+    <string name="quick_settings_sound_mode_detail_mixer_dnd_turned_on">ئاۋارە قىلماسلىق ئوچۇق</string>
+    <string name="quick_settings_sound_mode_detail_mixer_title">ئاۋاز مىقدارى</string>
+    <string name="quick_settings_sound_mode_detail_mute_remaining">قالغان ۋاقىت: %s</string>
+    <string name="quick_settings_sound_mode_detail_temporary_mute_duration">ئۈنسىز ۋاقتى</string>
+    <string name="quick_settings_sound_mode_detail_temporary_mute_summary">بۇرۇنقى ئاۋازلىق ھالەت (%s) كە قايتىشتىن بۇرۇن تېلېفوننىڭ ئۈنسىز تۇرۇش مۇددىتىنى بېكىتىڭ.</string>
+    <string name="quick_settings_sound_mode_detail_temporary_mute_title">ۋاقتىنچە ئۈنسىزلەش</string>
+    <string name="quick_settings_sound_mode_mute_label">ئاۋازسىز</string>
+    <string name="quick_settings_sound_mode_sound_label">ئاۋاز</string>
+    <string name="quick_settings_sound_mode_vibrate_label">تىترەش</string>
+    <string name="quick_settings_tablet_visibility_label">"تاختا
+كۆرۈنۈشى"</string>
+    <string name="quick_settings_volte_summary">بار بولسا VoLTE ئىشلىتىش</string>
+    <string name="quick_settings_wifi_detail_available_networks_title">بار تور</string>
+    <string name="quick_settings_wifi_detail_current_network_title">نۆۋەتتىكى تور</string>
+    <string name="quick_settings_wifi_detail_off_text">مەۋجۇت تورلارنى كۆرۈش ئۈچۈن،Wi-Fi نى ئېچىڭ.</string>
+    <string name="quick_settings_wifi_detail_scanning_text">‏Wi-Fi تورى ئىزدەۋاتىدۇ…</string>
+    <string name="quick_settings_work_mode_label">خىزمەت ئارخىپى</string>
+    <string name="quick_settings_work_mode_label_Premium">Workspace</string>
+    <string name="quick_settings_workmode_detail_summary">"‏%1$s نى ئېچىپ، ئۇنىڭدىكى بارلىق ئەپنى قوزغىتىپ، ئارقا سۇپىدا ماسقەدەملەش ۋە ئۇقتۇرۇشقا ئىجازەت بېرىڭ.
+
+ئىش ۋاقتىدا تېلېفون دەخلىسىگە ئۇچرىماسلىق ئۈچۈن %2$s نى ئېتىڭ."</string>
+    <string name="quick_settings_workmode_detail_summary_tablet">"‏%1$s نى ئېچىپ، ئۇنىڭدىكى بارلىق ئەپنى قوزغىتىپ، ئارقا سۇپىدا ماسقەدەملەش ۋە ئۇقتۇرۇشقا ئىجازەت بېرىڭ.
+
+ئىش ۋاقتىدا تاختا كومپيۇتېر دەخلىسىگە ئۇچرىماسلىق ئۈچۈن %2$s نى ئېتىڭ."</string>
+    <string name="recents_scroll_down">تۆۋەنگە سۈرۈش</string>
+    <string name="recents_scroll_up">يۇقىرىغا سۈرۈش</string>
+    <string name="recents_split_button_description">يارما ئېكران كۆرنۈمىدە ئېچىڭ</string>
+    <string name="remove">چىقىرىش</string>
+    <string name="reserve_battery_mode">توك ساقلاش ھالىتى</string>
+    <string name="retry">قايتا سىناش</string>
+    <string name="rotation_lock_auto_rotate">ئاپتوماتىك چۆرۈش</string>
+    <string name="rotation_lock_show_toast_mobile_keyboard_message">%s نى ئاكتىپلاشتۇرۇش ئۈچۈن، ئۈسكۈنىدىن كۇنۇپكاتاختا قېپىنى ئاجرىتىڭ.</string>
+    <string name="safe_mode_alert_body">تېلېفونىڭىز قايتا قوزغىلىدۇ ۋە بارلىق ئەپلىرىڭىز قايتىدىن قوللىنىملىق بولىدۇ.</string>
+    <string name="safe_mode_alert_body_tablet">تابېلتىڭىز قايتا قوزغىلىدۇ ۋە بارلىق ئەپلىرىڭىز قايتىدىن قوللىنىملىق بولىدۇ.</string>
+    <string name="safe_mode_alert_positive_button">ئېتىش</string>
+    <string name="safe_mode_alert_title">بىخەتەر ھالەتنى ئېتەمسىز؟</string>
+    <string name="safe_mode_alert_title_vzw">بىخەتەر ھالەتنى ئېتىش</string>
+    <string name="safe_mode_noti_body">بۇ يەرنى چېكىپ بىخەتەر ھالەتنى ئېتىڭ.</string>
+    <string name="safe_mode_noti_title">بىخەتەر ھالەت ئوچۇق</string>
+    <string name="sanitized_content_text">‏بۇ يەرنى چېكىپ %s گە كىرىڭ.</string>
+    <string name="screen_capture_delete">ئۆچۈرۈش</string>
+    <string name="screen_capture_edit">تەھرىرلەش</string>
+    <string name="screen_capture_fail_for_security_policy">بىخەتەرلىك سىياسىتى تۈپەيلىدىن ئېكرانتارتىمى تارتالمايسىز.</string>
+    <string name="screen_capture_fail_for_storage_capacity">ئۈسكۈنىدە يېتەرلىك بوشلۇق يوق. بەزى ھۆججەتلەرنى ئۆچۈرۈپ قايتا سىناڭ.</string>
+    <string name="screen_capture_share">ئورتاقلاش</string>
+    <string name="screen_pinning_dialog_toast">بۇ ئەپنى ئاجرىتىش ئۈچۈن بىرلا ۋاقىتتا «يېقىنقىلار» ۋە «قايتىش» كۇنۇپكىلىرىنى تۇتۇپ تۇرۇڭ.</string>
+    <string name="screen_pinning_exit">已取消固定应用程序</string>
+    <string name="screen_pinning_start">已固定应用程序</string>
+    <string name="screenshot_cancel">بىكار قىلىش</string>
+    <string name="screenshot_guide_dialog_msg">توك مەنبە كۇنۇپكىسى بىلەن ئۈنسىزلەش كۇنۇپكىسىنى بىللە بېسىپ تۇرۇپ ئېكران كۆرۈنۈشى ئېلىڭ.</string>
+    <string name="screenshot_guide_dialog_title">ئېكران تارتىملىرى تارتىش</string>
+    <string name="screenshot_saved_text">بۇ يەرنى بېسىپ كۆرۈڭ.</string>
+    <string name="screenshot_saved_title">ئېكران تارتىمى تارتىلدى</string>
+    <string name="sec_accessibility_back">كەينىگە</string>
+    <string name="sec_accessibility_home">باشبەت</string>
+    <string name="sec_accessibility_navbar_hide_pin">يۆنەلدۈرۈم ئىستونىنى يوشۇرۇش</string>
+    <string name="sec_accessibility_navbar_show_pin">يۆنەلدۈرۈم ئىستونىنى قۇلۇپلاش</string>
+    <string name="sec_accessibility_recent">يېقىنقىلار</string>
+    <string name="sec_battery_discharging_duration">تەخمىنلەنگەن باتارېيە ئۆمرى: %s</string>
+    <string name="sec_battery_history_days_no_hours">%d كۈن</string>
+    <string name="sec_battery_history_days_with_hours">‏%1$d كۈن %2$d سائەت</string>
+    <string name="sec_battery_history_hours_no_seconds">%1$d سائەت %2$d مىنۇت</string>
+    <string name="sec_battery_history_minutes_no_seconds">%d مىنۇت</string>
+    <string name="sec_block_this_notification_text">بۇ بىلدۈرۈمنى توسۇش</string>
+    <string name="sec_bluetooth_show_le_devices_without_names">نامسىز ك ت ئې ئۈسكۈنىسى كۆرسىتىش</string>
+    <string name="sec_bluetooth_show_le_devices_without_names_summary">كۆكچىشلىق تۆۋەن ئېنېرگىيەلىك نامسىز ئۈسكۈنە (نىڭ MAC ئادرېسى) كۆرۈنىدۇ.</string>
+    <string name="sec_data_usage_disabled_dialog_body">كۆچمە ئېقىم تورمۇزلاندى، چۈنكى سىز بېكىتكەن چەككە يەتتى.</string>
+    <string name="sec_data_usage_disabled_dialog_body_vzw">"بەلگىلىگەن ئېقىم چېكى توشتى، شۇڭا كۆچمە ئېقىم ئېتىلدى.
+
+كۆچمە ئېقىمنى ئاچسىڭىز، يۈرۈتكۈچى ئېقىم ھەققى ئېلىشى مۇمكىن."</string>
+    <string name="sec_data_usage_disabled_dialog_enable">قايتۇرۇش</string>
+    <string name="sec_data_usage_disabled_dialog_enable_vzw">ئېقىم ئېچىش</string>
+    <string name="sec_data_usage_disabled_dialog_keep_off">ئېتىك تۇتش</string>
+    <string name="sec_data_usage_disabled_dialog_mobile_title">كۆچمە ئېقىمنى ئەسلىگە كەلتۈرەمسىز؟</string>
+    <string name="sec_data_usage_disabled_dialog_mobile_title_vzw">كۆچمە ئېقىم ئېتىك</string>
+    <string name="sec_data_usage_disabled_dialog_turn_off">ئېتىش</string>
+    <string name="sec_default_app">بارسانالغان قىلىپ بېكىتىش</string>
+    <string name="sec_no_default_app">سۈكۈتتىكى قىلىپ بېكىتىلمىگەن</string>
+    <string name="sec_notification_group_overflow_description">جەمئىي %d بىلدۈرۈم</string>
+    <string name="sec_qs_unable_remove_minimum">كۇنۇپكا چىقىرىلمىدى. تېز سۇپا كەمىدە %d كۇنۇپكىلىق بولۇشى كېرەك.</string>
+    <string name="sec_quick_settings_details">تەپسىلاتى</string>
+    <string name="sec_quick_settings_disclosure_management">此手机由您的组织管理。</string>
+    <string name="sec_quick_settings_disclosure_management_tablet">此平板电脑由您的组织管理。</string>
+    <string name="sec_quick_settings_disclosure_named_management">此手机由%s管理。</string>
+    <string name="sec_quick_settings_disclosure_named_management_tablet">此平板电脑由%s管理。</string>
+    <string name="sec_quick_settings_disclosure_named_vpn">%s گە ئۇلاندى</string>
+    <string name="sec_quick_settings_flashlight_label">قولچىراق</string>
+    <string name="sec_quick_settings_rotation_locked_landscape_label">كەڭ يۆنىلىش</string>
+    <string name="sec_quick_settings_rotation_locked_portrait_label">تىكبوي</string>
+    <string name="sec_quick_settings_rotation_unlocked_label">"ئۆز
+چۆرۈش"</string>
+    <string name="sec_reorder_buttons">كۇنۇپكا تەرتىپى</string>
+    <string name="sec_running_foreground_services_msg">بىر ئەپنىڭ قانچىلىك باتارېيە قۇۋۋىتى ۋە بەرمە قوللىنىۋاتقىنىنى بىلمەك ئۈچۈن ئۇنى چېكىڭ.</string>
+    <string name="sec_running_foreground_services_title">‏باتارېيە قوللىنىۋاتقان ئەپلەر</string>
+    <string name="sec_samsung_cloud_title">Samsung Cloud</string>
+    <string name="sec_video_call_title">ۋىدېيولۇق چاقىرما</string>
+    <string name="select_private_dns_configuration_dialog_title">شەخسىي DNS</string>
+    <string name="select_private_dns_configuration_title">شەخسىي DNS</string>
+    <string name="servicebox_alarm_next">كېيىنكى زىلسائەت</string>
+    <string name="servicebox_alarm_no_alarm">كېيىنكى 7 كۈندە ھىچ زىلسائەت يوق</string>
+    <string name="servicebox_event_calendar">كالېندار</string>
+    <string name="servicebox_event_my_event">پائالىيىتىم</string>
+    <string name="servicebox_event_no_events">بولغۇلۇق يوق</string>
+    <string name="servicebox_event_open_ss">‏%s نى ئېچىش</string>
+    <string name="servicebox_event_task">ۋەزىپە</string>
+    <string name="servicebox_event_time_all_day">پۈتۈن كۈن</string>
+    <string name="servicebox_music_closed">مۇزىكا كونتروللىغۇچىڭىز بەزى مۇزىكىلارغا مۇھتاج. كونتروللىغۇچنى كۆرسەتمەك ئۈچۈن تېلېفونىڭىزنى قۇلۇپسىزلاڭ ۋە بەزى مۇزىكىلار چالدۇرۇڭ.</string>
+    <string name="servicebox_music_description_album_cover">پىلاستىنكا مۇقاۋىسى</string>
+    <string name="servicebox_music_description_next">كېيىنكى</string>
+    <string name="servicebox_music_description_pause">تورمۇزلاش</string>
+    <string name="servicebox_music_description_play">قويۇش</string>
+    <string name="servicebox_music_description_prev">ئالدىنقى</string>
+    <string name="servicebox_music_lyrics">تېكىست</string>
+    <string name="servicebox_music_play_first">مۇزىكا قويغۇچ ئىشلەتسىڭىز، ناخشا-مۇزىكىلارنى قۇلۇپ ئېكرانىدا تىزگىنلىيەلەيسىز.</string>
+    <string name="servicebox_music_unknown">نامەلۇم</string>
+    <string name="servicebox_noti_btn">تەڭشەكلەر</string>
+    <string name="servicebox_noti_exp">مۇزىكىڭىزغا تېز ئېرىشىم قىلماق ئۈچۈن قۇلۇپ ئېكرانى ۋە Always On Display دىكى FaceWidget لارنى ئىشلىتىڭ.</string>
+    <string name="servicebox_noti_title">‏FaceWidget لارنى ئىشلىتىش</string>
+    <string name="sim_card_tray_empty_water_protection_dialog_body">سۇدا بۇزۇلۇشتىن ساقلىنىش ئۈچۈن SIM ئېغىزى ھىم ئېتىلدىمۇ جەزملەڭ.</string>
+    <string name="sim_card_tray_water_protection_dialog_body">"‏SIM كارتا بايقالمىدى.تېلېفونلاشقىلى، ئۇچۇرلاشقىلى ياكى كۆچمە ئېقىم ئىشلەتكىلى بولمايدۇ.
+
+سۇدا بۇزۇلۇشتىن ساقلىنىش ئۈچۈن SIM ئېغىزى ھىم ئېتىلدىمۇ جەزملەڭ."</string>
+    <string name="sim_card_tray_water_protection_dialog_title">‏SIM ئېغىزىنى تەكشۈرۈڭ</string>
+    <string name="sim_sd_card_tray_empty_water_protection_dialog_body">سۇدىن قوغداش ئۈچۈن SIM/SD ئېغىزى ھىم ئېتىلسۇن.</string>
+    <string name="sim_sd_card_tray_water_protection_dialog_body">"‏SIM كارتا بايقالمىدى. ئۈسكۈنىڭىزدە تېلېفون قىلىش ۋە كۆچمە تورغا ئۇلاش دېگەندەك مەشغۇلاتلارنى قىلغىلى بولمايدۇ.
+
+سۇدىن قوغداش ئۈچۈن SIM/SD ئېغىزى ھىم ئېتىلسۇن."</string>
+    <string name="sim_sd_card_tray_water_protection_dialog_title">检查 SIM/SD 卡托</string>
+    <string name="snooze_icon_description">ئۇقتۇرۇش كېچىكتۈرۈش</string>
+    <string name="snooze_notification_guide_text">بۇ ئۇقتۇرۇش سىز تۆۋەندە تاللىغان ۋاقىتتىن كېيىن قايتا كۆرۈنىدۇ.</string>
+    <string name="snooze_title">تەخىر بىلدۈرۈمى</string>
+    <string name="status_bar_high_performance_mode_description">يۇقىرى يۈرۈش ھالىتى ئوچۇق.</string>
+    <string name="status_bar_maximum_power_saving_description">ماكسمۇم قۇۋۋەت تېجەش مودى ئوچۇق</string>
+    <string name="status_bar_power_saving_description">توك تېجەش ھالىتى ئوچۇق</string>
+    <string name="status_bar_sec_airplane_mode_text">ئۇچۇش مودى</string>
+    <string name="status_icon_alarm">ئەسكەرتمە</string>
+    <string name="str_smart_pop_up_view_description">"چېكىپ لەيلىمە شەكلىدە يايغىلى بولىدىغان ئۇقتۇرۇش ئەۋەتىدىغان ئەپ تاللاڭ.
+
+بۇ كۆپ كۆزنەك قوللايدىغان ئەپلەردىلا ئىشلەيدۇ."</string>
+    <string name="str_smart_pop_up_view_description_at_setting">ئۇقتۇرۇشنى چەككىلى ۋە لەيلىمە كۆرۈنۈشتە يايغىلى بولىدىغان بەلگە شەكلىدە تاپشۇرۇۋېلىڭ.</string>
+    <string name="str_smart_pop_up_view_name">ئاڭلىق لەيلىمە كۆرۈنۈش</string>
+    <string name="str_smart_pop_up_view_name_at_setting">ئاڭلىق لەيلىمە كۆرۈنۈش</string>
+    <string name="str_suggested_app">تەۋسىيەلىك ئەپ</string>
+    <string name="suggestion_to_minimize">بۇ ئۇقتۇرۇشلارنى كىچىكلىتەمسىز؟</string>
+    <string name="switch_bar_off">ئېتىك</string>
+    <string name="switch_bar_on">ئوچۇق</string>
+    <string name="switched_to_onephone_mode">مود بىر نومۇرلۇق مود غا ئالماشتى.</string>
+    <string name="switched_to_twophone_mode">مود ئىككى نومۇرلۇق مود غا ئالماشتى.</string>
+    <string name="terabyteShort">TB</string>
+    <string name="tether_settings_title_all">كۆچمە قىززىقنۇقتا ۋە ئورتاقلشىش</string>
+    <string name="time_format_hour">%d سائەت</string>
+    <string name="time_format_hour_minute">%1$d سائەت %2$d مىنۇت</string>
+    <string name="time_format_minute">%d مىنۇت</string>
+    <string name="to_use_this_function_download_ps">بۇ ئىقتىدارنى ئىشلىتىش ئۈچۈن %s نى چۈشۈرۈڭ.</string>
+    <string name="to_use_this_function_download_the_following_application">"بۇ ئىقتىدارنى ئىشلىتىش ئۈچۈن تۆۋەندىكى ئەپنى چۈشۈرۈڭ:
+
+%s"</string>
+    <string name="tts_default_lang_title">تىل</string>
+    <string name="tts_default_pitch_title">پەردە</string>
+    <string name="tts_default_rate_title">سۆزلەش تېزلىكى</string>
+    <string name="tts_lang_use_system">سىستېما تىلنىقوللىنىش</string>
+    <string name="tts_settings">تېكىستنى ئاۋازغا ئالماشتۇرۇش</string>
+    <string name="tts_settings_title">تېكىستنى ئاۋازغا ئالماشتۇرۇش</string>
+    <string name="tw_cover_volume_warning_message">ئۇزۇن مۇددەت بەك ئۈنلۈك ئاڭلاش قۇلاققا زىيان يەتكۈزۈشى مۇمكىن. ئۈنلۈكلىتىش ئۈچۈن قاپنى ئېچىڭ.</string>
+    <string name="tw_safe_media_volume_warning">ئۇزۇن ۋاقىت يۇقىرى ئاۋازدا تىڭشاش ئىشىتمە ئىقتىدارىڭىزغا زەرەر بېرىشى مۇمكىن. ئاۋاز مىقدارىنىڭ بىخەتەر سەۋىيەلەردىن ئاشۇرۇلىشىغا رۇخسەت قىلماق ئۈچۈن ماقۇل نى چېكىڭ.</string>
+    <string name="tw_safe_media_volume_warning_kids_mode">بالا ھالىتىدە تىڭشىغۇچ ئۇلانغان چاغدا ئاۋاز تەۋسىيەلەنگەن بىخەتەر (%s) چەكتىن ئېشىپ كەتسە بولمايدۇ.</string>
+    <string name="unable_to_capture_screen_emergencymode">جىددىي ھالەتتە ئېكران تۇتۇلمايدۇ.</string>
+    <string name="unable_to_capture_screen_ultrapowersaving_mode">ئېكران كۆرۈنۈشى تارتقىلى بولمايدۇ.</string>
+    <string name="unable_to_open_ps_in_emergency_mode">جىددىي ھالەتتە %s ئېچىلمايدۇ.</string>
+    <string name="unable_to_open_ps_in_mpsm">‏%s ئەڭ يۇقىرى توك تېجەش ھالىتىدە ئېچىلمىدى.</string>
+    <string name="unable_to_open_ps_in_upsm">يۇقىرى توك تېجەش ھالىتىدە %s ئېچىلمايدۇ.</string>
+    <string name="unable_to_turn_on_being_used_by_camera">قولچىراق ئېچىلمىدى، چۈنكى چىراقنى باشقا ئەپ ئىشلىتىۋاتىدۇ.</string>
+    <string name="unintentional_lcd_on_alert_body">بۇنىڭ قايتا كۆرۈلۈشىدىن ساقلىنىش ئۈچۈن ئارىلىق سەزگۈچ توسۇلۇپ قالدىمۇ تەكشۈرۈڭ.</string>
+    <string name="unintentional_lcd_on_alert_body2">تېلېفوننى داۋاملىق ئىشلىتىش ئۈچۈن %s نى چېكىڭ.</string>
+    <string name="unintentional_lcd_on_alert_body2_tablet">تاختا كومپيۇتېرنى داۋاملىق ئىشلىتىش ئۈچۈن %s نى چېكىڭ.</string>
+    <string name="unintentional_lcd_on_alert_title">ئۇقۇشماي تېگىشتىن ساقلىنىش</string>
+    <string name="unintentional_lcd_on_alert_window_body">تېلېفونىڭىز ئۇقۇشماي تېگىشتىن ساقلىنىدۇ.</string>
+    <string name="unintentional_lcd_on_alert_window_body2">بۇنىڭدىن ساقلىنىش ئۈچۈن تېلېفوننىڭ ئۈستى قىسىمى پاكىزە تۇرسۇن.</string>
+    <string name="unintentional_lcd_on_alert_window_body2_tablet">بۇنىڭدىن ساقلىنىش ئۈچۈن تاختا كومپيۇتېرنىڭ ئۈستى قىسىمى پاكىزە تۇرسۇن.</string>
+    <string name="unintentional_lcd_on_alert_window_body_ear_proximity">تېلېفون يانچۇق ياكى خالتا دېگەندەك قاراڭغۇ جايدا تۇرغاندا ئۇقۇشماي تېگىشتىن ساقلىنىدۇ.</string>
+    <string name="unintentional_lcd_on_alert_window_body_ear_proximity_tablet">تاختا كومپيۇتېر يانچۇق ياكى خالتا دېگەندەك قاراڭغۇ جايدا تۇرغاندا ئۇقۇشماي تېگىشتىن ساقلىنىدۇ.</string>
+    <string name="unintentional_lcd_on_alert_window_body_tablet">تاختا كومپيۇتېرىڭىز ئۇقۇشماي تېگىشتىن ساقلىنىدۇ.</string>
+    <string name="unknown">ئېنىقسىز</string>
+    <string name="user_guest">مىھمان</string>
+    <string name="volte_show_toast_airplane_mode">ئۇچۇش ھالىتى ئوچۇق چاغدا VoLTE نى ئىشلىتەلمەيدۇ. ئۇچۇش ھالىتىنى ئېتىپ قايتا سىناڭ.</string>
+    <string name="volte_show_toast_disable_not_allowed">مۇلازىمەت تەمىنلىگۈچى VoLTE نى ئاكتىپسىزلاشقا رۇخسەت قىلمىدى.</string>
+    <string name="volte_show_toast_enable_message">‏VoLTE مۇلازىمىتىنى ئىشلىتىش ئۈچۈن VoLTE غا مۇشتەرى بولۇڭ. تەپسىلاتىنى مۇلازىمەت يۈرۈتكۈچىدىن سۈرۈشتۈرۈڭ.</string>
+    <string name="volte_show_toast_impossible_during_volte_call">تېلېفونلىشىۋاتقاندا VoLTE ئېتىلمەيدۇ ياكى ئېچىلمايدۇ.</string>
+    <string name="volte_show_toast_not_support_operator">نۆۋەتتىكى يۇمشاق دېتال نەشرى VoLTE نى قوللىمايدۇ. تەپسىلاتىنى مۇلازىمەت يۈرۈتكۈچىدىن سۈرۈشتۈرۈڭ.</string>
+    <string name="volume_alarm">ئەسكەرتمە ئاۋازى</string>
+    <string name="volume_bluetooth_call">蓝牙通话中音量</string>
+    <string name="volume_call">سۆزلىشىش ئاۋازى</string>
+    <string name="volume_cant_change_volume_smart_view">مېدىيا ئاۋازى ئۈنسىزلەنگەندە %s ئۈنى ئۆزگەرمەيدۇ.</string>
+    <string name="volume_dialog_accessibility_dismissed_message">ئۈن تىزگىن يوشۇرۇن</string>
+    <string name="volume_dnd_turned_on">ئاۋارە قىلماسلىق ئوچۇق</string>
+    <string name="volume_icon_content_description_ringtone_to_mute">ئاۋاز ھالىتىنى ئۈنسىز قىلىش</string>
+    <string name="volume_icon_content_description_ringtone_to_sound">ئاۋازلىق ھالەت بېكىتىش</string>
+    <string name="volume_icon_content_description_ringtone_to_vib">تىترەش ھالىتى بېكىتىش</string>
+    <string name="volume_icon_content_description_to_mute">%s ئۈنسىزلەش</string>
+    <string name="volume_icon_content_description_to_unmute">‏%s ئۈنلۈكلەش</string>
+    <string name="volume_icon_description_bluetooth">كۆكچىش تىڭشىغۇچ ئاۋازى</string>
+    <string name="volume_icon_description_incall">سۆزلىشىش ئاۋازى</string>
+    <string name="volume_icon_description_notification">بىلدۈرۈم</string>
+    <string name="volume_icon_description_ringer">قوڭغۇراق ۋە ئۇقتۇرۇش</string>
+    <string name="volume_limiter_button_settings">تەڭشەكلەر</string>
+    <string name="volume_limiter_notice_toast">ئۈنلۈك قىلىش ئۈچۈن تەڭشەككە كىرىپ، مېدىيا ئۈنى چەكلىگۈچنى ئېتىڭ ياكى ئۈن چېكىنى ئۆزگەرتىڭ.</string>
+    <string name="volume_limiter_open_cover_toast">قاپنى ئېچىپ داۋاملاشتۇرۇڭ.</string>
+    <string name="volume_limiter_toast_title">ئۈن چەككە يەتتى</string>
+    <string name="volume_music">مېدىيا ئاۋاز مىقدارى</string>
+    <string name="volume_music_hint_playing_through_bluetooth">通过蓝牙播放</string>
+    <string name="volume_music_hint_silent_ringtone_selected">已选择静音铃声。</string>
+    <string name="volume_mute_all_sounds_on">بارلىق ئاۋازلارنى جىمىتىش ئېچىلدى</string>
+    <string name="volume_notification">ئۇقتۇرۇش ئۈنى</string>
+    <string name="volume_ringtone">铃声音量</string>
+    <string name="volume_stream_dual_audio">قوش ئاۋدىيو</string>
+    <string name="volume_unknown">ئاۋاز مىقدارى</string>
+    <string name="volume_use_your_phone_volume_smart_view">‏%s دىكى ئاۋاز مىقدارىنى كونتروللىماق ئۈچۈن، تېلېفونىڭىزنىڭ ئاۋاز مىقدارى كۇنۇپكىلىرىنى ئىشلىتىڭ.</string>
+    <string name="volumepanel_bixby_voice">‏Bixby ئاۋاز</string>
+    <string name="volumepanel_media">مېدىيا</string>
+    <string name="volumepanel_notification">بىلدۈرۈملەر</string>
+    <string name="volumepanel_ringtone">قوڭغۇراق ئاۋازى</string>
+    <string name="volumepanel_system">سىستېما</string>
+    <string name="warning_alert_check">قايتا كۆرسەتمە.</string>
+    <string name="water_protection_notification_body">نەملىك بايقالدى. توكلىغۇچنى ئاجرىتىپ، توكلىغۇچ ۋە USB ئېغىزى قۇرۇپ بولغۇچە ساقلاڭ.</string>
+    <string name="water_protection_notification_title">توكلىغۇچنى ئاجرىتىش</string>
+    <string name="wifi_adps_summary">‏Wi-Fi قاتنىشى تەرزىلىرىنى ئانالىزلاش ئارقىلىق باتارېيە قوللىنىمىنى ئازايتىڭ.</string>
+    <string name="wifi_adps_title">‏WI-Fi قۇۋۋەت تېجەش ئەندىزە</string>
+    <string name="wifi_auto_reconnect_disabled">ئۆزلۈكىدىن قايتا ئۇلاش ئېتىك</string>
+    <string name="wifi_connected_checking_quality">تور ئۇلىنىشىنىڭ سۈپىتىنى تەكشۈرۈۋاتىدۇ…</string>
+    <string name="wifi_disabled_captive_portal">تىزىملاپ كىرىش كېرەك.</string>
+    <string name="wifi_disabled_no_internet">تور ئىشلىمەيدۇ</string>
+    <string name="wifi_disabled_password_failure">تەستىق خاتالىقى كۆرۈلدى</string>
+    <string name="wifi_disconnected">‏Wi-Fi ئۈزۈلدى.</string>
+    <string name="wifi_failed_to_obtain_IP">‏IP ئادرېسى ئېلىنمىدى.</string>
+    <string name="wifi_internet_may_not_be_available">تور ئىشلىمەسلىكى مۇمكىن</string>
+    <string name="wifi_open_network_summary">بىخەتەر ئەمەس</string>
+    <string name="wifi_reconnecting">تور ياخشىلانغاندا ئۇلىنىشقا تەييار</string>
+    <string name="wifi_risk_ap_warning">بىخەتەر ئەمەس</string>
+    <string name="wifi_safe_mode">‏Wi-Fi بىخەتەر ھالىتى</string>
+    <string name="wifi_safe_mode_summary">‏Wi-Fi مۇقىملىقىنى يۈرۈشىدىن مۇھىم بىلىڭ.</string>
+    <string name="wifi_secured_summary">بىخەتەر. بىخەتەرلىك بايقاش كۇنۇپكىسىنى چېكىپ، بىخەتەرلىك ئۇچۇرىنى كۆرۈڭ.</string>
+    <string name="wifi_security_detection">بىخەتەرلىك بايقاش</string>
+    <string name="wifi_sign_in_to_the_network">تورغا تىزىملاپ كىرىڭ.</string>
+    <string name="wifi_unknown_secured_ap">ئېنىقسىز بىخەتەرلىك تۈرى. بۇ تور نۇقتىسىغا ئۇلىنالمايسىز.</string>
+    <string name="wifi_unknown_security_type">ئېنىقسىز بىخەتەرلىك تۈرى.</string>
+    <string name="wifi_unsecured_summary">بىخەتەر ئەمەس. بىخەتەرلىك بايقاش كۇنۇپكىسىنى چېكىپ، بىخەتەرلىك ئۇچۇرىنى كۆرۈڭ.</string>
+    <string name="yes">تامام</string>
+</resources>

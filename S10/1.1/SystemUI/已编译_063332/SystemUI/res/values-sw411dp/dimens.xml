@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="keyguard_security_height">460.0dip</dimen>
+    <dimen name="kg_iris_preview_height">231.0dip</dimen>
+    <dimen name="kg_message_area_width">214.0dip</dimen>
+    <dimen name="kg_password_eca_margin_top_land">130.0dip</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/sec_vibration_intensity" settings:keywords="@string/sec_vibration_intensity"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.samsung.android.settings.notification.SecVibrationSeekBarPreference android:title="@string/incoming_call" android:key="ring_vibration" settings:SettingsMode="UPSM" settings:controller="com.samsung.android.settings.notification.SecVibrationIntensityIncomingCallController" />
+    <com.samsung.android.settings.notification.SecVibrationSeekBarPreference android:title="@string/notification_volume_title" android:key="notification_vibration" settings:SettingsMode="UPSM" settings:controller="com.samsung.android.settings.notification.SecVibrationIntensityNotificationController" />
+    <com.samsung.android.settings.notification.SecVibrationSeekBarPreference android:title="@string/sec_touch_interaction" android:key="system_vibration" settings:controller="com.samsung.android.settings.notification.SecVibrationIntensityTouchVibrationController" />
+    <com.samsung.android.settings.notification.SecVibrationSeekBarPreference android:title="@string/force_touch_title" android:key="force_touch" settings:controller="com.samsung.android.settings.notification.SecVibrationIntensityHardPressVibrationFeedbackController" />
+</PreferenceScreen>

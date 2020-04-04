@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/sswl_basic_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.sec.android.secsetupwizardlib.view.StatusBarView android:id="@id/sswl_status_bar" android:background="@color/sswl_status_bar_backgroud_color" android:layout_width="fill_parent" android:layout_height="@dimen/sswl_status_bar_height" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/sswl_contents_area" android:background="@color/sswl_contents_area_background_color" android:paddingBottom="@dimen/sswl_contents_area_bottom_padding" android:clipChildren="false" android:layout_width="@dimen/sswl_contents_area_width" android:layout_height="@dimen/sswl_contents_area_height" android:layout_centerInParent="true">
+            <include layout="@layout/sswl_header" />
+            <FrameLayout android:id="@id/sswl_layout_content" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+                <com.sec.android.secsetupwizardlib.view.BottomScrollView android:id="@id/sswl_scroll_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true" />
+            </FrameLayout>
+        </LinearLayout>
+        <include layout="@layout/sswl_bottom_buttons" />
+    </RelativeLayout>
+</LinearLayout>

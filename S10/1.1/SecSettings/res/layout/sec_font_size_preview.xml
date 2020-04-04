@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/fontSizePreviewLayout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@id/textPreviewLayout" android:paddingTop="@dimen/sec_font_preveiw_image_padding_top" android:paddingBottom="@dimen/sec_font_preveiw_image_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/sec_font_preveiw_image_padding_side" android:paddingEnd="@dimen/sec_font_preveiw_image_padding_side">
+            <TextView android:textSize="@dimen/sec_font_preveiw_text_size" android:textColor="?android:textColorPrimary" android:ellipsize="end" android:gravity="center" android:id="@id/textChangingSizePreview" android:background="@null" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/sec_font_preview_description" android:singleLine="true" />
+        </LinearLayout>
+        <View android:background="@color/sec_widget_round_and_bgcolor" android:layout_width="fill_parent" android:layout_height="@dimen/sec_widget_inset_category_height" />
+        <ScrollView android:id="@id/fontPreviewScroll" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:paddingTop="@dimen/sec_font_preveiw_menu_padding_top" android:paddingBottom="@dimen/sec_font_preveiw_menu_padding_bottom" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/sec_widget_body_text_padding_start_end" android:paddingEnd="@dimen/sec_widget_body_text_padding_start_end">
+                <TextView android:textAppearance="@android:style/TextAppearance.Material.Widget.TextView" android:textSize="@dimen/sec_font_size_and_screen_zoom_seekbar_title_text_size" android:textColor="@color/sec_font_size_screen_zoom_seekbar_title_text_color" android:ellipsize="end" android:gravity="start" android:id="@id/fontSize" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sec_font_preview_size_subtitle" android:singleLine="true" />
+                <LinearLayout android:gravity="center_vertical" android:paddingTop="9.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <ImageView android:id="@id/smaller" android:background="?android:selectableItemBackgroundBorderless" android:focusable="true" android:layout_width="32.0dip" android:layout_height="32.0dip" android:src="@drawable/ic_font_size_16dp" android:scaleType="center" android:tint="?android:textColorPrimary" android:contentDescription="@string/font_size_make_smaller_desc" android:tintMode="src_in" />
+                    <com.samsung.android.settings.display.widget.IntervalSeekBar android:id="@id/seekBarForFontSize" android:layout_width="0.0dip" android:layout_height="32.0dip" android:layout_weight="1.0" />
+                    <ImageView android:id="@id/larger" android:background="?android:selectableItemBackgroundBorderless" android:focusable="true" android:layout_width="32.0dip" android:layout_height="32.0dip" android:src="@drawable/ic_font_size_24dp" android:scaleType="center" android:tint="?android:textColorPrimary" android:contentDescription="@string/font_size_make_larger_desc" android:tintMode="src_in" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+        <View android:id="@id/divider" android:layout_width="fill_parent" android:layout_marginLeft="@dimen/sec_widget_section_divider_padding" android:layout_marginRight="@dimen/sec_widget_section_divider_padding" style="@style/list_divider_style" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/data_usage_summary_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.settings.datausage.TemplatePreferenceCategory android:title="@string/data_usage_list_mobile" android:key="mobile_category">
+        <com.android.settings.datausage.CellDataPreference android:title="@string/data_usage_enable_mobile" android:key="data_usage_enable" />
+        <SecSwitchPreferenceScreen android:title="@string/sec_datausage_mdo_title" android:key="mobile_data_only" android:summary="@string/sec_datausage_mdo_summary" android:fragment="com.samsung.android.settings.datausage.MobileDataOnlySettings" />
+        <SecSwitchPreference android:title="@string/data_usage_enable_confirmation" android:key="confirm_at_boot" />
+        <com.samsung.android.settings.datausage.AlertAtWarningPreference android:title="@string/data_usage_alert_at_warning_title" android:key="alert_at_warning" />
+        <com.android.settings.datausage.DataUsagePreference android:title="@string/cellular_data_usage" android:key="cellular_data_usage" />
+        <com.android.settings.datausage.BillingCyclePreference android:title="@string/billing_cycle" android:key="billing_preference" />
+    </com.android.settings.datausage.TemplatePreferenceCategory>
+</PreferenceScreen>

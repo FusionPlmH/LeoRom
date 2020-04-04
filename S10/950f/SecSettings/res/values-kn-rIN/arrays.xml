@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apn_auth_entries">
+        <item>ಯಾವುದೂ ಇಲ್ಲ</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP or CHAP</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>ಅನಿರ್ದಿಷ್ಟವಾಗಿರುವುದು</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>IWLAN</item>
+    </string-array>
+    <string-array name="bearer_entries_dcm_kdi">
+        <item>ಅನಿರ್ದಿಷ್ಟವಾಗಿರುವುದು</item>
+        <item>4G</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>IWLAN</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>ಅತಿ ಚಿಕ್ಕದು</item>
+        <item>ಚಿಕ್ಕದು</item>
+        <item>ಸಾಮಾನ್ಯ</item>
+        <item>ದೊಡ್ಡದು</item>
+        <item>ಅತಿ ದೊಡ್ಡ</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>ಡೀಫಾಲ್ಟ್</item>
+        <item>ಸಾನ್ಸ್ ಸೆರಿಫ್</item>
+        <item>ಸಾನ್ಸ್ ಸೆರಿಫ್ ಕಂಡೆನ್ಸ್ಡ</item>
+        <item>ಸಾನ್ಸ್ ಸೆರಿಫ್ ಮೊನೋಸ್ಪೇಸ್</item>
+        <item>ಸೆರಿಫ್</item>
+        <item>ಸೆರಿಫ್ ಮೊನೋಸ್ಪೇಸ್</item>
+        <item>ಅನೌಪಚಾರಿಕ</item>
+        <item>ಕರ್ಸೈವ್</item>
+        <item>ಸ್ಮಾಲ್ ಕ್ಯಾಪ್ಸ್</item>
+    </string-array>
+    <string-array name="data_usage_billing_cycle_summary">
+        <item>ಪ್ರತಿ ತಿಂಗಳ 1ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 2ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 3ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 4ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 5ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 6ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 7ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 8ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 9ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 10ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 11ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 12ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 13ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 14ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 15ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 16ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 17ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 18ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 19ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 20ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 21ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 22ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 23ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 24ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 25ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 26ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 27ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 28ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 29ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 30ನೇ ದಿನ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳ 31ನೇ ದಿನ</item>
+    </string-array>
+    <string-array name="dex_timeout_entries">
+        <item>15 ಸೆಕೆಂಡುಗಳು</item>
+        <item>30 ಸೆಕೆಂಡುಗಳು</item>
+        <item>1 ನಿಮಿಷ</item>
+        <item>2 ನಿಮಿಷಗಳು</item>
+        <item>5 ನಿಮಿಷಗಳು</item>
+        <item>10 ನಿಮಿಷಗಳು</item>
+        <item>20 ನಿಮಿಷಗಳು</item>
+        <item>30 ನಿಮಿಷಗಳು</item>
+        <item>60 ನಿಮಿಷಗಳು</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 ಸೆಕೆಂಡುಗಳು</item>
+        <item>30 ಸೆಕೆಂಡುಗಳು</item>
+        <item>1 ನಿಮಿಷ</item>
+        <item>2 ನಿಮಿಷಗಳು</item>
+        <item>5 ನಿಮಿಷಗಳು</item>
+        <item>10 ನಿಮಿಷಗಳು</item>
+        <item>30 ನಿಮಿಷಗಳು</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_summaries">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>ಎಲ್ಲಾ ಕೊಡೆಕ್‍ಗಳು</item>
+        <item>ಡಿಫಾಲ್ಟ್ ಕೊಡೆಕ್</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_titles">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>ಎಲ್ಲಾ ಕೊಡೆಕ್‍ಗಳು</item>
+        <item>ಡಿಫಾಲ್ಟ್ ಕೊಡೆಕ್</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Disconnected</item>
+        <item>Initializing…</item>
+        <item>Connecting…</item>
+        <item>Connected</item>
+        <item>Timeout</item>
+        <item>ಅಸಫಲ</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>ಸ್ವಯಂ</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>ತೆರೆಯಿರಿ</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>ಯಾವಾಗಲೂ ಸಮಯ ಮುಗಿದಿಲ್ಲ</item>
+        <item>5 ನಿಮಿಷಗಳು</item>
+        <item>10 ನಿಮಿಷಗಳು</item>
+        <item>20 ನಿಮಿಷಗಳು</item>
+        <item>30 ನಿಮಿಷಗಳು</item>
+        <item>60 ನಿಮಿಷಗಳು</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>Wi-Fi ಹಂಚಿಕೆ ಆನ್ ಮಾಡಿ</item>
+        <item>Wi-Fi ಹಂಚಿಕೆ ಆಫ್ ಮಾಡಿ</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>ಸ್ವಯಂಚಾಲಿತವಾಗಿ</item>
+        <item>ಹಸ್ತಚಾಲಿತ</item>
+        <item>ಯಾವಾಗಲೂ ಕೇಳಿ</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>ಸ್ಥಿರ</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪತ್ತೆಮಾಡಿ</item>
+        <item>ಮೀಟರ್ ಎಂಬಂತೆ ಪರಿಗಣಿಸಿ</item>
+        <item>ಅನ್‌ಮೀಟರ್ ಎಂಬಂತೆ ಪರಿಗಣಿಸಿ</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>ಸಂಪರ್ಕಿಸಲಾಗಿದೆ</item>
+        <item>ಆಮಂತ್ರಿಸಿದೆ.</item>
+        <item>ಸಂಪರ್ಕ ವಿಫಲವಾಗಿದೆ</item>
+        <item>ಸಂಪರ್ಕಿಸಲು ಇಲ್ಲಿ ತಟ್ಟಿ.</item>
+        <item>ರೆಂಜ್‍ನಿಂದ ಹೊರಗಿದೆ.</item>
+        <item>ಇನ್ನೊಂದು ಸಾಧನದೊಂದಿಗೆ ಸಂಪರ್ಕಿತವಾಗಿದೆ</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>ಯಾವುದೂ ಇಲ್ಲ</item>
+        <item>ಹಸ್ತಚಾಲಿತ</item>
+        <item>ಸ್ವಯಂ-ಕಾನ್ಫಿಗರ್</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>ಸ್ಕ್ಯಾನ್ ಮಾಡಲಾಗುತ್ತಿದೆ…</item>
+        <item>ಸಂಪರ್ಕಿಸುತ್ತಿದೆ…</item>
+        <item>ದೃಢೀಕರಿಸುತ್ತಿದೆ…</item>
+        <item>IP ವಿಳಾಸವನ್ನು ಪಡೆಯುತ್ತಿದೆ…</item>
+        <item>ಸಂಪರ್ಕಿಸಲಾಗಿದೆ</item>
+        <item>ಸ್ಥಗಿತಗೊಳಿಸಲಾಗಿದೆ</item>
+        <item>ಸಂಪರ್ಕ ಕಡಿತವಾಗುತ್ತಿದೆ…</item>
+        <item>ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಲಾಗಿದೆ</item>
+        <item>ಅಸಫಲ</item>
+        <item>ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ</item>
+        <item>ನಿಮ್ಮ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕದ ಗುಣಮಟ್ಟವನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </string-array>
+</resources>

@@ -1,0 +1,4 @@
+1.将system.new.dat.br 放入br2sdattool目录下运行 convert_br2dat.bat 生成system.new.dat在out
+2.将system.new.dat/ system.patch.dat / system.transfer.list放入tools/place_dat_transfer_list_file_context_here下 然后运行 Script中文.bat
+3.根据提示下一步即可
+补充  需要安装 python-2.7.13.msi  

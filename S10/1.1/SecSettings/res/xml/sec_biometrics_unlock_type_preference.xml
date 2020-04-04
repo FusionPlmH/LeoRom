@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/biometrics_common_select_unlock_type_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.settings.widget.SecUnclickablePreference android:key="biometrics_lock_setting_description" style="@style/description_text" />
+    <com.samsung.android.settings.widget.SecRadioButtonPreference android:title="@string/biometrics_common_select_unlock_type_option_face" android:key="face_unlock" />
+    <com.samsung.android.settings.widget.SecRadioButtonPreference android:title="@string/biometrics_common_select_unlock_type_option_iris" android:key="iris_unlock" />
+    <com.samsung.android.settings.widget.SecRadioButtonPreference android:title="@string/biometrics_common_select_unlock_type_option_intelligent_scan" android:key="intelligent_scan_unlock" />
+</PreferenceScreen>
