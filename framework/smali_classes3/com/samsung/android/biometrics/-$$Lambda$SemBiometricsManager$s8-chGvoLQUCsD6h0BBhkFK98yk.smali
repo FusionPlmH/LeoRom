@@ -1,0 +1,34 @@
+.class public final synthetic Lcom/samsung/android/biometrics/-$$Lambda$SemBiometricsManager$s8-chGvoLQUCsD6h0BBhkFK98yk;
+.super Ljava/lang/Object;
+.source "lambda"
+
+# interfaces
+.implements Landroid/os/CancellationSignal$OnCancelListener;
+
+
+# instance fields
+.field private final synthetic f$0:Lcom/samsung/android/biometrics/SemBiometricsManager;
+
+
+# direct methods
+.method public synthetic constructor <init>(Lcom/samsung/android/biometrics/SemBiometricsManager;)V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lcom/samsung/android/biometrics/-$$Lambda$SemBiometricsManager$s8-chGvoLQUCsD6h0BBhkFK98yk;->f$0:Lcom/samsung/android/biometrics/SemBiometricsManager;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final onCancel()V
+    .locals 1
+
+    iget-object v0, p0, Lcom/samsung/android/biometrics/-$$Lambda$SemBiometricsManager$s8-chGvoLQUCsD6h0BBhkFK98yk;->f$0:Lcom/samsung/android/biometrics/SemBiometricsManager;
+
+    invoke-static {v0}, Lcom/samsung/android/biometrics/SemBiometricsManager;->lambda$s8-chGvoLQUCsD6h0BBhkFK98yk(Lcom/samsung/android/biometrics/SemBiometricsManager;)V
+
+    return-void
+.end method

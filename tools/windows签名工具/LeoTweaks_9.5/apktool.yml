@@ -1,0 +1,28 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: LeoTweaks_9.5.apk
+compressionType: false
+doNotCompress:
+- assets/0OO00l111l1l
+- dat
+- png
+- webp
+- ogg
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '22'
+  targetSdkVersion: '22'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  tencent_stub: '0'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.4.1_0303
+versionInfo:
+  versionCode: '880803'
+  versionName: 10.126.0.L.Q
