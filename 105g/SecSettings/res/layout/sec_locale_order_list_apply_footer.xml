@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/sec_widget_round_and_bgcolor" android:paddingTop="@dimen/reset_button_top_margin" android:paddingBottom="@dimen/reset_button_bottom_margin" android:focusable="false" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.settings.widget.RoundButtonView android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/apply_button" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/reset_button_min_height" android:text="@string/common_apply" android:paddingStart="@dimen/reset_button_side_padding" android:paddingEnd="@dimen/reset_button_side_padding" style="@style/ColorRoundButtonStyle" />
+</LinearLayout>

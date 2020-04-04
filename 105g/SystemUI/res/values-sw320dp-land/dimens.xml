@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="kg_biometric_unlock_icon_height">22.0dip</dimen>
+    <dimen name="kg_biometric_unlock_icon_width">34.375dip</dimen>
+    <dimen name="kg_carrier_lock_button_area_margin_bottom">52.0dip</dimen>
+    <dimen name="kg_carrier_lock_button_margin_top">10.0dip</dimen>
+    <dimen name="kg_carrier_lock_button_width">128.0dip</dimen>
+    <dimen name="kg_carrier_lock_info_margin_side">40.0dip</dimen>
+    <dimen name="kg_carrier_lock_info_margin_top">89.0dip</dimen>
+    <dimen name="kg_carrier_lock_text_font_size">14.0dip</dimen>
+    <dimen name="kg_fmm_call_button_font_size">16.0dip</dimen>
+    <dimen name="kg_fmm_contact_area_side_margin">34.0dip</dimen>
+    <dimen name="kg_fmm_contact_font_size">12.0dip</dimen>
+    <dimen name="kg_fmm_info_margin_top">25.0dip</dimen>
+    <dimen name="kg_fmm_locked_area_width">249.0dip</dimen>
+    <dimen name="kg_fmm_locked_owner_info_width">249.0dip</dimen>
+    <dimen name="kg_fmm_message_area_margin_side">34.0dip</dimen>
+    <dimen name="kg_fmm_message_font_size">12.0dip</dimen>
+    <dimen name="kg_fmm_message_height">71.0dip</dimen>
+    <dimen name="kg_fmm_message_margin_bottom">6.0dip</dimen>
+    <dimen name="kg_fmm_owner_number_margin_bottom">9.0dip</dimen>
+    <dimen name="kg_fmm_title_font_size">18.0dip</dimen>
+    <dimen name="kg_fmm_title_margin_bottom">7.0dip</dimen>
+    <dimen name="kg_iris_text_preview_height">22.0dip</dimen>
+    <item type="dimen" name="qs_detail_height">@dimen/match_parent</item>
+    <dimen name="qs_edit_tile_vertical_margin">11.5dip</dimen>
+</resources>

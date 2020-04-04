@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="samsung_decor_caption_ripple_color">#33000000</color>
+    <color name="sem_decor_caption_button_color">#ff3d3d3d</color>
+</resources>

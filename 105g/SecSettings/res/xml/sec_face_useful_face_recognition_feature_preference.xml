@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/face_useful_face_recognition_feature_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:title="@string/biometrics_common_option_title_stay_on_lock_screen" android:key="key_facelock_stay_on_lock_screen" android:summary="@string/facelock_stay_on_lock_screen_summary" />
+    <SwitchPreference android:title="@string/face_useful_face_recognition_feature_faster_recognition_title" android:key="key_face_useful_feature_faster_recognition" android:summary="@string/face_useful_face_recognition_feature_faster_recognition_summary" />
+    <SwitchPreference android:title="@string/face_useful_face_recognition_feature_lift_to_wake_title" android:key="key_face_useful_feature_lift_to_wake" android:summary="@string/face_useful_face_recognition_feature_lift_to_wake_summary" />
+    <SwitchPreference android:title="@string/facelock_brighten_screen" android:key="key_facelock_brighten_screen" android:summary="@string/facelock_brighten_screen_summary" />
+</PreferenceScreen>

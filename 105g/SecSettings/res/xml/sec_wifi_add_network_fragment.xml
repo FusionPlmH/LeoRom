@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res-auto">
+    <com.android.settings.applications.LayoutPreference android:visibility="gone" android:layout="@layout/sec_wifi_edittext_with_errortext" android:selectable="false" android:key="ssid" />
+    <com.samsung.android.settings.wifi.SecWifiSpinnerPreference android:entries="@array/wifi_security" android:title="@string/wifi_security" android:key="security_settings" android:entryValues="@array/wifi_security_values" />
+    <android.support.v7.preference.DropDownPreference android:entries="@array/wifi_wapi_psk_type" android:title="@string/wifi_wapi_psk_type" android:key="wapi_pak_settings" android:entryValues="@array/wifi_wapi_psk_type_values" />
+    <android.support.v7.preference.DropDownPreference android:title="@string/wifi_wapi_as_certificate" android:key="wapi_as_cert" />
+    <android.support.v7.preference.DropDownPreference android:title="@string/wifi_wapi_user_certificate" android:key="wapi_user_cert" />
+    <com.samsung.android.settings.wifi.SecWifiSpinnerPreference android:entries="@array/sec_wifi_eap_method" android:title="@string/wifi_eap_method" android:key="eap_method" android:entryValues="@array/sec_wifi_eap_method_values" />
+    <com.android.settings.applications.LayoutPreference android:visibility="gone" android:layout="@layout/sec_wifi_edittext_with_errortext" android:selectable="false" android:key="eap_identity" />
+    <com.android.settings.applications.LayoutPreference android:visibility="gone" android:layout="@layout/sec_wifi_password_edittext" android:selectable="false" android:key="wifi_password" />
+    <android.support.v7.preference.DropDownPreference android:title="@string/wifi_eap_ca_cert" android:key="eap_ca_cert" />
+    <com.samsung.android.settings.wifi.SecWiFiUnclickablePreference android:visibility="gone" android:selectable="false" android:key="wifi_eap_ca_error_text" style="@style/sec_wifi_description_sub_text" />
+    <android.support.v7.preference.DropDownPreference android:title="@string/wifi_eap_user_cert" android:key="eap_user_cert" />
+    <com.samsung.android.settings.display.widget.ButtonPreference android:layout_alignParentBottom="true" android:key="save_button" />
+    <android.support.v7.preference.SwitchPreferenceCompat android:title="@string/wifi_auto_reconnect" android:key="wifi_autoreconnect_switch" />
+    <android.support.v7.preference.Preference android:title="@string/wifi_menu_advanced" android:key="advanced" />
+    <com.samsung.android.settings.display.widget.ButtonPreference android:layout_alignParentBottom="true" android:selectable="false" android:key="button" />
+</PreferenceScreen>

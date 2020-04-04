@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/content_parent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.design.widget.CoordinatorLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <android.support.design.widget.AppBarLayout android:id="@id/app_bar" android:layout_width="fill_parent" android:layout_height="fill_parent" app:sesl_layout_heightPercent="0.0" style="@style/Widget.Design.AppBarLayout">
+            <android.support.design.widget.CollapsingToolbarLayout android:id="@id/collapsing_app_bar" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_scrollFlags="exitUntilCollapsed|scroll" style="@style/Theme.Settings.CollapsingToolbar">
+                <android.support.v7.widget.Toolbar android:layout_gravity="bottom" android:id="@id/action_bar" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" app:layout_collapseMode="pin" />
+            </android.support.design.widget.CollapsingToolbarLayout>
+        </android.support.design.widget.AppBarLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/content_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_behavior="@string/sesl_appbar_scrolling_view_behavior">
+            <LinearLayout android:orientation="horizontal" android:id="@id/content_start_pane" android:background="@color/sec_widget_round_and_bgcolor" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.0" />
+            <FrameLayout android:id="@id/content_frame" android:layout_width="1.0px" android:layout_height="fill_parent" android:layout_weight="1.0" />
+            <LinearLayout android:orientation="horizontal" android:id="@id/content_end_pane" android:background="@color/sec_widget_round_and_bgcolor" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.0" />
+        </LinearLayout>
+    </android.support.design.widget.CoordinatorLayout>
+</LinearLayout>

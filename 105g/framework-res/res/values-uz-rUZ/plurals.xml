@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d ta avtomatik to‘ldirish tavsiyasi</item>
+        <item quantity="one">Bitta avtomatik to‘ldirish tavsiyasi</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">Ekranda bir vaqtda %d tadan ortiq ilovani ko‘rsatib bo‘lmaydi. Eng eski ilova minimallashtirildi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d ta ilova telefoningiz Wi-Fi’ga ulanganda ham mobil internetdan foydalanmoqda.</item>
+        <item quantity="one">Telefoningiz Wi-Fi tarmoqqa ulanganligiga qaramasdan %d ta ilova mobil internetdan foydalanmoqda.</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">Bu ilovalarni boshqarish uchun bu yerga teging.</item>
+        <item quantity="zero">Bu ilovalarni boshqarish uchun bu yerga teging.</item>
+        <item quantity="one">Bu ilovani boshqarish uchun bu yerga teging.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s Wi-Fi Direct orqali siz bilan nimanidir ulashmoqchi. %2$d soniya ichida qabul qilishingiz mumkin.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s Wi-Fi Direct orqali siz bilan nimanidir ulashmoqchi. %2$d soniya ichida qabul qilishingiz mumkin.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

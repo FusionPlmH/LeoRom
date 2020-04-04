@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d ಸ್ವಯಂಭರ್ತಿ ಸಲಹೆಗಳು</item>
+        <item quantity="one">ಒಂದು ಸ್ವಯಂಭರ್ತಿ ಸಲಹೆ</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">ಒಂದೇ ಸಲಕ್ಕೆ ಸ್ಕ್ರೀನ್ ಮೇಲೆ %dಕ್ಕೂ ಹೆಚ್ಚಿನ ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ತೋರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಹಳೆಯ ಅನ್ವಯಿಸುವಿಕೆ ಕನಿಷ್ಠಗೊಳಿಸಲಾಗಿದೆ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">ನಿಮ್ಮ ಫೋನ್ Wi-Fiಗೆ ಸಂಪರ್ಕಗೊಂಡಿರುವಾಗಲೂ ಸಹ %d ಅನ್ವಯಿಸುವಿಕೆಗಳು ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ಬಳಸುತ್ತಿವೆ.</item>
+        <item quantity="one">ನಿಮ್ಮ ಫೋನ್ Wi-Fiಗೆ ಸಂಪರ್ಕಗೊಂಡಿರುವಾಗಲೂ %d ಅನ್ವಯಿಸುವಿಕೆಯು ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ಬಳಸುತ್ತಿದೆ.</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">ಈ ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ನಿರ್ವಹಿಸಲು ಇಲ್ಲಿ ತಟ್ಟಿ.</item>
+        <item quantity="zero">ಈ ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ನಿರ್ವಹಿಸಲು ಇಲ್ಲಿ ತಟ್ಟಿ.</item>
+        <item quantity="one">ಈ ಅನ್ವಯಿಸುವಿಕೆಯನ್ನು ನಿರ್ವಹಿಸಲು ಇಲ್ಲಿ ತಟ್ಟಿ.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s ಅವರು ನಿಮ್ಮೊಂದಿಗೆ Wi-Fi Direct ಬಳಸಿಕೊಂಡು ಏನನ್ನೊ ಹಂಚಿಕೊಳ್ಳಲು ಬಯಸಿದ್ದಾರೆ. ನೀವು ಸಮ್ಮತಿ ನೀಡಲು %2$d ಸೆಕೆಂಡುಗಳನ್ನು ಹೊಂದಿದ್ದೀರಿ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s ಅವರು ನಿಮ್ಮೊಂದಿಗೆ Wi-Fi Direct ಬಳಸಿಕೊಂಡು ಏನನ್ನೊ ಹಂಚಿಕೊಳ್ಳಲು ಬಯಸಿದ್ದಾರೆ. ನೀವು ಸಮ್ಮತಿ ನೀಡಲು %2$d ಸೆಕೆಂಡನ್ನು ಹೊಂದಿದ್ದೀರಿ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

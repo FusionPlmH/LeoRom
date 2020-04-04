@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/all_volume_title"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res-auto">
+    <com.android.settings.notification.VolumeSeekBarPreference android:icon="@drawable/sec_ic_volume_settings" android:title="@string/incoming_call_volume_title" android:key="ring_volume" settings:SettingsMode="UPSM" settings:controller="com.android.settings.notification.RingVolumePreferenceController" />
+    <com.android.settings.notification.VolumeSeekBarPreference android:icon="@drawable/sec_ic_volume_settings" android:title="@string/sec_volume_settings_media" android:key="media_volume" settings:SettingsMode="UPSM" settings:controller="com.android.settings.notification.MediaVolumePreferenceController" />
+    <com.android.settings.notification.VolumeSeekBarPreference android:icon="@drawable/sec_ic_volume_settings" android:title="@string/notifications_title" android:key="notification_volume" settings:SettingsMode="UPSM" settings:controller="com.android.settings.notification.NotificationVolumePreferenceController" />
+    <com.android.settings.notification.VolumeSeekBarPreference android:icon="@drawable/sec_ic_volume_settings" android:title="@string/sec_volume_settings_system" android:key="system_volume" settings:SettingsMode="UPSM" settings:controller="com.samsung.android.settings.notification.SecSystemVolumePreferenceController" />
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference android:key="volume_setting_inset_category" />
+    <com.android.settings.notification.VolumeSeekBarPreference android:icon="@drawable/sec_ic_volume_settings" android:title="@string/sec_bixby_volume_option_title" android:key="bixby_volume" settings:controller="com.samsung.android.settings.notification.SecBixbyVolumePreferenceController" />
+    <com.android.settings.notification.VolumeSeekBarPreference android:icon="@drawable/sec_ic_volume_settings" android:title="@string/sec_waiting_tone_volume_title" android:key="waiting_tone_volume" settings:SettingsMode="UPSM" settings:controller="com.samsung.android.settings.notification.SecDTMFVolumePreferenceController" />
+    <PreferenceScreen android:key="waiting_tone_volume_explanation" android:summary="@string/sec_waiting_tone_volume_summary" settings:SettingsMode="UPSM" />
+    <com.samsung.android.settings.widget.SecUnclickablePreference android:layout="@layout/sec_counter_widget_preference" android:title="@string/sec_dnd_enabled" android:selectable="false" android:key="dnd_enabled" settings:controller="com.samsung.android.settings.notification.SecDNDStatusPreferenceController" />
+</PreferenceScreen>

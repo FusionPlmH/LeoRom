@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apn_auth_entries">
+        <item>မရွိ</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP or CHAP</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>၀%</item>
+        <item>၅၀ %</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>တိတိက်က်ေဖၚျပမထားေသာ</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>IWLAN</item>
+    </string-array>
+    <string-array name="bearer_entries_dcm_kdi">
+        <item>တိတိက်က်ေဖၚျပမထားေသာ</item>
+        <item>4G</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>IWLAN</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>အလြန္ေသး</item>
+        <item>အေသး</item>
+        <item>ပံုမွန္</item>
+        <item>အႀကီး</item>
+        <item>အလြန္ၾကီး</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>ႀကိဳတင္စီစဥ္ထားမႈ</item>
+        <item>အစြန္းထြက္ေသာ အကၡရာပုံစံမ်ားကို စကင္</item>
+        <item>ဆန္စ္ ဆာရစ္ဖ္ အေသးစား</item>
+        <item>Sans serif monospace</item>
+        <item>ဆာရစ္ဖ္</item>
+        <item>Serif monospace</item>
+        <item>Casual</item>
+        <item>ဆက္လက္ေရး</item>
+        <item>အေပၚထပ္ဆင့္ စာလုံးအေသး</item>
+    </string-array>
+    <string-array name="data_usage_billing_cycle_summary">
+        <item>လအသီးသီး၏ ၁ ရက္ေန႔</item>
+        <item>လအသီးသီး၏ ၂ ရက္ေန႔</item>
+        <item>လအသီးသီး၏ ၃ ရက္ေန႔</item>
+        <item>လအသီးသီး၏ ၄ ရက္ေန႔</item>
+        <item>လအသီးသီး၏ ၅ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၆ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၇ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၈ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၉ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၁၀ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၁၁ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၁၂ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၁၃ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၁၄ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၁၅ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၁၆ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၁၇ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၁၈ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၁၉ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၂၀ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၂၁ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၂၂ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၂၃ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၂၄ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၂၅ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၂၆ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၂၇ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၂၈ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၂၉ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၃၀ ရက္ေျမာက္ေန႔</item>
+        <item>လအသီးသီး၏ ၃၁ ရက္ေျမာက္ေန႔</item>
+    </string-array>
+    <string-array name="dex_timeout_entries">
+        <item>၁၅ စကၠန္႔</item>
+        <item>၃၀ စကၠန္႔</item>
+        <item>၁ မိနစ္</item>
+        <item>၂ မိနစ္</item>
+        <item>၅ မိနစ္</item>
+        <item>၁၀ မိနစ္</item>
+        <item>၂၀ မိနစ္</item>
+        <item>၃၀ မိနစ္</item>
+        <item>မိနစ္ 60</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>ခ်က္ခ်င္း</item>
+        <item>၅ စကၠန္႔</item>
+        <item>၁၅ စကၠန္႔</item>
+        <item>၃၀ စကၠန္႔</item>
+        <item>၁ မိနစ္</item>
+        <item>၂ မိနစ္</item>
+        <item>၅ မိနစ္</item>
+        <item>၁၀ မိနစ္</item>
+        <item>၃၀ မိနစ္</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>၁၅ စကၠန္႔</item>
+        <item>၃၀ စကၠန္႔</item>
+        <item>၁ မိနစ္</item>
+        <item>၂ မိနစ္</item>
+        <item>၅ မိနစ္</item>
+        <item>၁၀ မိနစ္</item>
+        <item>၃၀ မိနစ္</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_summaries">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>ကုဒ္အားလံုး</item>
+        <item>မူရင္းကုဒ္</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_titles">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>ကုဒ္အားလံုး</item>
+        <item>မူရင္းကုဒ္</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Disconnected</item>
+        <item>Initializing…</item>
+        <item>Connecting…</item>
+        <item>Connected</item>
+        <item>Timeout</item>
+        <item>မေအာင္ျမင္ပါ</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>ေအာ္တုိ</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>ဖြင့္ထားေသာ</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>မည္သည့္အခါမွ မပိတ္ပါ</item>
+        <item>၅ မိနစ္</item>
+        <item>၁၀ မိနစ္</item>
+        <item>၂၀ မိနစ္</item>
+        <item>၃၀ မိနစ္</item>
+        <item>၆၀ မိနစ္</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>Wi-Fi မွ်ေဝနည္း ဖြင့္ရန္</item>
+        <item>Wi-Fi မွ်ေဝနည္း ပိတ္ရန္</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>အလုိအေလ်ာက္</item>
+        <item>လမ္းၫႊန္</item>
+        <item>အျမဲ ေမးပါ</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Static</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>အလိုအေလ်ာက္ ရွာေဖြေထာက္လွမ္းပါ</item>
+        <item>တိုင္းတာထားသည္ဟု မွတ္ယူပါ</item>
+        <item>တိုင္းတာမထားဟု မွတ္ယူပါ</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>ခ်ိတ္ဆက္ထားေသာ</item>
+        <item>ဖိတ္ေခၚျပီးၿပီ</item>
+        <item>ဆက္သြယ္မႈ မေအာင္ျမင္ပါ</item>
+        <item>ခ်ိတ္ဆက္ရန္ ဤေနရာ ႏွိပ္ပါ။</item>
+        <item>မ်ဳိးကြဲ</item>
+        <item>အျခား ကိရိယာႏွင့္ ခ်ိတ္ဆက္ထားသည္</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>မရွိ</item>
+        <item>လမ္းၫႊန္</item>
+        <item>အလိုအေလ်ာက္ စီစဥ္ဖြဲ႕စည္းျခင္း</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>ရွာေဖြေနပါသည္…</item>
+        <item>ဆက္သြယ္ေနပါသည္……</item>
+        <item>စစ္မွန္ေၾကာင္းအေထာက္အထားစစ္ေဆးေနျခင္း..</item>
+        <item>IP လိပ္စာ ရယူေနပါသည္…</item>
+        <item>ခ်ိတ္ဆက္ထားေသာ</item>
+        <item>ဆုိင္းငံ့ထားၿပီး</item>
+        <item>ဆက္သြယ္ထားမႈကုိ ျဖတ္ေတာက္ေနပါသည္..</item>
+        <item>ဆက္သြယ္ထားမႈကို ျဖတ္ေတာက္ၿပီးပါၿပီ</item>
+        <item>မေအာင္ျမင္ပါ</item>
+        <item>ပိတ္ဆီးထားပါသည္</item>
+        <item>သင့္ အင္တာနက္ ခ်ိတ္ဆက္မႈ အရည္အေသြး စစ္ေဆးေနသည္…</item>
+    </string-array>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.settings.widget.SecInsetCategoryPreference settings:height="1.0px" settings:roundStroke="none" />
+    <com.android.settings.applications.LayoutPreference android:layout="@layout/sec_app_info_submenu_header" android:selectable="false" android:key="header_view" />
+    <com.android.settings.widget.ActionButtonPreference android:selectable="false" android:key="action_buttons" />
+    <SecPreferenceCategory android:title="@string/battery_detail_manage_title" settings:roundStroke="top_left|top_right">
+        <SwitchPreference android:title="@string/background_activity_title" android:selectable="true" android:key="background_activity" />
+        <Preference android:title="@string/high_power_apps" android:selectable="true" android:key="battery_optimization" android:summary="@string/high_power_off" />
+    </SecPreferenceCategory>
+    <SecPreferenceCategory android:title="@string/battery_detail_info_title">
+        <Preference android:title="@string/battery_detail_foreground" android:selectable="false" android:key="app_usage_foreground" />
+        <com.samsung.android.settings.widget.SecDividerPreference android:selectable="false" />
+        <Preference android:title="@string/battery_detail_background" android:selectable="false" android:key="app_usage_background" />
+    </SecPreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/sem_decor_caption_icon_size" android:width="@dimen/sem_decor_caption_icon_size" android:viewportWidth="84.0" android:viewportHeight="84.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/sem_decor_button_color_secondary" android:pathData="M52.146,57.566H32.332c-3.242,0-5.879-2.638-5.879-5.88V31.834h6.357v19.374h19.336V57.566z" />
+    <path android:fillColor="@color/sem_decor_button_color" android:pathData="M39.095,75.995H26.437v-6.357h12.658V75.995z M21.543,75.995h-8.579c-2.746,0-4.979-2.233-4.979-4.979v-8.58h6.357v7.201 h7.2V75.995z M14.343,39.991H7.985v-8.579c0-2.746,2.233-4.979,4.979-4.979h8.579v6.358h-7.2V39.991z M14.343,56.884H7.985V44.226 h6.357V56.884z M70.136,57.566l-18.946-0.024V44.885h6.358v6.323h12.109V14.362H32.81v12.071h6.286v6.358H26.438l0.015-18.908 c0-3.241,2.637-5.878,5.879-5.878h37.804c3.241,0,5.879,2.637,5.879,5.878v37.803C76.015,54.929,73.377,57.566,70.136,57.566z M52.569,75.995h-8.58v-6.357h7.2v-7.201h6.358v8.58C57.548,73.762,55.314,75.995,52.569,75.995z" />
+    <path android:fillColor="@color/sem_decor_button_color" android:pathData="M57.548,39.991h-6.358v-7.2h-7.2v-6.358h8.58c2.745,0,4.979,2.233,4.979,4.979V39.991z" />
+</vector>

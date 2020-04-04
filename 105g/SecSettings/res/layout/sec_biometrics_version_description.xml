@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/tips_view" android:background="@color/sec_widget_round_and_bgcolor" android:paddingTop="@dimen/sec_tips_layout_top_bottom_margin" android:paddingBottom="@dimen/sec_tips_layout_top_bottom_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/sec_tips_layout_side_margin" android:paddingEnd="@dimen/sec_tips_layout_side_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/sec_tips_title_text_size" android:textColor="@color/sec_tips_title_text_color" android:id="@id/tips_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/sec_tips_title_text_bottom_margin" android:text="@string/biometrics_version" android:fontFamily="sec-roboto-light" />
+        <TextView android:textSize="@dimen/sec_tips_description_text_size" android:textColor="@color/sec_tips_description_text_color" android:id="@id/tips_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="sec-roboto-light" />
+    </LinearLayout>
+</LinearLayout>

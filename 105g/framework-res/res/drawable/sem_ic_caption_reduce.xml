@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:tint="@color/sem_decor_button_color" android:height="@dimen/sem_decor_caption_icon_size" android:width="@dimen/sem_decor_caption_icon_size" android:viewportWidth="@dimen/sem_decor_caption_icon_viewport_size" android:viewportHeight="@dimen/sem_decor_caption_icon_viewport_size"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/white" android:pathData="M29.412,13H14.588C13.71,13,13,13.71,13,14.588v14.824C13,30.289,13.71,31,14.588,31h14.824C30.288,31,31,30.289,31,29.412  V14.588C31,13.71,30.288,13,29.412,13 M21.813,27.613h-1.853v-2.303l-3.64,3.791l-1.341-1.279l3.631-3.781h-2.278v-1.853h5.48  V27.613z M27.669,19.959v1.854h-5.481v-5.425h1.854v2.302l3.639-3.791l1.342,1.279l-3.631,3.781H27.669z" />
+</vector>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/biometrics_option_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SecPreferenceScreen android:title="@string/preferred_biometric_type_title" android:key="preferred_biometric_type" android:order="100" />
+    <SecSwitchPreference android:title="@string/screen_transition_effect_title" android:key="screen_transition_effect" android:summary="@string/screen_transition_effect_summary" android:order="200" />
+</PreferenceScreen>

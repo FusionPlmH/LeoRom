@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="kg_attempt_left">
+        <item quantity="other">Beste %d saiakera geratzen dira</item>
+        <item quantity="one">%d saiakera geratzen zaizu</item>
+    </plurals>
+    <plurals name="kg_attempt_remaining">
+        <item quantity="other">(%d saio geratzen dira)</item>
+        <item quantity="one">(1 saiakera geratzen da)</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_hours_left_phone">
+        <item quantity="other">Telefonoa desblokeatzeko %1$d saiakera egin dira. Saiatu berriz %2$d ordu barru.</item>
+        <item quantity="one">Telefonoa desblokeatzeko %d saiakera egin dira. Saiatu berriz 1 ordu barru.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_mins_left_phone">
+        <item quantity="other">Telefonoa desblokeatzeko %1$d saiakera egin dira. Saiatu berriz %2$d minutu barru.</item>
+        <item quantity="one">Telefonoa desblokeatzeko %d saiakera egin dira. Saiatu berriz 1 minutu barru.</item>
+    </plurals>
+    <plurals name="kg_knox_guard_incorrect_pin_remaining_seconds_left_phone">
+        <item quantity="other">Telefonoa desblokeatzeko %1$d saiakera egin dira. Saiatu berriz %2$d segundo barru.</item>
+        <item quantity="one">Telefonoa desblokeatzeko %d saiakera egin dira. Saiatu berriz 1 segundo barru.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_biometric">
+        <item quantity="other">Probatu datu biometrikoak berriz %d segundo barru</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Probatu datu biometrikoak berriz %d segundo barru</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_fingerprint">
+        <item quantity="other">Probatu hatz aztarnak berriz %d segundo barru</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Probatu hatz aztarnak berriz %d segundo barru</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_min">
+        <item quantity="other">Saiatu berriz %d minutu barru</item>
+        <item quantity="one">Saiatu berriz %d minutu barru</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown_sec">
+        <item quantity="other">Saiatu berriz %d segundo barru</item>
+        <item quantity="one">Saiatu berriz %d segundo barru</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_biometrics">
+        <item quantity="other">Datu biometrikoak egiaztatzeko %1$d saiakera oker egin dira. Saiatu berriz %2$d segundo barru.</item>
+        <item quantity="one">Datu biometrikoak egiaztatzeko %1$d saiakera oker egin dira. Saiatu berriz %2$d segundo barru.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_countdown_by_fingerprint">
+        <item quantity="other">Hatz aztarnak egiaztatzeko %1$d saiakera oker egin dira. Saiatu berriz %2$d segundo barru.</item>
+        <item quantity="one">Hatz aztarnak egiaztatzeko %1$d saiakera oker egin dira. Saiatu berriz %2$d segundo barru.</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d ordu</item>
+        <item quantity="one">%d ordu</item>
+        <item quantity="two">%d ordu</item>
+        <item quantity="few">%d ordu</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minutu</item>
+        <item quantity="one">%d minutu</item>
+        <item quantity="few">%d minutu</item>
+    </plurals>
+</resources>

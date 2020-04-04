@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/tap_layout" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/tap_standby" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/circle_standby" />
+    <ImageView android:layout_gravity="center" android:id="@id/tap_progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/circle_hold_tab" />
+    <ImageView android:layout_gravity="center" android:id="@id/tap_only" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/circle_tab" />
+    <ImageView android:layout_gravity="center" android:id="@id/tap_ignore" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/circle_ignore" />
+</FrameLayout>

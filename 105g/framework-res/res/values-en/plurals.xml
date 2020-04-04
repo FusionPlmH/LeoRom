@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d autofill suggestions</item>
+        <item quantity="one">One autofill suggestion</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">"Can't show more than %d apps on screen at the same time. Oldest app minimised."</item>
+        <item quantity="two">"Can't show more than %d apps on screen at the same time. Oldest app minimised."</item>
+        <item quantity="few">"Can't show more than %d apps on screen at the same time. Oldest app minimised."</item>
+        <item quantity="many">"Can't show more than %d apps on screen at the same time. Oldest app minimised."</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d apps are using mobile data even when your phone is connected to &lt;cst>Wi-Fi&lt;/cst>.</item>
+        <item quantity="one">%d app is using mobile data even when your phone is connected to &lt;cst>Wi-Fi&lt;/cst>.</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">Tap here to manage these apps.</item>
+        <item quantity="zero">Tap here to manage these apps.</item>
+        <item quantity="one">Tap here to manage this app.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s wants to share something with you using &lt;cst>Wi-Fi&lt;/cst> Direct. You have %2$d seconds to accept.</item>
+        <item quantity="zero">%1$s wants to share something with you using &lt;cst>Wi-Fi&lt;/cst> Direct. You have %2$d seconds to accept.</item>
+        <item quantity="one">%1$s wants to share something with you using &lt;cst>Wi-Fi&lt;/cst> Direct. You have %2$d second to accept.</item>
+        <item quantity="two">%1$s wants to share something with you using &lt;cst>Wi-Fi&lt;/cst> Direct. You have %2$d seconds to accept.</item>
+        <item quantity="few">%1$s wants to share something with you using &lt;cst>Wi-Fi&lt;/cst> Direct. You have %2$d seconds to accept.</item>
+        <item quantity="many">%1$s wants to share something with you using &lt;cst>Wi-Fi&lt;/cst> Direct. You have %2$d seconds to accept.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/biometrics_disclaimer_total" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:id="@id/biometrics_disclaimer_total_contents" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/continueButtonContainer" android:layout_alignParentTop="true">
+            <ScrollView android:id="@id/biometrics_disclaimer_body" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/biometrics_disclaimer_padding" android:paddingEnd="@dimen/biometrics_disclaimer_padding">
+                <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <RelativeLayout android:gravity="center" android:id="@id/biometrics_disclaimer_title" android:layout_width="wrap_content" android:layout_height="@dimen/biometrics_disclaimer_title_height_land">
+                        <TextView android:gravity="center_horizontal" android:id="@id/biometrics_disclaimer_title_text" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SecBiometricsGuideCommonTitleStyle" />
+                    </RelativeLayout>
+                    <TextView android:gravity="start" android:id="@id/biometrics_disclaimer_main_guide_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/biometrics_disclaimer_title" style="@style/SecBiometricsGuideCommonDescTextStyle" />
+                    <TextView android:textColor="@color/biometrics_guide_common_lock_guide_text_color" android:gravity="start" android:id="@id/biometrics_disclaimer_lock_guide_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/biometrics_disclaimer_lock_guide_margin_top" android:layout_below="@id/biometrics_disclaimer_main_guide_text" style="@style/SecBiometricsGuideCommonDescTextStyle" />
+                    <TextView android:textColor="@color/biometrics_guide_common_lock_guide_text_color" android:gravity="start" android:id="@id/biometrics_disclaimer_fingerprint_tip_text" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/biometrics_disclaimer_fingerprint_tip_margin_top" android:layout_below="@id/biometrics_disclaimer_lock_guide_text" style="@style/SecBiometricsGuideCommonDescTextStyle" />
+                    <RelativeLayout android:id="@id/biometrics_disclaimer_more_desc_total" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/biometrics_disclaimer_fingerprint_tip_text">
+                        <include layout="@layout/sec_biometrics_disclaimer_iris_description" />
+                        <include layout="@layout/sec_biometrics_disclaimer_face_description" />
+                    </RelativeLayout>
+                </RelativeLayout>
+            </ScrollView>
+        </RelativeLayout>
+        <include android:id="@id/continueButtonContainer" layout="@layout/sec_biometrics_common_raised_button" />
+    </RelativeLayout>
+</RelativeLayout>

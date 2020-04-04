@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/sec_bluetooth_control_history_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:persistent="false" android:layout="@layout/sec_preference_bt_visibility" android:title="@string/sec_bluetooth_control_history_description" android:selectable="false" android:key="description" />
+    <Preference android:persistent="false" android:layout="@layout/sec_preference_bluetooth_control_history_no_item" android:title="@string/sec_bluetooth_control_history_not_found" android:selectable="false" android:key="noitem" />
+    <SecPreferenceCategory android:key="applications_list" android:order="100" />
+</PreferenceScreen>

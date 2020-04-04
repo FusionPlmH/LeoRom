@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d suxestións de encher automaticamente</item>
+        <item quantity="one">Unha suxestión de encher automaticamente</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">Non se poden mostrar máis de %d aplicacións na pantalla ao mesmo tempo. A aplicación máis antiga minimizouse.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d aplicacións están usando datos móbiles aínda que tes o teléfono conectado á Wi-Fi.</item>
+        <item quantity="one">%d aplicación está usando datos móbiles aínda que tes o teléfono conectado á Wi-Fi.</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">Pulsa aquí para xestionar estas aplicacións.</item>
+        <item quantity="zero">Pulsa aquí para xestionar estas aplicacións.</item>
+        <item quantity="one">Pulsa aquí para xestionar esta aplicación.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s quere compartir algo contigo mediante Wi-Fi Direct. Tes %2$d segundos para aceptar.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s quere compartir algo contigo mediante Wi-Fi Direct. Tes %2$d segundo para aceptar.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

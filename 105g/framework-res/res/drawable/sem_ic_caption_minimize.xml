@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:tint="@color/sem_decor_button_color" android:height="@dimen/sem_decor_caption_icon_size" android:width="@dimen/sem_decor_caption_icon_size" android:viewportWidth="@dimen/sem_decor_caption_icon_viewport_size" android:viewportHeight="@dimen/sem_decor_caption_icon_viewport_size"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/white" android:pathData="@string/sem_decor_caption_button_minimize" />
+</vector>

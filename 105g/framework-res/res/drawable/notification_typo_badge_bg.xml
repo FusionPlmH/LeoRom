@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="@dimen/notification_typo_badge_size" android:width="@dimen/notification_typo_badge_size" />
+    <corners android:radius="@dimen/notification_typo_badge_size" />
+    <solid android:color="#ff000000" />
+</shape>

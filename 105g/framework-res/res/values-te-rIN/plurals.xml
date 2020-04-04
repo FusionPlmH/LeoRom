@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d స్వీయ పూరింపు సూచనలు</item>
+        <item quantity="one">ఒక స్వీయ పూరింపు సూచన</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">స్క్రీన్‌లో ఒకేసారి %d కంటే ఎక్కువ అప్లికేషన్‌లను చూపలేరు. అత్యంత పాత అప్లికేషన్ కనిష్టీకరించబడింది.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">Wi-Fiకు మీ ఫోన్ కనెక్ట్ చేయబడినప్పటికీ, %d అప్లికేషన్‌లు మొబైల్ డేటాని ఉపయోగిస్తున్నాయి.</item>
+        <item quantity="one">Wi-Fiకు మీ ఫోన్ కనెక్ట్ చేయబడినప్పటికీ, %d అప్లికేషన్ మొబైల్ డేటాని ఉపయోగిస్తోంది.</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">ఈ అప్లికేషన్‌లను నిర్వహించడం కోసం ఇక్కడ నొక్కండి.</item>
+        <item quantity="zero">ఈ అప్లికేషన్‌లను నిర్వహించడం కోసం ఇక్కడ నొక్కండి.</item>
+        <item quantity="one">ఈ అప్లికేషన్‌ని నిర్వహించడం కోసం ఇక్కడ నొక్కండి.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s Wi-Fi Directని ఉపయోగించి మీతో కొంత భాగస్వామ్యం చేయాలనుకుంటున్నారు. ఆమోదించడానికి మీరు %2$d సెకన్లను కలిగి ఉన్నారు.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s Wi-Fi Directని ఉపయోగించి మీతో కొంత భాగస్వామ్యం చేయాలనుకుంటున్నారు. ఆమోదించడానికి మీరు %2$d సెకనుని కలిగి ఉన్నారు.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

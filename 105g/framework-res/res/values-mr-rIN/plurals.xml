@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d स्वयंभरण सूचना</item>
+        <item quantity="one">एक स्वयंभरण सूचना</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">एकाच वेळी स्क्रीन वर %d पेक्षा अधिक अनुप्रयोग दर्शवू शकत नाहीत. सर्वात जुना अनुप्रयोग कमी केला.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">आपला फोन Wi-Fi शी कनेक्ट केलेला असताना देखील %d अनुप्रयोग मोबाइल डेटा वापरत आहेत.</item>
+        <item quantity="one">आपला फोन Wi-Fi शी कनेक्ट केलेला असताना देखील %d अनुप्रयोग मोबाइल डेटा वापरत आहे.</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">हे अनुप्रयोग व्यवस्थापित करण्या साठी येथे टॅप करा.</item>
+        <item quantity="zero">हे अनुप्रयोग व्यवस्थापित करण्या साठी येथे टॅप करा.</item>
+        <item quantity="one">हा अनुप्रयोग व्यवस्थापित करण्या साठी येथे टॅप करा.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s Wi-Fi Direct वापरून आपल्या सह काहीतरी सामायिक करू इच्छित आहे. आपल्या कडे स्वीकारण्या साठी %2$d सेकंद आहेत.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s Wi-Fi Direct वापरून आपल्या सह काहीतरी सामायिक करू इच्छित आहे. आपल्या कडे स्वीकारण्या साठी %2$d सेकंद आहे.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

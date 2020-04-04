@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_mobile_tcp_buffers">
+        <item>lte:2097152,4194304,8388608,1048576,3145728,4194304</item>
+    </string-array>
+    <string-array name="config_tether_apndata">
+        <item>SFR option modem,websfr,,,,,,,,,208,10,,DUN</item>
+        <item>[ApnSettingV3]INTERNET NRJ,internetnrj,,,,,,,,,208,10,,DUN,,,true,0,,,,,,,gid,4E</item>
+    </string-array>
+</resources>

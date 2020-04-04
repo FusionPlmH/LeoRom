@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/security_policy_updates_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <SecPreference android:persistent="false" android:title="@string/security_policy_update_now" android:key="key_security_policy_update_now" />
+    <SecSwitchPreference android:persistent="false" android:title="@string/security_policy_update_auto_updates" android:key="key_auto_update" android:summary="@string/security_policy_update_auto_updates_summary" />
+    <SecDropDownPreference android:title="@string/security_policy_update_download_update_via" android:key="key_wifi_only" />
+</PreferenceScreen>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:paddingTop="12.0dip" android:paddingBottom="20.0dip" android:focusable="false" android:clickable="false" android:descendantFocusability="afterDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:id="@id/button_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.samsung.android.settings.widget.RoundButtonView android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/button" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/sec_widget_button_preference_min_width" android:minHeight="@dimen/reset_button_min_height" android:text="" android:paddingStart="@dimen/reset_button_side_padding" android:paddingEnd="@dimen/reset_button_side_padding" style="@style/ColorRoundButtonStyle" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/imei_information_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:persistent="false" android:title="@string/status_min_number" android:key="min_number" android:summary="@string/summary_placeholder" />
+    <Preference android:persistent="false" android:title="@string/status_prl_version" android:key="prl_version" android:summary="@string/summary_placeholder" />
+    <Preference android:persistent="false" android:title="@string/status_eri_version" android:key="eri_version" android:summary="@string/summary_placeholder" />
+    <Preference android:persistent="false" android:title="@string/status_meid_number" android:key="meid_number" android:summary="@string/summary_placeholder" />
+    <com.samsung.android.settings.deviceinfo.CopyablePreference android:persistent="false" android:title="@string/status_imei" android:key="imei" android:summary="@string/summary_placeholder" />
+    <Preference android:persistent="false" android:title="@string/status_imei_sv" android:key="imei_sv" android:summary="@string/summary_placeholder" />
+</PreferenceScreen>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">pred %d dňami</item>
+        <item quantity="one">pred %d dňom</item>
+        <item quantity="few">pred %d dňami</item>
+        <item quantity="many">pred %d dňa</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred %d min</item>
+        <item quantity="few">pred %d min</item>
+        <item quantity="many">pred %d min</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">pred %d rokmi</item>
+        <item quantity="one">pred %d rokom</item>
+        <item quantity="few">pred %d rokmi</item>
+        <item quantity="many">pred %d roka</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Extrémne krátke oneskorenie (%s ms)</item>
+        <item quantity="one">Extrémne krátke oneskorenie (%s ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Dlhé oneskorenie (%s ms)</item>
+        <item quantity="one">Dlhé oneskorenie (%s ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Krátke oneskorenie (%s ms)</item>
+        <item quantity="one">Krátke oneskorenie (%s ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Veľmi dlhé oneskorenie (%s ms)</item>
+        <item quantity="one">Veľmi dlhé oneskorenie (%s ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Veľmi krátke oneskorenie (%s ms)</item>
+        <item quantity="one">Veľmi krátke oneskorenie (%s ms)</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item quantity="other">Obmedziť %d aplikácií?</item>
+        <item quantity="one">Obmedziť aplikáciu?</item>
+    </plurals>
+    <plurals name="bluetooth_restored_count_popup_title">
+        <item quantity="other">%d prenesených zariadení</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d prenesené zariadenie</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d prenesené zariadenia</item>
+        <item quantity="many">%d preneseného zariadenia</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">%d aplikáciám bolo povolené používanie dátového pripojenia bez obmedzení</item>
+        <item quantity="one">1 aplikácia má povolené používanie dátového pripojenia bez obmedzení</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item quantity="other">Vykonalo sa odstránenie %d kategórií</item>
+        <item quantity="one">1 kategória bola odstránená</item>
+    </plurals>
+    <plurals name="dex_timeout_day">
+        <item quantity="other">Dni: %d</item>
+        <item quantity="one">1 deň</item>
+    </plurals>
+    <plurals name="dex_timeout_hour">
+        <item quantity="other">%d hodín</item>
+        <item quantity="one">1 hodina</item>
+    </plurals>
+    <plurals name="dex_timeout_minute">
+        <item quantity="other">Počet minút: %d</item>
+        <item quantity="one">1 minúta</item>
+    </plurals>
+    <plurals name="dex_timeout_second">
+        <item quantity="other">Počet sekúnd: %d</item>
+        <item quantity="one">1 sekunda</item>
+    </plurals>
+    <plurals name="dex_timeout_week">
+        <item quantity="other">Týždne: %d</item>
+        <item quantity="one">1 týždeň</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Odstránenie vybratých jazykov</item>
+        <item quantity="one">Odstránenie vybratého jazyka</item>
+    </plurals>
+    <plurals name="lock_timeout_hours">
+        <item quantity="other">%d hodín</item>
+        <item quantity="one">%d hodina</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d hodiny</item>
+        <item quantity="many">%d hodiny</item>
+    </plurals>
+    <plurals name="lock_timeout_minutes">
+        <item quantity="other">%d minút</item>
+        <item quantity="one">%d minúta</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d minúty</item>
+        <item quantity="many">%d minúty</item>
+    </plurals>
+    <plurals name="lock_timeout_seconds">
+        <item quantity="other">%d sekúnd</item>
+        <item quantity="one">%d sekunda</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Heslo musí obsahovať aspoň %d písmen.</item>
+        <item quantity="one">Heslo musí obsahovať aspoň 1 písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Heslo musí obsahovať aspoň %d malých písmen.</item>
+        <item quantity="one">Heslo musí obsahovať aspoň 1 malé písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Heslo musí obsahovať aspoň %d číslic alebo symbolov.</item>
+        <item quantity="one">Heslo musí obsahovať aspoň 1 číslicu alebo symbol.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Heslo musí obsahovať aspoň %d číslic.</item>
+        <item quantity="one">Heslo musí obsahovať aspoň 1 číslicu.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Heslo musí obsahovať aspoň %d symbolov.</item>
+        <item quantity="one">Heslo musí obsahovať aspoň 1 symbol.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Heslo musí obsahovať aspoň %d veľkých písmen.</item>
+        <item quantity="one">Heslo musí obsahovať aspoň 1 veľké písmeno.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Aplikácie v počte %d môžu čítať oznámenia.</item>
+        <item quantity="one">Aplikácie v počte %d majú povolené čítať oznámenia.</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">Počas poslednej %2$s sa pamäť RAM využívala v %1$d procesoch</item>
+        <item quantity="one">Počas poslednej %2$s sa pamäť RAM využívala v %1$d procese</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item quantity="other">%d obmedzení</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d obmedzenie</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d obmedzenia</item>
+        <item quantity="many">%d obmedzenia</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">Vypnuté pre %d aplikácií</item>
+        <item quantity="one">Vypnuté pre %d aplikáciu</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item quantity="other">Aktívne aplikácie: %d</item>
+        <item quantity="one">1 aktívna aplikácia</item>
+    </plurals>
+    <plurals name="remove_language_title_multiple_plurals">
+        <item quantity="other">Odstrániť %d jazykov?</item>
+        <item quantity="one">Odstrániť %d jazyky?</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">Ďalšie povolenia: %d</item>
+        <item quantity="one">%d ďalšie povolenie</item>
+    </plurals>
+    <plurals name="sec_datausage_mdo_summary_multiple_apps">
+        <item quantity="other">%d vybratých aplikácií</item>
+        <item quantity="one">%d vybratá aplikácia</item>
+    </plurals>
+    <plurals name="sec_plurals_recent_notification_title">
+        <item quantity="other">%d nedávnych oznámení</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d nedávne oznámenie</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d nedávne oznámenia</item>
+        <item quantity="many">%d nedávneho oznámenia</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Teraz vás delia iba %d kroky od toho, aby z vás bol vývojár.</item>
+        <item quantity="one">Teraz ste iba 1 krok od toho, aby z vás bol vývojár.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">Dôverov. certifikátom alebo ich odstránenie</item>
+        <item quantity="one">Dôverov. certifikátu alebo jeho odstránenie</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"Správca %s nainštaloval certifikačné úrady pre váš pracovný profil, ktorý mu umožňuje sledovať aktivitu pracovnej siete vrátane e-mailov, aplikácií a zabezpečených webových lokalít. Môžete zvoliť, či chcete týmto certifikátom dôverovať alebo ich odstrániť.
+
+Ďalšie informácie o týchto certifikátoch získate od svojho správcu."</item>
+        <item quantity="one">"Správca %s nainštaloval certifikačný úrad pre váš pracovný profil, ktorý mu umožňuje sledovať aktivitu pracovnej siete vrátane e-mailov, aplikácií a zabezpečených webových lokalít. Môžete zvoliť, či chcete tomuto certifikátu dôverovať alebo ho odstrániť.
+
+Ďalšie informácie o tomto certifikáte získate od svojho správcu."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%s nainštaloval do vášho zariadenia certifikáty certifikačného úradu, ktoré mu môžu umožniť sledovanie sieťovej aktivity vášho zariadenia vrátane vášho využívania e-mailov, aplikácií a bezpečných webových lokalít.
+
+Ďalšie informácie o týchto certifikátoch získate od svojho správcu IT."</item>
+        <item quantity="one">"%s nainštaloval do vášho zariadenia certifikát certifikačného úradu, ktorý mu môže umožniť sledovanie sieťovej aktivity vášho zariadenia vrátane vášho využívania e-mailov, aplikácií a bezpečných webových lokalít.
+
+Ďalšie informácie o tomto certifikáte získate od svojho správcu IT."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Skontrolovať certifikáty</item>
+        <item quantity="one">Skontrolovať certifikát</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">Prístup k %d priečinkom/súborom</item>
+        <item quantity="one">Prístup k 1 priečinku/súboru</item>
+    </plurals>
+    <plurals name="wifi_ap_instruction_changeable_maxclient_plurals_att_beyond">
+        <item quantity="other">"Svoj telefón môžete premeniť na prístupový bod Wi-Fi. Pomocou pripojenia Wi-Fi alebo mobilného dátového pripojenia telefónu sa bude môcť pripojiť na internet najviac %d ďalších zariadení.
+
+Používanie funkcie Mobilný prístupový bod zvyšuje spotrebu energie z batérie a spotrebu dát."</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Svoj telefón môžete premeniť na prístupový bod Wi-Fi. Pomocou pripojenia Wi-Fi alebo mobilného dátového pripojenia telefónu sa bude môcť pripojiť na internet najviac %d ďalšie zariadenie.
+
+Používanie funkcie Mobilný prístupový bod zvyšuje spotrebu energie z batérie a spotrebu dát."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">"Svoj telefón môžete premeniť na prístupový bod Wi-Fi. Pomocou pripojenia Wi-Fi alebo mobilného dátového pripojenia telefónu sa budú môcť pripojiť na internet najviac %d ďalšie zariadenia.
+
+Používanie funkcie Mobilný prístupový bod zvyšuje spotrebu energie z batérie a spotrebu dát."</item>
+        <item quantity="many">"Svoj telefón môžete premeniť na prístupový bod Wi-Fi. Pomocou pripojenia Wi-Fi alebo mobilného dátového pripojenia telefónu sa bude môcť pripojiť na internet najviac %d ďalšieho zariadenia.
+
+Používanie funkcie Mobilný prístupový bod zvyšuje spotrebu energie z batérie a spotrebu dát."</item>
+    </plurals>
+    <plurals name="wifi_ap_instruction_changeable_maxclient_plurals_att_tablet">
+        <item quantity="other">"Svoj tablet môžete premeniť na prístupový bod Wi-Fi. Pomocou pripojenia Wi-Fi alebo mobilného dátového pripojenia tabletu sa bude môcť pripojiť na internet najviac %d ďalších zariadení.
+
+Používanie funkcie Mobilný prístupový bod zvyšuje spotrebu energie z batérie a spotrebu dát."</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Svoj tablet môžete premeniť na prístupový bod Wi-Fi. Pomocou pripojenia Wi-Fi alebo mobilného dátového pripojenia tabletu sa bude môcť pripojiť na internet najviac %d ďalšie zariadenie.
+
+Používanie funkcie Mobilný prístupový bod zvyšuje spotrebu energie z batérie a spotrebu dát."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">"Svoj tablet môžete premeniť na prístupový bod Wi-Fi. Pomocou pripojenia Wi-Fi alebo mobilného dátového pripojenia tabletu sa budú môcť pripojiť na internet najviac %d ďalšie zariadenia.
+
+Používanie funkcie Mobilný prístupový bod zvyšuje spotrebu energie z batérie a spotrebu dát."</item>
+        <item quantity="many">"Svoj tablet môžete premeniť na prístupový bod Wi-Fi. Pomocou pripojenia Wi-Fi alebo mobilného dátového pripojenia tabletu sa bude môcť pripojiť na internet najviac %d ďalšieho zariadenia.
+
+Používanie funkcie Mobilný prístupový bod zvyšuje spotrebu energie z batérie a spotrebu dát."</item>
+    </plurals>
+    <plurals name="wifi_ap_instruction_changeable_maxclient_plurals_beyond">
+        <item quantity="other">Svoj telefón môžete premeniť na prístupový bod Wi-Fi. Pomocou pripojenia Wi-Fi alebo mobilného dátového pripojenia telefónu sa bude môcť pripojiť na internet najviac %d ďalších zariadení.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Svoj telefón môžete premeniť na prístupový bod Wi-Fi. Pomocou pripojenia Wi-Fi alebo mobilného dátového pripojenia telefónu sa bude môcť pripojiť na internet najviac %d ďalšie zariadenie.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Svoj telefón môžete premeniť na prístupový bod Wi-Fi. Pomocou pripojenia Wi-Fi alebo mobilného dátového pripojenia telefónu sa budú môcť pripojiť na internet najviac %d ďalšie zariadenia.</item>
+        <item quantity="many">Svoj telefón môžete premeniť na prístupový bod Wi-Fi. Pomocou pripojenia Wi-Fi alebo mobilného dátového pripojenia telefónu sa bude môcť pripojiť na internet najviac %d ďalšieho zariadenia.</item>
+    </plurals>
+    <plurals name="wifi_ap_instruction_changeable_maxclient_plurals_tablet">
+        <item quantity="other">Svoj tablet môžete premeniť na prístupový bod Wi-Fi. Pomocou pripojenia Wi-Fi alebo mobilného dátového pripojenia tabletu sa bude môcť pripojiť na internet najviac %d ďalších zariadení.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Svoj tablet môžete premeniť na prístupový bod Wi-Fi. Pomocou pripojenia Wi-Fi alebo mobilného dátového pripojenia tabletu sa bude môcť pripojiť na internet najviac %d ďalšie zariadenie.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Svoj tablet môžete premeniť na prístupový bod Wi-Fi. Pomocou pripojenia Wi-Fi alebo mobilného dátového pripojenia tabletu sa budú môcť pripojiť na internet najviac %d ďalšie zariadenia.</item>
+        <item quantity="many">Svoj tablet môžete premeniť na prístupový bod Wi-Fi. Pomocou pripojenia Wi-Fi alebo mobilného dátového pripojenia tabletu sa bude môcť pripojiť na internet najviac %d ďalšieho zariadenia.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d pripojených zariadení</item>
+        <item quantity="one">%1$d pripojené zariadenie</item>
+    </plurals>
+</resources>

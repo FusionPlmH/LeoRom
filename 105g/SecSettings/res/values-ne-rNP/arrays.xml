@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apn_auth_entries">
+        <item>शून्‍य</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP or CHAP</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>अनिर्दिष्ट</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>IWLAN</item>
+    </string-array>
+    <string-array name="bearer_entries_dcm_kdi">
+        <item>अनिर्दिष्ट</item>
+        <item>4G</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>IWLAN</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>धेरै सानो</item>
+        <item>सानो</item>
+        <item>सामान्य</item>
+        <item>ठूलो</item>
+        <item>अति ठूलो</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>पूर्वनिर्धारित</item>
+        <item>स्यान्स सेरिफ</item>
+        <item>स्यान्स सेरिफ कन्डेन्सड</item>
+        <item>स्यान्स सेरिफ मोनोस्पेस</item>
+        <item>सेरिफ</item>
+        <item>सेरिफ मोनोस्पेस</item>
+        <item>अनौपचारिक</item>
+        <item>कर्सिभ</item>
+        <item>साना क्याप्स</item>
+    </string-array>
+    <string-array name="data_usage_billing_cycle_summary">
+        <item>प्रत्येक महिनाको पहिलो दिन</item>
+        <item>प्रत्येक महिनाको दोस्रो दिन</item>
+        <item>प्रत्येक महिनाको तेस्रो दिन</item>
+        <item>प्रत्येक महिनाको चौथो दिन</item>
+        <item>प्रत्येक महिनाको पाँचौं दिन</item>
+        <item>प्रत्येक महिनाको छैटौं दिन</item>
+        <item>प्रत्येक महिनाको सातौं दिन</item>
+        <item>प्रत्येक महिनाको आठौं दिन</item>
+        <item>प्रत्येक महिनाको नौयौँ दिन</item>
+        <item>प्रत्येक महिनाको दसौं दिन</item>
+        <item>प्रत्येक महिनाको एघारौं दिन</item>
+        <item>प्रत्येक महिनाको बाह्रौं दिन</item>
+        <item>प्रत्येक महिनाको तेह्रौं दिन</item>
+        <item>प्रत्येक महिनाको चौधौं दिन</item>
+        <item>प्रत्येक महिनाको पन्ध्रौं दिन</item>
+        <item>प्रत्येक महिनाको सोह्रौं दिन</item>
+        <item>प्रत्येक महिनाको सत्रौं दिन</item>
+        <item>प्रत्येक महिनाको अठारौं दिन</item>
+        <item>प्रत्येक महिनाको उन्नाइसौं दिन</item>
+        <item>प्रत्येक महिनाको विसौं दिन</item>
+        <item>प्रत्येक महिनाको एक्काइसौं दिन</item>
+        <item>प्रत्येक महिनाको बाइसौं दिन</item>
+        <item>प्रत्येक महिनाको तेइसौं दिन</item>
+        <item>प्रत्येक महिनाको चौबीसौं दिन</item>
+        <item>प्रत्येक महिनाको पच्चीसौं दिन</item>
+        <item>प्रत्येक महिनाको छब्बीसौं दिन</item>
+        <item>प्रत्येक महिनाको सत्ताइसौं दिन</item>
+        <item>प्रत्येक महिनाको अट्ठाइसौं दिन</item>
+        <item>प्रत्येक महिनाको उनन्तीसौं दिन</item>
+        <item>प्रत्येक महिनाको तीसौं दिन</item>
+        <item>प्रत्येक महिनाको एकतीसौं दिन</item>
+    </string-array>
+    <string-array name="dex_timeout_entries">
+        <item>15 सेकेन्ड</item>
+        <item>30 सेकेन्ड</item>
+        <item>1 मिनट</item>
+        <item>2 मिनट</item>
+        <item>5 मिनट</item>
+        <item>10 मिनट</item>
+        <item>20 मिनट</item>
+        <item>30 मिनट</item>
+        <item>60 मिनट</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>तुरन्तै</item>
+        <item>5 सेकेन्ड</item>
+        <item>15 सेकेन्ड</item>
+        <item>30 सेकेन्ड</item>
+        <item>1 मिनट</item>
+        <item>2 मिनट</item>
+        <item>5 मिनट</item>
+        <item>10 मिनट</item>
+        <item>30 मिनट</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 सेकेन्ड</item>
+        <item>30 सेकेन्ड</item>
+        <item>1 मिनट</item>
+        <item>2 मिनट</item>
+        <item>5 मिनट</item>
+        <item>10 मिनट</item>
+        <item>30 मिनट</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_summaries">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>सबै कोडेकहरू</item>
+        <item>पूर्वनिर्धारित कोडेक</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_titles">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>सबै कोडेकहरू</item>
+        <item>पूर्वनिर्धारित कोडेक</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Disconnected</item>
+        <item>Initializing…</item>
+        <item>Connecting…</item>
+        <item>Connected</item>
+        <item>Timeout</item>
+        <item>असफल</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>स्‍वचालित</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>खोल्नुहोस्</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>काल-समापन कहिल्यै नगर्नुहोस्</item>
+        <item>5 मिनट</item>
+        <item>10 मिनट</item>
+        <item>20 मिनट</item>
+        <item>30 मिनट</item>
+        <item>60 मिनट</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>Wi-Fi मार्फत साझेदारीलाई अन गर्नुहोस्</item>
+        <item>Wi-Fi मार्फत साझेदारीलाई अफ गर्नुहोस्</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>स्वचालित</item>
+        <item>हस्तचालित</item>
+        <item>सधैं सोध्नुहोस्</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>स्‍थिर</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>स्वतः मेटाउनुहोस्</item>
+        <item>मापन गरिने मान्नुहोस्</item>
+        <item>मापन नगरिने मान्नुहोस्</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>जडान गरिएको छ</item>
+        <item>निमन्त्रित।</item>
+        <item>जडान असफल भयो</item>
+        <item>जडान गर्नको लागि यहाँ ट्याप गर्नुहोस्।</item>
+        <item>क्षेत्र बाहिर।</item>
+        <item>अर्को डिभाइससंग जोडिएको छ</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>शून्‍य</item>
+        <item>हस्तचालित</item>
+        <item>स्वतः-कन्फिगरेसन</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>स्क्यान गर्दैछ…</item>
+        <item>जोडिँदै छ…</item>
+        <item>सत्यापन गरिँदै छ…</item>
+        <item>IP ठेगाना प्राप्त गर्दै…</item>
+        <item>जोड्यो</item>
+        <item>निलंबित गरिएको छ</item>
+        <item>जोडन विच्छेद हुँदै छ…</item>
+        <item>जोडन विच्छेद भयो</item>
+        <item>असफल</item>
+        <item>ब्लक गरिएको</item>
+        <item>तपाईको इन्टरनेट जडानको गुणस्तर जाँच गर्दै…</item>
+    </string-array>
+</resources>

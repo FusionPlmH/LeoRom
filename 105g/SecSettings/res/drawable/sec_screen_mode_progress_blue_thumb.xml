@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval" android:innerRadius="@dimen/sec_screen_mode_color_balance_custom_seekbar_thumb_inner_radius">
+            <solid android:color="@color/sec_display_color_balance_blue" />
+            <stroke android:width="@dimen/sec_screen_mode_color_balance_custom_seekbar_thumb_stroke_width" android:color="@color/sec_screen_mode_color_balance_custom_seekbar_thumb_stroke_color" />
+            <size android:height="@dimen/sec_screen_mode_color_balance_custom_seekbar_thumb_size" android:width="@dimen/sec_screen_mode_color_balance_custom_seekbar_thumb_size" />
+        </shape>
+    </item>
+</layer-list>

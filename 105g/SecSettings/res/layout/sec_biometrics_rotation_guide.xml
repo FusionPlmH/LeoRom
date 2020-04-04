@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:id="@id/guide_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/continueButtonContainer">
+        <FrameLayout android:id="@id/biometrics_rotation_guide_view_container" android:background="@color/biometrics_rotation_guide_help_image_background_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_above="@id/guide_text_scroll" android:layout_centerHorizontal="true">
+            <TextureView android:layout_gravity="center" android:id="@id/biometrics_rotation_guide_view_pager" android:paddingTop="@dimen/biometrics_rotation_guide_help_image_padding_top_bottom" android:paddingBottom="@dimen/biometrics_rotation_guide_help_image_padding_top_bottom" android:layout_width="@dimen/biometrics_rotation_guide_help_image_width" android:layout_height="@dimen/biometrics_rotation_guide_help_image_height" android:paddingStart="@dimen/biometrics_rotation_guide_help_image_padding_start_end" android:paddingEnd="@dimen/biometrics_rotation_guide_help_image_padding_start_end" />
+        </FrameLayout>
+        <ScrollView android:id="@id/guide_text_scroll" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <LinearLayout android:orientation="vertical" android:id="@id/guide_text_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <TextView android:textSize="@dimen/biometrics_rotation_guide_desc_text_size" android:textColor="@color/biometrics_rotation_guide_desc_text_color" android:gravity="center" android:id="@id/guide_text_desc" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/biometrics_rotation_guide_help_guide_margin_top" android:text="@string/biometrics_rotation_guide_desc_text" android:lineSpacingExtra="@dimen/biometrics_rotation_guide_desc_text_line_spacing_extra" android:fontFamily="sec-roboto-light" />
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+    <include android:id="@id/continueButtonContainer" layout="@layout/sec_biometrics_common_raised_button" />
+    <include android:id="@id/button_flat_bar" layout="@layout/sec_biometrics_common_setupwizard_bottom_bar_button" />
+</RelativeLayout>

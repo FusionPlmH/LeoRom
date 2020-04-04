@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apn_auth_entries">
+        <item>Żŏdyn</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP or CHAP</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>Niyôkreślōny</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>IWLAN</item>
+    </string-array>
+    <string-array name="bearer_entries_dcm_kdi">
+        <item>Niyôkreślōny</item>
+        <item>4G</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>IWLAN</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Fest mały</item>
+        <item>Mały</item>
+        <item>Normalny</item>
+        <item>Wielgi</item>
+        <item>Fest wielgi</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Dōmyślny</item>
+        <item>Bezszeryfowy</item>
+        <item>Sans serif condensed</item>
+        <item>Sans serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Ańfachowy</item>
+        <item>Gibniynte</item>
+        <item>Małe mycki.</item>
+    </string-array>
+    <string-array name="data_usage_billing_cycle_summary">
+        <item>1. dziyń bez kŏżdy miesiōnc</item>
+        <item>2. dziyń bez kŏżdy miesiōnc</item>
+        <item>3. dziyń bez kŏżdy miesiōnc</item>
+        <item>4. dziyń bez kŏżdy miesiōnc</item>
+        <item>5. dnia każdego miesiąca</item>
+        <item>6. dnia każdego miesiąca</item>
+        <item>7. dnia każdego miesiąca</item>
+        <item>8. dnia każdego miesiąca</item>
+        <item>9. dnia każdego miesiąca</item>
+        <item>10. dnia bez kŏżdy miesiōnc</item>
+        <item>11. dnia bez kŏżdy miesiōnc</item>
+        <item>12. dnia bez kŏżdy miesiōnc</item>
+        <item>13. dnia bez kŏżdy miesiōnc</item>
+        <item>14. dnia bez kŏżdy miesiōnc</item>
+        <item>15. dnia bez kŏżdy miesiōnc</item>
+        <item>16. dnia bez kŏżdy miesiōnc</item>
+        <item>17. dnia bez kŏżdy miesiōnc</item>
+        <item>18. dnia bez kŏżdy miesiōnc</item>
+        <item>19. dnia bez kŏżdy miesiōnc</item>
+        <item>20. dnia bez kŏżdy miesiōnc</item>
+        <item>21. dnia bez kŏżdy miesiōnc</item>
+        <item>22. dnia bez kŏżdy miesiōnc</item>
+        <item>23. dnia bez kŏżdy miesiōnc</item>
+        <item>24. dnia bez kŏżdy miesiōnc</item>
+        <item>25. dnia bez kŏżdy miesiōnc</item>
+        <item>26. dnia bez kŏżdy miesiōnc</item>
+        <item>27. dnia bez kŏżdy miesiōnc</item>
+        <item>28. dnia bez kŏżdy miesiōnc</item>
+        <item>29. dnia bez kŏżdy miesiōnc</item>
+        <item>30. dnia bez kŏżdy miesiōnc</item>
+        <item>31. dnia bez kŏżdy miesiōnc</item>
+    </string-array>
+    <string-array name="dex_timeout_entries">
+        <item>15 sek.</item>
+        <item>30 sek.</item>
+        <item>1 min</item>
+        <item>2 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>20 min</item>
+        <item>30 min</item>
+        <item>60 min</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Na szlag</item>
+        <item>5 sek.</item>
+        <item>15 sek.</item>
+        <item>30 sek.</item>
+        <item>1 min</item>
+        <item>2 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>30 min</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 sek.</item>
+        <item>30 sek.</item>
+        <item>1 min</item>
+        <item>2 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>30 min</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_summaries">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>Wszyjske kodeki</item>
+        <item>Dōmyślny kodek</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_titles">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>Wszyjske kodeki</item>
+        <item>Dōmyślny kodek</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Disconnected</item>
+        <item>Initializing…</item>
+        <item>Connecting…</item>
+        <item>Connected</item>
+        <item>Timeout</item>
+        <item>Niyudane</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>Auto</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>Ôtwartŏ</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>Nigdy</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>20 minut</item>
+        <item>30 minut</item>
+        <item>60 minut</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>Załōncz udostympnianie Wi-Fi</item>
+        <item>Wyłōncz udostympnianie Wi-Fi</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>Autōmatyczny</item>
+        <item>Sōmymu</item>
+        <item>Zŏwdy pytej</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statyczny</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Wykryj automatycznie</item>
+        <item>Traktuj jako opomiarowane</item>
+        <item>Traktuj jako nieopomiarowane</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Połōnczono</item>
+        <item>Zaproszono</item>
+        <item>Połōn. niypodarzōne</item>
+        <item>Tyknij tukej, coby połōnczyć.</item>
+        <item>Poza zakresym.</item>
+        <item>Połōnczyniy z inkszōm maszinōm</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Żŏdyn</item>
+        <item>Sōmymu</item>
+        <item>Nastôw autōmatycznie</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Skanowaniy…</item>
+        <item>Łōnczynie…</item>
+        <item>Uwierzytelnianiy…</item>
+        <item>Uzyskiwaniy adresy IP….</item>
+        <item>Połōnczōno</item>
+        <item>Deaktywowane</item>
+        <item>Rozłōnczaniy…</item>
+        <item>Rozłōnczono</item>
+        <item>Niyudane</item>
+        <item>Blokniynty</item>
+        <item>Sprŏwdzanie jakości połōnczyniŏ z Internecym…</item>
+    </string-array>
+</resources>

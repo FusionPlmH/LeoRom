@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="false" android:drawable="@drawable/sec_dnd_schedule_ripple_background_list" />
+    <item android:state_focused="true" android:drawable="@color/sec_dnd_schedule_ripple_mask_color" />
+</selector>

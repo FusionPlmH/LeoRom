@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d cadangan autoisi</item>
+        <item quantity="one">Satu cadangan autoisi</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">Tidak dapat menunjukkan lebih daripada %d aplikasi di skrin pada masa yang sama. Aplikasi paling lama diminumkan.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d aplikasi sedang menggunakan data mudah alih walaupun semasa telefon anda disambungkan kepada Wi-Fi.</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">Ketik di sini untuk mengurus aplikasi ini.</item>
+        <item quantity="zero">Ketik di sini untuk mengurus aplikasi ini.</item>
+        <item quantity="one">Ketik di sini untuk mengurus aplikasi ini.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s ingin berkongsi sesuatu dengan anda menggunakan Wi-Fi Direct. Anda mempunyai %2$d saat untuk menerima.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

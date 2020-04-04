@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="kg_clock_top_margin">85.0dip</dimen>
+    <dimen name="kg_status_line_font_right_margin">16.0dip</dimen>
+    <item type="dimen" name="magnifier_height_rate_large">0.6</item>
+    <item type="dimen" name="magnifier_height_rate_medium">0.5</item>
+    <item type="dimen" name="magnifier_height_rate_small">0.4</item>
+    <item type="dimen" name="magnifier_width_rate_large">0.56</item>
+    <item type="dimen" name="magnifier_width_rate_medium">0.5</item>
+    <item type="dimen" name="magnifier_width_rate_small">0.42</item>
+</resources>

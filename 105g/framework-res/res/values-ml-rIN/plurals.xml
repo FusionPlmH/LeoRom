@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d ഓട്ടോഫിൽ നിർദ്ദേശങ്ങൾ</item>
+        <item quantity="one">ഒരു ഓട്ടോഫിൽ നിർദ്ദേശം</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">ഒരേ സമയം %d-ൽ കൂടുതൽ ആപ്പുകളെ സ്ക്രീനിൽ കാണിക്കാനാവില്ല. പഴക്കംചെന്ന ആപ്പിനെ ചുരുക്കി.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">നിങ്ങളുടെ ഫോണിനെ Wi-Fi-ലേക്ക് ബന്ധിപ്പിച്ചിരിക്കുമ്പോൾ പോലും %d ആപ്പുകൾ മൊബൈൽ ഡാറ്റയാണ് ഉപയോഗിക്കുന്നത്.</item>
+        <item quantity="one">നിങ്ങളുടെ ഫോണിനെ Wi-Fi-ലേക്ക് ബന്ധിപ്പിച്ചിരിക്കുമ്പോൾ പോലും %d ആപ്പ് മൊബൈൽ ഡാറ്റയാണ് ഉപയോഗിക്കുന്നത്.</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">ഈ ആപ്പുകളെ മാനേജ് ചെയ്യുന്നതിന് ഇവിടെ സ്പർശിക്കുക.</item>
+        <item quantity="zero">ഈ ആപ്പുകളെ മാനേജ് ചെയ്യുന്നതിന് ഇവിടെ സ്പർശിക്കുക.</item>
+        <item quantity="one">ഈ ആപ്പിനെ മാനേജ് ചെയ്യുന്നതിന് ഇവിടെ സ്പർശിക്കുക.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">Wi-Fi Direct ഉപയോഗിച്ച് നിങ്ങളുമായി എന്തോ പങ്കിടുന്നതിന് %1$s ആഗ്രഹിക്കുന്നു. സ്വീകരിക്കാൻ നിങ്ങൾക്ക് %2$d സെക്കന്‍റാണുള്ളത്.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Wi-Fi Direct ഉപയോഗിച്ച് നിങ്ങളുമായി എന്തോ പങ്കിടുന്നതിന് %1$s ആഗ്രഹിക്കുന്നു. സ്വീകരിക്കാൻ നിങ്ങൾക്ക് %2$d സെക്കന്‍റാണുള്ളത്.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

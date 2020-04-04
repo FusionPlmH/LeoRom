@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="Wi-Fi Cast Live" android:key="wifi_cast_live_key"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.settings.applications.LayoutPreference android:layout="@layout/sec_wifi_ap_auto_hotspot_unclickable" android:selectable="false" android:key="auto_hotspot_header_description" />
+    <SecPreferenceCategory android:key="my_account_category" />
+    <PreferenceCategory android:key="my_group_category" />
+</PreferenceScreen>

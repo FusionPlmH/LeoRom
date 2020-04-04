@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">Ինքնալրացման %d առաջարկ</item>
+        <item quantity="one">Ինքնալրացման մեկ առաջարկ</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">Հնարավոր չէ էկրանի վրա միաժամանակ ցույց տալ %d-ից ավելի ծրագրեր: Ամենահին ծրագիրը ծալվեց:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d ծրագիր օգտագործում է շարժական տվյալներ, նույնիսկ երբ հեռախոսը միացված է Wi-Fi-ին:</item>
+        <item quantity="one">%d ծրագիր օգտագործում է շարժական տվյալներ, նույնիսկ երբ հեռախոսը միացված է Wi-Fi-ին:</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">Թակեք այստեղ՝ այս ծրագրերը կառավարելու համար:</item>
+        <item quantity="zero">Թակեք այստեղ՝ այս ծրագրերը կառավարելու համար:</item>
+        <item quantity="one">Թակեք այստեղ՝ այս ծրագիրը կառավարելու համար:</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s-ն ուզում է Ձեզ հետ ինչ-որ բանով կիսվել Wi-Fi Direct-ի միջոցով: Ընդունելու համար ունեք %2$d վայրկյան:</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s-ն ուզում է Ձեզ հետ ինչ-որ բանով կիսվել Wi-Fi Direct-ի միջոցով: Ընդունելու համար ունեք %2$d վայրկյան:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

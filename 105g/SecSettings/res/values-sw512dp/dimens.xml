@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="biometrics_disclaimer_common_margin_top">10.0dip</dimen>
+    <dimen name="biometrics_disclaimer_icon_height">71.0dip</dimen>
+    <dimen name="biometrics_disclaimer_icon_width">71.0dip</dimen>
+    <dimen name="biometrics_disclaimer_lock_guide_margin_top">4.0dip</dimen>
+    <dimen name="biometrics_disclaimer_more_about_guide_margin_top">49.5dip</dimen>
+    <dimen name="biometrics_disclaimer_more_about_height">40.0dip</dimen>
+    <dimen name="biometrics_disclaimer_more_about_text_margin_top">8.0dip</dimen>
+    <dimen name="biometrics_disclaimer_title_margin_top">15.0dip</dimen>
+    <dimen name="biometrics_guide_common_continue_button_area_height">132.0dip</dimen>
+    <dimen name="biometrics_guide_common_continue_button_width">240.0dip</dimen>
+    <dimen name="biometrics_disclaimer_more_about_guide_margin_top_for_intelligent_scan">10.0dip</dimen>
+</resources>

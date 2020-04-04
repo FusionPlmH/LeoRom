@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apn_auth_entries">
+        <item>Ýok</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP or CHAP</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>Görkezilmedik</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>IWLAN</item>
+    </string-array>
+    <string-array name="bearer_entries_dcm_kdi">
+        <item>Görkezilmedik</item>
+        <item>4G</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>IWLAN</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Aşa kiçi</item>
+        <item>Kiçi</item>
+        <item>Normal</item>
+        <item>Uly</item>
+        <item>Örän uly</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Defolt</item>
+        <item>Sans serif</item>
+        <item>“Sans serif condensed” şrifti</item>
+        <item>Sans serif monospace</item>
+        <item>“Serif” şrifti</item>
+        <item>Serif monospace</item>
+        <item>Adaty</item>
+        <item>El ýazuw</item>
+        <item>Setir harp</item>
+    </string-array>
+    <string-array name="data_usage_billing_cycle_summary">
+        <item>Her aýyň 1-nji güni</item>
+        <item>Her aýyň 2-nji güni</item>
+        <item>Her aýyň 3-nji güni</item>
+        <item>Her aýyň 4-nji güni</item>
+        <item>Her aýyň 5-nji güni</item>
+        <item>Her aýyň 6-njy güni</item>
+        <item>Her aýyň 7-nji güni</item>
+        <item>Her aýyň 8-nji güni</item>
+        <item>Her aýyň 9-njy güni</item>
+        <item>Her aýyň 10-njy güni</item>
+        <item>Her aýyň 11-nji güni</item>
+        <item>Her aýyň 12-nji güni</item>
+        <item>Her aýyň 13-nji güni</item>
+        <item>Her aýyň 14-nji güni</item>
+        <item>Her aýyň 15-nji güni</item>
+        <item>Her aýyň 16-njy güni</item>
+        <item>Her aýyň 17-nji güni</item>
+        <item>Her aýyň 18-nji güni</item>
+        <item>Her aýyň 19-njy güni</item>
+        <item>Her aýyň 20-nji güni</item>
+        <item>Her aýyň 21-nji güni</item>
+        <item>Her aýyň 22-nji güni</item>
+        <item>Her aýyň 23-nji güni</item>
+        <item>Her aýyň 24-nji güni</item>
+        <item>Her aýyň 25-nji güni</item>
+        <item>Her aýyň 26-njy güni</item>
+        <item>Her aýyň 27-nji güni</item>
+        <item>Her aýyň 28-nji güni</item>
+        <item>Her aýyň 29-njy güni</item>
+        <item>Her aýyň 30-njy güni</item>
+        <item>Her aýyň 31-nji güni</item>
+    </string-array>
+    <string-array name="dex_timeout_entries">
+        <item>15 sekunt</item>
+        <item>30 sekunt</item>
+        <item>1 minut</item>
+        <item>2 minut</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>20 minut</item>
+        <item>30 minut</item>
+        <item>60 minut</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Häziriň özünde</item>
+        <item>5 sekunt</item>
+        <item>15 sekunt</item>
+        <item>30 sekunt</item>
+        <item>1 minut</item>
+        <item>2 minut</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>30 minut</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 sekunt</item>
+        <item>30 sekunt</item>
+        <item>1 minut</item>
+        <item>2 minut</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>30 minut</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_summaries">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>Ähli kodekler</item>
+        <item>Standart kodek</item>
+    </string-array>
+    <string-array name="sec_bluetooth_a2dp_codec_titles">
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>LDAC</item>
+        <item>Scalable Codec</item>
+        <item>Ähli kodekler</item>
+        <item>Standart kodek</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Disconnected</item>
+        <item>Initializing…</item>
+        <item>Connecting…</item>
+        <item>Connected</item>
+        <item>Timeout</item>
+        <item>Şowsuz</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>Awto</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="wifi_ap_security_testmode">
+        <item>Açyk</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>Hiç haçan kesme</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>20 minut</item>
+        <item>30 minut</item>
+        <item>60 minut</item>
+    </string-array>
+    <string-array name="wifi_ap_wifi_sharing">
+        <item>Wi-Fi paýlaşygy açyň</item>
+        <item>Wi-Fi paýlaşygy ýapyň</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>Awtomatiki</item>
+        <item>El arkaly</item>
+        <item>Hemişe sora</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statiki</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Awtomatiki tap</item>
+        <item>Ölçegli diýip hasap et</item>
+        <item>Ölçegsiz diýip hasap et</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Birikdi</item>
+        <item>Çagyryldy</item>
+        <item>Baglanyşygy kesildi</item>
+        <item>Birikmek üçin şu ýere degiň.</item>
+        <item>Ulgamdan daşarda</item>
+        <item>Başga bir enjam bilen baglanyş</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Ýok</item>
+        <item>El arkaly</item>
+        <item>Awto-düz</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Skanirlenýär…</item>
+        <item>Birikdirilýär…</item>
+        <item>Şahsyýeti barlanylýar…</item>
+        <item>IP salgy alynýar…</item>
+        <item>Baglanan</item>
+        <item>Asylgy</item>
+        <item>Baglanyşyk kesilýär…</item>
+        <item>Aragatnaşyk kesildi</item>
+        <item>Şowsuz</item>
+        <item>Beklenildi</item>
+        <item>Internet baglanyşygyňyzyň hili barlanýar…</item>
+    </string-array>
+</resources>

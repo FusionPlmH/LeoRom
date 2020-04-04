@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE DvfsHintList [
+<!ELEMENT DvfsHintList (Hint?,TspHint+)>
+<!ELEMENT Hint EMPTY>
+<!ELEMENT TspHint EMPTY>
+<!ATTLIST TspHint
+          scenario_name CDATA #REQUIRED
+          level CDATA #REQUIRED
+          head CDATA #IMPLIED
+          tail CDATA #IMPLIED>
+]>
+
+<DvfsHintList>
+    <Resolution resoltype="Default">
+        <TspHint scenario_name="Default"            level="2" head="130 1363200 0 2 5" tail="500 1132800 0 0 5" />
+        <TspHint scenario_name="SipDefault"         level="2" head="130 1363200 0 2 5" tail="0 0 0 0 0" />
+
+        <Hint name="AMS_RESUME" timeout="-1">
+            <Control type="cpu_min" value="2016000"/>
+            <Control type="bus_min" value="1353"/>
+            <Control type="lpm_bias" value="5"/>
+        </Hint>
+
+        <Hint name="AMS_ACT_RESUME" timeout="-1">
+            <Control type="cpu_min" value="1747200"/>
+            <Control type="bus_min" value="1353"/>
+            <Control type="lpm_bias" value="5"/>
+        </Hint>
+
+        <Hint name="AMS_ACT_START" timeout="-1">
+            <Control type="cpu_min" value="1747200"/>
+            <Control type="bus_min" value="1353"/>
+            <Control type="lpm_bias" value="5"/>
+        </Hint>
+
+        <Hint name="AMS_RESUME_TAIL" timeout="500">
+            <Control type="cpu_min" value="1363200"/>
+            <Control type="bus_min" value="1353"/>
+            <Control type="lpm_bias" value="5"/>
+        </Hint>
+
+        <Hint name="AMS_ACT_LAZY" timeout="15000">
+            <Control type="lpm_bias" value="5"/>
+        </Hint>
+
+        <Hint name="AMS_APP_SWITCH" timeout="-1">
+            <Control type="lpm_bias" value="5"/>
+        </Hint>
+
+        <Hint name="AMS_APP_HOME" timeout="500">
+            <Control type="cpu_min" value="max"/>
+            <Control type="lpm_bias" value="5"/>
+        </Hint>
+    
+        <Hint name="HOME_KEY_TOUCH" timeout="1000">
+            <Control type="cpu_min" value="1363200"/>
+        </Hint>
+
+        <Hint name="GALLERY_TOUCH" timeout="500">
+            <Control type="cpu_min" value="1363200"/>
+        </Hint>
+    
+        <Hint name="GALLERY_TOUCH_TAIL" timeout="500">
+            <Control type="cpu_min" value="1132800"/>
+        </Hint>
+
+        <Hint name="GALLERY_SCROLL" timeout="-1">
+            <Control type="cpu_min" value="1132800"/>
+        </Hint>
+
+        <Hint name="LAUNCHER_TOUCH" timeout="1000">
+            <Control type="cpu_min" value="1209600"/>
+        </Hint>
+    
+        <Hint name="LISTVIEW_SCROLL" timeout="10000">
+            <Control type="cpu_min" value="1132800"/>
+        </Hint>
+
+        <Hint name="APP_LAUNCH" timeout="2000">
+			<Control type="cpu_min" value="max"/>
+            <Control type="bus_min" value="1555"/>
+        </Hint>
+    
+        <Hint name="DEVICE_WAKEUP" timeout="1000">
+            <Control type="cpu_min" value="1363200"/>
+        </Hint>
+    
+        <Hint name="CONTACT_SCROLL" timeout="1000">
+            <Control type="cpu_min" value="1363200"/>
+        </Hint> 
+    
+        <Hint name="BADGE_UPDATE" timeout="500">
+            <Control type="cpu_min" value="1132800"/>
+        </Hint>
+    
+        <Hint name="GESTURE_DETECTED" timeout="500">
+            <Control type="cpu_min" value="1132800"/>
+            <Control type="lpm_bias" value="5"/>
+        </Hint>
+    </Resolution>
+
+    <Resolution resoltype="WQHD">
+    </Resolution>
+
+    <Resolution resoltype="FHD">
+    </Resolution>
+
+    <Resolution resoltype="HD">
+    </Resolution>
+</DvfsHintList>

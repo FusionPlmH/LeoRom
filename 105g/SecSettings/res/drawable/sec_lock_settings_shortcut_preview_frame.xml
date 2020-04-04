@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/sec_lock_setting_shortcut_preview_background_frame_radius" />
+    <stroke android:width="@dimen/sec_lock_setting_shortcut_preview_background_frame_stroke_width" android:color="@color/sec_lock_setting_shortcut_preview_frame_stroke_color" />
+</shape>

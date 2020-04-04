@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/sec_sound_system_feedback_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <SecPreferenceCategory android:title="@string/sec_system_sound_category">
+        <SecSwitchPreference android:persistent="false" android:title="@string/touch_sounds_title" android:key="touch_sounds" android:summary="@string/sec_touch_sounds_summary" settings:controller="com.android.settings.notification.TouchSoundPreferenceController" />
+        <SecSwitchPreference android:persistent="false" android:title="@string/screen_locking_sounds_title" android:key="screen_locking_sounds" android:summary="@string/sec_screen_locking_sounds_summary" settings:controller="com.android.settings.notification.ScreenLockSoundPreferenceController" />
+        <SecSwitchPreference android:persistent="false" android:title="@string/sec_gps_notification_sounds_title" android:key="gps_notification_sounds" android:summary="@string/sec_gps_notification_sounds_summary" settings:controller="com.samsung.android.settings.notification.SecSoundGPSNotiSoundController" />
+        <SecSwitchPreference android:persistent="false" android:title="@string/docking_sounds_title" android:key="docking_sounds" settings:controller="com.android.settings.notification.DockingSoundPreferenceController" />
+        <SecDropDownPreference android:persistent="false" android:title="@string/dock_audio_media_title" android:key="dock_audio_media" settings:controller="com.android.settings.notification.DockAudioMediaPreferenceController" />
+        <SecDropDownPreference android:persistent="false" android:title="@string/emergency_tone_title" android:key="emergency_tone" settings:controller="com.android.settings.notification.EmergencyTonePreferenceController" />
+        <SecSwitchPreference android:persistent="false" android:title="@string/charging_sounds_title" android:key="charging_sounds" android:summary="@string/sec_charging_sounds_summary" settings:controller="com.android.settings.notification.ChargingSoundPreferenceController" />
+        <SecSwitchPreference android:persistent="false" android:title="@string/sec_folder_sounds" android:key="folder_sounds" android:summary="@string/sec_folder_sounds_summary" settings:controller="com.samsung.android.settings.notification.SecSoundFolderSoundController" />
+        <SecSwitchPreference android:persistent="false" android:title="@string/dial_pad_tones_title" android:key="dial_pad_tones" android:summary="@string/sec_dial_pad_tones_summary" settings:controller="com.android.settings.notification.DialPadTonePreferenceController" />
+        <SecSwitchPreference android:persistent="false" android:title="@string/sec_keyboard_sound" android:key="keyboard_sound" android:summary="@string/sec_keyboard_sound_summary" settings:controller="com.samsung.android.settings.notification.SecSoundKeyboardSoundController" />
+    </SecPreferenceCategory>
+    <SecPreferenceCategory android:title="@string/sec_system_vibration_category" android:key="system_vibration_category">
+        <SecSwitchPreference android:persistent="false" android:title="@string/sec_keyboard_vibration" android:key="keyboard_vibration" android:summary="@string/sec_keyboard_vibration_summary" settings:controller="com.samsung.android.settings.notification.SecSoundKeyboardVibrationController" />
+        <SecSwitchPreference android:persistent="false" android:title="@string/vibrate_on_touch_title" android:key="vibrate_on_touch" android:summary="@string/vibrate_on_touch_summary" settings:controller="com.samsung.android.settings.notification.SecSoundVibrationOnTouchController" />
+    </SecPreferenceCategory>
+</PreferenceScreen>

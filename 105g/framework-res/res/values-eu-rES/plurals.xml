@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%d automatikoki betetako iradokizun</item>
+        <item quantity="one">Automatikoki betetako iradokizun bat</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">Gehienez ere %d aplikazio erakuts daitezke pantailan aldi berean. Aplikazio zaharrena minimizatu da.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d aplikaziok erabiltzen dituzte datu mugikorrak telefonoa Wi-Fi sarera konektatuta dagoenean ere.</item>
+        <item quantity="one">%d aplikaziok erabiltzen ditu datu mugikorrak telefonoa Wi-Fi sarera konektatuta dagoenean ere.</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">Ukitu hau aplikazio horiek kudeatzeko.</item>
+        <item quantity="zero">Ukitu hau aplikazio horiek kudeatzeko.</item>
+        <item quantity="one">Ukitu hau aplikazio hau kudeatzeko.</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s gailuak edukia partekatu nahi du zurekin Wi-Fi Direct erabilita. %2$d segundo dituzu onartzeko.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s gailuak edukia partekatu nahi du zurekin Wi-Fi Direct erabilita. %2$d segundo duzu onartzeko.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">សំណើ​ស្វ័យបំពេញ %d</item>
+        <item quantity="one">សំណើ​ស្វ័យបំពេញ​មួយ</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">មិន​អាច​បង្ហាញ​កម្មវិធី​លើសពី %d លើ​អេក្រង់ ក្នុង​ពេល​តែមួយ។ បាន​បង្រួម​កម្មវិធី​ចាស់​បំផុត។</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">កម្មវិធី %d នឹង​ប្រើ​ទិន្នន័យ​ចល័ត សូម្បី​នៅពេល​ទូរសព្ទ​របស់​អ្នក​បាន​ភ្ជាប់​ទៅ Wi-Fi ក៏​ដោយ។</item>
+        <item quantity="one">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_tap_here">
+        <item quantity="other">ប៉ះ​ទីនេះ ដើម្បី​គ្រប់គ្រង​កម្មវិធី​ទាំងនេះ។</item>
+        <item quantity="zero">ប៉ះ​ទីនេះ ដើម្បី​គ្រប់គ្រង​កម្មវិធី​ទាំងនេះ។</item>
+        <item quantity="one">ប៉ះ​ទីនេះ ដើម្បី​គ្រប់គ្រង​កម្មវិធី​នេះ។</item>
+    </plurals>
+    <plurals name="wifi_p2p_incoming_request_confirmation">
+        <item quantity="other">%1$s ចង់​ចែករំលែក​អ្វី​មួយ​ជាមួយ​អ្នក​ដោយ​ប្រើ Wi-Fi Direct។ អ្នក​មាន %2$d វិនាទី​ដើម្បី​ទទួល។</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>
