@@ -1,14 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-C:/Users/Peter/Desktop/LeoRom/* filter=lfs diff=lfs merge=lfs -text
-c:/users/peter/desktop/leorom/ROM/* filter=lfs diff=lfs merge=lfs -text
-c:/users/peter/desktop/leorom/S10/* filter=lfs diff=lfs merge=lfs -text
-c:/users/peter/desktop/leorom/backups/* filter=lfs diff=lfs merge=lfs -text
-c:/users/peter/desktop/leorom/backups/** filter=lfs diff=lfs merge=lfs -text
-c:/users/peter/desktop/leorom/S10/** filter=lfs diff=lfs merge=lfs -text
-c:/users/peter/desktop/leorom/ROM/** filter=lfs diff=lfs merge=lfs -text
-c:/users/peter/desktop/leorom/backups/twrp/S10/* filter=lfs diff=lfs merge=lfs -text
-'c:/users/peter/desktop/leorom/ROM/**' filter=lfs diff=lfs merge=lfs -text
-'c:/users/peter/desktop/leorom/backups/twrp/S10/*' filter=lfs diff=lfs merge=lfs -text
-c:/users/peter/desktop/leorom/backups/twrp/S10/* filter=lfs diff=lfs merge=lfs -text
 .tar filter=lfs diff=lfs merge=lfs -text
+.zip filter=lfs diff=lfs merge=lfs -text
